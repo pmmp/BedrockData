@@ -3,17 +3,272 @@
         "type": 1,
         "output": [
             {
-                "id": 328
+                "id": 5,
+                "count": 4
             }
         ],
         "shape": [
-            "A A",
+            "A"
+        ],
+        "input": {
+            "A": {
+                "id": -10,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 174
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
             "AAA"
         ],
         "input": {
             "A": {
-                "id": 265,
+                "id": 79,
                 "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 159,
+                "damage": 1,
+                "count": 8
+            }
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 172,
+                "damage": -1
+            },
+            "B": {
+                "id": 351,
+                "damage": 14
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 160,
+                "damage": 1,
+                "count": 16
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 241,
+                "damage": 1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 241,
+                "damage": 1,
+                "count": 8
+            }
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 20,
+                "damage": -1
+            },
+            "B": {
+                "id": 351,
+                "damage": 14
+            }
+        }
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 351,
+                "damage": 1
+            },
+            {
+                "id": 351,
+                "damage": 11
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 14,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 38,
+                "damage": 5
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 14
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 351,
+                "damage": 14
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            }
+        ],
+        "output": [
+            {
+                "id": 237,
+                "damage": 1,
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 171,
+                "damage": 1,
+                "count": 3
+            }
+        ],
+        "shape": [
+            "AA"
+        ],
+        "input": {
+            "A": {
+                "id": 35,
+                "damage": 1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 446,
+                "damage": 14
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "input": {
+            "A": {
+                "id": 35,
+                "damage": 1
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 251
+            }
+        ],
+        "shape": [
+            "AAA",
+            "BBC",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 4,
+                "damage": -1
+            },
+            "B": {
+                "id": 331,
+                "damage": -1
+            },
+            "C": {
+                "id": 406,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 158,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 5
             }
         }
     },
@@ -40,16 +295,16 @@
         "type": 1,
         "output": [
             {
-                "id": 5,
-                "count": 4
+                "id": 339,
+                "count": 3
             }
         ],
         "shape": [
-            "A"
+            "AAA"
         ],
         "input": {
             "A": {
-                "id": -10,
+                "id": 338,
                 "damage": -1
             }
         }
@@ -94,6 +349,26 @@
         "type": 1,
         "output": [
             {
+                "id": 139,
+                "damage": 9,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 112,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
                 "id": 114,
                 "count": 4
             }
@@ -119,12 +394,16 @@
             }
         ],
         "shape": [
-            "AAA",
-            "AAA"
+            "ABA",
+            "ABA"
         ],
         "input": {
             "A": {
                 "id": 112,
+                "damage": -1
+            },
+            "B": {
+                "id": 405,
                 "damage": -1
             }
         }
@@ -192,6 +471,46 @@
         "output": [
             {
                 "id": 139,
+                "damage": 8,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 98,
+                "damage": 1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -175,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 98,
+                "damage": 1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 139,
                 "damage": 1,
                 "count": 6
             }
@@ -204,6 +523,282 @@
             "A": {
                 "id": 48,
                 "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -179,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 48,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -174,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 6
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 361,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A"
+        ],
+        "input": {
+            "A": {
+                "id": 86,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 86,
+                "damage": -1
+            },
+            {
+                "id": 353,
+                "damage": -1
+            },
+            {
+                "id": 344,
+                "damage": -1
+            }
+        ],
+        "output": [
+            {
+                "id": 400
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 139,
+                "damage": 11,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 168
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -3,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 168,
+                "damage": 1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -4,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 168,
+                "damage": 2
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -2,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 168
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 168,
+                "damage": 2
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 409,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 168
+            }
+        ],
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "input": {
+            "A": {
+                "id": 409,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -172,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 2
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 1,
+                "damage": 2,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -173,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 4
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 1,
+                "damage": 4,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 3
             }
         }
     },
@@ -229,97 +824,9 @@
         "type": 1,
         "output": [
             {
-                "id": 158,
-                "count": 6
-            }
-        ],
-        "shape": [
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 5
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 362
-            }
-        ],
-        "shape": [
-            "A"
-        ],
-        "input": {
-            "A": {
-                "id": 360,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 103
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 360,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 395
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 339,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 377,
-                "damage": -1
-            },
-            {
-                "id": 341,
-                "damage": -1
-            }
-        ],
-        "output": [
-            {
-                "id": 378
-            }
-        ]
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 213
+                "id": 1,
+                "damage": 6,
+                "count": 4
             }
         ],
         "shape": [
@@ -328,175 +835,8 @@
         ],
         "input": {
             "A": {
-                "id": 378,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 159,
-                "damage": 2,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 172,
-                "damage": -1
-            },
-            "B": {
-                "id": 351,
-                "damage": 13
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 160,
-                "damage": 2,
-                "count": 16
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 241,
-                "damage": 2
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 241,
-                "damage": 2,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 20,
-                "damage": -1
-            },
-            "B": {
-                "id": 351,
-                "damage": 13
-            }
-        }
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 175,
-                "damage": 1
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 13,
-                "count": 2
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 13
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            }
-        ],
-        "output": [
-            {
-                "id": 237,
-                "damage": 2,
-                "count": 8
-            }
-        ]
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 171,
-                "damage": 2,
-                "count": 3
-            }
-        ],
-        "shape": [
-            "AA"
-        ],
-        "input": {
-            "A": {
-                "id": 35,
-                "damage": 2
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 339,
-                "count": 3
-            }
-        ],
-        "shape": [
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 338,
-                "damage": -1
+                "id": 1,
+                "damage": 5
             }
         }
     },
@@ -751,147 +1091,33 @@
         "type": 1,
         "output": [
             {
-                "id": 446,
-                "damage": 13
+                "id": 300
             }
         ],
         "shape": [
             "AAA",
-            "AAA",
-            " B "
+            "A A",
+            "A A"
         ],
         "input": {
             "A": {
-                "id": 35,
-                "damage": 2
-            },
-            "B": {
-                "id": 280,
+                "id": 334,
                 "damage": -1
             }
         }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 174
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 79,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 159,
-                "damage": 1,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 172,
-                "damage": -1
-            },
-            "B": {
-                "id": 351,
-                "damage": 14
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 160,
-                "damage": 1,
-                "count": 16
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 241,
-                "damage": 1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 241,
-                "damage": 1,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 20,
-                "damage": -1
-            },
-            "B": {
-                "id": 351,
-                "damage": 14
-            }
-        }
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 1
-            },
-            {
-                "id": 351,
-                "damage": 11
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 14,
-                "count": 2
-            }
-        ]
     },
     {
         "type": 0,
         "input": [
             {
                 "id": 38,
-                "damage": 5
+                "damage": 6
             }
         ],
         "output": [
             {
                 "id": 351,
-                "damage": 14
+                "damage": 7
             }
         ]
     },
@@ -900,7 +1126,7 @@
         "input": [
             {
                 "id": 351,
-                "damage": 14
+                "damage": 7
             },
             {
                 "id": 12
@@ -934,7 +1160,7 @@
         "output": [
             {
                 "id": 237,
-                "damage": 1,
+                "damage": 8,
                 "count": 8
             }
         ]
@@ -944,7 +1170,7 @@
         "output": [
             {
                 "id": 171,
-                "damage": 1,
+                "damage": 8,
                 "count": 3
             }
         ],
@@ -954,7 +1180,7 @@
         "input": {
             "A": {
                 "id": 35,
-                "damage": 1
+                "damage": 8
             }
         }
     },
@@ -963,7 +1189,7 @@
         "output": [
             {
                 "id": 446,
-                "damage": 14
+                "damage": 7
             }
         ],
         "shape": [
@@ -974,7 +1200,7 @@
         "input": {
             "A": {
                 "id": 35,
-                "damage": 1
+                "damage": 8
             },
             "B": {
                 "id": 280,
@@ -986,26 +1212,24 @@
         "type": 1,
         "output": [
             {
-                "id": 251
+                "id": 159,
+                "damage": 3,
+                "count": 8
             }
         ],
         "shape": [
             "AAA",
-            "BBC",
+            "ABA",
             "AAA"
         ],
         "input": {
             "A": {
-                "id": 4,
+                "id": 172,
                 "damage": -1
             },
             "B": {
-                "id": 331,
-                "damage": -1
-            },
-            "C": {
-                "id": 406,
-                "damage": -1
+                "id": 351,
+                "damage": 12
             }
         }
     },
@@ -1013,22 +1237,122 @@
         "type": 1,
         "output": [
             {
-                "id": 333,
-                "damage": 4
+                "id": 160,
+                "damage": 3,
+                "count": 16
             }
         ],
         "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 241,
+                "damage": 3
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 241,
+                "damage": 3,
+                "count": 8
+            }
+        ],
+        "shape": [
+            "AAA",
             "ABA",
             "AAA"
         ],
         "input": {
             "A": {
-                "id": 5,
-                "damage": 4
+                "id": 20,
+                "damage": -1
             },
             "B": {
-                "id": 269,
+                "id": 351,
+                "damage": 12
+            }
+        }
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 38,
+                "damage": 1
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 12
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 351,
+                "damage": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 13,
                 "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            }
+        ],
+        "output": [
+            {
+                "id": 237,
+                "damage": 3,
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 171,
+                "damage": 3,
+                "count": 3
+            }
+        ],
+        "shape": [
+            "AA"
+        ],
+        "input": {
+            "A": {
+                "id": 35,
+                "damage": 3
             }
         }
     },
@@ -1082,18 +1406,24 @@
         "type": 1,
         "output": [
             {
-                "id": 300
+                "id": 241,
+                "damage": 8,
+                "count": 8
             }
         ],
         "shape": [
             "AAA",
-            "A A",
-            "A A"
+            "ABA",
+            "AAA"
         ],
         "input": {
             "A": {
-                "id": 334,
+                "id": 20,
                 "damage": -1
+            },
+            "B": {
+                "id": 351,
+                "damage": 7
             }
         }
     },
@@ -1101,17 +1431,21 @@
         "type": 1,
         "output": [
             {
-                "id": 416
+                "id": 333,
+                "damage": 4
             }
         ],
         "shape": [
-            "A A",
-            "AAA",
-            "A A"
+            "ABA",
+            "AAA"
         ],
         "input": {
             "A": {
-                "id": 334,
+                "id": 5,
+                "damage": 4
+            },
+            "B": {
+                "id": 269,
                 "damage": -1
             }
         }
@@ -1255,18 +1589,19 @@
         "type": 1,
         "output": [
             {
-                "id": 171,
-                "damage": 3,
+                "id": 65,
                 "count": 3
             }
         ],
         "shape": [
-            "AA"
+            "A A",
+            "AAA",
+            "A A"
         ],
         "input": {
             "A": {
-                "id": 35,
-                "damage": 3
+                "id": 280,
+                "damage": -1
             }
         }
     },
@@ -1332,9 +1667,49 @@
         "type": 1,
         "output": [
             {
-                "id": 5,
-                "damage": 3,
-                "count": 4
+                "id": 446,
+                "damage": 13
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "input": {
+            "A": {
+                "id": 35,
+                "damage": 2
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 328
+            }
+        ],
+        "shape": [
+            "A A",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 265,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 362
             }
         ],
         "shape": [
@@ -1342,53 +1717,7 @@
         ],
         "input": {
             "A": {
-                "id": 17,
-                "damage": 3
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 185
-            }
-        ],
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "input": {
-            "A": {
-                "id": 280,
-                "damage": -1
-            },
-            "B": {
-                "id": 5,
-                "damage": 3
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 85,
-                "damage": 3,
-                "count": 3
-            }
-        ],
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "input": {
-            "A": {
-                "id": 5,
-                "damage": 3
-            },
-            "B": {
-                "id": 280,
+                "id": 360,
                 "damage": -1
             }
         }
@@ -1397,41 +1726,72 @@
         "type": 1,
         "output": [
             {
-                "id": 429,
-                "count": 3
+                "id": 103
             }
         ],
         "shape": [
-            "AA",
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 360,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 395
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 339,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 377,
+                "damage": -1
+            },
+            {
+                "id": 341,
+                "damage": -1
+            }
+        ],
+        "output": [
+            {
+                "id": 378
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 213
+            }
+        ],
+        "shape": [
             "AA",
             "AA"
         ],
         "input": {
             "A": {
-                "id": 5,
-                "damage": 3
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 333,
-                "damage": 3
-            }
-        ],
-        "shape": [
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 5,
-                "damage": 3
-            },
-            "B": {
-                "id": 269,
+                "id": 378,
                 "damage": -1
             }
         }
@@ -1440,7 +1800,9 @@
         "type": 1,
         "output": [
             {
-                "id": 389
+                "id": 159,
+                "damage": 2,
+                "count": 8
             }
         ],
         "shape": [
@@ -1450,53 +1812,12 @@
         ],
         "input": {
             "A": {
-                "id": 280,
+                "id": 172,
                 "damage": -1
             },
             "B": {
-                "id": 334,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 167
-            }
-        ],
-        "shape": [
-            "AA",
-            "AA"
-        ],
-        "input": {
-            "A": {
-                "id": 265,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 267
-            }
-        ],
-        "shape": [
-            "A",
-            "A",
-            "B"
-        ],
-        "input": {
-            "A": {
-                "id": 265,
-                "damage": -1
-            },
-            "B": {
-                "id": 280,
-                "damage": -1
+                "id": 351,
+                "damage": 13
             }
         }
     },
@@ -1505,7 +1826,7 @@
         "output": [
             {
                 "id": 160,
-                "damage": 8,
+                "damage": 2,
                 "count": 16
             }
         ],
@@ -1516,7 +1837,135 @@
         "input": {
             "A": {
                 "id": 241,
-                "damage": 8
+                "damage": 2
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 241,
+                "damage": 2,
+                "count": 8
+            }
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 20,
+                "damage": -1
+            },
+            "B": {
+                "id": 351,
+                "damage": 13
+            }
+        }
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 175,
+                "damage": 1
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 13,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 351,
+                "damage": 13
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            }
+        ],
+        "output": [
+            {
+                "id": 237,
+                "damage": 2,
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 171,
+                "damage": 2,
+                "count": 3
+            }
+        ],
+        "shape": [
+            "AA"
+        ],
+        "input": {
+            "A": {
+                "id": 35,
+                "damage": 2
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 446,
+                "damage": 5
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "input": {
+            "A": {
+                "id": 35,
+                "damage": 10
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
             }
         }
     },
@@ -1789,180 +2238,8 @@
         "type": 1,
         "output": [
             {
-                "id": 1,
-                "damage": 6,
-                "count": 4
-            }
-        ],
-        "shape": [
-            "AA",
-            "AA"
-        ],
-        "input": {
-            "A": {
-                "id": 1,
-                "damage": 5
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 241,
-                "damage": 8,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 20,
-                "damage": -1
-            },
-            "B": {
-                "id": 351,
-                "damage": 7
-            }
-        }
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 38,
-                "damage": 6
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 7
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 7
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            }
-        ],
-        "output": [
-            {
-                "id": 237,
-                "damage": 8,
-                "count": 8
-            }
-        ]
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 171,
-                "damage": 8,
-                "count": 3
-            }
-        ],
-        "shape": [
-            "AA"
-        ],
-        "input": {
-            "A": {
-                "id": 35,
-                "damage": 8
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 446,
-                "damage": 7
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "input": {
-            "A": {
-                "id": 35,
-                "damage": 8
-            },
-            "B": {
-                "id": 280,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 159,
-                "damage": 3,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 172,
-                "damage": -1
-            },
-            "B": {
-                "id": 351,
-                "damage": 12
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
                 "id": 160,
-                "damage": 3,
+                "damage": 8,
                 "count": 16
             }
         ],
@@ -1973,7 +2250,7 @@
         "input": {
             "A": {
                 "id": 241,
-                "damage": 3
+                "damage": 8
             }
         }
     },
@@ -1981,91 +2258,26 @@
         "type": 1,
         "output": [
             {
-                "id": 241,
-                "damage": 3,
-                "count": 8
+                "id": 5,
+                "damage": 1,
+                "count": 4
             }
         ],
         "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
+            "A"
         ],
         "input": {
             "A": {
-                "id": 20,
+                "id": -5,
                 "damage": -1
-            },
-            "B": {
-                "id": 351,
-                "damage": 12
             }
         }
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 38,
-                "damage": 1
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 12
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            }
-        ],
-        "output": [
-            {
-                "id": 237,
-                "damage": 3,
-                "count": 8
-            }
-        ]
     },
     {
         "type": 1,
         "output": [
             {
-                "id": 134,
+                "id": -180,
                 "count": 4
             }
         ],
@@ -2073,72 +2285,10 @@
             "A  ",
             "AA ",
             "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 5,
-                "damage": 1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 98,
-                "count": 4
-            }
-        ],
-        "shape": [
-            "AA",
-            "AA"
         ],
         "input": {
             "A": {
                 "id": 1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 272
-            }
-        ],
-        "shape": [
-            "A",
-            "A",
-            "B"
-        ],
-        "input": {
-            "A": {
-                "id": 4,
-                "damage": -1
-            },
-            "B": {
-                "id": 280,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 67,
-                "count": 4
-            }
-        ],
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 4,
-                "damage": -1
             }
         }
     },
@@ -2248,6 +2398,44 @@
         "type": 1,
         "output": [
             {
+                "id": 139,
+                "damage": 7,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 98
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 109,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 98
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
                 "id": 275
             }
         ],
@@ -2313,17 +2501,19 @@
         "type": 1,
         "output": [
             {
-                "id": 35
+                "id": 134,
+                "count": 4
             }
         ],
         "shape": [
-            "AA",
-            "AA"
+            "A  ",
+            "AA ",
+            "AAA"
         ],
         "input": {
             "A": {
-                "id": 287,
-                "damage": -1
+                "id": 5,
+                "damage": 1
             }
         }
     },
@@ -2331,17 +2521,21 @@
         "type": 1,
         "output": [
             {
-                "id": 5,
-                "damage": 1,
-                "count": 4
+                "id": 272
             }
         ],
         "shape": [
-            "A"
+            "A",
+            "A",
+            "B"
         ],
         "input": {
             "A": {
-                "id": -5,
+                "id": 4,
+                "damage": -1
+            },
+            "B": {
+                "id": 280,
                 "damage": -1
             }
         }
@@ -2517,6 +2711,26 @@
         "type": 1,
         "output": [
             {
+                "id": -177,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 24,
+                "damage": 3
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
                 "id": 24,
                 "damage": 2,
                 "count": 4
@@ -2529,6 +2743,26 @@
         "input": {
             "A": {
                 "id": 24
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -176,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 179,
+                "damage": 3
             }
         }
     },
@@ -2555,17 +2789,23 @@
         "type": 1,
         "output": [
             {
-                "id": 160,
-                "count": 16
+                "id": 241,
+                "count": 8
             }
         ],
         "shape": [
             "AAA",
+            "ABA",
             "AAA"
         ],
         "input": {
             "A": {
-                "id": 241
+                "id": 20,
+                "damage": -1
+            },
+            "B": {
+                "id": 351,
+                "damage": 19
             }
         }
     },
@@ -2823,17 +3063,17 @@
         "type": 1,
         "output": [
             {
-                "id": 341,
-                "count": 9
+                "id": 160,
+                "count": 16
             }
         ],
         "shape": [
-            "A"
+            "AAA",
+            "AAA"
         ],
         "input": {
             "A": {
-                "id": 165,
-                "damage": -1
+                "id": 241
             }
         }
     },
@@ -2841,25 +3081,36 @@
         "type": 1,
         "output": [
             {
-                "id": 241,
-                "count": 8
+                "id": -185,
+                "count": 4
             }
         ],
         "shape": [
-            "AAA",
-            "ABA",
+            "A  ",
+            "AA ",
             "AAA"
         ],
         "input": {
             "A": {
-                "id": 20,
-                "damage": -1
-            },
-            "B": {
+                "id": 155,
+                "damage": 3
+            }
+        }
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 38,
+                "damage": 10
+            }
+        ],
+        "output": [
+            {
                 "id": 351,
                 "damage": 19
             }
-        }
+        ]
     },
     {
         "type": 0,
@@ -3055,18 +3306,35 @@
         "type": 1,
         "output": [
             {
-                "id": 171,
-                "damage": 10,
-                "count": 3
+                "id": 35
             }
         ],
         "shape": [
+            "AA",
             "AA"
         ],
         "input": {
             "A": {
-                "id": 35,
-                "damage": 10
+                "id": 287,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 98,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "input": {
+            "A": {
+                "id": 1
             }
         }
     },
@@ -3091,6 +3359,271 @@
             "B": {
                 "id": 280,
                 "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 180,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 179
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 179
+            }
+        ],
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "input": {
+            "A": {
+                "id": 12,
+                "damage": 1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 139,
+                "damage": 13,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 215,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -184,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 215,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 215
+            }
+        ],
+        "shape": [
+            "AB",
+            "BA"
+        ],
+        "input": {
+            "A": {
+                "id": 405,
+                "damage": -1
+            },
+            "B": {
+                "id": 372,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 38,
+                "damage": 4
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 1
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 175,
+                "damage": 4
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 1,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 38
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 1
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 457,
+                "damage": -1
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 1
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 351,
+                "damage": 1
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            }
+        ],
+        "output": [
+            {
+                "id": 237,
+                "damage": 14,
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 171,
+                "damage": 14,
+                "count": 3
+            }
+        ],
+        "shape": [
+            "AA"
+        ],
+        "input": {
+            "A": {
+                "id": 35,
+                "damage": 14
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 446,
+                "damage": 1
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "input": {
+            "A": {
+                "id": 35,
+                "damage": 14
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 139,
+                "damage": 12,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 179
             }
         }
     },
@@ -3161,6 +3694,25 @@
             "E": {
                 "id": 281,
                 "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 156,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 155
             }
         }
     },
@@ -3359,46 +3911,41 @@
         "type": 1,
         "output": [
             {
-                "id": 446,
-                "damage": 1
+                "id": 171,
+                "damage": 10,
+                "count": 3
             }
         ],
         "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "input": {
-            "A": {
-                "id": 35,
-                "damage": 14
-            },
-            "B": {
-                "id": 280,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 446,
-                "damage": 5
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
+            "AA"
         ],
         "input": {
             "A": {
                 "id": 35,
                 "damage": 10
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -165,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "ABA",
+            "A A",
+            "A A"
+        ],
+        "input": {
+            "A": {
+                "id": -163,
+                "damage": -1
             },
             "B": {
-                "id": 280,
+                "id": 287,
                 "damage": -1
             }
         }
@@ -3407,8 +3954,29 @@
         "type": 1,
         "output": [
             {
-                "id": 361,
-                "count": 4
+                "id": -202
+            }
+        ],
+        "shape": [
+            "AB "
+        ],
+        "input": {
+            "A": {
+                "id": 58,
+                "damage": -1
+            },
+            "B": {
+                "id": 4,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 341,
+                "count": 9
             }
         ],
         "shape": [
@@ -3416,192 +3984,8 @@
         ],
         "input": {
             "A": {
-                "id": 86,
+                "id": 165,
                 "damage": -1
-            }
-        }
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 86,
-                "damage": -1
-            },
-            {
-                "id": 353,
-                "damage": -1
-            },
-            {
-                "id": 344,
-                "damage": -1
-            }
-        ],
-        "output": [
-            {
-                "id": 400
-            }
-        ]
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": -3,
-                "count": 4
-            }
-        ],
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 168,
-                "damage": 1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": -4,
-                "count": 4
-            }
-        ],
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 168,
-                "damage": 2
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": -2,
-                "count": 4
-            }
-        ],
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 168
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 168,
-                "damage": 2
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 409,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 168
-            }
-        ],
-        "shape": [
-            "AA",
-            "AA"
-        ],
-        "input": {
-            "A": {
-                "id": 409,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 1,
-                "damage": 2,
-                "count": 4
-            }
-        ],
-        "shape": [
-            "AA",
-            "AA"
-        ],
-        "input": {
-            "A": {
-                "id": 1,
-                "damage": 1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 1,
-                "damage": 4,
-                "count": 4
-            }
-        ],
-        "shape": [
-            "AA",
-            "AA"
-        ],
-        "input": {
-            "A": {
-                "id": 1,
-                "damage": 3
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 159,
-                "damage": 14,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 172,
-                "damage": -1
-            },
-            "B": {
-                "id": 351,
-                "damage": 1
             }
         }
     },
@@ -3620,6 +4004,149 @@
         "input": {
             "A": {
                 "id": 341,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 472,
+                "count": 3
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "input": {
+            "A": {
+                "id": 5,
+                "damage": 1
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 323,
+                "count": 3
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "input": {
+            "A": {
+                "id": 5
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 474,
+                "count": 3
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "input": {
+            "A": {
+                "id": 5,
+                "damage": 3
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 476,
+                "count": 3
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "input": {
+            "A": {
+                "id": 5,
+                "damage": 5
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 473,
+                "count": 3
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "input": {
+            "A": {
+                "id": 5,
+                "damage": 2
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 475,
+                "count": 3
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "input": {
+            "A": {
+                "id": 5,
+                "damage": 4
+            },
+            "B": {
+                "id": 280,
                 "damage": -1
             }
         }
@@ -3692,23 +4219,56 @@
         "type": 1,
         "output": [
             {
-                "id": -165,
-                "count": 6
+                "id": 416
             }
         ],
         "shape": [
-            "ABA",
             "A A",
+            "AAA",
             "A A"
         ],
         "input": {
             "A": {
-                "id": -163,
+                "id": 334,
                 "damage": -1
-            },
-            "B": {
-                "id": 287,
-                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 139,
+                "damage": 5,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 24
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 128,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 24
             }
         }
     },
@@ -3840,19 +4400,24 @@
         "type": 1,
         "output": [
             {
-                "id": 65,
-                "count": 3
+                "id": 159,
+                "damage": 14,
+                "count": 8
             }
         ],
         "shape": [
-            "A A",
             "AAA",
-            "A A"
+            "ABA",
+            "AAA"
         ],
         "input": {
             "A": {
-                "id": 280,
+                "id": 172,
                 "damage": -1
+            },
+            "B": {
+                "id": 351,
+                "damage": 1
             }
         }
     },
@@ -3905,38 +4470,16 @@
         "type": 1,
         "output": [
             {
-                "id": 179
+                "id": 263,
+                "count": 9
             }
         ],
         "shape": [
-            "AA",
-            "AA"
+            "A"
         ],
         "input": {
             "A": {
-                "id": 12,
-                "damage": 1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 215
-            }
-        ],
-        "shape": [
-            "AB",
-            "BA"
-        ],
-        "input": {
-            "A": {
-                "id": 405,
-                "damage": -1
-            },
-            "B": {
-                "id": 372,
+                "id": 173,
                 "damage": -1
             }
         }
@@ -3945,68 +4488,8 @@
         "type": 0,
         "input": [
             {
-                "id": 38,
-                "damage": 4
-            }
-        ],
-        "output": [
-            {
                 "id": 351,
-                "damage": 1
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 175,
-                "damage": 4
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 1,
-                "count": 2
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 38
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 1
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 457,
-                "damage": -1
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 1
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 1
+                "damage": 6
             },
             {
                 "id": 12
@@ -4040,7 +4523,7 @@
         "output": [
             {
                 "id": 237,
-                "damage": 14,
+                "damage": 9,
                 "count": 8
             }
         ]
@@ -4050,7 +4533,7 @@
         "output": [
             {
                 "id": 171,
-                "damage": 14,
+                "damage": 9,
                 "count": 3
             }
         ],
@@ -4060,7 +4543,7 @@
         "input": {
             "A": {
                 "id": 35,
-                "damage": 14
+                "damage": 9
             }
         }
     },
@@ -4068,20 +4551,22 @@
         "type": 1,
         "output": [
             {
-                "id": 342
+                "id": 446,
+                "damage": 6
             }
         ],
         "shape": [
-            "A",
-            "B"
+            "AAA",
+            "AAA",
+            " B "
         ],
         "input": {
             "A": {
-                "id": 54,
-                "damage": -1
+                "id": 35,
+                "damage": 9
             },
             "B": {
-                "id": 328,
+                "id": 280,
                 "damage": -1
             }
         }
@@ -4249,6 +4734,26 @@
         "type": 1,
         "output": [
             {
+                "id": 67,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 4,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
                 "id": 3,
                 "damage": 1,
                 "count": 4
@@ -4287,22 +4792,24 @@
         }
     },
     {
-        "type": 1,
+        "type": 0,
+        "input": [
+            {
+                "id": 351,
+                "damage": 18
+            },
+            {
+                "id": 351,
+                "damage": 2
+            }
+        ],
         "output": [
             {
-                "id": 263,
-                "count": 9
+                "id": 351,
+                "damage": 6,
+                "count": 2
             }
-        ],
-        "shape": [
-            "A"
-        ],
-        "input": {
-            "A": {
-                "id": 173,
-                "damage": -1
-            }
-        }
+        ]
     },
     {
         "type": 1,
@@ -4349,22 +4856,20 @@
         "type": 1,
         "output": [
             {
-                "id": 446,
-                "damage": 6
+                "id": 342
             }
         ],
         "shape": [
-            "AAA",
-            "AAA",
-            " B "
+            "A",
+            "B"
         ],
         "input": {
             "A": {
-                "id": 35,
-                "damage": 9
+                "id": 54,
+                "damage": -1
             },
             "B": {
-                "id": 280,
+                "id": 328,
                 "damage": -1
             }
         }
@@ -4615,19 +5120,90 @@
         "type": 1,
         "output": [
             {
-                "id": 446,
-                "damage": 3
+                "id": 28,
+                "count": 6
             }
         ],
         "shape": [
-            "AAA",
-            "AAA",
-            " B "
+            "A A",
+            "ABA",
+            "ACA"
         ],
         "input": {
             "A": {
-                "id": 35,
-                "damage": 12
+                "id": 265,
+                "damage": -1
+            },
+            "B": {
+                "id": 70,
+                "damage": -1
+            },
+            "C": {
+                "id": 331,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -170,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 3
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 1,
+                "damage": 3,
+                "count": 2
+            }
+        ],
+        "shape": [
+            "AB",
+            "BA"
+        ],
+        "input": {
+            "A": {
+                "id": 4,
+                "damage": -1
+            },
+            "B": {
+                "id": 406,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 276
+            }
+        ],
+        "shape": [
+            "A",
+            "A",
+            "B"
+        ],
+        "input": {
+            "A": {
+                "id": 264,
+                "damage": -1
             },
             "B": {
                 "id": 280,
@@ -4639,17 +5215,44 @@
         "type": 1,
         "output": [
             {
-                "id": 5,
-                "damage": 5,
-                "count": 4
+                "id": 277
             }
         ],
         "shape": [
-            "A"
+            "A",
+            "B",
+            "B"
         ],
         "input": {
             "A": {
-                "id": -9,
+                "id": 264,
+                "damage": -1
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 278
+            }
+        ],
+        "shape": [
+            "AAA",
+            " B ",
+            " B "
+        ],
+        "input": {
+            "A": {
+                "id": 264,
+                "damage": -1
+            },
+            "B": {
+                "id": 280,
                 "damage": -1
             }
         }
@@ -4700,17 +5303,18 @@
         "type": 1,
         "output": [
             {
-                "id": 310
+                "id": 5,
+                "damage": 3,
+                "count": 4
             }
         ],
         "shape": [
-            "AAA",
-            "A A"
+            "A"
         ],
         "input": {
             "A": {
-                "id": 264,
-                "damage": -1
+                "id": 17,
+                "damage": 3
             }
         }
     },
@@ -4797,21 +5401,16 @@
         "type": 1,
         "output": [
             {
-                "id": 256
+                "id": 264,
+                "count": 9
             }
         ],
         "shape": [
-            "A",
-            "B",
-            "B"
+            "A"
         ],
         "input": {
             "A": {
-                "id": 265,
-                "damage": -1
-            },
-            "B": {
-                "id": 280,
+                "id": 57,
                 "damage": -1
             }
         }
@@ -4820,26 +5419,22 @@
         "type": 1,
         "output": [
             {
-                "id": 28,
-                "count": 6
+                "id": 446,
+                "damage": 3
             }
         ],
         "shape": [
-            "A A",
-            "ABA",
-            "ACA"
+            "AAA",
+            "AAA",
+            " B "
         ],
         "input": {
             "A": {
-                "id": 265,
-                "damage": -1
+                "id": 35,
+                "damage": 12
             },
             "B": {
-                "id": 70,
-                "damage": -1
-            },
-            "C": {
-                "id": 331,
+                "id": 280,
                 "damage": -1
             }
         }
@@ -4911,18 +5506,17 @@
         "type": 1,
         "output": [
             {
-                "id": 108,
+                "id": 5,
+                "damage": 5,
                 "count": 4
             }
         ],
         "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
+            "A"
         ],
         "input": {
             "A": {
-                "id": 45,
+                "id": -9,
                 "damage": -1
             }
         }
@@ -5106,113 +5700,24 @@
         }
     },
     {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 18
-            },
-            {
-                "id": 351,
-                "damage": 2
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 6,
-                "count": 2
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 6
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            }
-        ],
-        "output": [
-            {
-                "id": 237,
-                "damage": 9,
-                "count": 8
-            }
-        ]
-    },
-    {
         "type": 1,
         "output": [
             {
-                "id": 171,
-                "damage": 9,
-                "count": 3
+                "id": 425
             }
         ],
         "shape": [
-            "AA"
+            "AAA",
+            " A ",
+            "ABA"
         ],
         "input": {
             "A": {
-                "id": 35,
-                "damage": 9
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 262,
-                "count": 4
-            }
-        ],
-        "shape": [
-            "A",
-            "B",
-            "C"
-        ],
-        "input": {
-            "A": {
-                "id": 318,
-                "damage": -1
-            },
-            "B": {
                 "id": 280,
                 "damage": -1
             },
-            "C": {
-                "id": 288,
-                "damage": -1
+            "B": {
+                "id": 44
             }
         }
     },
@@ -5478,6 +5983,34 @@
         "type": 1,
         "output": [
             {
+                "id": 262,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A",
+            "B",
+            "C"
+        ],
+        "input": {
+            "A": {
+                "id": 318,
+                "damage": -1
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            },
+            "C": {
+                "id": 288,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
                 "id": 171,
                 "damage": 15,
                 "count": 3
@@ -5490,28 +6023,6 @@
             "A": {
                 "id": 35,
                 "damage": 15
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 425
-            }
-        ],
-        "shape": [
-            "AAA",
-            " A ",
-            "ABA"
-        ],
-        "input": {
-            "A": {
-                "id": 280,
-                "damage": -1
-            },
-            "B": {
-                "id": 44
             }
         }
     },
@@ -5535,6 +6046,46 @@
             "B": {
                 "id": 265,
                 "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 139,
+                "damage": 4,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 5
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -171,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 5
             }
         }
     },
@@ -5750,6 +6301,46 @@
             "B": {
                 "id": 351,
                 "damage": 18
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 139,
+                "damage": 6,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 45,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 108,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 45,
+                "damage": -1
             }
         }
     },
@@ -5976,16 +6567,16 @@
         "type": 1,
         "output": [
             {
-                "id": 264,
-                "count": 9
+                "id": 310
             }
         ],
         "shape": [
-            "A"
+            "AAA",
+            "A A"
         ],
         "input": {
             "A": {
-                "id": 57,
+                "id": 264,
                 "damage": -1
             }
         }
@@ -6015,6 +6606,21 @@
             {
                 "id": 351,
                 "damage": 4
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 18
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 38,
+                "damage": 9
             }
         ],
         "output": [
@@ -6258,24 +6864,194 @@
         "type": 1,
         "output": [
             {
-                "id": 283
+                "id": 160,
+                "damage": 7,
+                "count": 16
             }
         ],
         "shape": [
-            "A",
-            "A",
-            "B"
+            "AAA",
+            "AAA"
         ],
         "input": {
             "A": {
-                "id": 266,
+                "id": 241,
+                "damage": 7
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 410
+            }
+        ],
+        "shape": [
+            "A A",
+            "ABA",
+            " A "
+        ],
+        "input": {
+            "A": {
+                "id": 265,
                 "damage": -1
             },
             "B": {
-                "id": 280,
+                "id": 54,
                 "damage": -1
             }
         }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 148
+            }
+        ],
+        "shape": [
+            "AA"
+        ],
+        "input": {
+            "A": {
+                "id": 265,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 170
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 296,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 159,
+                "damage": 13,
+                "count": 8
+            }
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 172,
+                "damage": -1
+            },
+            "B": {
+                "id": 351,
+                "damage": 2
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 160,
+                "damage": 13,
+                "count": 16
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 241,
+                "damage": 13
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 241,
+                "damage": 13,
+                "count": 8
+            }
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 20,
+                "damage": -1
+            },
+            "B": {
+                "id": 351,
+                "damage": 2
+            }
+        }
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 351,
+                "damage": 2
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            },
+            {
+                "id": 13,
+                "damage": -1
+            }
+        ],
+        "output": [
+            {
+                "id": 237,
+                "damage": 13,
+                "count": 8
+            }
+        ]
     },
     {
         "type": 1,
@@ -6349,19 +7125,21 @@
         "type": 1,
         "output": [
             {
-                "id": 160,
-                "damage": 7,
-                "count": 16
+                "id": 408
             }
         ],
         "shape": [
-            "AAA",
-            "AAA"
+            "A",
+            "B"
         ],
         "input": {
             "A": {
-                "id": 241,
-                "damage": 7
+                "id": 410,
+                "damage": -1
+            },
+            "B": {
+                "id": 328,
+                "damage": -1
             }
         }
     },
@@ -6458,18 +7236,19 @@
         "type": 1,
         "output": [
             {
-                "id": 171,
-                "damage": 7,
-                "count": 3
+                "id": 139,
+                "damage": 3,
+                "count": 6
             }
         ],
         "shape": [
-            "AA"
+            "AAA",
+            "AAA"
         ],
         "input": {
             "A": {
-                "id": 35,
-                "damage": 7
+                "id": 1,
+                "damage": 3
             }
         }
     },
@@ -6498,6 +7277,46 @@
         }
     },
     {
+        "type": 1,
+        "output": [
+            {
+                "id": 139,
+                "damage": 2,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -169,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 1
+            }
+        }
+    },
+    {
         "type": 0,
         "input": [
             {
@@ -6517,111 +7336,16 @@
         ]
     },
     {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 2
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            },
-            {
-                "id": 13,
-                "damage": -1
-            }
-        ],
-        "output": [
-            {
-                "id": 237,
-                "damage": 13,
-                "count": 8
-            }
-        ]
-    },
-    {
         "type": 1,
         "output": [
             {
-                "id": 278
+                "id": 283
             }
         ],
         "shape": [
-            "AAA",
-            " B ",
-            " B "
-        ],
-        "input": {
-            "A": {
-                "id": 264,
-                "damage": -1
-            },
-            "B": {
-                "id": 280,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 27,
-                "count": 6
-            }
-        ],
-        "shape": [
-            "A A",
-            "ABA",
-            "ACA"
-        ],
-        "input": {
-            "A": {
-                "id": 266,
-                "damage": -1
-            },
-            "B": {
-                "id": 280,
-                "damage": -1
-            },
-            "C": {
-                "id": 331,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 285
-            }
-        ],
-        "shape": [
-            "AAA",
-            " B ",
-            " B "
+            "A",
+            "A",
+            "B"
         ],
         "input": {
             "A": {
@@ -6638,160 +7362,216 @@
         "type": 1,
         "output": [
             {
-                "id": 316
+                "id": 284
+            }
+        ],
+        "shape": [
+            "A",
+            "B",
+            "B"
+        ],
+        "input": {
+            "A": {
+                "id": 266,
+                "damage": -1
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 308
             }
         ],
         "shape": [
             "AAA",
             "A A",
             "A A"
-        ],
-        "input": {
-            "A": {
-                "id": 266,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 294
-            }
-        ],
-        "shape": [
-            "AA",
-            " B",
-            " B"
-        ],
-        "input": {
-            "A": {
-                "id": 266,
-                "damage": -1
-            },
-            "B": {
-                "id": 280,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 314
-            }
-        ],
-        "shape": [
-            "AAA",
-            "A A"
-        ],
-        "input": {
-            "A": {
-                "id": 266,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 315
-            }
-        ],
-        "shape": [
-            "A A",
-            "AAA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 266,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 396
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 371,
-                "damage": -1
-            },
-            "B": {
-                "id": 391,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 317
-            }
-        ],
-        "shape": [
-            "A A",
-            "A A"
-        ],
-        "input": {
-            "A": {
-                "id": 266,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 286
-            }
-        ],
-        "shape": [
-            "AA",
-            "AB",
-            " B"
-        ],
-        "input": {
-            "A": {
-                "id": 266,
-                "damage": -1
-            },
-            "B": {
-                "id": 280,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 42
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA",
-            "AAA"
         ],
         "input": {
             "A": {
                 "id": 265,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 185
+            }
+        ],
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "input": {
+            "A": {
+                "id": 280,
+                "damage": -1
+            },
+            "B": {
+                "id": 5,
+                "damage": 3
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 85,
+                "damage": 3,
+                "count": 3
+            }
+        ],
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "input": {
+            "A": {
+                "id": 5,
+                "damage": 3
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 429,
+                "count": 3
+            }
+        ],
+        "shape": [
+            "AA",
+            "AA",
+            "AA"
+        ],
+        "input": {
+            "A": {
+                "id": 5,
+                "damage": 3
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 333,
+                "damage": 3
+            }
+        ],
+        "shape": [
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 5,
+                "damage": 3
+            },
+            "B": {
+                "id": 269,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 389
+            }
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 280,
+                "damage": -1
+            },
+            "B": {
+                "id": 334,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 167
+            }
+        ],
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "input": {
+            "A": {
+                "id": 265,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 267
+            }
+        ],
+        "shape": [
+            "A",
+            "A",
+            "B"
+        ],
+        "input": {
+            "A": {
+                "id": 265,
+                "damage": -1
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 256
+            }
+        ],
+        "shape": [
+            "A",
+            "B",
+            "B"
+        ],
+        "input": {
+            "A": {
+                "id": 265,
+                "damage": -1
+            },
+            "B": {
+                "id": 280,
                 "damage": -1
             }
         }
@@ -6841,18 +7621,18 @@
         "type": 1,
         "output": [
             {
-                "id": 308
+                "id": 171,
+                "damage": 7,
+                "count": 3
             }
         ],
         "shape": [
-            "AAA",
-            "A A",
-            "A A"
+            "AA"
         ],
         "input": {
             "A": {
-                "id": 265,
-                "damage": -1
+                "id": 35,
+                "damage": 7
             }
         }
     },
@@ -6995,21 +7775,17 @@
         "type": 1,
         "output": [
             {
-                "id": 284
+                "id": 42
             }
         ],
         "shape": [
-            "A",
-            "B",
-            "B"
+            "AAA",
+            "AAA",
+            "AAA"
         ],
         "input": {
             "A": {
-                "id": 266,
-                "damage": -1
-            },
-            "B": {
-                "id": 280,
+                "id": 265,
                 "damage": -1
             }
         }
@@ -7060,90 +7836,7 @@
         "type": 1,
         "output": [
             {
-                "id": 408
-            }
-        ],
-        "shape": [
-            "A",
-            "B"
-        ],
-        "input": {
-            "A": {
-                "id": 410,
-                "damage": -1
-            },
-            "B": {
-                "id": 328,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 410
-            }
-        ],
-        "shape": [
-            "A A",
-            "ABA",
-            " A "
-        ],
-        "input": {
-            "A": {
-                "id": 265,
-                "damage": -1
-            },
-            "B": {
-                "id": 54,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 148
-            }
-        ],
-        "shape": [
-            "AA"
-        ],
-        "input": {
-            "A": {
-                "id": 265,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 170
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 296,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 159,
-                "damage": 13,
-                "count": 8
+                "id": 130
             }
         ],
         "shape": [
@@ -7153,83 +7846,30 @@
         ],
         "input": {
             "A": {
-                "id": 172,
-                "damage": -1
-            },
-            "B": {
-                "id": 351,
-                "damage": 2
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 160,
-                "damage": 13,
-                "count": 16
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 241,
-                "damage": 13
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 241,
-                "damage": 13,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 20,
-                "damage": -1
-            },
-            "B": {
-                "id": 351,
-                "damage": 2
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 426
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "ACA"
-        ],
-        "input": {
-            "A": {
-                "id": 20,
+                "id": 49,
                 "damage": -1
             },
             "B": {
                 "id": 381,
                 "damage": -1
-            },
-            "C": {
-                "id": 370,
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 41
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 266,
                 "damage": -1
             }
         }
@@ -7349,6 +7989,26 @@
         "type": 1,
         "output": [
             {
+                "id": -201
+            }
+        ],
+        "shape": [
+            "AB "
+        ],
+        "input": {
+            "A": {
+                "id": 58,
+                "damage": -1
+            },
+            "B": {
+                "id": 262
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
                 "id": 346
             }
         ],
@@ -7455,21 +8115,21 @@
         "type": 1,
         "output": [
             {
-                "id": 130
+                "id": 285
             }
         ],
         "shape": [
             "AAA",
-            "ABA",
-            "AAA"
+            " B ",
+            " B "
         ],
         "input": {
             "A": {
-                "id": 49,
+                "id": 266,
                 "damage": -1
             },
             "B": {
-                "id": 381,
+                "id": 280,
                 "damage": -1
             }
         }
@@ -7501,16 +8161,25 @@
         "type": 1,
         "output": [
             {
-                "id": 371,
-                "count": 9
+                "id": 426
             }
         ],
         "shape": [
-            "A"
+            "AAA",
+            "ABA",
+            "ACA"
         ],
         "input": {
             "A": {
-                "id": 266,
+                "id": 20,
+                "damage": -1
+            },
+            "B": {
+                "id": 381,
+                "damage": -1
+            },
+            "C": {
+                "id": 370,
                 "damage": -1
             }
         }
@@ -7530,6 +8199,46 @@
         "input": {
             "A": {
                 "id": 121,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 139,
+                "damage": 10,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 206,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -178,
+                "count": 4
+            }
+        ],
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 206,
                 "damage": -1
             }
         }
@@ -7709,41 +8418,165 @@
         "type": 1,
         "output": [
             {
-                "id": 1,
-                "damage": 3,
-                "count": 2
+                "id": 317
             }
         ],
         "shape": [
+            "A A",
+            "A A"
+        ],
+        "input": {
+            "A": {
+                "id": 266,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 27,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "A A",
+            "ABA",
+            "ACA"
+        ],
+        "input": {
+            "A": {
+                "id": 266,
+                "damage": -1
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            },
+            "C": {
+                "id": 331,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 316
+            }
+        ],
+        "shape": [
+            "AAA",
+            "A A",
+            "A A"
+        ],
+        "input": {
+            "A": {
+                "id": 266,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 294
+            }
+        ],
+        "shape": [
+            "AA",
+            " B",
+            " B"
+        ],
+        "input": {
+            "A": {
+                "id": 266,
+                "damage": -1
+            },
+            "B": {
+                "id": 280,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 314
+            }
+        ],
+        "shape": [
+            "AAA",
+            "A A"
+        ],
+        "input": {
+            "A": {
+                "id": 266,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 315
+            }
+        ],
+        "shape": [
+            "A A",
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 266,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 396
+            }
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 371,
+                "damage": -1
+            },
+            "B": {
+                "id": 391,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 286
+            }
+        ],
+        "shape": [
+            "AA",
             "AB",
-            "BA"
+            " B"
         ],
         "input": {
             "A": {
-                "id": 4,
-                "damage": -1
-            },
-            "B": {
-                "id": 406,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 276
-            }
-        ],
-        "shape": [
-            "A",
-            "A",
-            "B"
-        ],
-        "input": {
-            "A": {
-                "id": 264,
+                "id": 266,
                 "damage": -1
             },
             "B": {
@@ -7756,21 +8589,35 @@
         "type": 1,
         "output": [
             {
-                "id": 277
+                "id": 266,
+                "count": 9
             }
         ],
         "shape": [
-            "A",
-            "B",
-            "B"
+            "A"
         ],
         "input": {
             "A": {
-                "id": 264,
+                "id": 41,
                 "damage": -1
-            },
-            "B": {
-                "id": 280,
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 266
+            }
+        ],
+        "shape": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 371,
                 "damage": -1
             }
         }
@@ -7802,45 +8649,7 @@
         "type": 1,
         "output": [
             {
-                "id": 41
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 266,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 266
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
                 "id": 371,
-                "damage": -1
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 266,
                 "count": 9
             }
         ],
@@ -7849,58 +8658,65 @@
         ],
         "input": {
             "A": {
-                "id": 41,
+                "id": 266,
                 "damage": -1
             }
         }
     },
     {
-        "type": 1,
-        "output": [
+        "type": 0,
+        "input": [
             {
-                "id": 241,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 20,
-                "damage": -1
+                "id": 351,
+                "damage": 2
             },
-            "B": {
+            {
                 "id": 351,
                 "damage": 15
             }
-        }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 10,
+                "count": 2
+            }
+        ]
     },
     {
-        "type": 1,
+        "type": 0,
+        "input": [
+            {
+                "id": 38,
+                "damage": 8
+            }
+        ],
         "output": [
             {
-                "id": 159,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 172,
-                "damage": -1
-            },
-            "B": {
                 "id": 351,
-                "damage": 15
+                "damage": 7
             }
-        }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 351,
+                "damage": 18
+            },
+            {
+                "id": 351,
+                "damage": 19
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 12,
+                "count": 2
+            }
+        ]
     },
     {
         "type": 0,
@@ -7957,41 +8773,6 @@
             {
                 "id": 351,
                 "damage": 13
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 4
-            },
-            {
-                "id": 351,
-                "damage": 1
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 5,
-                "count": 2
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 38,
-                "damage": 8
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 7
             }
         ]
     },
@@ -8063,51 +8844,34 @@
         ]
     },
     {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 4
-            },
-            {
-                "id": 351,
-                "damage": 2
-            }
-        ],
+        "type": 1,
         "output": [
             {
-                "id": 351,
-                "damage": 6,
-                "count": 2
+                "id": 241,
+                "count": 8
             }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 2
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 20,
+                "damage": -1
             },
-            {
+            "B": {
                 "id": 351,
                 "damage": 15
             }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 10,
-                "count": 2
-            }
-        ]
+        }
     },
     {
         "type": 1,
         "output": [
             {
                 "id": 159,
-                "damage": 11,
                 "count": 8
             }
         ],
@@ -8123,7 +8887,7 @@
             },
             "B": {
                 "id": 351,
-                "damage": 4
+                "damage": 15
             }
         }
     },
@@ -8153,30 +8917,106 @@
         }
     },
     {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 18
-            },
-            {
-                "id": 351,
-                "damage": 19
-            }
-        ],
+        "type": 1,
         "output": [
             {
-                "id": 351,
+                "id": 159,
                 "damage": 12,
-                "count": 2
+                "count": 8
             }
-        ]
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 172,
+                "damage": -1
+            },
+            "B": {
+                "id": 351,
+                "damage": 3
+            }
+        }
     },
     {
         "type": 0,
         "input": [
             {
-                "id": 351
+                "id": 351,
+                "damage": 4
+            },
+            {
+                "id": 351,
+                "damage": 2
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 6,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 241,
+                "damage": 11,
+                "count": 8
+            }
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 20,
+                "damage": -1
+            },
+            "B": {
+                "id": 351,
+                "damage": 4
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 159,
+                "damage": 11,
+                "count": 8
+            }
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 172,
+                "damage": -1
+            },
+            "B": {
+                "id": 351,
+                "damage": 4
+            }
+        }
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 351,
+                "damage": 4
             },
             {
                 "id": 12
@@ -8210,83 +9050,30 @@
         "output": [
             {
                 "id": 237,
-                "damage": 15,
+                "damage": 11,
                 "count": 8
             }
         ]
     },
     {
-        "type": 1,
-        "output": [
+        "type": 0,
+        "input": [
             {
-                "id": 241,
-                "damage": 15,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 20,
-                "damage": -1
-            },
-            "B": {
-                "id": 351
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 159,
-                "damage": 15,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 172,
-                "damage": -1
-            },
-            "B": {
-                "id": 351
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
-                "id": 159,
-                "damage": 12,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 172,
-                "damage": -1
-            },
-            "B": {
                 "id": 351,
-                "damage": 3
+                "damage": 4
+            },
+            {
+                "id": 351,
+                "damage": 1
             }
-        }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 5,
+                "count": 2
+            }
+        ]
     },
     {
         "type": 0,
@@ -8309,36 +9096,10 @@
         ]
     },
     {
-        "type": 1,
-        "output": [
-            {
-                "id": 241,
-                "damage": 11,
-                "count": 8
-            }
-        ],
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "input": {
-            "A": {
-                "id": 20,
-                "damage": -1
-            },
-            "B": {
-                "id": 351,
-                "damage": 4
-            }
-        }
-    },
-    {
         "type": 0,
         "input": [
             {
-                "id": 351,
-                "damage": 4
+                "id": 351
             },
             {
                 "id": 12
@@ -8372,10 +9133,58 @@
         "output": [
             {
                 "id": 237,
-                "damage": 11,
+                "damage": 15,
                 "count": 8
             }
         ]
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 159,
+                "damage": 15,
+                "count": 8
+            }
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 172,
+                "damage": -1
+            },
+            "B": {
+                "id": 351
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 241,
+                "damage": 15,
+                "count": 8
+            }
+        ],
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 20,
+                "damage": -1
+            },
+            "B": {
+                "id": 351
+            }
+        }
     },
     {
         "type": 0,
@@ -8425,21 +9234,6 @@
         "type": 0,
         "input": [
             {
-                "id": 38,
-                "damage": 3
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 7
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
                 "id": 351
             },
             {
@@ -8459,23 +9253,14 @@
         "type": 0,
         "input": [
             {
-                "id": 351,
-                "damage": 16
-            },
-            {
-                "id": 351,
-                "damage": 19
-            },
-            {
-                "id": 351,
-                "damage": 19
+                "id": 38,
+                "damage": 3
             }
         ],
         "output": [
             {
                 "id": 351,
-                "damage": 7,
-                "count": 3
+                "damage": 7
             }
         ]
     },
@@ -8495,25 +9280,6 @@
             {
                 "id": 351,
                 "damage": 12,
-                "count": 2
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 351
-            },
-            {
-                "id": 351,
-                "damage": 15
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 8,
                 "count": 2
             }
         ]
@@ -8543,6 +9309,49 @@
         "input": [
             {
                 "id": 351,
+                "damage": 16
+            },
+            {
+                "id": 351,
+                "damage": 19
+            },
+            {
+                "id": 351,
+                "damage": 19
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 7,
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 351
+            },
+            {
+                "id": 351,
+                "damage": 15
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 8,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 351,
                 "damage": 18
             },
             {
@@ -8706,6 +9515,30 @@
         "input": [
             {
                 "id": 351,
+                "damage": 16
+            },
+            {
+                "id": 351,
+                "damage": 15
+            },
+            {
+                "id": 351,
+                "damage": 15
+            }
+        ],
+        "output": [
+            {
+                "id": 351,
+                "damage": 7,
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "input": [
+            {
+                "id": 351,
                 "damage": 4
             },
             {
@@ -8726,30 +9559,6 @@
                 "id": 351,
                 "damage": 13,
                 "count": 4
-            }
-        ]
-    },
-    {
-        "type": 0,
-        "input": [
-            {
-                "id": 351,
-                "damage": 16
-            },
-            {
-                "id": 351,
-                "damage": 15
-            },
-            {
-                "id": 351,
-                "damage": 15
-            }
-        ],
-        "output": [
-            {
-                "id": 351,
-                "damage": 7,
-                "count": 3
             }
         ]
     },
@@ -26960,29 +27769,6 @@
         "type": 1,
         "output": [
             {
-                "id": 323,
-                "count": 3
-            }
-        ],
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "input": {
-            "A": {
-                "id": 5,
-                "damage": -1
-            },
-            "B": {
-                "id": 280
-            }
-        }
-    },
-    {
-        "type": 1,
-        "output": [
-            {
                 "id": 280
             }
         ],
@@ -27474,7 +28260,8 @@
         "type": 1,
         "output": [
             {
-                "id": 44,
+                "id": -166,
+                "damage": 2,
                 "count": 6
             }
         ],
@@ -27484,6 +28271,42 @@
         "input": {
             "A": {
                 "id": 1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 44,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": -183,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -166,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 98,
+                "damage": 1
             }
         }
     },
@@ -27577,8 +28400,43 @@
         ],
         "input": {
             "A": {
+                "id": 24
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 182,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 179
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 44,
+                "damage": 1,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
                 "id": 24,
-                "damage": -1
+                "damage": 1
             }
         }
     },
@@ -27596,7 +28454,7 @@
         "input": {
             "A": {
                 "id": 179,
-                "damage": -1
+                "damage": 1
             }
         }
     },
@@ -27616,6 +28474,25 @@
             "A": {
                 "id": 201,
                 "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -166,
+                "damage": 1,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 155,
+                "damage": 3
             }
         }
     },
@@ -27698,18 +28575,17 @@
         "type": 1,
         "output": [
             {
-                "id": 109,
-                "count": 4
+                "id": 182,
+                "damage": 5,
+                "count": 6
             }
         ],
         "shape": [
-            "A  ",
-            "AA ",
             "AAA"
         ],
         "input": {
             "A": {
-                "id": 98,
+                "id": 48,
                 "damage": -1
             }
         }
@@ -27718,18 +28594,36 @@
         "type": 1,
         "output": [
             {
-                "id": 128,
-                "count": 4
+                "id": 182,
+                "damage": 6,
+                "count": 6
             }
         ],
         "shape": [
-            "A  ",
-            "AA ",
             "AAA"
         ],
         "input": {
             "A": {
                 "id": 24,
+                "damage": 3
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": 182,
+                "damage": 7,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 215,
                 "damage": -1
             }
         }
@@ -27738,19 +28632,36 @@
         "type": 1,
         "output": [
             {
-                "id": 180,
-                "count": 4
+                "id": -162,
+                "count": 6
             }
         ],
         "shape": [
-            "A  ",
-            "AA ",
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 206,
+                "damage": -1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -162,
+                "damage": 1,
+                "count": 6
+            }
+        ],
+        "shape": [
             "AAA"
         ],
         "input": {
             "A": {
                 "id": 179,
-                "damage": -1
+                "damage": 3
             }
         }
     },
@@ -27758,19 +28669,151 @@
         "type": 1,
         "output": [
             {
-                "id": 156,
-                "count": 4
+                "id": -162,
+                "damage": 2,
+                "count": 6
             }
         ],
         "shape": [
-            "A  ",
-            "AA ",
             "AAA"
         ],
         "input": {
             "A": {
-                "id": 155,
-                "damage": -1
+                "id": 1,
+                "damage": 6
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -162,
+                "damage": 3,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 5
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -162,
+                "damage": 4,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 3
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -162,
+                "damage": 5,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 4
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -162,
+                "damage": 6,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 1
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -162,
+                "damage": 7,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 1,
+                "damage": 2
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -166,
+                "damage": 3,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 24,
+                "damage": 2
+            }
+        }
+    },
+    {
+        "type": 1,
+        "output": [
+            {
+                "id": -166,
+                "damage": 4,
+                "count": 6
+            }
+        ],
+        "shape": [
+            "AAA"
+        ],
+        "input": {
+            "A": {
+                "id": 179,
+                "damage": 2
             }
         }
     },
@@ -36648,10 +37691,27 @@
     },
     {
         "type": 3,
+        "inputId": 1,
+        "inputDamage": 0,
+        "output": {
+            "id": -183
+        }
+    },
+    {
+        "type": 3,
         "inputId": 19,
         "inputDamage": 1,
         "output": {
             "id": 19
+        }
+    },
+    {
+        "type": 3,
+        "inputId": 24,
+        "inputDamage": 0,
+        "output": {
+            "id": 24,
+            "damage": 3
         }
     },
     {
@@ -36661,6 +37721,15 @@
         "output": {
             "id": 98,
             "damage": 2
+        }
+    },
+    {
+        "type": 3,
+        "inputId": 155,
+        "inputDamage": 0,
+        "output": {
+            "id": 155,
+            "damage": 3
         }
     },
     {
@@ -36789,6 +37858,15 @@
         "inputDamage": 15,
         "output": {
             "id": 235
+        }
+    },
+    {
+        "type": 3,
+        "inputId": 179,
+        "inputDamage": 0,
+        "output": {
+            "id": 179,
+            "damage": 3
         }
     }
 ]
