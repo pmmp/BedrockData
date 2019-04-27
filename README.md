@@ -4,7 +4,7 @@ Blobs of JSON data generated from Minecraft: Bedrock Edition used by PocketMine-
 ### `required_block_states.json`
 This file contains data defining all the needed block states in MCPE's StartGamePacket. The format is as follows:
 <details><summary>Show</summary>
-```
+<pre>
 "prefix": {
    "block_id": [
        /* all of the needed metadata variants (or states in the future) */
@@ -14,7 +14,7 @@ This file contains data defining all the needed block states in MCPE's StartGame
        3
    ]
 }
-```
+</pre>
 </details>
 
 ### `block_id_map.json`
