@@ -49,6 +49,7 @@
     "minecraft:phantom": 58,
     "minecraft:ravager": 59,
     "minecraft:armor_stand": 61,
+    "minecraft:tripod_camera": 62,
     "minecraft:item": 64,
     "minecraft:tnt": 65,
     "minecraft:falling_block": 66,
@@ -99,7 +100,8 @@
     "minecraft:villager_v2": 115,
     "minecraft:zombie_villager_v2": 116,
     "minecraft:wandering_trader": 118,
-    "minecraft:player": 257,
-    "minecraft:tripod_camera": 258,
-    "minecraft:npc": 259
+    "minecraft:elder_guardian_ghost": 120,
+    "minecraft:fox": 121,
+    "minecraft:npc": 257,
+    "minecraft:player": 258
 }
