@@ -1,4 +1,7 @@
 {
+    "minecraft:stickypistonarmcollision": -217,
+    "minecraft:wither_rose": -216,
+    "minecraft:light_block": -215,
     "minecraft:lit_blast_furnace": -214,
     "minecraft:composter": -213,
     "minecraft:wood": -212,
@@ -424,6 +427,7 @@
     "minecraft:nether_wart_block": 214,
     "minecraft:red_nether_brick": 215,
     "minecraft:bone_block": 216,
+    "minecraft:structure_void": 217,
     "minecraft:shulker_box": 218,
     "minecraft:purple_glazed_terracotta": 219,
     "minecraft:white_glazed_terracotta": 220,
@@ -447,6 +451,7 @@
     "minecraft:underwater_torch": 239,
     "minecraft:chorus_plant": 240,
     "minecraft:stained_glass": 241,
+    "minecraft:item.camera": 242,
     "minecraft:podzol": 243,
     "minecraft:item.beetroot": 244,
     "minecraft:stonecutter": 245,
@@ -673,6 +678,7 @@
     "minecraft:acacia_sign": 475,
     "minecraft:darkoak_sign": 476,
     "minecraft:sweet_berries": 477,
+    "minecraft:camera": 498,
     "minecraft:compound": 499,
     "minecraft:record_13": 500,
     "minecraft:record_cat": 501,
@@ -687,5 +693,6 @@
     "minecraft:record_11": 510,
     "minecraft:record_wait": 511,
     "minecraft:shield": 513,
-    "minecraft:campfire": 720
+    "minecraft:campfire": 720,
+    "minecraft:suspicious_stew": 734
 }
