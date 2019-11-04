@@ -5,14 +5,19 @@ Blobs of JSON data generated from Minecraft: Bedrock Edition used by PocketMine-
 This file contains data defining all the needed block states in MCPE's StartGamePacket. The format is as follows:
 <details><summary>Show</summary>
 <pre>
-"prefix": {
-   "block_id": [
-       /* all of the needed metadata variants (or states in the future) */
-       0,
-       1,
-       2,
-       3
-   ]
+{
+   {
+       "id": legacy block id,
+       "data": auto-generated data from block states,
+       "name": string block identificator,
+       "states": {
+           // Block states
+           "state name": {
+               "type": state type,
+               "val": state value
+           }
+       }
+   }
 }
 </pre>
 </details>
