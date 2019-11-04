@@ -8,12 +8,12 @@ This file contains data defining all the needed block states in MCPE's StartGame
 {
    {
        "id": legacy block id,
-       "data": auto-generated data from block states,
-       "name": string block identificator,
+       "data": auto-generated meta from block states,
+       "name": "string block identificator",
        "states": {
            // Block states
            "state name": {
-               "type": state type,
+               "type": state type (nbt type),
                "val": state value
            }
        }
