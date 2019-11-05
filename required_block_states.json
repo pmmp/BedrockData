@@ -3657,7 +3657,7 @@
     },
     {
         "id": 46,
-        "data": 1,
+        "data": 2,
         "name": "minecraft:tnt",
         "states": {
             "allow_underwater_bit": {
@@ -3672,7 +3672,7 @@
     },
     {
         "id": 46,
-        "data": 2,
+        "data": 3,
         "name": "minecraft:tnt",
         "states": {
             "allow_underwater_bit": {
@@ -10860,25 +10860,6 @@
         "states": {
             "brewing_stand_slot_a_bit": {
                 "type": 1,
-                "val": 0
-            },
-            "brewing_stand_slot_b_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "brewing_stand_slot_c_bit": {
-                "type": 1,
-                "val": 1
-            }
-        }
-    },
-    {
-        "id": 117,
-        "data": 1,
-        "name": "minecraft:brewing_stand",
-        "states": {
-            "brewing_stand_slot_a_bit": {
-                "type": 1,
                 "val": 1
             },
             "brewing_stand_slot_b_bit": {
@@ -10888,63 +10869,6 @@
             "brewing_stand_slot_c_bit": {
                 "type": 1,
                 "val": 0
-            }
-        }
-    },
-    {
-        "id": 117,
-        "data": 1,
-        "name": "minecraft:brewing_stand",
-        "states": {
-            "brewing_stand_slot_a_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "brewing_stand_slot_b_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "brewing_stand_slot_c_bit": {
-                "type": 1,
-                "val": 0
-            }
-        }
-    },
-    {
-        "id": 117,
-        "data": 2,
-        "name": "minecraft:brewing_stand",
-        "states": {
-            "brewing_stand_slot_a_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "brewing_stand_slot_b_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "brewing_stand_slot_c_bit": {
-                "type": 1,
-                "val": 0
-            }
-        }
-    },
-    {
-        "id": 117,
-        "data": 2,
-        "name": "minecraft:brewing_stand",
-        "states": {
-            "brewing_stand_slot_a_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "brewing_stand_slot_b_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "brewing_stand_slot_c_bit": {
-                "type": 1,
-                "val": 1
             }
         }
     },
@@ -10963,13 +10887,89 @@
             },
             "brewing_stand_slot_c_bit": {
                 "type": 1,
-                "val": 1
+                "val": 0
             }
         }
     },
     {
         "id": 117,
         "data": 3,
+        "name": "minecraft:brewing_stand",
+        "states": {
+            "brewing_stand_slot_a_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "brewing_stand_slot_b_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "brewing_stand_slot_c_bit": {
+                "type": 1,
+                "val": 0
+            }
+        }
+    },
+    {
+        "id": 117,
+        "data": 4,
+        "name": "minecraft:brewing_stand",
+        "states": {
+            "brewing_stand_slot_a_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "brewing_stand_slot_b_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "brewing_stand_slot_c_bit": {
+                "type": 1,
+                "val": 1
+            }
+        }
+    },
+    {
+        "id": 117,
+        "data": 5,
+        "name": "minecraft:brewing_stand",
+        "states": {
+            "brewing_stand_slot_a_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "brewing_stand_slot_b_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "brewing_stand_slot_c_bit": {
+                "type": 1,
+                "val": 1
+            }
+        }
+    },
+    {
+        "id": 117,
+        "data": 6,
+        "name": "minecraft:brewing_stand",
+        "states": {
+            "brewing_stand_slot_a_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "brewing_stand_slot_b_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "brewing_stand_slot_c_bit": {
+                "type": 1,
+                "val": 1
+            }
+        }
+    },
+    {
+        "id": 117,
+        "data": 7,
         "name": "minecraft:brewing_stand",
         "states": {
             "brewing_stand_slot_a_bit": {
@@ -12416,144 +12416,6 @@
             },
             "disarmed_bit": {
                 "type": 1,
-                "val": 1
-            },
-            "powered_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "suspended_bit": {
-                "type": 1,
-                "val": 0
-            }
-        }
-    },
-    {
-        "id": 132,
-        "data": 1,
-        "name": "minecraft:tripWire",
-        "states": {
-            "attached_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "disarmed_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "powered_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "suspended_bit": {
-                "type": 1,
-                "val": 0
-            }
-        }
-    },
-    {
-        "id": 132,
-        "data": 1,
-        "name": "minecraft:tripWire",
-        "states": {
-            "attached_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "disarmed_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "powered_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "suspended_bit": {
-                "type": 1,
-                "val": 1
-            }
-        }
-    },
-    {
-        "id": 132,
-        "data": 1,
-        "name": "minecraft:tripWire",
-        "states": {
-            "attached_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "disarmed_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "powered_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "suspended_bit": {
-                "type": 1,
-                "val": 0
-            }
-        }
-    },
-    {
-        "id": 132,
-        "data": 2,
-        "name": "minecraft:tripWire",
-        "states": {
-            "attached_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "disarmed_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "powered_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "suspended_bit": {
-                "type": 1,
-                "val": 1
-            }
-        }
-    },
-    {
-        "id": 132,
-        "data": 2,
-        "name": "minecraft:tripWire",
-        "states": {
-            "attached_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "disarmed_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "powered_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "suspended_bit": {
-                "type": 1,
-                "val": 0
-            }
-        }
-    },
-    {
-        "id": 132,
-        "data": 2,
-        "name": "minecraft:tripWire",
-        "states": {
-            "attached_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "disarmed_bit": {
-                "type": 1,
                 "val": 0
             },
             "powered_bit": {
@@ -12577,103 +12439,11 @@
             },
             "disarmed_bit": {
                 "type": 1,
-                "val": 1
-            },
-            "powered_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "suspended_bit": {
-                "type": 1,
-                "val": 0
-            }
-        }
-    },
-    {
-        "id": 132,
-        "data": 2,
-        "name": "minecraft:tripWire",
-        "states": {
-            "attached_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "disarmed_bit": {
-                "type": 1,
                 "val": 0
             },
             "powered_bit": {
                 "type": 1,
-                "val": 1
-            },
-            "suspended_bit": {
-                "type": 1,
-                "val": 1
-            }
-        }
-    },
-    {
-        "id": 132,
-        "data": 2,
-        "name": "minecraft:tripWire",
-        "states": {
-            "attached_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "disarmed_bit": {
-                "type": 1,
                 "val": 0
-            },
-            "powered_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "suspended_bit": {
-                "type": 1,
-                "val": 0
-            }
-        }
-    },
-    {
-        "id": 132,
-        "data": 3,
-        "name": "minecraft:tripWire",
-        "states": {
-            "attached_bit": {
-                "type": 1,
-                "val": 0
-            },
-            "disarmed_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "powered_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "suspended_bit": {
-                "type": 1,
-                "val": 1
-            }
-        }
-    },
-    {
-        "id": 132,
-        "data": 3,
-        "name": "minecraft:tripWire",
-        "states": {
-            "attached_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "disarmed_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "powered_bit": {
-                "type": 1,
-                "val": 1
             },
             "suspended_bit": {
                 "type": 1,
@@ -12693,29 +12463,6 @@
             "disarmed_bit": {
                 "type": 1,
                 "val": 0
-            },
-            "powered_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "suspended_bit": {
-                "type": 1,
-                "val": 1
-            }
-        }
-    },
-    {
-        "id": 132,
-        "data": 3,
-        "name": "minecraft:tripWire",
-        "states": {
-            "attached_bit": {
-                "type": 1,
-                "val": 1
-            },
-            "disarmed_bit": {
-                "type": 1,
-                "val": 1
             },
             "powered_bit": {
                 "type": 1,
@@ -12730,6 +12477,259 @@
     {
         "id": 132,
         "data": 4,
+        "name": "minecraft:tripWire",
+        "states": {
+            "attached_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "disarmed_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "powered_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "suspended_bit": {
+                "type": 1,
+                "val": 0
+            }
+        }
+    },
+    {
+        "id": 132,
+        "data": 5,
+        "name": "minecraft:tripWire",
+        "states": {
+            "attached_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "disarmed_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "powered_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "suspended_bit": {
+                "type": 1,
+                "val": 1
+            }
+        }
+    },
+    {
+        "id": 132,
+        "data": 6,
+        "name": "minecraft:tripWire",
+        "states": {
+            "attached_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "disarmed_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "powered_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "suspended_bit": {
+                "type": 1,
+                "val": 0
+            }
+        }
+    },
+    {
+        "id": 132,
+        "data": 7,
+        "name": "minecraft:tripWire",
+        "states": {
+            "attached_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "disarmed_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "powered_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "suspended_bit": {
+                "type": 1,
+                "val": 1
+            }
+        }
+    },
+    {
+        "id": 132,
+        "data": 8,
+        "name": "minecraft:tripWire",
+        "states": {
+            "attached_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "disarmed_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "powered_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "suspended_bit": {
+                "type": 1,
+                "val": 0
+            }
+        }
+    },
+    {
+        "id": 132,
+        "data": 9,
+        "name": "minecraft:tripWire",
+        "states": {
+            "attached_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "disarmed_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "powered_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "suspended_bit": {
+                "type": 1,
+                "val": 1
+            }
+        }
+    },
+    {
+        "id": 132,
+        "data": 10,
+        "name": "minecraft:tripWire",
+        "states": {
+            "attached_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "disarmed_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "powered_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "suspended_bit": {
+                "type": 1,
+                "val": 0
+            }
+        }
+    },
+    {
+        "id": 132,
+        "data": 11,
+        "name": "minecraft:tripWire",
+        "states": {
+            "attached_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "disarmed_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "powered_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "suspended_bit": {
+                "type": 1,
+                "val": 1
+            }
+        }
+    },
+    {
+        "id": 132,
+        "data": 12,
+        "name": "minecraft:tripWire",
+        "states": {
+            "attached_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "disarmed_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "powered_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "suspended_bit": {
+                "type": 1,
+                "val": 0
+            }
+        }
+    },
+    {
+        "id": 132,
+        "data": 13,
+        "name": "minecraft:tripWire",
+        "states": {
+            "attached_bit": {
+                "type": 1,
+                "val": 0
+            },
+            "disarmed_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "powered_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "suspended_bit": {
+                "type": 1,
+                "val": 1
+            }
+        }
+    },
+    {
+        "id": 132,
+        "data": 14,
+        "name": "minecraft:tripWire",
+        "states": {
+            "attached_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "disarmed_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "powered_bit": {
+                "type": 1,
+                "val": 1
+            },
+            "suspended_bit": {
+                "type": 1,
+                "val": 0
+            }
+        }
+    },
+    {
+        "id": 132,
+        "data": 15,
         "name": "minecraft:tripWire",
         "states": {
             "attached_bit": {
@@ -16738,7 +16738,7 @@
     },
     {
         "id": 161,
-        "data": 6,
+        "data": 4,
         "name": "minecraft:leaves2",
         "states": {
             "new_leaf_type": {
@@ -16757,7 +16757,7 @@
     },
     {
         "id": 161,
-        "data": 7,
+        "data": 5,
         "name": "minecraft:leaves2",
         "states": {
             "new_leaf_type": {
@@ -16776,7 +16776,7 @@
     },
     {
         "id": 161,
-        "data": 8,
+        "data": 6,
         "name": "minecraft:leaves2",
         "states": {
             "new_leaf_type": {
@@ -16795,7 +16795,7 @@
     },
     {
         "id": 161,
-        "data": 9,
+        "data": 7,
         "name": "minecraft:leaves2",
         "states": {
             "new_leaf_type": {
