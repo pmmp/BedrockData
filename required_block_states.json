@@ -2642,7 +2642,7 @@
         "states": {
             "tall_grass_type": {
                 "type": 8,
-                "val": "fern"
+                "val": "tall"
             }
         }
     },
@@ -2653,7 +2653,7 @@
         "states": {
             "tall_grass_type": {
                 "type": 8,
-                "val": "tall"
+                "val": "fern"
             }
         }
     },
