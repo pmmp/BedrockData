@@ -1,5 +1,5 @@
 # BedrockData
-Blobs of JSON data generated from Minecraft: Bedrock Edition used by PocketMine-MP
+Blobs of data generated from Minecraft: Bedrock Edition used by PocketMine-MP
 
 ### `required_block_states.json`
 This file contains data defining all the needed block states in MCPE's StartGamePacket. The format is as follows:
