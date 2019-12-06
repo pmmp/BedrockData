@@ -18,14 +18,16 @@ This data is obtained by plugging the legacy states into `BlockPalette` in the v
 
 ```
 TAG_List: value={
-   "old" => TAG_Compound: value={
-      "name" => TAG_String: value="minecraft:example" //legacy string ID pre-1.13
-      "val" => TAG_Short: value=0 //legacy block metadata pre-1.13
-   }
-   "new" => TAG_Compound: value={
-      "name" => TAG_String: value="minecraft:new_example" //this might be different to the legacy ID in future versions!
-      "states" => TAG_Compound: value={
-         //list states here
+   TAG_Compound: value={
+      "old" => TAG_Compound: value={
+         "name" => TAG_String: value="minecraft:example" //legacy string ID pre-1.13
+         "val" => TAG_Short: value=0 //legacy block metadata pre-1.13
+      }
+      "new" => TAG_Compound: value={
+         "name" => TAG_String: value="minecraft:new_example" //this might be different to the legacy ID in future versions!
+         "states" => TAG_Compound: value={
+            //list states here
+         }
       }
    }
 }
