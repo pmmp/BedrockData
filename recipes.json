@@ -13162,6 +13162,32 @@
     },
     {
         "block": "crafting_table",
+        "input": {
+            "A": {
+                "id": 5,
+                "damage": -1
+            },
+            "B": {
+                "id": 736,
+                "damage": -1
+            }
+        },
+        "output": [
+            {
+                "id": -219
+            }
+        ],
+        "priority": 0,
+        "recipe_id": "minecraft:beehive",
+        "shape": [
+            "AAA",
+            "BBB",
+            "AAA"
+        ],
+        "type": "shaped"
+    },
+    {
+        "block": "crafting_table",
         "input": [
             {
                 "id": 281,
@@ -18307,6 +18333,110 @@
         "priority": 0,
         "recipe_id": "minecraft:heavy_weighted_pressure_plate",
         "shape": [
+            "AA"
+        ],
+        "type": "shaped"
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "id": 737,
+                "damage": -1
+            }
+        },
+        "output": [
+            {
+                "id": -220
+            },
+            {
+                "id": 374,
+                "count": 4
+            }
+        ],
+        "priority": 0,
+        "recipe_id": "minecraft:honey_block",
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "type": "shaped"
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "id": -220,
+                "damage": -1
+            },
+            {
+                "id": 374,
+                "damage": -1
+            },
+            {
+                "id": 374,
+                "damage": -1
+            },
+            {
+                "id": 374,
+                "damage": -1
+            },
+            {
+                "id": 374,
+                "damage": -1
+            }
+        ],
+        "output": [
+            {
+                "id": 737,
+                "count": 4
+            }
+        ],
+        "priority": 0,
+        "recipe_id": "minecraft:honey_bottle",
+        "type": "shapeless"
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "id": 737,
+                "damage": -1
+            }
+        },
+        "output": [
+            {
+                "id": 353,
+                "count": 3
+            },
+            {
+                "id": 374
+            }
+        ],
+        "priority": 0,
+        "recipe_id": "minecraft:honey_bottle_to_sugar",
+        "shape": [
+            "A"
+        ],
+        "type": "shaped"
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "id": 736,
+                "damage": -1
+            }
+        },
+        "output": [
+            {
+                "id": -221
+            }
+        ],
+        "priority": 0,
+        "recipe_id": "minecraft:honeycomb_block",
+        "shape": [
+            "AA",
             "AA"
         ],
         "type": "shaped"

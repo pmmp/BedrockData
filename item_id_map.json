@@ -1,4 +1,8 @@
 {
+    "minecraft:honeycomb_block": -221,
+    "minecraft:honey_block": -220,
+    "minecraft:beehive": -219,
+    "minecraft:bee_nest": -218,
     "minecraft:stickypistonarmcollision": -217,
     "minecraft:wither_rose": -216,
     "minecraft:light_block": -215,
@@ -694,5 +698,7 @@
     "minecraft:record_wait": 511,
     "minecraft:shield": 513,
     "minecraft:campfire": 720,
-    "minecraft:suspicious_stew": 734
+    "minecraft:suspicious_stew": 734,
+    "minecraft:honeycomb": 736,
+    "minecraft:honey_bottle": 737
 }

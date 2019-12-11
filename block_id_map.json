@@ -463,5 +463,9 @@
     "minecraft:lit_blast_furnace": 469,
     "minecraft:light_block": 470,
     "minecraft:wither_rose": 471,
-    "minecraft:stickyPistonArmCollision": 472
+    "minecraft:stickyPistonArmCollision": 472,
+    "minecraft:bee_nest": 473,
+    "minecraft:beehive": 474,
+    "minecraft:honey_block": 475,
+    "minecraft:honeycomb_block": 476
 }

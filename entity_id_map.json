@@ -102,6 +102,7 @@
     "minecraft:wandering_trader": 118,
     "minecraft:elder_guardian_ghost": 120,
     "minecraft:fox": 121,
+    "minecraft:bee": 122,
     "minecraft:npc": 257,
     "minecraft:player": 258
 }
