@@ -40,6 +40,7 @@
     "minecraft:wither_skeleton": 48,
     "minecraft:guardian": 49,
     "minecraft:elder_guardian": 50,
+    "minecraft:npc": 51,
     "minecraft:wither": 52,
     "minecraft:ender_dragon": 53,
     "minecraft:shulker": 54,
@@ -103,6 +104,9 @@
     "minecraft:elder_guardian_ghost": 120,
     "minecraft:fox": 121,
     "minecraft:bee": 122,
-    "minecraft:npc": 257,
-    "minecraft:player": 258
+    "minecraft:piglin": 123,
+    "minecraft:hoglin": 124,
+    "minecraft:strider": 125,
+    "minecraft:zoglin": 126,
+    "minecraft:player": 257
 }
