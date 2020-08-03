@@ -11,29 +11,20 @@ This file contains a mapping of all block stringy IDs to legacy numeric IDs (whi
 #### Note
 Where a block's legacy ID is > 255, its item ID is `255 - legacyBlockId`. This means prismarine stairs = -2 and so on.
 
-### `r12_to_current_block_map.nbt`
+### `r12_to_current_block_map.bin`
 This file contains a list of mappings from legacy pre-1.13 blockstates to states of the current version.
-This data is obtained by plugging the legacy states into `BlockPalette` in the vanilla BDS using a mod, and writing the resulting NBT state obtained.
-<details><summary>Schema</summary>
+This data is obtained by plugging the legacy states into `BlockPalette` in the vanilla BDS using [`pmmp/mapping`](https://github.com/pmmp/mapping), and writing the resulting NBT state obtained.
 
-```
-TAG_List: value={
-   TAG_Compound: value={
-      "old" => TAG_Compound: value={
-         "name" => TAG_String: value="minecraft:example" //legacy string ID pre-1.13
-         "val" => TAG_Short: value=0 //legacy block metadata pre-1.13
-      }
-      "new" => TAG_Compound: value={
-         "name" => TAG_String: value="minecraft:new_example" //this might be different to the legacy ID in future versions!
-         "states" => TAG_Compound: value={
-            //list states here
-         }
-      }
-   }
-}
-```
+#### Schema
+The following structure is repeated until EOF. There is **no** length prefix, so you have to read to EOF to read all the mappings.
+| type | description |
+|------|-------------|
+| unsigned varint32 | r12 block string ID length |
+| byte[] | r12 block string ID |
+| little-endian int16 | r12 block metadata |
+| TAG_Compound (varint format) | current version NBT blockstate corresponding to the given r12 block |
 
-</details>
+An example of how to read this file using the PocketMine-MP core library can be seen on the [stable branch](https://github.com/pmmp/PocketMine-MP/blob/41f7c07703bf3f7ef2d9504bbdbdf74257e75d12/src/pocketmine/network/mcpe/convert/RuntimeBlockMapping.php#L71-L86) or on the [master branch](https://github.com/pmmp/PocketMine-MP/blob/master/src/network/mcpe/convert/RuntimeBlockMapping.php#L74-L86).
 
 ### `item_id_map.json`
 This file contains a mapping of all item stringy IDs to legacy numeric IDs.
