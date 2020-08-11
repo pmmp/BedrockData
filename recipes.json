@@ -3390,8 +3390,7 @@
             },
             "output": [
                 {
-                    "id": -219,
-                    "damage": 3
+                    "id": -219
                 }
             ],
             "priority": 2,
@@ -3908,8 +3907,7 @@
             },
             "output": [
                 {
-                    "id": -219,
-                    "damage": 3
+                    "id": -219
                 }
             ],
             "priority": 2,
@@ -4123,30 +4121,6 @@
                     "damage": -1
                 },
                 "B": {
-                    "id": 280,
-                    "damage": -1
-                }
-            },
-            "output": [
-                {
-                    "id": -203
-                }
-            ],
-            "priority": 2,
-            "shape": [
-                "ABA",
-                "A A",
-                "ABA"
-            ]
-        },
-        {
-            "block": "crafting_table",
-            "input": {
-                "A": {
-                    "id": -264,
-                    "damage": -1
-                },
-                "B": {
                     "id": 47,
                     "damage": -1
                 }
@@ -4181,30 +4155,6 @@
                 "A A",
                 "A A",
                 "AAA"
-            ]
-        },
-        {
-            "block": "crafting_table",
-            "input": {
-                "A": {
-                    "id": -265,
-                    "damage": -1
-                },
-                "B": {
-                    "id": 280,
-                    "damage": -1
-                }
-            },
-            "output": [
-                {
-                    "id": -203
-                }
-            ],
-            "priority": 2,
-            "shape": [
-                "ABA",
-                "A A",
-                "ABA"
             ]
         },
         {
@@ -12182,6 +12132,54 @@
                     "damage": -1
                 },
                 "B": {
+                    "id": -264,
+                    "damage": -1
+                }
+            },
+            "output": [
+                {
+                    "id": -203
+                }
+            ],
+            "priority": 2,
+            "shape": [
+                "ABA",
+                "A A",
+                "ABA"
+            ]
+        },
+        {
+            "block": "crafting_table",
+            "input": {
+                "A": {
+                    "id": 280,
+                    "damage": -1
+                },
+                "B": {
+                    "id": -265,
+                    "damage": -1
+                }
+            },
+            "output": [
+                {
+                    "id": -203
+                }
+            ],
+            "priority": 2,
+            "shape": [
+                "ABA",
+                "A A",
+                "ABA"
+            ]
+        },
+        {
+            "block": "crafting_table",
+            "input": {
+                "A": {
+                    "id": 280,
+                    "damage": -1
+                },
+                "B": {
                     "id": 158,
                     "damage": -1
                 }
@@ -17688,8 +17686,7 @@
             },
             "output": [
                 {
-                    "id": -219,
-                    "damage": 3
+                    "id": -219
                 }
             ],
             "priority": 0,
@@ -39725,21 +39722,6 @@
             "input": [
                 {
                     "id": 155,
-                    "damage": -1
-                }
-            ],
-            "output": [
-                {
-                    "id": -304
-                }
-            ],
-            "priority": 2
-        },
-        {
-            "block": "stonecutter",
-            "input": [
-                {
-                    "id": 155,
                     "damage": 3
                 }
             ],
@@ -39766,6 +39748,20 @@
                 }
             ],
             "priority": 1
+        },
+        {
+            "block": "stonecutter",
+            "input": [
+                {
+                    "id": 155
+                }
+            ],
+            "output": [
+                {
+                    "id": -304
+                }
+            ],
+            "priority": 2
         },
         {
             "block": "stonecutter",
@@ -48807,8 +48803,7 @@
         {
             "block": "furnace",
             "input": {
-                "id": 155,
-                "damage": -1
+                "id": 155
             },
             "output": {
                 "id": 155,
