@@ -1,7 +1,7 @@
 # BedrockData
 Blobs of data generated from Minecraft: Bedrock Edition used by PocketMine-MP
 
-### required_block_states.nbt
+### canonical_block_states.nbt
 This file contains a network-format NBT list of all the blockstate permutations needed by MCPE's `StartGamePacket`.
 It's provided as-is directly from `StartGamePacket` sent by the current vanilla server.
 
