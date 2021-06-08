@@ -109,5 +109,8 @@
     "minecraft:strider": 125,
     "minecraft:zoglin": 126,
     "minecraft:piglin_brute": 127,
+    "minecraft:goat": 128,
+    "minecraft:glow_squid": 129,
+    "minecraft:axolotl": 130,
     "minecraft:player": 257
 }
