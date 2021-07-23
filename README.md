@@ -48,5 +48,8 @@ This file contains an ordered list of items which appear in the vanilla creative
 ## biome_definitions.nbt
 This file contains a network-format NBT blob containing biome definitions obtained from `BiomeDefinitionListPacket`.
 
+## biome_id_map.json
+This file contains a mapping of Minecraft string biome IDs to their legacy integer ID counterparts. While biome IDs aren't dynamic yet, it's expected they will become dynamic in the future.
+
 ## entity_identifiers.nbt
 This file contains a network-format NBT blob containing entity identifier mappings obtained from `AvailableActorIdentifiersPacket`.
