@@ -20,6 +20,8 @@
         "minecraft:bucket": {
             "1": "minecraft:milk_bucket",
             "10": "minecraft:lava_bucket",
+            "11": "minecraft:powder_snow_bucket",
+            "12": "minecraft:axolotl_bucket",
             "2": "minecraft:cod_bucket",
             "3": "minecraft:salmon_bucket",
             "4": "minecraft:tropical_fish_bucket",
@@ -76,7 +78,9 @@
             "126": "minecraft:zoglin_spawn_egg",
             "127": "minecraft:piglin_brute_spawn_egg",
             "128": "minecraft:goat_spawn_egg",
+            "129": "minecraft:glow_squid_spawn_egg",
             "13": "minecraft:sheep_spawn_egg",
+            "130": "minecraft:axolotl_spawn_egg",
             "14": "minecraft:wolf_spawn_egg",
             "15": "minecraft:villager_spawn_egg",
             "16": "minecraft:mooshroom_spawn_egg",
