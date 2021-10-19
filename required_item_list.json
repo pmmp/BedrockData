@@ -575,6 +575,10 @@
         "runtime_id": 384,
         "component_based": false
     },
+    "minecraft:client_request_placeholder_block": {
+        "runtime_id": -465,
+        "component_based": false
+    },
     "minecraft:clock": {
         "runtime_id": 393,
         "component_based": false
@@ -2749,6 +2753,14 @@
     },
     "minecraft:mycelium": {
         "runtime_id": 110,
+        "component_based": false
+    },
+    "minecraft:mysterious_frame": {
+        "runtime_id": -466,
+        "component_based": false
+    },
+    "minecraft:mysterious_frame_slot": {
+        "runtime_id": -467,
         "component_based": false
     },
     "minecraft:name_tag": {
