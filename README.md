@@ -25,7 +25,7 @@ The following structure is repeated until EOF. There is **no** length prefix, so
 | little-endian int16 | r12 block metadata |
 | TAG_Compound (varint format) | current version NBT blockstate corresponding to the given r12 block |
 
-An example of how to read this file using the PocketMine-MP core library can be seen on the [stable branch](https://github.com/pmmp/PocketMine-MP/blob/41f7c07703bf3f7ef2d9504bbdbdf74257e75d12/src/pocketmine/network/mcpe/convert/RuntimeBlockMapping.php#L71-L86) or on the [master branch](https://github.com/pmmp/PocketMine-MP/blob/master/src/network/mcpe/convert/RuntimeBlockMapping.php#L74-L86).
+An example of how to read this file using the PocketMine-MP core library can be seen on the [stable branch](https://github.com/pmmp/PocketMine-MP/blob/41f7c07703bf3f7ef2d9504bbdbdf74257e75d12/src/pocketmine/network/mcpe/convert/RuntimeBlockMapping.php#L71-L86) or on the [master branch](https://github.com/pmmp/PocketMine-MP/blob/73592349cd29d91b03c2703107db859115a92e2d/src/network/mcpe/convert/RuntimeBlockMapping.php#L70-L80).
 
 ## r16_to_current_block_map.json
 This file contains mappings to translate pre-1.16.100 item IDs into post-1.16.100 item IDs.
