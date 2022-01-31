@@ -1,0 +1,26 @@
+{
+	"renamedIds": {
+		"minecraft:blue_fire": "minecraft:soul_fire",
+		"minecraft:blue_nether_wart_block": "minecraft:warped_wart_block",
+		"minecraft:shroomlight_block": "minecraft:shroomlight",
+		"minecraft:weeping_vines_block": "minecraft:weeping_vines",
+		"minecraft:basalt_block": "minecraft:basalt",
+		"minecraft:polished_basalt_block": "minecraft:polished_basalt",
+		"minecraft:soul_soil_block": "minecraft:soul_soil",
+		"minecraft:target_block": "minecraft:target",
+		"minecraft:crimson_trap_door": "minecraft:crimson_trapdoor",
+		"minecraft:lodestone_block": "minecraft:lodestone",
+		"minecraft:twisting_vines_block": "minecraft:twisting_vines"
+	},
+	"removedProperties": {
+		"minecraft:blackstone_wall": [
+			"wall_block_type"
+		],
+		"minecraft:polished_blackstone_brick_wall": [
+			"wall_block_type"
+		],
+		"minecraft:polished_blackstone_wall": [
+			"wall_block_type"
+		]
+	}
+}

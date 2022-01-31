@@ -1,0 +1,7 @@
+{
+    "renamedProperties": {
+        "minecraft:kelp": {
+            "age": "kelp_age"
+        }
+    }
+}

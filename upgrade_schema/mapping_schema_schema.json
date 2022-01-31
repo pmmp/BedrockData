@@ -1,0 +1,76 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$defs": {
+		"blockStateProperty": {
+			"type": "object",
+			"properties": {
+				"type": {
+					"oneOf": ["int", "string", "byte"]
+				},
+				"value": {
+					"anyOf": ["int", "string"]
+				}
+			}
+		}
+	},
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"renamedIds": {
+			"type": "object",
+			"additionalProperties": {
+				"type": "string"
+			}
+		},
+		"renamedProperties": {
+			"type": "object",
+			"additionalProperties": {
+				"type": "object",
+				"additionalProperties": {
+					"type": "string"
+				}
+			}
+		},
+		"addedProperties": {
+			"type": "object",
+			"additionalProperties": {
+				"type": "object",
+				"additionalProperties": {
+					"type": "array",
+					"items": {
+						"type": "object",
+						"properties": {
+							"type": {
+								"type": "string"
+							},
+							"value": {
+								"type": ["string", "integer"]
+							}
+						}
+					}
+				}
+			}
+		},
+		"removedProperties": {
+			"type": "object",
+			"additionalProperties": {
+				"type": "array",
+				"items": {
+					"type": "string"
+				}
+			}
+		},
+		"remappedPropertyValues": {
+			"type": "object",
+			"additionalProperties": {
+				"type": "object",
+				"additionalProperties": {
+					"type": "array",
+					"items": {
+						"$ref": "#/$defs/blockStateProperty"
+					}
+				}
+			}
+		}
+	}
+}

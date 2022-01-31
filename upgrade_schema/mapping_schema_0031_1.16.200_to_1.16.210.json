@@ -1,0 +1,16 @@
+{
+    "removedProperties": {
+        "minecraft:stripped_crimson_hyphae": [
+            "deprecated"
+        ],
+        "minecraft:stripped_crimson_stem": [
+            "deprecated"
+        ],
+        "minecraft:stripped_warped_hyphae": [
+            "deprecated"
+        ],
+        "minecraft:stripped_warped_stem": [
+            "deprecated"
+        ]
+    }
+}
