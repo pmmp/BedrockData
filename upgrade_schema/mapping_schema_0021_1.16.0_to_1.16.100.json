@@ -9,12 +9,10 @@
     },
     "addedProperties": {
         "minecraft:chain": {
-            "pillar_axis": [
-                {
-                    "type": "string",
-                    "value": "y"
-                }
-            ]
+            "pillar_axis": {
+                "type": "string",
+                "value": "y"
+            }
         }
     },
     "remappedPropertyValues": {

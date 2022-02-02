@@ -1,12 +1,10 @@
 {
     "addedProperties": {
         "minecraft:sculk_catalyst": {
-            "bloom": [
-                {
-                    "type": "byte",
-                    "value": 0
-                }
-            ]
+            "bloom": {
+                "type": "byte",
+                "value": 0
+            }
         }
     }
 }

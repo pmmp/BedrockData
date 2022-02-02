@@ -1,60 +1,44 @@
 {
     "addedProperties": {
         "minecraft:melon_stem": {
-            "facing_direction": [
-                {
-                    "type": "int",
-                    "value": 0
-                }
-            ]
+            "facing_direction": {
+                "type": "int",
+                "value": 0
+            }
         },
         "minecraft:jigsaw": {
-            "rotation": [
-                {
-                    "type": "int",
-                    "value": 0
-                }
-            ]
+            "rotation": {
+                "type": "int",
+                "value": 0
+            }
         },
         "minecraft:cobblestone_wall": {
-            "wall_connection_type_east": [
-                {
-                    "type": "string",
-                    "value": "none"
-                }
-            ],
-            "wall_connection_type_north": [
-                {
-                    "type": "string",
-                    "value": "none"
-                }
-            ],
-            "wall_connection_type_south": [
-                {
-                    "type": "string",
-                    "value": "none"
-                }
-            ],
-            "wall_connection_type_west": [
-                {
-                    "type": "string",
-                    "value": "none"
-                }
-            ],
-            "wall_post_bit": [
-                {
-                    "type": "byte",
-                    "value": 0
-                }
-            ]
+            "wall_connection_type_east": {
+                "type": "string",
+                "value": "none"
+            },
+            "wall_connection_type_north": {
+                "type": "string",
+                "value": "none"
+            },
+            "wall_connection_type_south": {
+                "type": "string",
+                "value": "none"
+            },
+            "wall_connection_type_west": {
+                "type": "string",
+                "value": "none"
+            },
+            "wall_post_bit": {
+                "type": "byte",
+                "value": 0
+            }
         },
         "minecraft:pumpkin_stem": {
-            "facing_direction": [
-                {
-                    "type": "int",
-                    "value": 0
-                }
-            ]
+            "facing_direction": {
+                "type": "int",
+                "value": 0
+            }
         }
     }
 }
