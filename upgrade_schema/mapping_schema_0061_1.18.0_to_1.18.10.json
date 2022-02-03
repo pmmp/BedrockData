@@ -1,8 +1,8 @@
 {
     "removedProperties": {
-        "minecraft:skull": {
-            "no_drop_bit": "no_drop_bit"
-        }
+        "minecraft:skull": [
+            "no_drop_bit"
+        ]
     },
     "remappedPropertyValues": {
         "minecraft:glow_lichen": {
