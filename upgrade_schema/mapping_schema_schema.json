@@ -5,10 +5,10 @@
 			"type": "object",
 			"properties": {
 				"type": {
-					"oneOf": ["int", "string", "byte"]
+					"enum": ["string", "int", "byte"]
 				},
 				"value": {
-					"anyOf": ["int", "string"]
+					"type": ["string", "integer"]
 				}
 			}
 		}
@@ -36,15 +36,7 @@
 			"additionalProperties": {
 				"type": "object",
 				"additionalProperties": {
-					"type": "object",
-					"properties": {
-						"type": {
-							"type": "string"
-						},
-						"value": {
-							"type": ["string", "integer"]
-						}
-					}
+					"$ref": "#/$defs/blockStateProperty"
 				}
 			}
 		},
