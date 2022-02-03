@@ -1,4 +1,8 @@
 {
+    "maxVersionMajor": 1,
+    "maxVersionMinor": 18,
+    "maxVersionPatch": 10,
+    "maxVersionRevision": 1,
     "removedProperties": {
         "minecraft:skull": [
             "no_drop_bit"

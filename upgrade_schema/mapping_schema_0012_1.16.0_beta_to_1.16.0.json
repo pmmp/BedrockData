@@ -1,4 +1,8 @@
 {
+	"maxVersionMajor": 1,
+	"maxVersionMinor": 16,
+	"maxVersionPatch": 0,
+	"maxVersionRevision": 14,
 	"renamedIds": {
 		"minecraft:blue_fire": "minecraft:soul_fire",
 		"minecraft:blue_nether_wart_block": "minecraft:warped_wart_block",

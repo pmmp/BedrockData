@@ -15,7 +15,29 @@
 	},
 	"type": "object",
 	"additionalProperties": false,
+	"required": [
+		"maxVersionMajor",
+		"maxVersionMinor",
+		"maxVersionPatch",
+		"maxVersionRevision"
+	],
 	"properties": {
+		"maxVersionMajor": {
+			"type": "integer",
+			"minValue": 0
+		},
+		"maxVersionMinor": {
+			"type": "integer",
+			"minValue": 0
+		},
+		"maxVersionPatch": {
+			"type": "integer",
+			"minValue": 0
+		},
+		"maxVersionRevision": {
+			"type": "integer",
+			"minValue": 0
+		},
 		"renamedIds": {
 			"type": "object",
 			"additionalProperties": {

@@ -1,4 +1,8 @@
 {
+    "maxVersionMajor": 1,
+    "maxVersionMinor": 16,
+    "maxVersionPatch": 0,
+    "maxVersionRevision": 16,
     "renamedProperties": {
         "minecraft:beehive": {
             "facing_direction": "direction"
