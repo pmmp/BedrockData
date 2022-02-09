@@ -2210,5 +2210,811 @@
                 }
             ]
         }
+    },
+    "remappedStates": {
+        "minecraft:end_rod": [
+            {
+                "oldState": {
+                    "facing_direction": {
+                        "type": "int",
+                        "value": 6
+                    }
+                },
+                "newName": "minecraft:light_block",
+                "newState": {
+                    "block_light_level": {
+                        "type": "int",
+                        "value": 14
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "facing_direction": {
+                        "type": "int",
+                        "value": 7
+                    }
+                },
+                "newName": "minecraft:light_block",
+                "newState": {
+                    "block_light_level": {
+                        "type": "int",
+                        "value": 14
+                    }
+                }
+            }
+        ],
+        "minecraft:log": [
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                },
+                "newName": "minecraft:wood",
+                "newState": {
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    },
+                    "stripped_bit": {
+                        "type": "byte",
+                        "value": 0
+                    },
+                    "wood_type": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                "newName": "minecraft:wood",
+                "newState": {
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    },
+                    "stripped_bit": {
+                        "type": "byte",
+                        "value": 0
+                    },
+                    "wood_type": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                },
+                "newName": "minecraft:wood",
+                "newState": {
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    },
+                    "stripped_bit": {
+                        "type": "byte",
+                        "value": 0
+                    },
+                    "wood_type": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                },
+                "newName": "minecraft:wood",
+                "newState": {
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    },
+                    "stripped_bit": {
+                        "type": "byte",
+                        "value": 0
+                    },
+                    "wood_type": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "spruce"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "x"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "jungle"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "oak"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "x"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "oak"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "spruce"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "z"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "birch"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "x"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "birch"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "z"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "spruce"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "jungle"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "z"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "birch"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "jungle"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "x"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "oak"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "z"
+                    }
+                }
+            }
+        ],
+        "minecraft:log2": [
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                "newName": "minecraft:wood",
+                "newState": {
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    },
+                    "stripped_bit": {
+                        "type": "byte",
+                        "value": 0
+                    },
+                    "wood_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    }
+                },
+                "newName": "minecraft:wood",
+                "newState": {
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    },
+                    "stripped_bit": {
+                        "type": "byte",
+                        "value": 0
+                    },
+                    "wood_type": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                "newName": "minecraft:wood",
+                "newState": {
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    },
+                    "stripped_bit": {
+                        "type": "byte",
+                        "value": 0
+                    },
+                    "wood_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                "newName": "minecraft:wood",
+                "newState": {
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    },
+                    "stripped_bit": {
+                        "type": "byte",
+                        "value": 0
+                    },
+                    "wood_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                "newName": "minecraft:log2",
+                "newState": {
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "x"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                "newName": "minecraft:log2",
+                "newState": {
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    }
+                },
+                "newName": "minecraft:log2",
+                "newState": {
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                "newName": "minecraft:log2",
+                "newState": {
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                "newName": "minecraft:log2",
+                "newState": {
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "z"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                "newName": "minecraft:log2",
+                "newState": {
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "z"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                "newName": "minecraft:log2",
+                "newState": {
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "z"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    }
+                },
+                "newName": "minecraft:log2",
+                "newState": {
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "x"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    }
+                },
+                "newName": "minecraft:log2",
+                "newState": {
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "z"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                "newName": "minecraft:log2",
+                "newState": {
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "y"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                "newName": "minecraft:log2",
+                "newState": {
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "x"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                "newName": "minecraft:log2",
+                "newState": {
+                    "new_log_type": {
+                        "type": "string",
+                        "value": "acacia"
+                    },
+                    "pillar_axis": {
+                        "type": "string",
+                        "value": "x"
+                    }
+                }
+            }
+        ]
     }
 }

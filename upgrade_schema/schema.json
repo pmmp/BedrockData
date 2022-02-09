@@ -82,6 +82,32 @@
 					}
 				}
 			}
+		},
+		"remappedStates": {
+			"type": "object",
+			"additionalProperties": {
+				"type": "array",
+				"items": {
+					"type": "object",
+					"properties": {
+						"oldState": {
+							"type": "array",
+							"items": {
+								"$ref": "#/$defs/blockStateProperty"
+							}
+						},
+						"newId": {
+							"type": "string"
+						},
+						"newState": {
+							"type": "array",
+							"items": {
+								"$ref": "#/$defs/blockStateProperty"
+							}
+						}
+					}
+				}
+			}
 		}
 	}
 }

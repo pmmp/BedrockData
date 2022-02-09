@@ -3533,5 +3533,377 @@
                 }
             ]
         }
+    },
+    "remappedStates": {
+        "minecraft:log": [
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 2
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 2
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 2
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 3
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 1
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 0
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 3
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 0
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 0
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 1
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 1
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 3
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 2
+                    }
+                },
+                "newName": "minecraft:wood",
+                "newState": {
+                    "stripped_bit": {
+                        "type": "byte",
+                        "value": 0
+                    },
+                    "wood_type": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 1
+                    }
+                },
+                "newName": "minecraft:wood",
+                "newState": {
+                    "stripped_bit": {
+                        "type": "byte",
+                        "value": 0
+                    },
+                    "wood_type": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 3
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                }
+            },
+            {
+                "oldState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "mapped_type": {
+                        "type": "int",
+                        "value": 0
+                    }
+                },
+                "newName": "minecraft:log",
+                "newState": {
+                    "direction": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "old_log_type": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                }
+            }
+        ]
     }
 }
