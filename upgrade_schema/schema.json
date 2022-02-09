@@ -76,9 +76,23 @@
 			"additionalProperties": {
 				"type": "object",
 				"additionalProperties": {
-					"type": "array",
-					"items": {
-						"$ref": "#/$defs/blockStateProperty"
+					"type": "string"
+				}
+			}
+		},
+		"remappedPropertyValuesIndex": {
+			"type": "object",
+			"additionalProperties": {
+				"type": "array",
+				"items": {
+					"type": "object",
+					"properties": {
+						"old": {
+							"$ref": "#/$defs/blockStateProperty"
+						},
+						"new": {
+							"$ref": "#/$defs/blockStateProperty"
+						}
 					}
 				}
 			}
@@ -91,8 +105,8 @@
 					"type": "object",
 					"properties": {
 						"oldState": {
-							"type": "array",
-							"items": {
+							"type": "object",
+							"additionalProperties": {
 								"$ref": "#/$defs/blockStateProperty"
 							}
 						},
@@ -100,8 +114,8 @@
 							"type": "string"
 						},
 						"newState": {
-							"type": "array",
-							"items": {
+							"type": "object",
+							"additionalProperties": {
 								"$ref": "#/$defs/blockStateProperty"
 							}
 						}

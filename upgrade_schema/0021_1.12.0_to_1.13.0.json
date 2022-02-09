@@ -57,2159 +57,593 @@
     },
     "remappedPropertyValues": {
         "minecraft:acacia_button": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:acacia_wall_sign": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:activator_rail": {
-            "rail_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "rail_direction": "facing_direction_00"
         },
         "minecraft:barrel": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:birch_button": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:birch_wall_sign": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:black_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:blast_furnace": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:blue_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:bone_block": {
-            "direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "x"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 0
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 2
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "z"
-                    }
-                }
-            ]
+            "direction": "direction_01"
         },
         "minecraft:brown_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:cake": {
-            "bite_counter": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "bite_counter": "bite_counter_02"
         },
         "minecraft:cauldron": {
-            "fill_level": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 6
-                    }
-                }
-            ]
+            "fill_level": "fill_level_03"
         },
         "minecraft:chain_command_block": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:chest": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:chorus_flower": {
-            "age": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "age": "facing_direction_00"
         },
         "minecraft:cocoa": {
-            "age": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "age": "age_04"
         },
         "minecraft:command_block": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:composter": {
-            "composter_fill_level": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 9
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 11
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 15
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 10
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 14
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 12
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 13
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "composter_fill_level": "composter_fill_level_05"
         },
         "minecraft:cyan_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:dark_oak_button": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:darkoak_wall_sign": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:detector_rail": {
-            "rail_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "rail_direction": "facing_direction_00"
         },
         "minecraft:dispenser": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:dropper": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:ender_chest": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:frame": {
-            "weirdo_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 0
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 5
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 2
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 3
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 4
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 2
-                    }
-                }
-            ]
+            "weirdo_direction": "weirdo_direction_06"
         },
         "minecraft:furnace": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:golden_rail": {
-            "rail_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "rail_direction": "facing_direction_00"
         },
         "minecraft:gray_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:green_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:hay_block": {
-            "direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "x"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 0
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 2
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "z"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                }
-            ]
+            "direction": "direction_01"
         },
         "minecraft:hopper": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:jigsaw": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:jungle_button": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:jungle_wall_sign": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:ladder": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:lava_cauldron": {
-            "fill_level": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 6
-                    }
-                }
-            ]
+            "fill_level": "fill_level_03"
         },
         "minecraft:lever": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 2
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "west"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "east"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "up_east_west"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "down_north_south"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "south"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 0
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "down_east_west"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 5
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "up_north_south"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 4
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "north"
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_07"
         },
         "minecraft:light_blue_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:lime_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:lit_blast_furnace": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:lit_furnace": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:lit_smoker": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:magenta_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:observer": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:orange_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:pink_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:piston": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:pistonArmCollision": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:purple_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:purpur_block": {
-            "direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "x"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 0
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 2
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "z"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                }
-            ]
+            "direction": "direction_01"
         },
         "minecraft:quartz_block": {
-            "direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 0
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "x"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 2
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "z"
-                    }
-                }
-            ]
+            "direction": "direction_01"
         },
         "minecraft:rail": {
-            "rail_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 15
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 10
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 12
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 11
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 14
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 13
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "rail_direction": "rail_direction_08"
         },
         "minecraft:red_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:repeating_command_block": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:silver_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:skull": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:smoker": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:spruce_button": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:spruce_wall_sign": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:sticky_piston": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:stone_button": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:stonecutter_block": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:stripped_acacia_log": {
-            "direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "x"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 0
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 2
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "z"
-                    }
-                }
-            ]
+            "direction": "direction_01"
         },
         "minecraft:stripped_birch_log": {
-            "direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 2
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "z"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "x"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 0
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                }
-            ]
+            "direction": "direction_01"
         },
         "minecraft:stripped_dark_oak_log": {
-            "direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 2
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "z"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 0
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "x"
-                    }
-                }
-            ]
+            "direction": "direction_01"
         },
         "minecraft:stripped_jungle_log": {
-            "direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 2
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "z"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 0
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "x"
-                    }
-                }
-            ]
+            "direction": "direction_01"
         },
         "minecraft:stripped_oak_log": {
-            "direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "x"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 0
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 2
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "z"
-                    }
-                }
-            ]
+            "direction": "direction_01"
         },
         "minecraft:stripped_spruce_log": {
-            "direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 0
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 2
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "z"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "y"
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "string",
-                        "value": "x"
-                    }
-                }
-            ]
+            "direction": "direction_01"
         },
         "minecraft:trapped_chest": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:wall_banner": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:wall_sign": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:white_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:wooden_button": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:yellow_glazed_terracotta": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         }
+    },
+    "remappedPropertyValuesIndex": {
+        "facing_direction_00": [
+            {
+                "old": {
+                    "type": "int",
+                    "value": 7
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 6
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            }
+        ],
+        "direction_01": [
+            {
+                "old": {
+                    "type": "int",
+                    "value": 1
+                },
+                "new": {
+                    "type": "string",
+                    "value": "x"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 3
+                },
+                "new": {
+                    "type": "string",
+                    "value": "y"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 0
+                },
+                "new": {
+                    "type": "string",
+                    "value": "y"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 2
+                },
+                "new": {
+                    "type": "string",
+                    "value": "z"
+                }
+            }
+        ],
+        "bite_counter_02": [
+            {
+                "old": {
+                    "type": "int",
+                    "value": 7
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            }
+        ],
+        "fill_level_03": [
+            {
+                "old": {
+                    "type": "int",
+                    "value": 7
+                },
+                "new": {
+                    "type": "int",
+                    "value": 6
+                }
+            }
+        ],
+        "age_04": [
+            {
+                "old": {
+                    "type": "int",
+                    "value": 3
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            }
+        ],
+        "composter_fill_level_05": [
+            {
+                "old": {
+                    "type": "int",
+                    "value": 9
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 11
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 15
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 10
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 14
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 12
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 13
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            }
+        ],
+        "weirdo_direction_06": [
+            {
+                "old": {
+                    "type": "int",
+                    "value": 0
+                },
+                "new": {
+                    "type": "int",
+                    "value": 5
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 2
+                },
+                "new": {
+                    "type": "int",
+                    "value": 3
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 1
+                },
+                "new": {
+                    "type": "int",
+                    "value": 4
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 3
+                },
+                "new": {
+                    "type": "int",
+                    "value": 2
+                }
+            }
+        ],
+        "facing_direction_07": [
+            {
+                "old": {
+                    "type": "int",
+                    "value": 2
+                },
+                "new": {
+                    "type": "string",
+                    "value": "west"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 1
+                },
+                "new": {
+                    "type": "string",
+                    "value": "east"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 6
+                },
+                "new": {
+                    "type": "string",
+                    "value": "up_east_west"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 7
+                },
+                "new": {
+                    "type": "string",
+                    "value": "down_north_south"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 3
+                },
+                "new": {
+                    "type": "string",
+                    "value": "south"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 0
+                },
+                "new": {
+                    "type": "string",
+                    "value": "down_east_west"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 5
+                },
+                "new": {
+                    "type": "string",
+                    "value": "up_north_south"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 4
+                },
+                "new": {
+                    "type": "string",
+                    "value": "north"
+                }
+            }
+        ],
+        "rail_direction_08": [
+            {
+                "old": {
+                    "type": "int",
+                    "value": 15
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 10
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 12
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 11
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 14
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 13
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            }
+        ]
     },
     "remappedStates": {
         "minecraft:end_rod": [

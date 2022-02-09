@@ -10,972 +10,494 @@
     },
     "remappedPropertyValues": {
         "minecraft:glow_lichen": {
-            "multi_face_direction_bits": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 4
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 16
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 5
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 17
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 18
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 19
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 8
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 4
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 9
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 5
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 10
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 6
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 11
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 7
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 12
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 20
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 13
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 21
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 14
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 22
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 15
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 23
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 16
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 8
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 17
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 9
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 18
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 10
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 19
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 11
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 20
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 24
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 21
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 25
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 22
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 26
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 23
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 27
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 24
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 12
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 25
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 13
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 26
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 14
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 27
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 15
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 36
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 48
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 37
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 49
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 38
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 50
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 39
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 51
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 40
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 36
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 41
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 37
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 42
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 38
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 43
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 39
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 44
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 52
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 45
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 53
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 46
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 54
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 47
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 55
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 48
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 40
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 49
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 41
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 50
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 42
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 51
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 43
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 52
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 56
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 53
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 57
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 54
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 58
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 55
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 59
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 56
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 44
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 57
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 45
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 58
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 46
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 59
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 47
-                    }
-                }
-            ]
+            "multi_face_direction_bits": "multi_face_direction_bits_00"
         },
         "minecraft:sculk_vein": {
-            "multi_face_direction_bits": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 4
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 16
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 5
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 17
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 6
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 18
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 7
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 19
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 8
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 4
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 9
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 5
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 10
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 6
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 11
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 7
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 12
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 20
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 13
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 21
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 14
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 22
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 15
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 23
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 16
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 8
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 17
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 9
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 18
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 10
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 19
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 11
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 20
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 24
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 21
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 25
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 22
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 26
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 23
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 27
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 24
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 12
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 25
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 13
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 26
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 14
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 27
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 15
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 36
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 48
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 37
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 49
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 38
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 50
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 39
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 51
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 40
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 36
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 41
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 37
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 42
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 38
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 43
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 39
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 44
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 52
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 45
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 53
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 46
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 54
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 47
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 55
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 48
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 40
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 49
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 41
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 50
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 42
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 51
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 43
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 52
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 56
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 53
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 57
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 54
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 58
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 55
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 59
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 56
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 44
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 57
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 45
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 58
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 46
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 59
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 47
-                    }
-                }
-            ]
+            "multi_face_direction_bits": "multi_face_direction_bits_00"
         }
+    },
+    "remappedPropertyValuesIndex": {
+        "multi_face_direction_bits_00": [
+            {
+                "old": {
+                    "type": "int",
+                    "value": 4
+                },
+                "new": {
+                    "type": "int",
+                    "value": 16
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 5
+                },
+                "new": {
+                    "type": "int",
+                    "value": 17
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 6
+                },
+                "new": {
+                    "type": "int",
+                    "value": 18
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 7
+                },
+                "new": {
+                    "type": "int",
+                    "value": 19
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 8
+                },
+                "new": {
+                    "type": "int",
+                    "value": 4
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 9
+                },
+                "new": {
+                    "type": "int",
+                    "value": 5
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 10
+                },
+                "new": {
+                    "type": "int",
+                    "value": 6
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 11
+                },
+                "new": {
+                    "type": "int",
+                    "value": 7
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 12
+                },
+                "new": {
+                    "type": "int",
+                    "value": 20
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 13
+                },
+                "new": {
+                    "type": "int",
+                    "value": 21
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 14
+                },
+                "new": {
+                    "type": "int",
+                    "value": 22
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 15
+                },
+                "new": {
+                    "type": "int",
+                    "value": 23
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 16
+                },
+                "new": {
+                    "type": "int",
+                    "value": 8
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 17
+                },
+                "new": {
+                    "type": "int",
+                    "value": 9
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 18
+                },
+                "new": {
+                    "type": "int",
+                    "value": 10
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 19
+                },
+                "new": {
+                    "type": "int",
+                    "value": 11
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 20
+                },
+                "new": {
+                    "type": "int",
+                    "value": 24
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 21
+                },
+                "new": {
+                    "type": "int",
+                    "value": 25
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 22
+                },
+                "new": {
+                    "type": "int",
+                    "value": 26
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 23
+                },
+                "new": {
+                    "type": "int",
+                    "value": 27
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 24
+                },
+                "new": {
+                    "type": "int",
+                    "value": 12
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 25
+                },
+                "new": {
+                    "type": "int",
+                    "value": 13
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 26
+                },
+                "new": {
+                    "type": "int",
+                    "value": 14
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 27
+                },
+                "new": {
+                    "type": "int",
+                    "value": 15
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 36
+                },
+                "new": {
+                    "type": "int",
+                    "value": 48
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 37
+                },
+                "new": {
+                    "type": "int",
+                    "value": 49
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 38
+                },
+                "new": {
+                    "type": "int",
+                    "value": 50
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 39
+                },
+                "new": {
+                    "type": "int",
+                    "value": 51
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 40
+                },
+                "new": {
+                    "type": "int",
+                    "value": 36
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 41
+                },
+                "new": {
+                    "type": "int",
+                    "value": 37
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 42
+                },
+                "new": {
+                    "type": "int",
+                    "value": 38
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 43
+                },
+                "new": {
+                    "type": "int",
+                    "value": 39
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 44
+                },
+                "new": {
+                    "type": "int",
+                    "value": 52
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 45
+                },
+                "new": {
+                    "type": "int",
+                    "value": 53
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 46
+                },
+                "new": {
+                    "type": "int",
+                    "value": 54
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 47
+                },
+                "new": {
+                    "type": "int",
+                    "value": 55
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 48
+                },
+                "new": {
+                    "type": "int",
+                    "value": 40
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 49
+                },
+                "new": {
+                    "type": "int",
+                    "value": 41
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 50
+                },
+                "new": {
+                    "type": "int",
+                    "value": 42
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 51
+                },
+                "new": {
+                    "type": "int",
+                    "value": 43
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 52
+                },
+                "new": {
+                    "type": "int",
+                    "value": 56
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 53
+                },
+                "new": {
+                    "type": "int",
+                    "value": 57
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 54
+                },
+                "new": {
+                    "type": "int",
+                    "value": 58
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 55
+                },
+                "new": {
+                    "type": "int",
+                    "value": 59
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 56
+                },
+                "new": {
+                    "type": "int",
+                    "value": 44
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 57
+                },
+                "new": {
+                    "type": "int",
+                    "value": 45
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 58
+                },
+                "new": {
+                    "type": "int",
+                    "value": 46
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 59
+                },
+                "new": {
+                    "type": "int",
+                    "value": 47
+                }
+            }
+        ]
     }
 }

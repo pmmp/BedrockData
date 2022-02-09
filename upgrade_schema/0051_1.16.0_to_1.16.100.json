@@ -21,92 +21,54 @@
     },
     "remappedPropertyValues": {
         "minecraft:beehive": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 5
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 3
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 4
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 1
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         },
         "minecraft:bee_nest": {
-            "facing_direction": [
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 4
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 1
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 3
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 5
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 3
-                    }
-                },
-                {
-                    "old": {
-                        "type": "int",
-                        "value": 1
-                    },
-                    "new": {
-                        "type": "int",
-                        "value": 0
-                    }
-                }
-            ]
+            "facing_direction": "facing_direction_00"
         }
+    },
+    "remappedPropertyValuesIndex": {
+        "facing_direction_00": [
+            {
+                "old": {
+                    "type": "int",
+                    "value": 1
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 3
+                },
+                "new": {
+                    "type": "int",
+                    "value": 0
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 5
+                },
+                "new": {
+                    "type": "int",
+                    "value": 3
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 4
+                },
+                "new": {
+                    "type": "int",
+                    "value": 1
+                }
+            }
+        ]
     }
 }
