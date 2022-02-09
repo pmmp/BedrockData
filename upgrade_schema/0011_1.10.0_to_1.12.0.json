@@ -1,0 +1,147 @@
+{
+    "maxVersionMajor": 1,
+    "maxVersionMinor": 12,
+    "maxVersionPatch": 0,
+    "maxVersionRevision": 1,
+    "addedProperties": {
+        "minecraft:barrel": {
+            "open_bit": {
+                "type": "byte",
+                "value": 0
+            }
+        },
+        "minecraft:bell": {
+            "toggle_bit": {
+                "type": "byte",
+                "value": 0
+            }
+        },
+        "minecraft:campfire": {
+            "direction": {
+                "type": "int",
+                "value": 0
+            },
+            "extinguished": {
+                "type": "byte",
+                "value": 0
+            }
+        },
+        "minecraft:lectern": {
+            "powered_bit": {
+                "type": "byte",
+                "value": 0
+            }
+        }
+    },
+    "renamedProperties": {
+        "minecraft:blast_furnace": {
+            "direction": "facing_direction"
+        },
+        "minecraft:composter": {
+            "fill_level": "composter_fill_level"
+        },
+        "minecraft:coral_fan": {
+            "direction": "coral_fan_direction"
+        },
+        "minecraft:coral_fan_dead": {
+            "direction": "coral_fan_direction"
+        },
+        "minecraft:smoker": {
+            "direction": "facing_direction"
+        }
+    },
+    "remappedPropertyValues": {
+        "minecraft:barrel": {
+            "facing_direction": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 0
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 0
+                    }
+                }
+            ]
+        },
+        "minecraft:blast_furnace": {
+            "direction": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 3
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 4
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 5
+                    }
+                }
+            ]
+        },
+        "minecraft:smoker": {
+            "direction": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 4
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 5
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 3
+                    }
+                }
+            ]
+        }
+    }
+}

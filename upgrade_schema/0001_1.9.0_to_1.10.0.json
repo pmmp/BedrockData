@@ -1,0 +1,3537 @@
+{
+    "maxVersionMajor": 1,
+    "maxVersionMinor": 10,
+    "maxVersionPatch": 0,
+    "maxVersionRevision": 50,
+    "addedProperties": {
+        "minecraft:bell": {
+            "attachment": {
+                "type": "string",
+                "value": "standing"
+            }
+        },
+        "minecraft:grindstone": {
+            "attachment": {
+                "type": "string",
+                "value": "standing"
+            }
+        }
+    },
+    "removedProperties": {
+        "minecraft:element_0": [
+            "mapped_type"
+        ],
+        "minecraft:element_1": [
+            "mapped_type"
+        ],
+        "minecraft:element_10": [
+            "mapped_type"
+        ],
+        "minecraft:element_100": [
+            "mapped_type"
+        ],
+        "minecraft:element_101": [
+            "mapped_type"
+        ],
+        "minecraft:element_102": [
+            "mapped_type"
+        ],
+        "minecraft:element_103": [
+            "mapped_type"
+        ],
+        "minecraft:element_104": [
+            "mapped_type"
+        ],
+        "minecraft:element_105": [
+            "mapped_type"
+        ],
+        "minecraft:element_106": [
+            "mapped_type"
+        ],
+        "minecraft:element_107": [
+            "mapped_type"
+        ],
+        "minecraft:element_108": [
+            "mapped_type"
+        ],
+        "minecraft:element_109": [
+            "mapped_type"
+        ],
+        "minecraft:element_11": [
+            "mapped_type"
+        ],
+        "minecraft:element_110": [
+            "mapped_type"
+        ],
+        "minecraft:element_111": [
+            "mapped_type"
+        ],
+        "minecraft:element_112": [
+            "mapped_type"
+        ],
+        "minecraft:element_113": [
+            "mapped_type"
+        ],
+        "minecraft:element_114": [
+            "mapped_type"
+        ],
+        "minecraft:element_115": [
+            "mapped_type"
+        ],
+        "minecraft:element_116": [
+            "mapped_type"
+        ],
+        "minecraft:element_117": [
+            "mapped_type"
+        ],
+        "minecraft:element_118": [
+            "mapped_type"
+        ],
+        "minecraft:element_12": [
+            "mapped_type"
+        ],
+        "minecraft:element_13": [
+            "mapped_type"
+        ],
+        "minecraft:element_14": [
+            "mapped_type"
+        ],
+        "minecraft:element_15": [
+            "mapped_type"
+        ],
+        "minecraft:element_16": [
+            "mapped_type"
+        ],
+        "minecraft:element_17": [
+            "mapped_type"
+        ],
+        "minecraft:element_18": [
+            "mapped_type"
+        ],
+        "minecraft:element_19": [
+            "mapped_type"
+        ],
+        "minecraft:element_2": [
+            "mapped_type"
+        ],
+        "minecraft:element_20": [
+            "mapped_type"
+        ],
+        "minecraft:element_21": [
+            "mapped_type"
+        ],
+        "minecraft:element_22": [
+            "mapped_type"
+        ],
+        "minecraft:element_23": [
+            "mapped_type"
+        ],
+        "minecraft:element_24": [
+            "mapped_type"
+        ],
+        "minecraft:element_25": [
+            "mapped_type"
+        ],
+        "minecraft:element_26": [
+            "mapped_type"
+        ],
+        "minecraft:element_27": [
+            "mapped_type"
+        ],
+        "minecraft:element_28": [
+            "mapped_type"
+        ],
+        "minecraft:element_29": [
+            "mapped_type"
+        ],
+        "minecraft:element_3": [
+            "mapped_type"
+        ],
+        "minecraft:element_30": [
+            "mapped_type"
+        ],
+        "minecraft:element_31": [
+            "mapped_type"
+        ],
+        "minecraft:element_32": [
+            "mapped_type"
+        ],
+        "minecraft:element_33": [
+            "mapped_type"
+        ],
+        "minecraft:element_34": [
+            "mapped_type"
+        ],
+        "minecraft:element_35": [
+            "mapped_type"
+        ],
+        "minecraft:element_36": [
+            "mapped_type"
+        ],
+        "minecraft:element_37": [
+            "mapped_type"
+        ],
+        "minecraft:element_38": [
+            "mapped_type"
+        ],
+        "minecraft:element_39": [
+            "mapped_type"
+        ],
+        "minecraft:element_4": [
+            "mapped_type"
+        ],
+        "minecraft:element_40": [
+            "mapped_type"
+        ],
+        "minecraft:element_41": [
+            "mapped_type"
+        ],
+        "minecraft:element_42": [
+            "mapped_type"
+        ],
+        "minecraft:element_43": [
+            "mapped_type"
+        ],
+        "minecraft:element_44": [
+            "mapped_type"
+        ],
+        "minecraft:element_45": [
+            "mapped_type"
+        ],
+        "minecraft:element_46": [
+            "mapped_type"
+        ],
+        "minecraft:element_47": [
+            "mapped_type"
+        ],
+        "minecraft:element_48": [
+            "mapped_type"
+        ],
+        "minecraft:element_49": [
+            "mapped_type"
+        ],
+        "minecraft:element_5": [
+            "mapped_type"
+        ],
+        "minecraft:element_50": [
+            "mapped_type"
+        ],
+        "minecraft:element_51": [
+            "mapped_type"
+        ],
+        "minecraft:element_52": [
+            "mapped_type"
+        ],
+        "minecraft:element_53": [
+            "mapped_type"
+        ],
+        "minecraft:element_54": [
+            "mapped_type"
+        ],
+        "minecraft:element_55": [
+            "mapped_type"
+        ],
+        "minecraft:element_56": [
+            "mapped_type"
+        ],
+        "minecraft:element_57": [
+            "mapped_type"
+        ],
+        "minecraft:element_58": [
+            "mapped_type"
+        ],
+        "minecraft:element_59": [
+            "mapped_type"
+        ],
+        "minecraft:element_6": [
+            "mapped_type"
+        ],
+        "minecraft:element_60": [
+            "mapped_type"
+        ],
+        "minecraft:element_61": [
+            "mapped_type"
+        ],
+        "minecraft:element_62": [
+            "mapped_type"
+        ],
+        "minecraft:element_63": [
+            "mapped_type"
+        ],
+        "minecraft:element_64": [
+            "mapped_type"
+        ],
+        "minecraft:element_65": [
+            "mapped_type"
+        ],
+        "minecraft:element_66": [
+            "mapped_type"
+        ],
+        "minecraft:element_67": [
+            "mapped_type"
+        ],
+        "minecraft:element_68": [
+            "mapped_type"
+        ],
+        "minecraft:element_69": [
+            "mapped_type"
+        ],
+        "minecraft:element_7": [
+            "mapped_type"
+        ],
+        "minecraft:element_70": [
+            "mapped_type"
+        ],
+        "minecraft:element_71": [
+            "mapped_type"
+        ],
+        "minecraft:element_72": [
+            "mapped_type"
+        ],
+        "minecraft:element_73": [
+            "mapped_type"
+        ],
+        "minecraft:element_74": [
+            "mapped_type"
+        ],
+        "minecraft:element_75": [
+            "mapped_type"
+        ],
+        "minecraft:element_76": [
+            "mapped_type"
+        ],
+        "minecraft:element_77": [
+            "mapped_type"
+        ],
+        "minecraft:element_78": [
+            "mapped_type"
+        ],
+        "minecraft:element_79": [
+            "mapped_type"
+        ],
+        "minecraft:element_8": [
+            "mapped_type"
+        ],
+        "minecraft:element_80": [
+            "mapped_type"
+        ],
+        "minecraft:element_81": [
+            "mapped_type"
+        ],
+        "minecraft:element_82": [
+            "mapped_type"
+        ],
+        "minecraft:element_83": [
+            "mapped_type"
+        ],
+        "minecraft:element_84": [
+            "mapped_type"
+        ],
+        "minecraft:element_85": [
+            "mapped_type"
+        ],
+        "minecraft:element_86": [
+            "mapped_type"
+        ],
+        "minecraft:element_87": [
+            "mapped_type"
+        ],
+        "minecraft:element_88": [
+            "mapped_type"
+        ],
+        "minecraft:element_89": [
+            "mapped_type"
+        ],
+        "minecraft:element_9": [
+            "mapped_type"
+        ],
+        "minecraft:element_90": [
+            "mapped_type"
+        ],
+        "minecraft:element_91": [
+            "mapped_type"
+        ],
+        "minecraft:element_92": [
+            "mapped_type"
+        ],
+        "minecraft:element_93": [
+            "mapped_type"
+        ],
+        "minecraft:element_94": [
+            "mapped_type"
+        ],
+        "minecraft:element_95": [
+            "mapped_type"
+        ],
+        "minecraft:element_96": [
+            "mapped_type"
+        ],
+        "minecraft:element_97": [
+            "mapped_type"
+        ],
+        "minecraft:element_98": [
+            "mapped_type"
+        ],
+        "minecraft:element_99": [
+            "mapped_type"
+        ],
+        "minecraft:grass": [
+            "mapped_type"
+        ],
+        "minecraft:nether_brick_fence": [
+            "mapped_type"
+        ],
+        "minecraft:yellow_flower": [
+            "mapped_type"
+        ]
+    },
+    "renamedProperties": {
+        "minecraft:blast_furnace": {
+            "facing_direction": "direction"
+        },
+        "minecraft:bone_block": {
+            "mapped_type": "deprecated"
+        },
+        "minecraft:brown_mushroom_block": {
+            "mapped_type": "huge_mushroom_bits"
+        },
+        "minecraft:chemistry_table": {
+            "mapped_type": "chemistry_table_type"
+        },
+        "minecraft:cobblestone_wall": {
+            "mapped_type": "wall_block_type"
+        },
+        "minecraft:coral": {
+            "mapped_type": "coral_color"
+        },
+        "minecraft:coral_block": {
+            "mapped_type": "coral_color"
+        },
+        "minecraft:coral_fan": {
+            "mapped_type": "coral_color"
+        },
+        "minecraft:coral_fan_dead": {
+            "mapped_type": "coral_color"
+        },
+        "minecraft:coral_fan_hang": {
+            "mapped_type": "coral_hang_type_bit"
+        },
+        "minecraft:coral_fan_hang2": {
+            "mapped_type": "coral_hang_type_bit"
+        },
+        "minecraft:coral_fan_hang3": {
+            "mapped_type": "coral_hang_type_bit"
+        },
+        "minecraft:dirt": {
+            "mapped_type": "dirt_type"
+        },
+        "minecraft:double_plant": {
+            "mapped_type": "double_plant_type"
+        },
+        "minecraft:double_stone_slab": {
+            "mapped_type": "stone_slab_type"
+        },
+        "minecraft:double_stone_slab2": {
+            "mapped_type": "stone_slab_type_2"
+        },
+        "minecraft:double_stone_slab3": {
+            "mapped_type": "stone_slab_type_3"
+        },
+        "minecraft:double_stone_slab4": {
+            "mapped_type": "stone_slab_type_4"
+        },
+        "minecraft:double_wooden_slab": {
+            "mapped_type": "wood_type"
+        },
+        "minecraft:fence": {
+            "mapped_type": "wood_type"
+        },
+        "minecraft:hay_block": {
+            "mapped_type": "deprecated"
+        },
+        "minecraft:leaves": {
+            "mapped_type": "old_leaf_type"
+        },
+        "minecraft:leaves2": {
+            "mapped_type": "new_leaf_type"
+        },
+        "minecraft:log2": {
+            "mapped_type": "new_log_type"
+        },
+        "minecraft:monster_egg": {
+            "mapped_type": "monster_egg_stone_type"
+        },
+        "minecraft:planks": {
+            "mapped_type": "wood_type"
+        },
+        "minecraft:portal": {
+            "axis": "portal_axis"
+        },
+        "minecraft:prismarine": {
+            "mapped_type": "prismarine_block_type"
+        },
+        "minecraft:purpur_block": {
+            "mapped_type": "chisel_type"
+        },
+        "minecraft:quartz_block": {
+            "mapped_type": "chisel_type"
+        },
+        "minecraft:red_flower": {
+            "mapped_type": "flower_type"
+        },
+        "minecraft:red_mushroom_block": {
+            "mapped_type": "huge_mushroom_bits"
+        },
+        "minecraft:red_sandstone": {
+            "mapped_type": "sand_stone_type"
+        },
+        "minecraft:sand": {
+            "mapped_type": "sand_type"
+        },
+        "minecraft:sandstone": {
+            "mapped_type": "sand_stone_type"
+        },
+        "minecraft:seagrass": {
+            "mapped_type": "sea_grass_type"
+        },
+        "minecraft:smoker": {
+            "facing_direction": "direction"
+        },
+        "minecraft:sponge": {
+            "mapped_type": "sponge_type"
+        },
+        "minecraft:stone": {
+            "mapped_type": "stone_type"
+        },
+        "minecraft:stone_slab": {
+            "mapped_type": "stone_slab_type"
+        },
+        "minecraft:stone_slab2": {
+            "mapped_type": "stone_slab_type_2"
+        },
+        "minecraft:stone_slab3": {
+            "mapped_type": "stone_slab_type_3"
+        },
+        "minecraft:stone_slab4": {
+            "mapped_type": "stone_slab_type_4"
+        },
+        "minecraft:stonebrick": {
+            "mapped_type": "stone_brick_type"
+        },
+        "minecraft:structure_block": {
+            "mapped_type": "structure_block_type"
+        },
+        "minecraft:tallgrass": {
+            "mapped_type": "tall_grass_type"
+        },
+        "minecraft:wooden_slab": {
+            "mapped_type": "wood_type"
+        }
+    },
+    "remappedPropertyValues": {
+        "minecraft:blast_furnace": {
+            "facing_direction": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 2
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 2
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 2
+                    }
+                }
+            ]
+        },
+        "minecraft:bone_block": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 0
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 0
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 0
+                    }
+                }
+            ],
+            "direction": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 3
+                    }
+                }
+            ]
+        },
+        "minecraft:chemistry_table": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "lab_table"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "material_reducer"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "compound_creator"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "element_constructor"
+                    }
+                }
+            ]
+        },
+        "minecraft:cobblestone_wall": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "andesite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "diorite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 11
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "prismarine"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 9
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "nether_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 13
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red_nether_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 14
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cobblestone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "granite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 15
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cobblestone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy_cobblestone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 10
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "end_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cobblestone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 8
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy_stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 12
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red_sandstone"
+                    }
+                }
+            ]
+        },
+        "minecraft:coral": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 9
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 10
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "pink"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "purple"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 13
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 14
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 12
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 15
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 11
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 8
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "yellow"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                }
+            ]
+        },
+        "minecraft:coral_block": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "pink"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "purple"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "yellow"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                }
+            ]
+        },
+        "minecraft:coral_fan": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "purple"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "pink"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "yellow"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red"
+                    }
+                }
+            ]
+        },
+        "minecraft:coral_fan_dead": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "yellow"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "blue"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "purple"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "pink"
+                    }
+                }
+            ]
+        },
+        "minecraft:coral_fan_hang": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "byte",
+                        "value": 1
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "byte",
+                        "value": 0
+                    }
+                }
+            ]
+        },
+        "minecraft:coral_fan_hang2": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "byte",
+                        "value": 0
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "byte",
+                        "value": 1
+                    }
+                }
+            ]
+        },
+        "minecraft:coral_fan_hang3": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "byte",
+                        "value": 0
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "byte",
+                        "value": 1
+                    }
+                }
+            ]
+        },
+        "minecraft:dirt": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "coarse"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "normal"
+                    }
+                }
+            ]
+        },
+        "minecraft:double_plant": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "rose"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "sunflower"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "sunflower"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "syringa"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "grass"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "sunflower"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "fern"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "paeonia"
+                    }
+                }
+            ]
+        },
+        "minecraft:double_stone_slab": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "quartz"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "wood"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "smooth_stone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "nether_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cobblestone"
+                    }
+                }
+            ]
+        },
+        "minecraft:double_stone_slab2": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red_sandstone"
+                    }
+                }
+            ]
+        },
+        "minecraft:double_stone_slab3": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "andesite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "diorite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "polished_granite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "granite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "smooth_red_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "polished_diorite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "end_stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "polished_andesite"
+                    }
+                }
+            ]
+        },
+        "minecraft:double_stone_slab4": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cut_red_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "stone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "smooth_quartz"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy_stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy_stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy_stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy_stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cut_sandstone"
+                    }
+                }
+            ]
+        },
+        "minecraft:double_wooden_slab": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                }
+            ]
+        },
+        "minecraft:fence": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                }
+            ]
+        },
+        "minecraft:hay_block": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 0
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 0
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 0
+                    }
+                }
+            ],
+            "direction": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 3
+                    }
+                }
+            ]
+        },
+        "minecraft:leaves": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                }
+            ]
+        },
+        "minecraft:leaves2": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                }
+            ]
+        },
+        "minecraft:log2": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                }
+            ]
+        },
+        "minecraft:monster_egg": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "stone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "stone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cobblestone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy_stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cracked_stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "stone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "chiseled_stone_brick"
+                    }
+                }
+            ]
+        },
+        "minecraft:planks": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                }
+            ]
+        },
+        "minecraft:prismarine": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "bricks"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "dark"
+                    }
+                }
+            ]
+        },
+        "minecraft:purpur_block": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "lines"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "smooth"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "chiseled"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                }
+            ],
+            "direction": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 0
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 3
+                    }
+                }
+            ]
+        },
+        "minecraft:quartz_block": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "smooth"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "chiseled"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "lines"
+                    }
+                }
+            ],
+            "direction": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 3
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 0
+                    }
+                }
+            ]
+        },
+        "minecraft:red_flower": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 15
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "poppy"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "tulip_white"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "orchid"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "tulip_orange"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 8
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oxeye"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 14
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "poppy"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 10
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "lily_of_the_valley"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 9
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cornflower"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 13
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "poppy"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "tulip_red"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "poppy"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 11
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "poppy"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 12
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "poppy"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "tulip_pink"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "allium"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "houstonia"
+                    }
+                }
+            ]
+        },
+        "minecraft:red_sandstone": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "heiroglyphs"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cut"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "smooth"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                }
+            ]
+        },
+        "minecraft:sand": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "normal"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red"
+                    }
+                }
+            ]
+        },
+        "minecraft:sandstone": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "heiroglyphs"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "smooth"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cut"
+                    }
+                }
+            ]
+        },
+        "minecraft:seagrass": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "double_top"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "double_bot"
+                    }
+                }
+            ]
+        },
+        "minecraft:smoker": {
+            "facing_direction": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 2
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 2
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "int",
+                        "value": 2
+                    }
+                }
+            ]
+        },
+        "minecraft:sponge": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "wet"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "dry"
+                    }
+                }
+            ]
+        },
+        "minecraft:stone": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "diorite_smooth"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "andesite_smooth"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "diorite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "granite_smooth"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "andesite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "stone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "stone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "granite"
+                    }
+                }
+            ]
+        },
+        "minecraft:stone_slab": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "nether_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cobblestone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "smooth_stone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "wood"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "quartz"
+                    }
+                }
+            ]
+        },
+        "minecraft:stone_slab2": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy_cobblestone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "prismarine_dark"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red_nether_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "red_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "purpur"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "smooth_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "prismarine_rough"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "prismarine_brick"
+                    }
+                }
+            ]
+        },
+        "minecraft:stone_slab3": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "smooth_red_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "end_stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "andesite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "diorite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "granite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "polished_granite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "polished_andesite"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "polished_diorite"
+                    }
+                }
+            ]
+        },
+        "minecraft:stone_slab4": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "stone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cut_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "smooth_quartz"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cut_red_sandstone"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy_stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy_stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy_stone_brick"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy_stone_brick"
+                    }
+                }
+            ]
+        },
+        "minecraft:stonebrick": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "chiseled"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "mossy"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "cracked"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "smooth"
+                    }
+                }
+            ]
+        },
+        "minecraft:structure_block": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "load"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "data"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "corner"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "data"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "save"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "data"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "invalid"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "export"
+                    }
+                }
+            ]
+        },
+        "minecraft:tallgrass": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "snow"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "default"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "fern"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "tall"
+                    }
+                }
+            ]
+        },
+        "minecraft:wooden_slab": {
+            "mapped_type": [
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 7
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 1
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "spruce"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 6
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 4
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "acacia"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 3
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "jungle"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 0
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "oak"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 2
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "birch"
+                    }
+                },
+                {
+                    "old": {
+                        "type": "int",
+                        "value": 5
+                    },
+                    "new": {
+                        "type": "string",
+                        "value": "dark_oak"
+                    }
+                }
+            ]
+        }
+    }
+}
