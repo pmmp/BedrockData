@@ -3,12 +3,18 @@
 	"$defs": {
 		"blockStateProperty": {
 			"type": "object",
+			"minProperties": 1,
+			"maxProperties": 1,
+			"additionalProperties": false,
 			"properties": {
-				"type": {
-					"enum": ["string", "int", "byte"]
+				"int": {
+					"type": "integer"
 				},
-				"value": {
-					"type": ["string", "integer"]
+				"string": {
+					"type": "string"
+				},
+				"byte": {
+					"type": "integer"
 				}
 			}
 		}

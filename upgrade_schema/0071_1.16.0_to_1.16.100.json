@@ -6,8 +6,7 @@
     "addedProperties": {
         "minecraft:chain": {
             "pillar_axis": {
-                "type": "string",
-                "value": "y"
+                "string": "y"
             }
         }
     },
@@ -31,42 +30,34 @@
         "facing_direction_00": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 }
             }
         ]

@@ -6,14 +6,12 @@
     "addedProperties": {
         "minecraft:frame": {
             "item_frame_photo_bit": {
-                "type": "byte",
-                "value": 0
+                "byte": 0
             }
         },
         "minecraft:glow_frame": {
             "item_frame_photo_bit": {
-                "type": "byte",
-                "value": 0
+                "byte": 0
             }
         }
     }

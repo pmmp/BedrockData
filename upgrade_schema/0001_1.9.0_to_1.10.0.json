@@ -6,14 +6,12 @@
     "addedProperties": {
         "minecraft:bell": {
             "attachment": {
-                "type": "string",
-                "value": "standing"
+                "string": "standing"
             }
         },
         "minecraft:grindstone": {
             "attachment": {
-                "type": "string",
-                "value": "standing"
+                "string": "standing"
             }
         }
     },
@@ -670,1910 +668,1540 @@
         "facing_direction_00": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 }
             }
         ],
         "mapped_type_01": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 }
             }
         ],
         "direction_02": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 }
             }
         ],
         "mapped_type_03": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "lab_table"
+                    "string": "lab_table"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "material_reducer"
+                    "string": "material_reducer"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "compound_creator"
+                    "string": "compound_creator"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "element_constructor"
+                    "string": "element_constructor"
                 }
             }
         ],
         "mapped_type_04": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "andesite"
+                    "string": "andesite"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "stone_brick"
+                    "string": "stone_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "diorite"
+                    "string": "diorite"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "sandstone"
+                    "string": "sandstone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 11
+                    "int": 11
                 },
                 "new": {
-                    "type": "string",
-                    "value": "prismarine"
+                    "string": "prismarine"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 9
+                    "int": 9
                 },
                 "new": {
-                    "type": "string",
-                    "value": "nether_brick"
+                    "string": "nether_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 13
+                    "int": 13
                 },
                 "new": {
-                    "type": "string",
-                    "value": "red_nether_brick"
+                    "string": "red_nether_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 14
+                    "int": 14
                 },
                 "new": {
-                    "type": "string",
-                    "value": "cobblestone"
+                    "string": "cobblestone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "granite"
+                    "string": "granite"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 15
+                    "int": 15
                 },
                 "new": {
-                    "type": "string",
-                    "value": "cobblestone"
+                    "string": "cobblestone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "mossy_cobblestone"
+                    "string": "mossy_cobblestone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "brick"
+                    "string": "brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 10
+                    "int": 10
                 },
                 "new": {
-                    "type": "string",
-                    "value": "end_brick"
+                    "string": "end_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "cobblestone"
+                    "string": "cobblestone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 8
+                    "int": 8
                 },
                 "new": {
-                    "type": "string",
-                    "value": "mossy_stone_brick"
+                    "string": "mossy_stone_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 12
+                    "int": 12
                 },
                 "new": {
-                    "type": "string",
-                    "value": "red_sandstone"
+                    "string": "red_sandstone"
                 }
             }
         ],
         "mapped_type_05": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 9
+                    "int": 9
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 10
+                    "int": 10
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "pink"
+                    "string": "pink"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "purple"
+                    "string": "purple"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 13
+                    "int": 13
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 14
+                    "int": 14
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 12
+                    "int": 12
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 15
+                    "int": 15
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "red"
+                    "string": "red"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 11
+                    "int": 11
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 8
+                    "int": 8
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "yellow"
+                    "string": "yellow"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             }
         ],
         "mapped_type_06": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "pink"
+                    "string": "pink"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "purple"
+                    "string": "purple"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "yellow"
+                    "string": "yellow"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "red"
+                    "string": "red"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "blue"
+                    "string": "blue"
                 }
             }
         ],
         "mapped_type_07": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "byte",
-                    "value": 1
+                    "byte": 1
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "byte",
-                    "value": 0
+                    "byte": 0
                 }
             }
         ],
         "mapped_type_08": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "coarse"
+                    "string": "coarse"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "normal"
+                    "string": "normal"
                 }
             }
         ],
         "mapped_type_09": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "rose"
+                    "string": "rose"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "sunflower"
+                    "string": "sunflower"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "sunflower"
+                    "string": "sunflower"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "syringa"
+                    "string": "syringa"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "grass"
+                    "string": "grass"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "sunflower"
+                    "string": "sunflower"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "fern"
+                    "string": "fern"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "paeonia"
+                    "string": "paeonia"
                 }
             }
         ],
         "mapped_type_10": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "stone_brick"
+                    "string": "stone_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "quartz"
+                    "string": "quartz"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "wood"
+                    "string": "wood"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "brick"
+                    "string": "brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "smooth_stone"
+                    "string": "smooth_stone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "sandstone"
+                    "string": "sandstone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "nether_brick"
+                    "string": "nether_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "cobblestone"
+                    "string": "cobblestone"
                 }
             }
         ],
         "mapped_type_11": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "mossy_cobblestone"
+                    "string": "mossy_cobblestone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "prismarine_dark"
+                    "string": "prismarine_dark"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "red_nether_brick"
+                    "string": "red_nether_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "red_sandstone"
+                    "string": "red_sandstone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "purpur"
+                    "string": "purpur"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "smooth_sandstone"
+                    "string": "smooth_sandstone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "prismarine_rough"
+                    "string": "prismarine_rough"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "prismarine_brick"
+                    "string": "prismarine_brick"
                 }
             }
         ],
         "mapped_type_12": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "andesite"
+                    "string": "andesite"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "diorite"
+                    "string": "diorite"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "polished_granite"
+                    "string": "polished_granite"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "granite"
+                    "string": "granite"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "smooth_red_sandstone"
+                    "string": "smooth_red_sandstone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "polished_diorite"
+                    "string": "polished_diorite"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "end_stone_brick"
+                    "string": "end_stone_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "polished_andesite"
+                    "string": "polished_andesite"
                 }
             }
         ],
         "mapped_type_13": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "cut_red_sandstone"
+                    "string": "cut_red_sandstone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "stone"
+                    "string": "stone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "smooth_quartz"
+                    "string": "smooth_quartz"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "mossy_stone_brick"
+                    "string": "mossy_stone_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "mossy_stone_brick"
+                    "string": "mossy_stone_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "mossy_stone_brick"
+                    "string": "mossy_stone_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "mossy_stone_brick"
+                    "string": "mossy_stone_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "cut_sandstone"
+                    "string": "cut_sandstone"
                 }
             }
         ],
         "mapped_type_14": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "spruce"
+                    "string": "spruce"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "acacia"
+                    "string": "acacia"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "oak"
+                    "string": "oak"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "oak"
+                    "string": "oak"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "birch"
+                    "string": "birch"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "jungle"
+                    "string": "jungle"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "dark_oak"
+                    "string": "dark_oak"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "oak"
+                    "string": "oak"
                 }
             }
         ],
         "mapped_type_15": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "birch"
+                    "string": "birch"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "oak"
+                    "string": "oak"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "jungle"
+                    "string": "jungle"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "spruce"
+                    "string": "spruce"
                 }
             }
         ],
         "mapped_type_16": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "dark_oak"
+                    "string": "dark_oak"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "acacia"
+                    "string": "acacia"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "acacia"
+                    "string": "acacia"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "acacia"
+                    "string": "acacia"
                 }
             }
         ],
         "mapped_type_17": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "stone"
+                    "string": "stone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "stone_brick"
+                    "string": "stone_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "stone"
+                    "string": "stone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "cobblestone"
+                    "string": "cobblestone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "mossy_stone_brick"
+                    "string": "mossy_stone_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "cracked_stone_brick"
+                    "string": "cracked_stone_brick"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "stone"
+                    "string": "stone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "chiseled_stone_brick"
+                    "string": "chiseled_stone_brick"
                 }
             }
         ],
         "mapped_type_18": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "default"
+                    "string": "default"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "default"
+                    "string": "default"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "bricks"
+                    "string": "bricks"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "dark"
+                    "string": "dark"
                 }
             }
         ],
         "mapped_type_19": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "lines"
+                    "string": "lines"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "smooth"
+                    "string": "smooth"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "chiseled"
+                    "string": "chiseled"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "default"
+                    "string": "default"
                 }
             }
         ],
         "direction_20": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 }
             }
         ],
         "mapped_type_21": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 15
+                    "int": 15
                 },
                 "new": {
-                    "type": "string",
-                    "value": "poppy"
+                    "string": "poppy"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "tulip_white"
+                    "string": "tulip_white"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "orchid"
+                    "string": "orchid"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "tulip_orange"
+                    "string": "tulip_orange"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 8
+                    "int": 8
                 },
                 "new": {
-                    "type": "string",
-                    "value": "oxeye"
+                    "string": "oxeye"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 14
+                    "int": 14
                 },
                 "new": {
-                    "type": "string",
-                    "value": "poppy"
+                    "string": "poppy"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 10
+                    "int": 10
                 },
                 "new": {
-                    "type": "string",
-                    "value": "lily_of_the_valley"
+                    "string": "lily_of_the_valley"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 9
+                    "int": 9
                 },
                 "new": {
-                    "type": "string",
-                    "value": "cornflower"
+                    "string": "cornflower"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 13
+                    "int": 13
                 },
                 "new": {
-                    "type": "string",
-                    "value": "poppy"
+                    "string": "poppy"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "tulip_red"
+                    "string": "tulip_red"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "poppy"
+                    "string": "poppy"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 11
+                    "int": 11
                 },
                 "new": {
-                    "type": "string",
-                    "value": "poppy"
+                    "string": "poppy"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 12
+                    "int": 12
                 },
                 "new": {
-                    "type": "string",
-                    "value": "poppy"
+                    "string": "poppy"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "tulip_pink"
+                    "string": "tulip_pink"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "allium"
+                    "string": "allium"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "houstonia"
+                    "string": "houstonia"
                 }
             }
         ],
         "mapped_type_22": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "heiroglyphs"
+                    "string": "heiroglyphs"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "cut"
+                    "string": "cut"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "smooth"
+                    "string": "smooth"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "default"
+                    "string": "default"
                 }
             }
         ],
         "mapped_type_23": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "normal"
+                    "string": "normal"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "red"
+                    "string": "red"
                 }
             }
         ],
         "mapped_type_24": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "double_top"
+                    "string": "double_top"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "default"
+                    "string": "default"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "default"
+                    "string": "default"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "double_bot"
+                    "string": "double_bot"
                 }
             }
         ],
         "mapped_type_25": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "wet"
+                    "string": "wet"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "dry"
+                    "string": "dry"
                 }
             }
         ],
         "mapped_type_26": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "diorite_smooth"
+                    "string": "diorite_smooth"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "andesite_smooth"
+                    "string": "andesite_smooth"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "diorite"
+                    "string": "diorite"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "granite_smooth"
+                    "string": "granite_smooth"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "andesite"
+                    "string": "andesite"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "stone"
+                    "string": "stone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "stone"
+                    "string": "stone"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "granite"
+                    "string": "granite"
                 }
             }
         ],
         "mapped_type_27": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "chiseled"
+                    "string": "chiseled"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "mossy"
+                    "string": "mossy"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "default"
+                    "string": "default"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "cracked"
+                    "string": "cracked"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "default"
+                    "string": "default"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "default"
+                    "string": "default"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "default"
+                    "string": "default"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "smooth"
+                    "string": "smooth"
                 }
             }
         ],
         "mapped_type_28": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "load"
+                    "string": "load"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "data"
+                    "string": "data"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "corner"
+                    "string": "corner"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "string",
-                    "value": "data"
+                    "string": "data"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "save"
+                    "string": "save"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "string",
-                    "value": "data"
+                    "string": "data"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "string",
-                    "value": "invalid"
+                    "string": "invalid"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "string",
-                    "value": "export"
+                    "string": "export"
                 }
             }
         ],
         "mapped_type_29": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 3
+                    "int": 3
                 },
                 "new": {
-                    "type": "string",
-                    "value": "snow"
+                    "string": "snow"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 0
+                    "int": 0
                 },
                 "new": {
-                    "type": "string",
-                    "value": "default"
+                    "string": "default"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 2
+                    "int": 2
                 },
                 "new": {
-                    "type": "string",
-                    "value": "fern"
+                    "string": "fern"
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 1
+                    "int": 1
                 },
                 "new": {
-                    "type": "string",
-                    "value": "tall"
+                    "string": "tall"
                 }
             }
         ]
@@ -2583,368 +2211,304 @@
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 1
+                        "int": 1
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 2
+                        "int": 2
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 1
+                        "int": 1
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "birch"
+                        "string": "birch"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 2
+                        "int": 2
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 2
+                        "int": 2
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 2
+                        "int": 2
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "birch"
+                        "string": "birch"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 0
+                        "int": 0
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 2
+                        "int": 2
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 0
+                        "int": 0
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "birch"
+                        "string": "birch"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 2
+                        "int": 2
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 3
+                        "int": 3
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 2
+                        "int": 2
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "jungle"
+                        "string": "jungle"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 0
+                        "int": 0
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 1
+                        "int": 1
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 0
+                        "int": 0
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "spruce"
+                        "string": "spruce"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 0
+                        "int": 0
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 0
+                        "int": 0
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 0
+                        "int": 0
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "oak"
+                        "string": "oak"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 1
+                        "int": 1
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 3
+                        "int": 3
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 1
+                        "int": 1
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "jungle"
+                        "string": "jungle"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 2
+                        "int": 2
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 0
+                        "int": 0
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 2
+                        "int": 2
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "oak"
+                        "string": "oak"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 1
+                        "int": 1
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 0
+                        "int": 0
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 1
+                        "int": 1
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "oak"
+                        "string": "oak"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 1
+                        "int": 1
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 1
+                        "int": 1
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 1
+                        "int": 1
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "spruce"
+                        "string": "spruce"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 2
+                        "int": 2
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 1
+                        "int": 1
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 2
+                        "int": 2
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "spruce"
+                        "string": "spruce"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 0
+                        "int": 0
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 3
+                        "int": 3
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 0
+                        "int": 0
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "jungle"
+                        "string": "jungle"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 3
+                        "int": 3
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 2
+                        "int": 2
                     }
                 },
                 "newName": "minecraft:wood",
                 "newState": {
                     "stripped_bit": {
-                        "type": "byte",
-                        "value": 0
+                        "byte": 0
                     },
                     "wood_type": {
-                        "type": "string",
-                        "value": "birch"
+                        "string": "birch"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 3
+                        "int": 3
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 1
+                        "int": 1
                     }
                 },
                 "newName": "minecraft:wood",
                 "newState": {
                     "stripped_bit": {
-                        "type": "byte",
-                        "value": 0
+                        "byte": 0
                     },
                     "wood_type": {
-                        "type": "string",
-                        "value": "spruce"
+                        "string": "spruce"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 3
+                        "int": 3
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 3
+                        "int": 3
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 3
+                        "int": 3
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "jungle"
+                        "string": "jungle"
                     }
                 }
             },
             {
                 "oldState": {
                     "direction": {
-                        "type": "int",
-                        "value": 3
+                        "int": 3
                     },
                     "mapped_type": {
-                        "type": "int",
-                        "value": 0
+                        "int": 0
                     }
                 },
                 "newName": "minecraft:log",
                 "newState": {
                     "direction": {
-                        "type": "int",
-                        "value": 3
+                        "int": 3
                     },
                     "old_log_type": {
-                        "type": "string",
-                        "value": "oak"
+                        "string": "oak"
                     }
                 }
             }

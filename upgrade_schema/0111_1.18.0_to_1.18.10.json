@@ -20,482 +20,386 @@
         "multi_face_direction_bits_00": [
             {
                 "old": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 },
                 "new": {
-                    "type": "int",
-                    "value": 16
+                    "int": 16
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 },
                 "new": {
-                    "type": "int",
-                    "value": 17
+                    "int": 17
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 },
                 "new": {
-                    "type": "int",
-                    "value": 18
+                    "int": 18
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 },
                 "new": {
-                    "type": "int",
-                    "value": 19
+                    "int": 19
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 8
+                    "int": 8
                 },
                 "new": {
-                    "type": "int",
-                    "value": 4
+                    "int": 4
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 9
+                    "int": 9
                 },
                 "new": {
-                    "type": "int",
-                    "value": 5
+                    "int": 5
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 10
+                    "int": 10
                 },
                 "new": {
-                    "type": "int",
-                    "value": 6
+                    "int": 6
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 11
+                    "int": 11
                 },
                 "new": {
-                    "type": "int",
-                    "value": 7
+                    "int": 7
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 12
+                    "int": 12
                 },
                 "new": {
-                    "type": "int",
-                    "value": 20
+                    "int": 20
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 13
+                    "int": 13
                 },
                 "new": {
-                    "type": "int",
-                    "value": 21
+                    "int": 21
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 14
+                    "int": 14
                 },
                 "new": {
-                    "type": "int",
-                    "value": 22
+                    "int": 22
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 15
+                    "int": 15
                 },
                 "new": {
-                    "type": "int",
-                    "value": 23
+                    "int": 23
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 16
+                    "int": 16
                 },
                 "new": {
-                    "type": "int",
-                    "value": 8
+                    "int": 8
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 17
+                    "int": 17
                 },
                 "new": {
-                    "type": "int",
-                    "value": 9
+                    "int": 9
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 18
+                    "int": 18
                 },
                 "new": {
-                    "type": "int",
-                    "value": 10
+                    "int": 10
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 19
+                    "int": 19
                 },
                 "new": {
-                    "type": "int",
-                    "value": 11
+                    "int": 11
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 20
+                    "int": 20
                 },
                 "new": {
-                    "type": "int",
-                    "value": 24
+                    "int": 24
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 21
+                    "int": 21
                 },
                 "new": {
-                    "type": "int",
-                    "value": 25
+                    "int": 25
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 22
+                    "int": 22
                 },
                 "new": {
-                    "type": "int",
-                    "value": 26
+                    "int": 26
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 23
+                    "int": 23
                 },
                 "new": {
-                    "type": "int",
-                    "value": 27
+                    "int": 27
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 24
+                    "int": 24
                 },
                 "new": {
-                    "type": "int",
-                    "value": 12
+                    "int": 12
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 25
+                    "int": 25
                 },
                 "new": {
-                    "type": "int",
-                    "value": 13
+                    "int": 13
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 26
+                    "int": 26
                 },
                 "new": {
-                    "type": "int",
-                    "value": 14
+                    "int": 14
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 27
+                    "int": 27
                 },
                 "new": {
-                    "type": "int",
-                    "value": 15
+                    "int": 15
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 36
+                    "int": 36
                 },
                 "new": {
-                    "type": "int",
-                    "value": 48
+                    "int": 48
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 37
+                    "int": 37
                 },
                 "new": {
-                    "type": "int",
-                    "value": 49
+                    "int": 49
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 38
+                    "int": 38
                 },
                 "new": {
-                    "type": "int",
-                    "value": 50
+                    "int": 50
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 39
+                    "int": 39
                 },
                 "new": {
-                    "type": "int",
-                    "value": 51
+                    "int": 51
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 40
+                    "int": 40
                 },
                 "new": {
-                    "type": "int",
-                    "value": 36
+                    "int": 36
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 41
+                    "int": 41
                 },
                 "new": {
-                    "type": "int",
-                    "value": 37
+                    "int": 37
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 42
+                    "int": 42
                 },
                 "new": {
-                    "type": "int",
-                    "value": 38
+                    "int": 38
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 43
+                    "int": 43
                 },
                 "new": {
-                    "type": "int",
-                    "value": 39
+                    "int": 39
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 44
+                    "int": 44
                 },
                 "new": {
-                    "type": "int",
-                    "value": 52
+                    "int": 52
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 45
+                    "int": 45
                 },
                 "new": {
-                    "type": "int",
-                    "value": 53
+                    "int": 53
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 46
+                    "int": 46
                 },
                 "new": {
-                    "type": "int",
-                    "value": 54
+                    "int": 54
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 47
+                    "int": 47
                 },
                 "new": {
-                    "type": "int",
-                    "value": 55
+                    "int": 55
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 48
+                    "int": 48
                 },
                 "new": {
-                    "type": "int",
-                    "value": 40
+                    "int": 40
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 49
+                    "int": 49
                 },
                 "new": {
-                    "type": "int",
-                    "value": 41
+                    "int": 41
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 50
+                    "int": 50
                 },
                 "new": {
-                    "type": "int",
-                    "value": 42
+                    "int": 42
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 51
+                    "int": 51
                 },
                 "new": {
-                    "type": "int",
-                    "value": 43
+                    "int": 43
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 52
+                    "int": 52
                 },
                 "new": {
-                    "type": "int",
-                    "value": 56
+                    "int": 56
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 53
+                    "int": 53
                 },
                 "new": {
-                    "type": "int",
-                    "value": 57
+                    "int": 57
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 54
+                    "int": 54
                 },
                 "new": {
-                    "type": "int",
-                    "value": 58
+                    "int": 58
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 55
+                    "int": 55
                 },
                 "new": {
-                    "type": "int",
-                    "value": 59
+                    "int": 59
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 56
+                    "int": 56
                 },
                 "new": {
-                    "type": "int",
-                    "value": 44
+                    "int": 44
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 57
+                    "int": 57
                 },
                 "new": {
-                    "type": "int",
-                    "value": 45
+                    "int": 45
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 58
+                    "int": 58
                 },
                 "new": {
-                    "type": "int",
-                    "value": 46
+                    "int": 46
                 }
             },
             {
                 "old": {
-                    "type": "int",
-                    "value": 59
+                    "int": 59
                 },
                 "new": {
-                    "type": "int",
-                    "value": 47
+                    "int": 47
                 }
             }
         ]

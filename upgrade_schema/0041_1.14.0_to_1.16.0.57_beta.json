@@ -6,30 +6,24 @@
     "addedProperties": {
         "minecraft:cobblestone_wall": {
             "wall_connection_type_east": {
-                "type": "string",
-                "value": "none"
+                "string": "none"
             },
             "wall_connection_type_north": {
-                "type": "string",
-                "value": "none"
+                "string": "none"
             },
             "wall_connection_type_south": {
-                "type": "string",
-                "value": "none"
+                "string": "none"
             },
             "wall_connection_type_west": {
-                "type": "string",
-                "value": "none"
+                "string": "none"
             },
             "wall_post_bit": {
-                "type": "byte",
-                "value": 0
+                "byte": 0
             }
         },
         "minecraft:jigsaw": {
             "rotation": {
-                "type": "int",
-                "value": 0
+                "int": 0
             }
         }
     }
