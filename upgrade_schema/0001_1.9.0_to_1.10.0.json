@@ -645,7 +645,7 @@
             "mapped_type": "mapped_type_10"
         },
         "minecraft:stone_slab2": {
-            "mapped_type": "mapped_type_27"
+            "mapped_type": "mapped_type_11"
         },
         "minecraft:stone_slab3": {
             "mapped_type": "mapped_type_12"
@@ -654,13 +654,13 @@
             "mapped_type": "mapped_type_13"
         },
         "minecraft:stonebrick": {
-            "mapped_type": "mapped_type_28"
+            "mapped_type": "mapped_type_27"
         },
         "minecraft:structure_block": {
-            "mapped_type": "mapped_type_29"
+            "mapped_type": "mapped_type_28"
         },
         "minecraft:tallgrass": {
-            "mapped_type": "mapped_type_30"
+            "mapped_type": "mapped_type_29"
         },
         "minecraft:wooden_slab": {
             "mapped_type": "mapped_type_14"
@@ -1403,11 +1403,31 @@
             {
                 "old": {
                     "type": "int",
+                    "value": 5
+                },
+                "new": {
+                    "type": "string",
+                    "value": "mossy_cobblestone"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 3
+                },
+                "new": {
+                    "type": "string",
+                    "value": "prismarine_dark"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
                     "value": 7
                 },
                 "new": {
                     "type": "string",
-                    "value": "red_sandstone"
+                    "value": "red_nether_brick"
                 }
             },
             {
@@ -1427,47 +1447,7 @@
                 },
                 "new": {
                     "type": "string",
-                    "value": "red_sandstone"
-                }
-            },
-            {
-                "old": {
-                    "type": "int",
-                    "value": 4
-                },
-                "new": {
-                    "type": "string",
-                    "value": "red_sandstone"
-                }
-            },
-            {
-                "old": {
-                    "type": "int",
-                    "value": 3
-                },
-                "new": {
-                    "type": "string",
-                    "value": "red_sandstone"
-                }
-            },
-            {
-                "old": {
-                    "type": "int",
-                    "value": 5
-                },
-                "new": {
-                    "type": "string",
-                    "value": "red_sandstone"
-                }
-            },
-            {
-                "old": {
-                    "type": "int",
-                    "value": 2
-                },
-                "new": {
-                    "type": "string",
-                    "value": "red_sandstone"
+                    "value": "purpur"
                 }
             },
             {
@@ -1477,7 +1457,27 @@
                 },
                 "new": {
                     "type": "string",
-                    "value": "red_sandstone"
+                    "value": "smooth_sandstone"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 2
+                },
+                "new": {
+                    "type": "string",
+                    "value": "prismarine_rough"
+                }
+            },
+            {
+                "old": {
+                    "type": "int",
+                    "value": 4
+                },
+                "new": {
+                    "type": "string",
+                    "value": "prismarine_brick"
                 }
             }
         ],
@@ -2375,88 +2375,6 @@
             {
                 "old": {
                     "type": "int",
-                    "value": 5
-                },
-                "new": {
-                    "type": "string",
-                    "value": "mossy_cobblestone"
-                }
-            },
-            {
-                "old": {
-                    "type": "int",
-                    "value": 3
-                },
-                "new": {
-                    "type": "string",
-                    "value": "prismarine_dark"
-                }
-            },
-            {
-                "old": {
-                    "type": "int",
-                    "value": 7
-                },
-                "new": {
-                    "type": "string",
-                    "value": "red_nether_brick"
-                }
-            },
-            {
-                "old": {
-                    "type": "int",
-                    "value": 0
-                },
-                "new": {
-                    "type": "string",
-                    "value": "red_sandstone"
-                }
-            },
-            {
-                "old": {
-                    "type": "int",
-                    "value": 1
-                },
-                "new": {
-                    "type": "string",
-                    "value": "purpur"
-                }
-            },
-            {
-                "old": {
-                    "type": "int",
-                    "value": 6
-                },
-                "new": {
-                    "type": "string",
-                    "value": "smooth_sandstone"
-                }
-            },
-            {
-                "old": {
-                    "type": "int",
-                    "value": 2
-                },
-                "new": {
-                    "type": "string",
-                    "value": "prismarine_rough"
-                }
-            },
-            {
-                "old": {
-                    "type": "int",
-                    "value": 4
-                },
-                "new": {
-                    "type": "string",
-                    "value": "prismarine_brick"
-                }
-            }
-        ],
-        "mapped_type_28": [
-            {
-                "old": {
-                    "type": "int",
                     "value": 3
                 },
                 "new": {
@@ -2535,7 +2453,7 @@
                 }
             }
         ],
-        "mapped_type_29": [
+        "mapped_type_28": [
             {
                 "old": {
                     "type": "int",
@@ -2617,7 +2535,7 @@
                 }
             }
         ],
-        "mapped_type_30": [
+        "mapped_type_29": [
             {
                 "old": {
                     "type": "int",
