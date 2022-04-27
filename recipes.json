@@ -48377,7 +48377,8 @@
             },
             "output": {
                 "id": 752
-            }
+            },
+            "experience": 2.0
         },
         {
             "block": "blast_furnace",
@@ -48387,7 +48388,8 @@
             },
             "output": {
                 "id": 266
-            }
+            },
+            "experience": 0.7
         },
         {
             "block": "blast_furnace",
@@ -48397,7 +48399,8 @@
             },
             "output": {
                 "id": 388
-            }
+            },
+            "experience": 1
         },
         {
             "block": "blast_furnace",
@@ -48407,7 +48410,8 @@
             },
             "output": {
                 "id": 266
-            }
+            },
+            "experience": 0.7
         },
         {
             "block": "blast_furnace",
@@ -48417,7 +48421,8 @@
             },
             "output": {
                 "id": 265
-            }
+            },
+            "experience": 0.7
         },
         {
             "block": "blast_furnace",
@@ -48427,7 +48432,8 @@
             },
             "output": {
                 "id": 406
-            }
+            },
+            "experience": 0.2
         },
         {
             "block": "blast_furnace",
@@ -48437,7 +48443,8 @@
             },
             "output": {
                 "id": 263
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48448,7 +48455,8 @@
             "output": {
                 "id": 351,
                 "damage": 4
-            }
+            },
+            "experience": 0.2
         },
         {
             "block": "blast_furnace",
@@ -48458,7 +48466,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48468,7 +48477,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48478,7 +48488,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48488,7 +48499,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48498,7 +48510,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48508,7 +48521,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48518,7 +48532,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48528,7 +48543,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48538,7 +48554,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48548,7 +48565,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48557,7 +48575,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48566,7 +48585,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48575,7 +48595,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48584,7 +48605,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48593,7 +48615,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48602,7 +48625,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48611,7 +48635,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48620,7 +48645,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48629,7 +48655,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48638,7 +48665,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48647,7 +48675,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48656,7 +48685,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48666,7 +48696,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48676,7 +48707,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "blast_furnace",
@@ -48686,7 +48718,8 @@
             },
             "output": {
                 "id": 264
-            }
+            },
+            "experience": 1.0
         },
         {
             "block": "blast_furnace",
@@ -48696,7 +48729,8 @@
             },
             "output": {
                 "id": 331
-            }
+            },
+            "experience": 0.7
         },
         {
             "block": "campfire",
@@ -48706,7 +48740,8 @@
             },
             "output": {
                 "id": 320
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "campfire",
@@ -48716,7 +48751,8 @@
             },
             "output": {
                 "id": 464
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "campfire",
@@ -48726,7 +48762,8 @@
             },
             "output": {
                 "id": 350
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "campfire",
@@ -48736,7 +48773,8 @@
             },
             "output": {
                 "id": 364
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "campfire",
@@ -48746,7 +48784,8 @@
             },
             "output": {
                 "id": 366
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "campfire",
@@ -48756,7 +48795,8 @@
             },
             "output": {
                 "id": 393
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "campfire",
@@ -48766,7 +48806,8 @@
             },
             "output": {
                 "id": 412
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "campfire",
@@ -48776,7 +48817,8 @@
             },
             "output": {
                 "id": 424
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "campfire",
@@ -48786,7 +48828,8 @@
             },
             "output": {
                 "id": 463
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "furnace",
@@ -48797,7 +48840,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48808,7 +48852,8 @@
             "output": {
                 "id": 351,
                 "damage": 10
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -48819,7 +48864,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48830,7 +48876,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48841,7 +48888,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48852,7 +48900,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48863,7 +48912,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48874,7 +48924,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48885,7 +48936,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48896,7 +48948,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48907,7 +48960,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48918,7 +48972,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48929,7 +48984,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48939,7 +48995,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48949,7 +49006,8 @@
             },
             "output": {
                 "id": 752
-            }
+            },
+            "experience": 2.0
         },
         {
             "block": "furnace",
@@ -48959,7 +49017,8 @@
             },
             "output": {
                 "id": -280
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -48969,7 +49028,8 @@
             },
             "output": {
                 "id": 266
-            }
+            },
+            "experience": 0.7
         },
         {
             "block": "furnace",
@@ -48980,7 +49040,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -48991,7 +49052,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -49002,7 +49064,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -49013,7 +49076,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -49024,7 +49088,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -49034,7 +49099,8 @@
             },
             "output": {
                 "id": -303
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49044,7 +49110,8 @@
             },
             "output": {
                 "id": 20
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49054,7 +49121,8 @@
             },
             "output": {
                 "id": 388
-            }
+            },
+            "experience": 1
         },
         {
             "block": "furnace",
@@ -49064,7 +49132,8 @@
             },
             "output": {
                 "id": 266
-            }
+            },
+            "experience": 0.7
         },
         {
             "block": "furnace",
@@ -49074,7 +49143,8 @@
             },
             "output": {
                 "id": 265
-            }
+            },
+            "experience": 0.7
         },
         {
             "block": "furnace",
@@ -49084,7 +49154,8 @@
             },
             "output": {
                 "id": 406
-            }
+            },
+            "experience": 0.2
         },
         {
             "block": "furnace",
@@ -49094,7 +49165,8 @@
             "output": {
                 "id": 155,
                 "damage": 3
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49104,7 +49176,8 @@
             },
             "output": {
                 "id": 219
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49114,7 +49187,8 @@
             },
             "output": {
                 "id": 231
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49124,7 +49198,8 @@
             },
             "output": {
                 "id": 232
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49134,7 +49209,8 @@
             },
             "output": {
                 "id": 233
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49144,7 +49220,8 @@
             },
             "output": {
                 "id": 234
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49154,7 +49231,8 @@
             },
             "output": {
                 "id": 235
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49164,7 +49242,8 @@
             },
             "output": {
                 "id": 221
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49174,7 +49253,8 @@
             },
             "output": {
                 "id": 222
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49184,7 +49264,8 @@
             },
             "output": {
                 "id": 223
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49194,7 +49275,8 @@
             },
             "output": {
                 "id": 224
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49204,7 +49286,8 @@
             },
             "output": {
                 "id": 225
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49214,7 +49297,8 @@
             },
             "output": {
                 "id": 226
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49224,7 +49308,8 @@
             },
             "output": {
                 "id": 227
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49234,7 +49319,8 @@
             },
             "output": {
                 "id": 228
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49244,7 +49330,8 @@
             },
             "output": {
                 "id": 229
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49253,7 +49340,8 @@
             },
             "output": {
                 "id": 220
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49263,7 +49351,8 @@
             },
             "output": {
                 "id": 263
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49274,7 +49363,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -49284,7 +49374,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -49295,7 +49386,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -49306,7 +49398,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -49317,7 +49410,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -49328,7 +49422,8 @@
             "output": {
                 "id": 179,
                 "damage": 3
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49338,7 +49433,8 @@
             "output": {
                 "id": 263,
                 "damage": 1
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -49348,7 +49444,8 @@
             },
             "output": {
                 "id": 19
-            }
+            },
+            "experience": 0.15
         },
         {
             "block": "furnace",
@@ -49357,7 +49454,8 @@
             },
             "output": {
                 "id": -183
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49368,7 +49466,8 @@
             "output": {
                 "id": 351,
                 "damage": 4
-            }
+            },
+            "experience": 0.2
         },
         {
             "block": "furnace",
@@ -49379,7 +49478,8 @@
             "output": {
                 "id": 24,
                 "damage": 3
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49389,7 +49489,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49399,7 +49500,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49409,7 +49511,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49419,7 +49522,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49429,7 +49533,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49439,7 +49544,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49449,7 +49555,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49459,7 +49566,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49469,7 +49577,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49479,7 +49588,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49488,7 +49598,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49497,7 +49608,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49506,7 +49618,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49515,7 +49628,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49524,7 +49638,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49533,7 +49648,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49542,7 +49658,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49551,7 +49668,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49560,7 +49678,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49569,7 +49688,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49578,7 +49698,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49587,7 +49708,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49597,7 +49719,8 @@
             },
             "output": {
                 "id": 320
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "furnace",
@@ -49607,7 +49730,8 @@
             },
             "output": {
                 "id": 464
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49617,7 +49741,8 @@
             },
             "output": {
                 "id": 336
-            }
+            },
+            "experience": 0.3
         },
         {
             "block": "furnace",
@@ -49627,7 +49752,8 @@
             },
             "output": {
                 "id": 350
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "furnace",
@@ -49637,7 +49763,8 @@
             },
             "output": {
                 "id": 364
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "furnace",
@@ -49647,7 +49774,8 @@
             },
             "output": {
                 "id": 366
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "furnace",
@@ -49657,7 +49785,8 @@
             },
             "output": {
                 "id": 393
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "furnace",
@@ -49667,7 +49796,8 @@
             },
             "output": {
                 "id": 1
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49677,7 +49807,8 @@
             },
             "output": {
                 "id": 412
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "furnace",
@@ -49687,7 +49818,8 @@
             },
             "output": {
                 "id": 452
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49697,7 +49829,8 @@
             },
             "output": {
                 "id": 371
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49707,7 +49840,8 @@
             },
             "output": {
                 "id": 424
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "furnace",
@@ -49717,7 +49851,8 @@
             },
             "output": {
                 "id": 433
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49727,7 +49862,8 @@
             },
             "output": {
                 "id": 463
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "furnace",
@@ -49737,7 +49873,8 @@
             },
             "output": {
                 "id": 264
-            }
+            },
+            "experience": 1.0
         },
         {
             "block": "furnace",
@@ -49747,7 +49884,8 @@
             },
             "output": {
                 "id": 331
-            }
+            },
+            "experience": 0.7
         },
         {
             "block": "furnace",
@@ -49758,7 +49896,8 @@
             "output": {
                 "id": 351,
                 "damage": 2
-            }
+            },
+            "experience": 0.2
         },
         {
             "block": "furnace",
@@ -49768,7 +49907,8 @@
             },
             "output": {
                 "id": 172
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "furnace",
@@ -49778,7 +49918,8 @@
             },
             "output": {
                 "id": 405
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "furnace",
@@ -49788,7 +49929,8 @@
             "output": {
                 "id": 98,
                 "damage": 2
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "smoker",
@@ -49798,7 +49940,8 @@
             },
             "output": {
                 "id": 320
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "smoker",
@@ -49808,7 +49951,8 @@
             },
             "output": {
                 "id": 464
-            }
+            },
+            "experience": 0.1
         },
         {
             "block": "smoker",
@@ -49818,7 +49962,8 @@
             },
             "output": {
                 "id": 350
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "smoker",
@@ -49828,7 +49973,8 @@
             },
             "output": {
                 "id": 364
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "smoker",
@@ -49838,7 +49984,8 @@
             },
             "output": {
                 "id": 366
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "smoker",
@@ -49848,7 +49995,8 @@
             },
             "output": {
                 "id": 393
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "smoker",
@@ -49858,7 +50006,8 @@
             },
             "output": {
                 "id": 412
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "smoker",
@@ -49868,7 +50017,8 @@
             },
             "output": {
                 "id": 424
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "smoker",
@@ -49878,7 +50028,8 @@
             },
             "output": {
                 "id": 463
-            }
+            },
+            "experience": 0.35
         },
         {
             "block": "soul_campfire",
@@ -49888,7 +50039,8 @@
             },
             "output": {
                 "id": 320
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "soul_campfire",
@@ -49898,7 +50050,8 @@
             },
             "output": {
                 "id": 464
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "soul_campfire",
@@ -49908,7 +50061,8 @@
             },
             "output": {
                 "id": 350
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "soul_campfire",
@@ -49918,7 +50072,8 @@
             },
             "output": {
                 "id": 364
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "soul_campfire",
@@ -49928,7 +50083,8 @@
             },
             "output": {
                 "id": 366
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "soul_campfire",
@@ -49938,7 +50094,8 @@
             },
             "output": {
                 "id": 393
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "soul_campfire",
@@ -49948,7 +50105,8 @@
             },
             "output": {
                 "id": 412
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "soul_campfire",
@@ -49958,7 +50116,8 @@
             },
             "output": {
                 "id": 424
-            }
+            },
+            "experience": 0.0
         },
         {
             "block": "soul_campfire",
@@ -49968,7 +50127,8 @@
             },
             "output": {
                 "id": 463
-            }
+            },
+            "experience": 0.0
         }
     ],
     "special_hardcoded": [
