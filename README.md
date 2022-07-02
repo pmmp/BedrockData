@@ -6,35 +6,12 @@ This file contains an ordered list of `TAG_Compound`s (in varint NBT format) rep
 The runtime ID of a state is the offset in the list that the state appears.
 The contents of this file are extracted from the vanilla BDS using [`pmmp/mapping`](https://github.com/pmmp/mapping).
 
-## block_id_map.json
-This file contains a mapping of all block stringy IDs to legacy numeric IDs (which are still used internally, and still needed by third party developers for conversion and for items).
+## block_state_meta_map.json
+This file contains a mapping of all blockstate IDs (as per `canonical_block_states.nbt`) to their associated internal meta values.
+The position in the list is the blockstate ID, and the value is the blockstate's associated meta value.
+This information is used for interpreting and serializing crafting recipes on the network in PM5.
 
-#### Note
-Where a block's legacy ID is > 255, its item ID is `255 - legacyBlockId`. This means prismarine stairs = -2 and so on.
-
-## r12_to_current_block_map.bin
-This file contains a list of mappings from legacy pre-1.13 blockstates to states of the current version.
-This data is obtained by plugging the legacy states into `BlockPalette` in the vanilla BDS using [`pmmp/mapping`](https://github.com/pmmp/mapping), and writing the resulting NBT state obtained.
-
-#### Schema
-The following structure is repeated until EOF. There is **no** length prefix, so you have to read to EOF to read all the mappings.
-| type | description |
-|------|-------------|
-| unsigned varint32 | r12 block string ID length |
-| byte[] | r12 block string ID |
-| little-endian int16 | r12 block metadata |
-| TAG_Compound (varint format) | current version NBT blockstate corresponding to the given r12 block |
-
-An example of how to read this file using the PocketMine-MP core library can be seen on the [stable branch](https://github.com/pmmp/PocketMine-MP/blob/41f7c07703bf3f7ef2d9504bbdbdf74257e75d12/src/pocketmine/network/mcpe/convert/RuntimeBlockMapping.php#L71-L86) or on the [master branch](https://github.com/pmmp/PocketMine-MP/blob/73592349cd29d91b03c2703107db859115a92e2d/src/network/mcpe/convert/RuntimeBlockMapping.php#L70-L80).
-
-## r16_to_current_block_map.json
-This file contains mappings to translate pre-1.16.100 item IDs into post-1.16.100 item IDs.
-It contains two structures:
-- `simple`: these are 1:1 replacement IDs (e.g. `carrotonastick` was renamed to `carrot_on_a_stick`)
-- `complex`: these are items that were previously metadata values on other items (e.g. `dye:4` is now represented by `lapis_lazuli`).
-
-## item_id_map.json
-This file contains a mapping of all item stringy IDs to legacy numeric IDs.
+Note: While the values may **appear** to be contiguous, they are not - in some cases there are holes. This means that you can't always get away with just assigning an increasing integer to each blockstate as its meta value.
 
 ## banner_patterns.json
 This file defines all the known banner pattern types and their crafting requirements.
