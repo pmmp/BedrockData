@@ -1,0 +1,18 @@
+[
+    {
+        "ingredient": {
+            "meta": 0,
+            "name": "minecraft:dragon_breath"
+        },
+        "input_item_name": "minecraft:splash_potion",
+        "output_item_name": "minecraft:lingering_potion"
+    },
+    {
+        "ingredient": {
+            "meta": 0,
+            "name": "minecraft:gunpowder"
+        },
+        "input_item_name": "minecraft:potion",
+        "output_item_name": "minecraft:splash_potion"
+    }
+]
