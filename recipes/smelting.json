@@ -47,7 +47,6 @@
                 "name": "minecraft:deepslate_copper_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:copper_ingot"
             }
         },
@@ -58,7 +57,6 @@
                 "name": "minecraft:deepslate_copper_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:copper_ingot"
             }
         },
@@ -69,7 +67,6 @@
                 "name": "minecraft:deepslate_emerald_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:emerald"
             }
         },
@@ -80,7 +77,6 @@
                 "name": "minecraft:deepslate_emerald_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:emerald"
             }
         },
@@ -111,7 +107,6 @@
                 "name": "minecraft:deepslate_diamond_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:diamond"
             }
         },
@@ -122,7 +117,6 @@
                 "name": "minecraft:deepslate_diamond_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:diamond"
             }
         },
@@ -133,7 +127,6 @@
                 "name": "minecraft:deepslate_redstone_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:redstone"
             }
         },
@@ -144,7 +137,6 @@
                 "name": "minecraft:deepslate_redstone_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:redstone"
             }
         },
@@ -155,7 +147,6 @@
                 "name": "minecraft:deepslate_gold_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_ingot"
             }
         },
@@ -166,7 +157,6 @@
                 "name": "minecraft:deepslate_gold_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_ingot"
             }
         },
@@ -177,7 +167,6 @@
                 "name": "minecraft:deepslate_iron_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_ingot"
             }
         },
@@ -188,7 +177,6 @@
                 "name": "minecraft:deepslate_iron_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_ingot"
             }
         },
@@ -250,7 +238,6 @@
                 "name": "minecraft:copper_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:copper_ingot"
             }
         },
@@ -261,7 +248,6 @@
                 "name": "minecraft:copper_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:copper_ingot"
             }
         },
@@ -272,7 +258,6 @@
                 "name": "minecraft:nether_gold_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_ingot"
             }
         },
@@ -283,7 +268,6 @@
                 "name": "minecraft:nether_gold_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_ingot"
             }
         },
@@ -304,7 +288,6 @@
                 "name": "minecraft:ancient_debris"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:netherite_scrap"
             }
         },
@@ -315,7 +298,6 @@
                 "name": "minecraft:ancient_debris"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:netherite_scrap"
             }
         },
@@ -557,7 +539,6 @@
                 "name": "minecraft:gold_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_ingot"
             }
         },
@@ -568,7 +549,6 @@
                 "name": "minecraft:gold_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_ingot"
             }
         },
@@ -579,7 +559,6 @@
                 "name": "minecraft:iron_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_ingot"
             }
         },
@@ -590,7 +569,6 @@
                 "name": "minecraft:iron_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_ingot"
             }
         },
@@ -703,7 +681,6 @@
                 "name": "minecraft:diamond_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:diamond"
             }
         },
@@ -714,7 +691,6 @@
                 "name": "minecraft:diamond_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:diamond"
             }
         },
@@ -725,7 +701,6 @@
                 "name": "minecraft:redstone_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:redstone"
             }
         },
@@ -736,7 +711,6 @@
                 "name": "minecraft:redstone_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:redstone"
             }
         },
@@ -767,7 +741,6 @@
                 "name": "minecraft:netherrack"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:netherbrick"
             }
         },
@@ -799,7 +772,6 @@
                 "name": "minecraft:emerald_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:emerald"
             }
         },
@@ -810,7 +782,6 @@
                 "name": "minecraft:emerald_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:emerald"
             }
         },
@@ -821,7 +792,6 @@
                 "name": "minecraft:quartz_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:quartz"
             }
         },
@@ -832,7 +802,6 @@
                 "name": "minecraft:quartz_ore"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:quartz"
             }
         },
@@ -1061,7 +1030,6 @@
                 "name": "minecraft:porkchop"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_porkchop"
             }
         },
@@ -1072,7 +1040,6 @@
                 "name": "minecraft:porkchop"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_porkchop"
             }
         },
@@ -1083,7 +1050,6 @@
                 "name": "minecraft:porkchop"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_porkchop"
             }
         },
@@ -1094,7 +1060,6 @@
                 "name": "minecraft:porkchop"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_porkchop"
             }
         },
@@ -1105,7 +1070,6 @@
                 "name": "minecraft:cod"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_cod"
             }
         },
@@ -1116,7 +1080,6 @@
                 "name": "minecraft:cod"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_cod"
             }
         },
@@ -1127,7 +1090,6 @@
                 "name": "minecraft:cod"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_cod"
             }
         },
@@ -1138,7 +1100,6 @@
                 "name": "minecraft:cod"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_cod"
             }
         },
@@ -1149,7 +1110,6 @@
                 "name": "minecraft:salmon"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_salmon"
             }
         },
@@ -1160,7 +1120,6 @@
                 "name": "minecraft:salmon"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_salmon"
             }
         },
@@ -1171,7 +1130,6 @@
                 "name": "minecraft:salmon"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_salmon"
             }
         },
@@ -1182,7 +1140,6 @@
                 "name": "minecraft:salmon"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_salmon"
             }
         },
@@ -1193,7 +1150,6 @@
                 "name": "minecraft:beef"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_beef"
             }
         },
@@ -1204,7 +1160,6 @@
                 "name": "minecraft:beef"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_beef"
             }
         },
@@ -1215,7 +1170,6 @@
                 "name": "minecraft:beef"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_beef"
             }
         },
@@ -1226,7 +1180,6 @@
                 "name": "minecraft:beef"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_beef"
             }
         },
@@ -1237,7 +1190,6 @@
                 "name": "minecraft:chicken"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_chicken"
             }
         },
@@ -1248,7 +1200,6 @@
                 "name": "minecraft:chicken"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_chicken"
             }
         },
@@ -1259,7 +1210,6 @@
                 "name": "minecraft:chicken"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_chicken"
             }
         },
@@ -1270,7 +1220,6 @@
                 "name": "minecraft:chicken"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_chicken"
             }
         },
@@ -1281,7 +1230,6 @@
                 "name": "minecraft:potato"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:baked_potato"
             }
         },
@@ -1292,7 +1240,6 @@
                 "name": "minecraft:potato"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:baked_potato"
             }
         },
@@ -1303,7 +1250,6 @@
                 "name": "minecraft:potato"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:baked_potato"
             }
         },
@@ -1314,7 +1260,6 @@
                 "name": "minecraft:potato"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:baked_potato"
             }
         },
@@ -1325,7 +1270,6 @@
                 "name": "minecraft:rabbit"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_rabbit"
             }
         },
@@ -1336,7 +1280,6 @@
                 "name": "minecraft:rabbit"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_rabbit"
             }
         },
@@ -1347,7 +1290,6 @@
                 "name": "minecraft:rabbit"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_rabbit"
             }
         },
@@ -1358,7 +1300,6 @@
                 "name": "minecraft:rabbit"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_rabbit"
             }
         },
@@ -1369,7 +1310,6 @@
                 "name": "minecraft:iron_shovel"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1380,7 +1320,6 @@
                 "name": "minecraft:iron_shovel"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1391,7 +1330,6 @@
                 "name": "minecraft:iron_pickaxe"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1402,7 +1340,6 @@
                 "name": "minecraft:iron_pickaxe"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1413,7 +1350,6 @@
                 "name": "minecraft:iron_axe"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1424,7 +1360,6 @@
                 "name": "minecraft:iron_axe"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1435,7 +1370,6 @@
                 "name": "minecraft:iron_sword"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1446,7 +1380,6 @@
                 "name": "minecraft:iron_sword"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1457,7 +1390,6 @@
                 "name": "minecraft:golden_sword"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1468,7 +1400,6 @@
                 "name": "minecraft:golden_sword"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1479,7 +1410,6 @@
                 "name": "minecraft:golden_shovel"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1490,7 +1420,6 @@
                 "name": "minecraft:golden_shovel"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1501,7 +1430,6 @@
                 "name": "minecraft:golden_pickaxe"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1512,7 +1440,6 @@
                 "name": "minecraft:golden_pickaxe"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1523,7 +1450,6 @@
                 "name": "minecraft:golden_axe"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1534,7 +1460,6 @@
                 "name": "minecraft:golden_axe"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1545,7 +1470,6 @@
                 "name": "minecraft:iron_hoe"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1556,7 +1480,6 @@
                 "name": "minecraft:iron_hoe"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1567,7 +1490,6 @@
                 "name": "minecraft:golden_hoe"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1578,7 +1500,6 @@
                 "name": "minecraft:golden_hoe"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1589,7 +1510,6 @@
                 "name": "minecraft:chainmail_helmet"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1600,7 +1520,6 @@
                 "name": "minecraft:chainmail_helmet"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1611,7 +1530,6 @@
                 "name": "minecraft:chainmail_chestplate"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1622,7 +1540,6 @@
                 "name": "minecraft:chainmail_chestplate"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1633,7 +1550,6 @@
                 "name": "minecraft:chainmail_leggings"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1644,7 +1560,6 @@
                 "name": "minecraft:chainmail_leggings"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1655,7 +1570,6 @@
                 "name": "minecraft:chainmail_boots"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1666,7 +1580,6 @@
                 "name": "minecraft:chainmail_boots"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1677,7 +1590,6 @@
                 "name": "minecraft:iron_helmet"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1688,7 +1600,6 @@
                 "name": "minecraft:iron_helmet"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1699,7 +1610,6 @@
                 "name": "minecraft:iron_chestplate"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1710,7 +1620,6 @@
                 "name": "minecraft:iron_chestplate"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1721,7 +1630,6 @@
                 "name": "minecraft:iron_leggings"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1732,7 +1640,6 @@
                 "name": "minecraft:iron_leggings"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1743,7 +1650,6 @@
                 "name": "minecraft:iron_boots"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1754,7 +1660,6 @@
                 "name": "minecraft:iron_boots"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1765,7 +1670,6 @@
                 "name": "minecraft:golden_helmet"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1776,7 +1680,6 @@
                 "name": "minecraft:golden_helmet"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1787,7 +1690,6 @@
                 "name": "minecraft:golden_chestplate"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1798,7 +1700,6 @@
                 "name": "minecraft:golden_chestplate"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1809,7 +1710,6 @@
                 "name": "minecraft:golden_leggings"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1820,7 +1720,6 @@
                 "name": "minecraft:golden_leggings"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1831,7 +1730,6 @@
                 "name": "minecraft:golden_boots"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1842,7 +1740,6 @@
                 "name": "minecraft:golden_boots"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -1853,7 +1750,6 @@
                 "name": "minecraft:kelp"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:dried_kelp"
             }
         },
@@ -1864,7 +1760,6 @@
                 "name": "minecraft:kelp"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:dried_kelp"
             }
         },
@@ -1875,7 +1770,6 @@
                 "name": "minecraft:kelp"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:dried_kelp"
             }
         },
@@ -1886,7 +1780,6 @@
                 "name": "minecraft:kelp"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:dried_kelp"
             }
         },
@@ -1897,7 +1790,6 @@
                 "name": "minecraft:clay_ball"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:brick"
             }
         },
@@ -1908,7 +1800,6 @@
                 "name": "minecraft:raw_iron"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_ingot"
             }
         },
@@ -1919,7 +1810,6 @@
                 "name": "minecraft:raw_iron"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_ingot"
             }
         },
@@ -1930,7 +1820,6 @@
                 "name": "minecraft:raw_gold"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_ingot"
             }
         },
@@ -1941,7 +1830,6 @@
                 "name": "minecraft:raw_gold"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_ingot"
             }
         },
@@ -1952,7 +1840,6 @@
                 "name": "minecraft:raw_copper"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:copper_ingot"
             }
         },
@@ -1963,7 +1850,6 @@
                 "name": "minecraft:raw_copper"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:copper_ingot"
             }
         },
@@ -1974,7 +1860,6 @@
                 "name": "minecraft:iron_horse_armor"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1985,7 +1870,6 @@
                 "name": "minecraft:iron_horse_armor"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:iron_nugget"
             }
         },
@@ -1996,7 +1880,6 @@
                 "name": "minecraft:golden_horse_armor"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -2007,7 +1890,6 @@
                 "name": "minecraft:golden_horse_armor"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:gold_nugget"
             }
         },
@@ -2018,7 +1900,6 @@
                 "name": "minecraft:mutton"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_mutton"
             }
         },
@@ -2029,7 +1910,6 @@
                 "name": "minecraft:mutton"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_mutton"
             }
         },
@@ -2040,7 +1920,6 @@
                 "name": "minecraft:mutton"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_mutton"
             }
         },
@@ -2051,7 +1930,6 @@
                 "name": "minecraft:mutton"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:cooked_mutton"
             }
         },
@@ -2062,7 +1940,6 @@
                 "name": "minecraft:chorus_fruit"
             },
             "output": {
-                "meta": 0,
                 "name": "minecraft:popped_chorus_fruit"
             }
         }
