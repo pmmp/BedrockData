@@ -2,126 +2,6 @@
     {
         "block": "blast_furnace",
         "input": {
-            "meta": 0,
-            "name": "minecraft:chainmail_boots"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "blast_furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:chainmail_chestplate"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "blast_furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:chainmail_helmet"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "blast_furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:chainmail_leggings"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "blast_furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:golden_boots"
-        },
-        "output": {
-            "name": "minecraft:gold_nugget"
-        }
-    },
-    {
-        "block": "blast_furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:golden_chestplate"
-        },
-        "output": {
-            "name": "minecraft:gold_nugget"
-        }
-    },
-    {
-        "block": "blast_furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:golden_helmet"
-        },
-        "output": {
-            "name": "minecraft:gold_nugget"
-        }
-    },
-    {
-        "block": "blast_furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:golden_leggings"
-        },
-        "output": {
-            "name": "minecraft:gold_nugget"
-        }
-    },
-    {
-        "block": "blast_furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:iron_boots"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "blast_furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:iron_chestplate"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "blast_furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:iron_helmet"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "blast_furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:iron_leggings"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "blast_furnace",
-        "input": {
             "meta": 32767,
             "name": "minecraft:ancient_debris"
         },
@@ -460,6 +340,114 @@
         }
     },
     {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:chainmail_boots"
+        },
+        "output": {
+            "name": "minecraft:iron_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:chainmail_chestplate"
+        },
+        "output": {
+            "name": "minecraft:iron_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:chainmail_helmet"
+        },
+        "output": {
+            "name": "minecraft:iron_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:chainmail_leggings"
+        },
+        "output": {
+            "name": "minecraft:iron_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:golden_boots"
+        },
+        "output": {
+            "name": "minecraft:gold_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:golden_chestplate"
+        },
+        "output": {
+            "name": "minecraft:gold_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:golden_helmet"
+        },
+        "output": {
+            "name": "minecraft:gold_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:golden_leggings"
+        },
+        "output": {
+            "name": "minecraft:gold_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:iron_boots"
+        },
+        "output": {
+            "name": "minecraft:iron_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:iron_chestplate"
+        },
+        "output": {
+            "name": "minecraft:iron_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:iron_helmet"
+        },
+        "output": {
+            "name": "minecraft:iron_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:iron_leggings"
+        },
+        "output": {
+            "name": "minecraft:iron_nugget"
+        }
+    },
+    {
         "block": "campfire",
         "input": {
             "meta": 32767,
@@ -552,336 +540,7 @@
     {
         "block": "furnace",
         "input": {
-            "meta": 0,
-            "name": "minecraft:chainmail_boots"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:chainmail_chestplate"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:chainmail_helmet"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:chainmail_leggings"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:golden_boots"
-        },
-        "output": {
-            "name": "minecraft:gold_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:golden_chestplate"
-        },
-        "output": {
-            "name": "minecraft:gold_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:golden_helmet"
-        },
-        "output": {
-            "name": "minecraft:gold_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:golden_leggings"
-        },
-        "output": {
-            "name": "minecraft:gold_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:iron_boots"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:iron_chestplate"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:iron_helmet"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:iron_leggings"
-        },
-        "output": {
-            "name": "minecraft:iron_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:log"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:log2"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:quartz_block"
-        },
-        "output": {
-            "block_states": "CgAACAsAY2hpc2VsX3R5cGUGAHNtb290aAgLAHBpbGxhcl9heGlzAQB5AA==",
-            "name": "minecraft:quartz_block"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:stained_hardened_clay"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:white_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:stone"
-        },
-        "output": {
-            "name": "minecraft:smooth_stone"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:stonebrick"
-        },
-        "output": {
-            "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAY3JhY2tlZAA=",
-            "name": "minecraft:stonebrick"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 0,
-            "name": "minecraft:wood"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 1,
-            "name": "minecraft:log"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 1,
-            "name": "minecraft:log2"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 1,
-            "name": "minecraft:sponge"
-        },
-        "output": {
-            "block_states": "CgAACAsAc3BvbmdlX3R5cGUDAGRyeQA=",
-            "name": "minecraft:sponge"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 1,
-            "name": "minecraft:stained_hardened_clay"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:orange_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 1,
-            "name": "minecraft:wood"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 10,
-            "name": "minecraft:stained_hardened_clay"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:purple_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 10,
-            "name": "minecraft:wood"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 11,
-            "name": "minecraft:stained_hardened_clay"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:blue_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 11,
-            "name": "minecraft:wood"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 12,
-            "name": "minecraft:stained_hardened_clay"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:brown_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 12,
-            "name": "minecraft:wood"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 13,
-            "name": "minecraft:stained_hardened_clay"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:green_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 13,
-            "name": "minecraft:wood"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 14,
+            "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
             "name": "minecraft:stained_hardened_clay"
         },
         "output": {
@@ -892,7 +551,62 @@
     {
         "block": "furnace",
         "input": {
-            "meta": 15,
+            "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+            "name": "minecraft:stained_hardened_clay"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:blue_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
+            "name": "minecraft:stained_hardened_clay"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:cyan_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
+            "name": "minecraft:stained_hardened_clay"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:gray_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
+            "name": "minecraft:stained_hardened_clay"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:lime_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
+            "name": "minecraft:stained_hardened_clay"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:pink_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
             "name": "minecraft:stained_hardened_clay"
         },
         "output": {
@@ -903,17 +617,84 @@
     {
         "block": "furnace",
         "input": {
-            "meta": 2,
-            "name": "minecraft:log"
+            "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
+            "name": "minecraft:stained_hardened_clay"
         },
         "output": {
-            "name": "minecraft:charcoal"
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:brown_glazed_terracotta"
         }
     },
     {
         "block": "furnace",
         "input": {
-            "meta": 2,
+            "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
+            "name": "minecraft:stained_hardened_clay"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:green_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
+            "name": "minecraft:stained_hardened_clay"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:white_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
+            "name": "minecraft:stained_hardened_clay"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:orange_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
+            "name": "minecraft:stained_hardened_clay"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:purple_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
+            "name": "minecraft:stained_hardened_clay"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:silver_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
+            "name": "minecraft:stained_hardened_clay"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:yellow_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
             "name": "minecraft:stained_hardened_clay"
         },
         "output": {
@@ -924,27 +705,7 @@
     {
         "block": "furnace",
         "input": {
-            "meta": 2,
-            "name": "minecraft:wood"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 3,
-            "name": "minecraft:log"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 3,
+            "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
             "name": "minecraft:stained_hardened_clay"
         },
         "output": {
@@ -955,11 +716,224 @@
     {
         "block": "furnace",
         "input": {
-            "meta": 3,
+            "block_states": "CgAACAoAc3RvbmVfdHlwZQUAc3RvbmUA",
+            "name": "minecraft:stone"
+        },
+        "output": {
+            "name": "minecraft:smooth_stone"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
+            "name": "minecraft:quartz_block"
+        },
+        "output": {
+            "block_states": "CgAACAsAY2hpc2VsX3R5cGUGAHNtb290aAgLAHBpbGxhcl9heGlzAQB5AA==",
+            "name": "minecraft:quartz_block"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAc3BvbmdlX3R5cGUDAHdldAA=",
+            "name": "minecraft:sponge"
+        },
+        "output": {
+            "block_states": "CgAACAsAc3BvbmdlX3R5cGUDAGRyeQA=",
+            "name": "minecraft:sponge"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlAwBvYWsA",
             "name": "minecraft:wood"
         },
         "output": {
             "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlBQBiaXJjaAA=",
+            "name": "minecraft:wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlBgBhY2FjaWEA",
+            "name": "minecraft:wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlBgBqdW5nbGUA",
+            "name": "minecraft:wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlBgBzcHJ1Y2UA",
+            "name": "minecraft:wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlCABkYXJrX29hawA=",
+            "name": "minecraft:wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlAwBvYWsA",
+            "name": "minecraft:wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlBQBiaXJjaAA=",
+            "name": "minecraft:wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlBgBhY2FjaWEA",
+            "name": "minecraft:wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlBgBqdW5nbGUA",
+            "name": "minecraft:wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlBgBzcHJ1Y2UA",
+            "name": "minecraft:wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlCABkYXJrX29hawA=",
+            "name": "minecraft:wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAwAb2xkX2xvZ190eXBlAwBvYWsICwBwaWxsYXJfYXhpcwEAeQA=",
+            "name": "minecraft:log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAwAb2xkX2xvZ190eXBlBQBiaXJjaAgLAHBpbGxhcl9heGlzAQB5AA==",
+            "name": "minecraft:log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAwAb2xkX2xvZ190eXBlBgBqdW5nbGUICwBwaWxsYXJfYXhpcwEAeQA=",
+            "name": "minecraft:log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAwAb2xkX2xvZ190eXBlBgBzcHJ1Y2UICwBwaWxsYXJfYXhpcwEAeQA=",
+            "name": "minecraft:log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAwAbmV3X2xvZ190eXBlBgBhY2FjaWEICwBwaWxsYXJfYXhpcwEAeQA=",
+            "name": "minecraft:log2"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAwAbmV3X2xvZ190eXBlCABkYXJrX29hawgLAHBpbGxhcl9heGlzAQB5AA==",
+            "name": "minecraft:log2"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAZGVmYXVsdAA=",
+            "name": "minecraft:stonebrick"
+        },
+        "output": {
+            "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAY3JhY2tlZAA=",
+            "name": "minecraft:stonebrick"
         }
     },
     {
@@ -1659,107 +1633,109 @@
     {
         "block": "furnace",
         "input": {
-            "meta": 4,
-            "name": "minecraft:stained_hardened_clay"
+            "name": "minecraft:chainmail_boots"
         },
         "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:yellow_glazed_terracotta"
+            "name": "minecraft:iron_nugget"
         }
     },
     {
         "block": "furnace",
         "input": {
-            "meta": 4,
-            "name": "minecraft:wood"
+            "name": "minecraft:chainmail_chestplate"
         },
         "output": {
-            "name": "minecraft:charcoal"
+            "name": "minecraft:iron_nugget"
         }
     },
     {
         "block": "furnace",
         "input": {
-            "meta": 5,
-            "name": "minecraft:stained_hardened_clay"
+            "name": "minecraft:chainmail_helmet"
         },
         "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:lime_glazed_terracotta"
+            "name": "minecraft:iron_nugget"
         }
     },
     {
         "block": "furnace",
         "input": {
-            "meta": 5,
-            "name": "minecraft:wood"
+            "name": "minecraft:chainmail_leggings"
         },
         "output": {
-            "name": "minecraft:charcoal"
+            "name": "minecraft:iron_nugget"
         }
     },
     {
         "block": "furnace",
         "input": {
-            "meta": 6,
-            "name": "minecraft:stained_hardened_clay"
+            "name": "minecraft:golden_boots"
         },
         "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:pink_glazed_terracotta"
+            "name": "minecraft:gold_nugget"
         }
     },
     {
         "block": "furnace",
         "input": {
-            "meta": 7,
-            "name": "minecraft:stained_hardened_clay"
+            "name": "minecraft:golden_chestplate"
         },
         "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:gray_glazed_terracotta"
+            "name": "minecraft:gold_nugget"
         }
     },
     {
         "block": "furnace",
         "input": {
-            "meta": 8,
-            "name": "minecraft:stained_hardened_clay"
+            "name": "minecraft:golden_helmet"
         },
         "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:silver_glazed_terracotta"
+            "name": "minecraft:gold_nugget"
         }
     },
     {
         "block": "furnace",
         "input": {
-            "meta": 8,
-            "name": "minecraft:wood"
+            "name": "minecraft:golden_leggings"
         },
         "output": {
-            "name": "minecraft:charcoal"
+            "name": "minecraft:gold_nugget"
         }
     },
     {
         "block": "furnace",
         "input": {
-            "meta": 9,
-            "name": "minecraft:stained_hardened_clay"
+            "name": "minecraft:iron_boots"
         },
         "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:cyan_glazed_terracotta"
+            "name": "minecraft:iron_nugget"
         }
     },
     {
         "block": "furnace",
         "input": {
-            "meta": 9,
-            "name": "minecraft:wood"
+            "name": "minecraft:iron_chestplate"
         },
         "output": {
-            "name": "minecraft:charcoal"
+            "name": "minecraft:iron_nugget"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "name": "minecraft:iron_helmet"
+        },
+        "output": {
+            "name": "minecraft:iron_nugget"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "name": "minecraft:iron_leggings"
+        },
+        "output": {
+            "name": "minecraft:iron_nugget"
         }
     },
     {

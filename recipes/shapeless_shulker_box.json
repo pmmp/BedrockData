@@ -3,7 +3,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -23,7 +23,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -43,7 +43,27 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bone_meal"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -63,7 +83,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -83,7 +103,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -103,7 +123,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -123,7 +143,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -143,7 +163,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -163,7 +183,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -183,7 +203,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -203,7 +223,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -223,7 +243,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -243,7 +263,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -263,7 +283,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -283,7 +303,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -303,7 +323,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -323,17 +343,17 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
-                "name": "minecraft:red_dye"
+                "name": "minecraft:white_dye"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             }
         ],
@@ -343,7 +363,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -363,8 +383,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -383,28 +403,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:blue_dye"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
                 "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
             },
             {
                 "meta": 32767,
@@ -423,8 +423,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -443,8 +443,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -463,8 +463,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -483,8 +483,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -503,8 +503,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -523,8 +523,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -543,28 +543,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:lapis_lazuli"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
                 "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
             },
             {
                 "meta": 32767,
@@ -583,8 +563,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -603,8 +583,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -623,8 +603,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -643,8 +623,8 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -663,387 +643,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:pink_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:purple_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:red_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:white_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 0,
-                "name": "minecraft:undyed_shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:yellow_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:black_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:blue_dye"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:bone_meal"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:brown_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:cocoa_beans"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:cyan_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:gray_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:green_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:ink_sac"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:lapis_lazuli"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:light_blue_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:light_gray_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:lime_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:magenta_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 1,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1063,7 +663,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 1,
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1083,7 +683,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 1,
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1103,7 +703,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 1,
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1123,7 +723,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 1,
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1143,7 +743,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1163,7 +763,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1183,7 +783,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1203,7 +803,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1223,7 +823,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1243,27 +843,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:cyan_dye"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 10,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1283,7 +863,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1303,7 +883,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1323,7 +903,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1343,7 +923,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1363,7 +943,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1383,7 +963,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1403,7 +983,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1423,7 +1003,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1443,7 +1023,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1463,7 +1043,27 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:purple_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1483,7 +1083,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1503,7 +1103,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 10,
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1523,7 +1123,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1543,7 +1143,27 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:blue_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1563,7 +1183,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1583,7 +1203,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1603,7 +1223,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1623,27 +1243,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:gray_dye"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 11,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1663,7 +1263,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1683,7 +1283,27 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_lazuli"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1703,7 +1323,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1723,7 +1343,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1743,7 +1363,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1763,7 +1383,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1783,7 +1403,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1803,7 +1423,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1823,7 +1443,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1843,7 +1463,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1863,7 +1483,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 11,
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1883,7 +1503,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1903,7 +1523,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1923,7 +1543,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1943,7 +1563,47 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:cocoa_beans"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1963,7 +1623,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -1983,7 +1643,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2003,7 +1663,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2023,7 +1683,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2043,7 +1703,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2063,7 +1723,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2083,27 +1743,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:lime_dye"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 12,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2123,7 +1763,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2143,7 +1783,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2163,7 +1803,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2183,7 +1823,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2203,7 +1843,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2223,7 +1863,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 12,
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2243,7 +1883,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2263,7 +1903,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2283,7 +1923,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2303,7 +1943,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2323,7 +1963,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2343,7 +1983,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2363,7 +2003,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2383,7 +2023,27 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:green_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2403,7 +2063,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2423,7 +2083,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2443,7 +2103,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2463,7 +2123,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2483,7 +2143,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2503,7 +2163,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2523,27 +2183,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:pink_dye"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 13,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2563,7 +2203,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2583,7 +2223,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2603,7 +2243,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 13,
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2623,27 +2263,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:black_dye"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 14,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2663,7 +2283,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2683,7 +2303,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2703,7 +2323,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2723,7 +2343,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2743,7 +2363,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2763,7 +2383,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2783,27 +2403,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:ink_sac"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 14,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2823,7 +2423,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2843,7 +2443,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2863,7 +2463,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2883,7 +2483,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2903,7 +2503,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2923,7 +2523,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2943,7 +2543,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2963,7 +2563,27 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -2983,7 +2603,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 14,
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3003,7 +2623,27 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:black_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3023,7 +2663,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3043,47 +2683,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:brown_dye"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 15,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:cocoa_beans"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 15,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3103,7 +2703,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3123,7 +2723,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3143,7 +2743,27 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:ink_sac"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3163,7 +2783,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3183,7 +2803,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3203,7 +2823,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3223,7 +2843,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3243,7 +2863,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3263,7 +2883,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3283,7 +2903,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3303,7 +2923,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3323,7 +2943,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3343,7 +2963,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 15,
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3363,7 +2983,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3383,7 +3003,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3403,7 +3023,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3423,7 +3043,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3443,7 +3063,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3463,7 +3083,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3483,7 +3103,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3503,27 +3123,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:green_dye"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 2,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3543,7 +3143,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3563,7 +3163,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3583,7 +3183,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3603,7 +3203,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3623,7 +3223,27 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:magenta_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3643,7 +3263,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3663,7 +3283,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3683,7 +3303,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3703,7 +3323,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3723,7 +3343,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 2,
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3743,7 +3363,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3763,7 +3383,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3783,27 +3403,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:bone_meal"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 3,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3823,7 +3423,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3843,7 +3443,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3863,7 +3463,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3883,7 +3483,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3903,7 +3503,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3923,7 +3523,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3943,7 +3543,27 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:light_blue_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3963,7 +3583,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -3983,7 +3603,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4003,7 +3623,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4023,7 +3643,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4043,7 +3663,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4063,7 +3683,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4083,27 +3703,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 3,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:white_dye"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 3,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4123,7 +3723,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4143,7 +3743,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4163,7 +3763,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4183,7 +3783,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4203,7 +3803,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4223,7 +3823,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4243,7 +3843,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4263,7 +3863,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4283,7 +3883,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4303,7 +3903,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4323,7 +3923,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4343,7 +3943,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4363,7 +3963,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4383,7 +3983,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4403,27 +4003,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:orange_dye"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 4,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4443,7 +4023,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 4,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4462,369 +4042,9 @@
     {
         "block": "crafting_table",
         "input": [
-            {
-                "meta": 4,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:red_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 4,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:white_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:black_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:blue_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:bone_meal"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:brown_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:cocoa_beans"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:cyan_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:gray_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:green_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:ink_sac"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:lapis_lazuli"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:light_blue_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:light_gray_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:magenta_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:orange_dye"
-            }
-        ],
-        "output": [
             {
                 "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:pink_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:purple_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 5,
-                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -4843,7 +4063,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 5,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4863,7 +4083,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 5,
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4883,7 +4103,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4903,7 +4123,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4923,7 +4143,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4943,7 +4163,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4963,7 +4183,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -4983,7 +4203,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5003,7 +4223,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5023,7 +4243,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5043,7 +4263,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5063,7 +4283,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5083,7 +4303,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5103,7 +4323,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5123,7 +4343,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5143,7 +4363,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5163,7 +4383,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5183,17 +4403,17 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
-                "name": "minecraft:purple_dye"
+                "name": "minecraft:pink_dye"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:shulker_box"
             }
         ],
@@ -5203,7 +4423,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5223,7 +4443,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5243,7 +4463,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 6,
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5263,7 +4483,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5283,7 +4503,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5303,7 +4523,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5323,7 +4543,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5343,7 +4563,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5363,7 +4583,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5383,7 +4603,27 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:gray_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5403,7 +4643,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5423,7 +4663,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5443,7 +4683,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5463,27 +4703,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:light_gray_dye"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 7,
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5503,7 +4723,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5523,7 +4743,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5543,7 +4763,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5563,7 +4783,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5583,7 +4803,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5603,7 +4823,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5623,7 +4843,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 7,
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5643,7 +4863,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 8,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5663,7 +4883,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 8,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5683,7 +4903,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 8,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5703,7 +4923,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 8,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5723,7 +4943,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 8,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5743,7 +4963,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 8,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5763,7 +4983,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 8,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -5782,369 +5002,9 @@
     {
         "block": "crafting_table",
         "input": [
-            {
-                "meta": 8,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:green_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 8,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:ink_sac"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 8,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:lapis_lazuli"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 8,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:light_blue_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 8,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:lime_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 8,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:magenta_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 8,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:orange_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 8,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:pink_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 8,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:purple_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 8,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:red_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 8,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:white_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 8,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:yellow_dye"
-            }
-        ],
-        "output": [
             {
                 "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 9,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:black_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 9,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:blue_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 9,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:bone_meal"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 9,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:brown_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 9,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:cocoa_beans"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 9,
-                "name": "minecraft:shulker_box"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:gray_dye"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:shulker_box"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 9,
-                "name": "minecraft:shulker_box"
             },
             {
                 "meta": 32767,
@@ -6163,7 +5023,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 9,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -6183,7 +5043,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 9,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -6203,7 +5063,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 9,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -6223,7 +5083,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 9,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -6243,7 +5103,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 9,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -6263,7 +5123,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 9,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -6283,7 +5143,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 9,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -6303,7 +5163,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 9,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -6323,7 +5183,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 9,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -6343,7 +5203,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 9,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -6363,7 +5223,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 9,
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
                 "name": "minecraft:shulker_box"
             },
             {
@@ -6383,8 +5243,1128 @@
         "block": "crafting_table",
         "input": [
             {
-                "meta": 9,
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
                 "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:black_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:blue_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bone_meal"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:cocoa_beans"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:cyan_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:gray_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:green_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:ink_sac"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_lazuli"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:light_blue_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:light_gray_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:lime_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:orange_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:pink_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:purple_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:white_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:yellow_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:black_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:blue_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bone_meal"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:cocoa_beans"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:cyan_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:gray_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:green_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:ink_sac"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_lazuli"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:light_gray_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:lime_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:magenta_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:orange_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:pink_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:purple_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:white_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:yellow_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:black_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:blue_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bone_meal"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:cocoa_beans"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:cyan_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:gray_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:green_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:ink_sac"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_lazuli"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:light_blue_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:light_gray_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:lime_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:magenta_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:orange_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:pink_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:purple_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:white_dye"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
+                "name": "minecraft:shulker_box"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "name": "minecraft:undyed_shulker_box"
             },
             {
                 "meta": 32767,
