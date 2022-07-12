@@ -18067,9 +18067,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQAAA==",
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "count": 3,
-                "name": "minecraft:mangrove_wood"
+                "name": "minecraft:stripped_mangrove_wood"
             }
         ],
         "priority": 0,
