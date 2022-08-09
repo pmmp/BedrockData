@@ -15194,6 +15194,62 @@
             },
             "C": {
                 "meta": 32767,
+                "name": "minecraft:mangrove_log"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:campfire"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:charcoal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:mangrove_wood"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:campfire"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:charcoal"
+            },
+            "C": {
+                "meta": 32767,
                 "name": "minecraft:stripped_acacia_log"
             }
         },
@@ -15315,6 +15371,34 @@
             }
         ],
         "priority": 0,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:charcoal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:stripped_mangrove_wood"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:campfire"
+            }
+        ],
+        "priority": 2,
         "shape": [
             " A ",
             "ABA",

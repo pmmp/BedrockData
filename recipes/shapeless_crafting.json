@@ -9840,6 +9840,7 @@
         ],
         "output": [
             {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:muddy_mangrove_roots"
             }
         ],
