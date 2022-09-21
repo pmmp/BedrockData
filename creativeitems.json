@@ -2370,13 +2370,6 @@
         "name": "minecraft:coral_fan_dead"
     },
     {
-        "name": "minecraft:kelp"
-    },
-    {
-        "block_states": "CgAACA4Ac2VhX2dyYXNzX3R5cGUHAGRlZmF1bHQA",
-        "name": "minecraft:seagrass"
-    },
-    {
         "name": "minecraft:crimson_roots"
     },
     {
@@ -2525,6 +2518,13 @@
     },
     {
         "name": "minecraft:waterlily"
+    },
+    {
+        "block_states": "CgAACA4Ac2VhX2dyYXNzX3R5cGUHAGRlZmF1bHQA",
+        "name": "minecraft:seagrass"
+    },
+    {
+        "name": "minecraft:kelp"
     },
     {
         "name": "minecraft:deadbush"
