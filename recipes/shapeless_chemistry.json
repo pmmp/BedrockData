@@ -7,6 +7,291 @@
                 "name": "minecraft:bleach"
             },
             {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEOAGhlYWRfcGllY2VfYml0AAEMAG9jY3VwaWVkX2JpdAEA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEOAGhlYWRfcGllY2VfYml0AQEMAG9jY3VwaWVkX2JpdAAA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEOAGhlYWRfcGllY2VfYml0AQEMAG9jY3VwaWVkX2JpdAEA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAQAAAAEOAGhlYWRfcGllY2VfYml0AAEMAG9jY3VwaWVkX2JpdAAA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAQAAAAEOAGhlYWRfcGllY2VfYml0AAEMAG9jY3VwaWVkX2JpdAEA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAQAAAAEOAGhlYWRfcGllY2VfYml0AQEMAG9jY3VwaWVkX2JpdAAA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAQAAAAEOAGhlYWRfcGllY2VfYml0AQEMAG9jY3VwaWVkX2JpdAEA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAgAAAAEOAGhlYWRfcGllY2VfYml0AAEMAG9jY3VwaWVkX2JpdAAA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAgAAAAEOAGhlYWRfcGllY2VfYml0AAEMAG9jY3VwaWVkX2JpdAEA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAgAAAAEOAGhlYWRfcGllY2VfYml0AQEMAG9jY3VwaWVkX2JpdAAA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAgAAAAEOAGhlYWRfcGllY2VfYml0AQEMAG9jY3VwaWVkX2JpdAEA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAwAAAAEOAGhlYWRfcGllY2VfYml0AAEMAG9jY3VwaWVkX2JpdAAA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAwAAAAEOAGhlYWRfcGllY2VfYml0AAEMAG9jY3VwaWVkX2JpdAEA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAwAAAAEOAGhlYWRfcGllY2VfYml0AQEMAG9jY3VwaWVkX2JpdAAA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAwAAAAEOAGhlYWRfcGllY2VfYml0AQEMAG9jY3VwaWVkX2JpdAEA",
+                "name": "minecraft:bed"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:bleach"
+            },
+            {
                 "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
                 "name": "minecraft:carpet"
             }
@@ -627,25 +912,6 @@
                 "name": "minecraft:bleach"
             },
             {
-                "meta": 1,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
                 "meta": 10,
                 "name": "minecraft:banner"
             }
@@ -654,25 +920,6 @@
             {
                 "meta": 15,
                 "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
-                "meta": 10,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
             }
         ],
         "priority": 0
@@ -705,25 +952,6 @@
                 "name": "minecraft:bleach"
             },
             {
-                "meta": 11,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
                 "meta": 12,
                 "name": "minecraft:banner"
             }
@@ -732,25 +960,6 @@
             {
                 "meta": 15,
                 "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
-                "meta": 12,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
             }
         ],
         "priority": 0
@@ -783,25 +992,6 @@
                 "name": "minecraft:bleach"
             },
             {
-                "meta": 13,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
                 "meta": 14,
                 "name": "minecraft:banner"
             }
@@ -810,44 +1000,6 @@
             {
                 "meta": 15,
                 "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
-                "meta": 14,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
-                "meta": 15,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
             }
         ],
         "priority": 0
@@ -880,25 +1032,6 @@
                 "name": "minecraft:bleach"
             },
             {
-                "meta": 2,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
                 "meta": 3,
                 "name": "minecraft:banner"
             }
@@ -907,25 +1040,6 @@
             {
                 "meta": 15,
                 "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
-                "meta": 3,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
             }
         ],
         "priority": 0
@@ -958,25 +1072,6 @@
                 "name": "minecraft:bleach"
             },
             {
-                "meta": 4,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
                 "meta": 5,
                 "name": "minecraft:banner"
             }
@@ -985,25 +1080,6 @@
             {
                 "meta": 15,
                 "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
-                "meta": 5,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
             }
         ],
         "priority": 0
@@ -1036,25 +1112,6 @@
                 "name": "minecraft:bleach"
             },
             {
-                "meta": 6,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
                 "meta": 7,
                 "name": "minecraft:banner"
             }
@@ -1063,25 +1120,6 @@
             {
                 "meta": 15,
                 "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
-                "meta": 7,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
             }
         ],
         "priority": 0
@@ -1114,25 +1152,6 @@
                 "name": "minecraft:bleach"
             },
             {
-                "meta": 8,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
                 "meta": 9,
                 "name": "minecraft:banner"
             }
@@ -1141,25 +1160,6 @@
             {
                 "meta": 15,
                 "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:bleach"
-            },
-            {
-                "meta": 9,
-                "name": "minecraft:bed"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:bed"
             }
         ],
         "priority": 0

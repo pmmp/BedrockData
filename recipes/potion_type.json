@@ -1,6 +1,45 @@
 [
     {
         "ingredient": {
+            "block_states": "CgAAAwMAYWdlAAAAAAA=",
+            "name": "minecraft:nether_wart"
+        },
+        "input": {
+            "name": "minecraft:lingering_potion"
+        },
+        "output": {
+            "meta": 4,
+            "name": "minecraft:lingering_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "block_states": "CgAAAwMAYWdlAAAAAAA=",
+            "name": "minecraft:nether_wart"
+        },
+        "input": {
+            "name": "minecraft:potion"
+        },
+        "output": {
+            "meta": 4,
+            "name": "minecraft:potion"
+        }
+    },
+    {
+        "ingredient": {
+            "block_states": "CgAAAwMAYWdlAAAAAAA=",
+            "name": "minecraft:nether_wart"
+        },
+        "input": {
+            "name": "minecraft:splash_potion"
+        },
+        "output": {
+            "meta": 4,
+            "name": "minecraft:splash_potion"
+        }
+    },
+    {
+        "ingredient": {
             "name": "minecraft:blaze_powder"
         },
         "input": {
@@ -1460,42 +1499,6 @@
         },
         "output": {
             "meta": 1,
-            "name": "minecraft:splash_potion"
-        }
-    },
-    {
-        "ingredient": {
-            "name": "minecraft:nether_wart"
-        },
-        "input": {
-            "name": "minecraft:lingering_potion"
-        },
-        "output": {
-            "meta": 4,
-            "name": "minecraft:lingering_potion"
-        }
-    },
-    {
-        "ingredient": {
-            "name": "minecraft:nether_wart"
-        },
-        "input": {
-            "name": "minecraft:potion"
-        },
-        "output": {
-            "meta": 4,
-            "name": "minecraft:potion"
-        }
-    },
-    {
-        "ingredient": {
-            "name": "minecraft:nether_wart"
-        },
-        "input": {
-            "name": "minecraft:splash_potion"
-        },
-        "output": {
-            "meta": 4,
             "name": "minecraft:splash_potion"
         }
     },

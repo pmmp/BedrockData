@@ -1352,6 +1352,26 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:log2"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:mangrove_log"
         },
         "output": {
@@ -1625,6 +1645,16 @@
         "input": {
             "meta": 32767,
             "name": "minecraft:stripped_spruce_log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:wood"
         },
         "output": {
             "name": "minecraft:charcoal"

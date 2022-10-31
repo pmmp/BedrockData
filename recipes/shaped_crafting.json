@@ -459,78 +459,6 @@
             },
             "B": {
                 "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 14,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 14,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 14,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
                 "name": "minecraft:stick"
             }
         },
@@ -555,8 +483,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -565,7 +492,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -610,78 +537,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 11,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 11,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 11,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
         ]
     },
     {
@@ -717,8 +572,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -727,7 +581,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -772,78 +626,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 9,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 9,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 9,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
         ]
     },
     {
@@ -879,8 +661,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -889,7 +670,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -934,78 +715,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 7,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 7,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 7,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
         ]
     },
     {
@@ -1041,8 +750,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -1051,7 +759,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -1096,78 +804,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 5,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 5,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 5,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
         ]
     },
     {
@@ -1203,8 +839,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -1213,7 +848,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -1258,78 +893,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 6,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 6,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 6,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
         ]
     },
     {
@@ -1365,8 +928,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -1375,7 +937,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -1420,78 +982,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 15,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 15,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 15,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
         ]
     },
     {
@@ -1526,8 +1016,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -1536,7 +1025,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -1581,78 +1070,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 12,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 12,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 12,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
         ]
     },
     {
@@ -1688,8 +1105,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -1698,7 +1114,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -1754,78 +1170,6 @@
             },
             "B": {
                 "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 13,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 13,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 13,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
                 "name": "minecraft:stick"
             }
         },
@@ -1850,8 +1194,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -1860,7 +1203,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -2291,75 +1634,6 @@
             },
             "B": {
                 "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
                 "name": "minecraft:stick"
             }
         },
@@ -2384,8 +1658,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -2393,7 +1666,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -2438,78 +1711,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 1,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 1,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 1,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
         ]
     },
     {
@@ -2545,8 +1746,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -2555,7 +1755,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -2600,78 +1800,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 10,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 10,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 10,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
         ]
     },
     {
@@ -2707,8 +1835,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -2717,7 +1844,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -2762,78 +1889,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 8,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 8,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 8,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
         ]
     },
     {
@@ -2869,8 +1924,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -2879,7 +1933,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -2924,78 +1978,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 4,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 4,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 4,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
         ]
     },
     {
@@ -3031,8 +2013,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -3041,7 +2022,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -3086,78 +2067,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 2,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 2,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 2,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
         ]
     },
     {
@@ -3193,8 +2102,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -3203,7 +2111,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -3259,78 +2167,6 @@
             },
             "B": {
                 "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 3,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 3,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 3,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
                 "name": "minecraft:stick"
             }
         },
@@ -3355,8 +2191,7 @@
                 "name": "minecraft:wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -3365,7 +2200,7 @@
                 "name": "minecraft:bed"
             }
         ],
-        "priority": 2,
+        "priority": 1,
         "shape": [
             "AAA",
             "BBB"
@@ -6598,29 +5433,6 @@
             },
             "B": {
                 "meta": 32767,
-                "name": "minecraft:cobblestone"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:brewing_stand"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            " A ",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:blaze_rod"
-            },
-            "B": {
-                "meta": 32767,
                 "name": "minecraft:popped_chorus_fruit"
             }
         },
@@ -6635,6 +5447,28 @@
         "shape": [
             "A",
             "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:blaze_rod"
+            },
+            "B": {
+                "tag": "minecraft:stone_crafting_materials"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:brewing_stand"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            " A ",
+            "BBB"
         ]
     },
     {
@@ -6789,7 +5623,7 @@
                 "name": "minecraft:torch"
             }
         ],
-        "priority": 50,
+        "priority": 0,
         "shape": [
             "A",
             "B"
@@ -7190,126 +6024,6 @@
             "A": {
                 "meta": 32767,
                 "name": "minecraft:cobblestone"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:stone_axe"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AB",
-            " B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:cobblestone"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:stone_hoe"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            " B",
-            " B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:cobblestone"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:stone_pickaxe"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            " B ",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:cobblestone"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:stone_shovel"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A",
-            "B",
-            "B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:cobblestone"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:stone_sword"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A",
-            "A",
-            "B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:cobblestone"
             }
         },
         "output": [
@@ -7323,27 +6037,6 @@
         "shape": [
             "A  ",
             "AA ",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:cobblestone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-                "name": "minecraft:furnace"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "A A",
             "AAA"
         ]
     },
@@ -8927,30 +7620,6 @@
             },
             "B": {
                 "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:fletching_table"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "BB",
-            "BB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:flint"
-            },
-            "B": {
-                "meta": 32767,
                 "name": "minecraft:stick"
             },
             "C": {
@@ -8989,6 +7658,29 @@
             }
         ],
         "priority": 2,
+        "shape": [
+            "AA",
+            "BB",
+            "BB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:flint"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:fletching_table"
+            }
+        ],
+        "priority": -1,
         "shape": [
             "AA",
             "BB",
@@ -9132,6 +7824,34 @@
             }
         ],
         "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:quartz"
+            },
+            "C": {
+                "tag": "minecraft:wooden_slabs"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:daylight_detector"
+            }
+        ],
+        "priority": -1,
         "shape": [
             "AAA",
             "BBB",
@@ -11300,30 +10020,6 @@
             },
             "B": {
                 "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:smithing_table"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "BB",
-            "BB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            },
-            "B": {
-                "meta": 32767,
                 "name": "minecraft:redstone"
             }
         },
@@ -11410,36 +10106,6 @@
             },
             "C": {
                 "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQwAYXR0YWNoZWRfYml0AAMJAGRpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
-                "count": 2,
-                "name": "minecraft:tripwire_hook"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "C": {
-                "meta": 32767,
                 "name": "minecraft:redstone_torch"
             }
         },
@@ -11480,6 +10146,35 @@
             }
         ],
         "priority": 2,
+        "shape": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "C": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQwAYXR0YWNoZWRfYml0AAMJAGRpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "count": 2,
+                "name": "minecraft:tripwire_hook"
+            }
+        ],
+        "priority": -1,
         "shape": [
             "A",
             "B",
@@ -11704,6 +10399,29 @@
             }
         ],
         "priority": 2,
+        "shape": [
+            "AA",
+            "BB",
+            "BB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:smithing_table"
+            }
+        ],
+        "priority": -1,
         "shape": [
             "AA",
             "BB",
@@ -12193,31 +10911,6 @@
             "AAA",
             "A A",
             "A A"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:log"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:furnace"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-                "name": "minecraft:smoker"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            " A ",
-            "ABA",
-            " A "
         ]
     },
     {
@@ -13508,7 +12201,7 @@
             },
             "B": {
                 "meta": 32767,
-                "name": "minecraft:planks"
+                "name": "minecraft:warped_planks"
             }
         },
         "output": [
@@ -13516,7 +12209,7 @@
                 "name": "minecraft:cartography_table"
             }
         ],
-        "priority": 0,
+        "priority": 2,
         "shape": [
             "AA",
             "BB",
@@ -13531,8 +12224,7 @@
                 "name": "minecraft:paper"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -13540,7 +12232,7 @@
                 "name": "minecraft:cartography_table"
             }
         ],
-        "priority": 2,
+        "priority": -1,
         "shape": [
             "AA",
             "BB",
@@ -13565,359 +12257,6 @@
             "AAA",
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:book"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:bookshelf"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "BBB",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:diamond"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:jukebox"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:honeycomb"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAMLAGhvbmV5X2xldmVsAAAAAAA=",
-                "name": "minecraft:beehive"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "BBB",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:shield"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "AAA",
-            " A "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:redstone"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:noteblock"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_axe"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AB",
-            " B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_hoe"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            " B",
-            " B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_pickaxe"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            " B ",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_shovel"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A",
-            "B",
-            "B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:wooden_sword"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A",
-            "A",
-            "B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            },
-            "B": {
-                "name": "minecraft:cobblestone"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            },
-            "D": {
-                "meta": 32767,
-                "name": "minecraft:redstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgEAAAAA",
-                "name": "minecraft:piston"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "BCB",
-            "BDB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-                "name": "minecraft:chest"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "A A",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "count": 4,
-                "name": "minecraft:bowl"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            " A "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "count": 4,
-                "name": "minecraft:stick"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A",
-            "A"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:crafting_table"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA"
         ]
     },
     {
@@ -15109,8 +13448,7 @@
                 "name": "minecraft:stone_block_slab4"
             },
             "C": {
-                "meta": 32767,
-                "name": "minecraft:planks"
+                "tag": "minecraft:planks"
             }
         },
         "output": [
@@ -15119,7 +13457,7 @@
                 "name": "minecraft:grindstone"
             }
         ],
-        "priority": 0,
+        "priority": -1,
         "shape": [
             "ABA",
             "C C"
@@ -17085,30 +15423,6 @@
                 "name": "minecraft:stick"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:painting"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
                 "name": "minecraft:coal"
             },
             "C": {
@@ -17122,33 +15436,6 @@
             }
         ],
         "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:log"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:campfire"
-            }
-        ],
-        "priority": 1,
         "shape": [
             " A ",
             "ABA",
@@ -17566,6 +15853,105 @@
             "A": {
                 "meta": 32767,
                 "name": "minecraft:stick"
+            },
+            "B": {
+                "tag": "minecraft:coals"
+            },
+            "C": {
+                "tag": "minecraft:logs"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:campfire"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "tag": "minecraft:soul_fire_base_blocks"
+            },
+            "C": {
+                "tag": "minecraft:logs"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:soul_campfire"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "tag": "minecraft:wooden_slabs"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCABvcGVuX2JpdAAA",
+                "name": "minecraft:barrel"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "ABA",
+            "A A",
+            "ABA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "tag": "minecraft:wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:painting"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
             }
         },
         "output": [
@@ -17663,30 +16049,6 @@
             },
             "B": {
                 "meta": 32767,
-                "name": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
-                "name": "minecraft:loom"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "BB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:string"
-            },
-            "B": {
-                "meta": 32767,
                 "name": "minecraft:slime_ball"
             }
         },
@@ -17722,6 +16084,29 @@
             }
         ],
         "priority": 2,
+        "shape": [
+            "AA",
+            "BB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:string"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:loom"
+            }
+        ],
+        "priority": -1,
         "shape": [
             "AA",
             "BB"
@@ -19527,52 +17912,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "meta": 32767,
-                "name": "minecraft:wooden_slab"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bookshelf"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAHBvd2VyZWRfYml0AAA=",
-                "name": "minecraft:lectern"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            " B ",
-            " A "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:wooden_slab"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAxQAY29tcG9zdGVyX2ZpbGxfbGV2ZWwAAAAAAA==",
-                "name": "minecraft:composter"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "A A",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:arrow"
             },
             "B": {
@@ -20634,7 +18973,7 @@
                 "name": "minecraft:torch"
             }
         ],
-        "priority": 50,
+        "priority": 0,
         "shape": [
             "A",
             "B"
@@ -20695,34 +19034,6 @@
         "priority": 50,
         "shape": [
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:quartz"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:wooden_slab"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
-                "name": "minecraft:daylight_detector"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "BBB",
-            "CCC"
         ]
     },
     {
@@ -20874,6 +19185,600 @@
         ],
         "priority": 50,
         "shape": [
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:coals"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "C": {
+                "tag": "minecraft:soul_fire_base_blocks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "count": 4,
+                "name": "minecraft:soul_torch"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:coals"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "count": 4,
+                "name": "minecraft:torch"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:logs"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:furnace"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:smoker"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            " A ",
+            "ABA",
+            " A "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:book"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:bookshelf"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AAA",
+            "BBB",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            },
+            "D": {
+                "meta": 32767,
+                "name": "minecraft:redstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgEAAAAA",
+                "name": "minecraft:piston"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AAA",
+            "BCB",
+            "BDB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:diamond"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:jukebox"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAMLAGhvbmV5X2xldmVsAAAAAAA=",
+                "name": "minecraft:beehive"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AAA",
+            "BBB",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:shield"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "ABA",
+            "AAA",
+            " A "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:redstone"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:noteblock"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:wooden_axe"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AA",
+            "AB",
+            " B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:wooden_hoe"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AA",
+            " B",
+            " B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:wooden_pickaxe"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AAA",
+            " B ",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:wooden_shovel"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "A",
+            "B",
+            "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:wooden_sword"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "A",
+            "A",
+            "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:chest"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AAA",
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:bowl"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "A A",
+            " A "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:stick"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "A",
+            "A"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:crafting_table"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AA",
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:stone_crafting_materials"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:furnace"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AAA",
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:stone_tool_materials"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:stone_axe"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AA",
+            "AB",
+            " B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:stone_tool_materials"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:stone_hoe"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AA",
+            " B",
+            " B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:stone_tool_materials"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:stone_pickaxe"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AAA",
+            " B ",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:stone_tool_materials"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:stone_shovel"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "A",
+            "B",
+            "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:stone_tool_materials"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:stone_sword"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "A",
+            "A",
+            "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:wooden_slabs"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bookshelf"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAHBvd2VyZWRfYml0AAA=",
+                "name": "minecraft:lectern"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "AAA",
+            " B ",
+            " A "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:wooden_slabs"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAxQAY29tcG9zdGVyX2ZpbGxfbGV2ZWwAAAAAAA==",
+                "name": "minecraft:composter"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "A A",
+            "A A",
             "AAA"
         ]
     }
