@@ -2967,6 +2967,12 @@
         "name": "minecraft:ravager_spawn_egg"
     },
     {
+        "name": "minecraft:iron_golem_spawn_egg"
+    },
+    {
+        "name": "minecraft:snow_golem_spawn_egg"
+    },
+    {
         "name": "minecraft:obsidian"
     },
     {
@@ -5649,5 +5655,11 @@
     },
     {
         "name": "minecraft:lodestone_compass"
+    },
+    {
+        "name": "minecraft:wither_spawn_egg"
+    },
+    {
+        "name": "minecraft:ender_dragon_spawn_egg"
     }
 ]
