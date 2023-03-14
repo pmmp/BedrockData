@@ -27,6 +27,12 @@
         "name": "minecraft:mangrove_planks"
     },
     {
+        "name": "minecraft:bamboo_planks"
+    },
+    {
+        "name": "minecraft:bamboo_mosaic"
+    },
+    {
         "name": "minecraft:crimson_planks"
     },
     {
@@ -148,6 +154,9 @@
         "name": "minecraft:mangrove_fence"
     },
     {
+        "name": "minecraft:bamboo_fence"
+    },
+    {
         "name": "minecraft:nether_brick_fence"
     },
     {
@@ -183,6 +192,10 @@
     {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
         "name": "minecraft:mangrove_fence_gate"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+        "name": "minecraft:bamboo_fence_gate"
     },
     {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
@@ -231,6 +244,14 @@
     {
         "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
         "name": "minecraft:mangrove_stairs"
+    },
+    {
+        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:bamboo_stairs"
+    },
+    {
+        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:bamboo_mosaic_stairs"
     },
     {
         "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
@@ -414,6 +435,9 @@
         "name": "minecraft:mangrove_door"
     },
     {
+        "name": "minecraft:bamboo_door"
+    },
+    {
         "name": "minecraft:iron_door"
     },
     {
@@ -449,6 +473,10 @@
     {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
         "name": "minecraft:mangrove_trapdoor"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+        "name": "minecraft:bamboo_trapdoor"
     },
     {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
@@ -1012,6 +1040,14 @@
         "name": "minecraft:mangrove_slab"
     },
     {
+        "block_states": "CgAAAQwAdG9wX3Nsb3RfYml0AAA=",
+        "name": "minecraft:bamboo_slab"
+    },
+    {
+        "block_states": "CgAAAQwAdG9wX3Nsb3RfYml0AAA=",
+        "name": "minecraft:bamboo_mosaic_slab"
+    },
+    {
         "block_states": "CgAACA8Ac3RvbmVfc2xhYl90eXBlCwBzdG9uZV9icmljawEMAHRvcF9zbG90X2JpdAAA",
         "name": "minecraft:stone_block_slab"
     },
@@ -1417,68 +1453,52 @@
         "name": "minecraft:lodestone"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-        "name": "minecraft:wool"
+        "name": "minecraft:white_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-        "name": "minecraft:wool"
+        "name": "minecraft:light_gray_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-        "name": "minecraft:wool"
+        "name": "minecraft:gray_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-        "name": "minecraft:wool"
+        "name": "minecraft:black_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-        "name": "minecraft:wool"
+        "name": "minecraft:brown_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-        "name": "minecraft:wool"
+        "name": "minecraft:red_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-        "name": "minecraft:wool"
+        "name": "minecraft:orange_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-        "name": "minecraft:wool"
+        "name": "minecraft:yellow_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-        "name": "minecraft:wool"
+        "name": "minecraft:lime_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-        "name": "minecraft:wool"
+        "name": "minecraft:green_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-        "name": "minecraft:wool"
+        "name": "minecraft:cyan_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-        "name": "minecraft:wool"
+        "name": "minecraft:light_blue_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-        "name": "minecraft:wool"
+        "name": "minecraft:blue_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-        "name": "minecraft:wool"
+        "name": "minecraft:purple_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-        "name": "minecraft:wool"
+        "name": "minecraft:magenta_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-        "name": "minecraft:wool"
+        "name": "minecraft:pink_wool"
     },
     {
         "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
@@ -2132,6 +2152,14 @@
     {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
         "name": "minecraft:stripped_warped_hyphae"
+    },
+    {
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:bamboo_block"
+    },
+    {
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:stripped_bamboo_block"
     },
     {
         "block_states": "CgAACA0Ab2xkX2xlYWZfdHlwZQMAb2FrAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
@@ -2929,6 +2957,9 @@
     },
     {
         "name": "minecraft:trader_llama_spawn_egg"
+    },
+    {
+        "name": "minecraft:camel_spawn_egg"
     },
     {
         "name": "minecraft:ghast_spawn_egg"
@@ -4072,6 +4103,9 @@
         "name": "minecraft:spyglass"
     },
     {
+        "name": "minecraft:brush"
+    },
+    {
         "name": "minecraft:stick"
     },
     {
@@ -4241,6 +4275,10 @@
         "name": "minecraft:beehive"
     },
     {
+        "block_states": "CgAAAxAAYnJ1c2hlZF9wcm9ncmVzcwAAAAABBwBoYW5naW5nAQA=",
+        "name": "minecraft:suspicious_sand"
+    },
+    {
         "name": "minecraft:campfire"
     },
     {
@@ -4302,6 +4340,10 @@
     },
     {
         "name": "minecraft:bookshelf"
+    },
+    {
+        "block_states": "CgAAAwwAYm9va3Nfc3RvcmVkAAAAAAMJAGRpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:chiseled_bookshelf"
     },
     {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAHBvd2VyZWRfYml0AAA=",
@@ -4488,10 +4530,43 @@
         "name": "minecraft:mangrove_sign"
     },
     {
+        "name": "minecraft:bamboo_sign"
+    },
+    {
         "name": "minecraft:crimson_sign"
     },
     {
         "name": "minecraft:warped_sign"
+    },
+    {
+        "name": "minecraft:oak_hanging_sign"
+    },
+    {
+        "name": "minecraft:spruce_hanging_sign"
+    },
+    {
+        "name": "minecraft:birch_hanging_sign"
+    },
+    {
+        "name": "minecraft:jungle_hanging_sign"
+    },
+    {
+        "name": "minecraft:acacia_hanging_sign"
+    },
+    {
+        "name": "minecraft:dark_oak_hanging_sign"
+    },
+    {
+        "name": "minecraft:mangrove_hanging_sign"
+    },
+    {
+        "name": "minecraft:bamboo_hanging_sign"
+    },
+    {
+        "name": "minecraft:crimson_hanging_sign"
+    },
+    {
+        "name": "minecraft:warped_hanging_sign"
     },
     {
         "name": "minecraft:painting"
@@ -4565,6 +4640,10 @@
     },
     {
         "meta": 1,
+        "name": "minecraft:skull"
+    },
+    {
+        "meta": 6,
         "name": "minecraft:skull"
     },
     {
@@ -5202,6 +5281,9 @@
         "name": "minecraft:mangrove_boat"
     },
     {
+        "name": "minecraft:bamboo_raft"
+    },
+    {
         "name": "minecraft:oak_chest_boat"
     },
     {
@@ -5221,6 +5303,9 @@
     },
     {
         "name": "minecraft:mangrove_chest_boat"
+    },
+    {
+        "name": "minecraft:bamboo_chest_raft"
     },
     {
         "block_states": "CgAAAw4AcmFpbF9kaXJlY3Rpb24AAAAAAA==",
@@ -5294,6 +5379,10 @@
     },
     {
         "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:bamboo_button"
+    },
+    {
+        "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
         "name": "minecraft:stone_button"
     },
     {
@@ -5339,6 +5428,10 @@
     {
         "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
         "name": "minecraft:mangrove_pressure_plate"
+    },
+    {
+        "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+        "name": "minecraft:bamboo_pressure_plate"
     },
     {
         "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
@@ -5501,6 +5594,18 @@
         "name": "minecraft:globe_banner_pattern"
     },
     {
+        "name": "minecraft:archer_pottery_shard"
+    },
+    {
+        "name": "minecraft:arms_up_pottery_shard"
+    },
+    {
+        "name": "minecraft:prize_pottery_shard"
+    },
+    {
+        "name": "minecraft:skull_pottery_shard"
+    },
+    {
         "name": "minecraft:firework_rocket",
         "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwAAAAAAAQYARmxpZ2h0AQAA"
     },
@@ -5652,6 +5757,10 @@
     },
     {
         "name": "minecraft:target"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
+        "name": "minecraft:decorated_pot"
     },
     {
         "name": "minecraft:lodestone_compass"

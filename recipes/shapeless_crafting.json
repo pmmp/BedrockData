@@ -6376,14 +6376,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6396,14 +6394,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6416,14 +6412,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6436,14 +6430,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6456,14 +6448,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6476,14 +6466,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6496,14 +6484,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6516,14 +6502,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6536,14 +6520,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6556,14 +6538,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6576,14 +6556,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6596,14 +6574,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6616,14 +6592,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6636,14 +6610,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6656,14 +6628,12 @@
                 "name": "minecraft:black_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -6758,14 +6728,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -6778,14 +6746,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -6798,14 +6764,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -6818,14 +6782,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -6838,14 +6800,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -6858,14 +6818,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -6878,14 +6836,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -6898,14 +6854,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -6918,14 +6872,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -6938,14 +6890,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -6958,14 +6908,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -6978,14 +6926,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -6998,14 +6944,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -7018,14 +6962,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -7038,14 +6980,12 @@
                 "name": "minecraft:blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -7090,14 +7030,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7110,14 +7048,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7130,14 +7066,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7150,14 +7084,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7170,14 +7102,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7190,14 +7120,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7210,14 +7138,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7230,14 +7156,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7250,14 +7174,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7270,14 +7192,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7290,14 +7210,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7310,14 +7228,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7330,14 +7246,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7350,14 +7264,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7370,14 +7282,12 @@
                 "name": "minecraft:bone_meal"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -7513,14 +7423,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7533,14 +7441,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7553,14 +7459,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7573,14 +7477,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7593,14 +7495,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7613,14 +7513,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7633,14 +7531,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7653,14 +7549,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7673,14 +7567,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7693,14 +7585,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7713,14 +7603,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7733,14 +7621,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7753,14 +7639,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7773,14 +7657,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -7793,14 +7675,12 @@
                 "name": "minecraft:brown_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -8634,6 +8514,24 @@
                 "name": "minecraft:chest"
             },
             {
+                "name": "minecraft:bamboo_raft"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:bamboo_chest_raft"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chest"
+            },
+            {
                 "name": "minecraft:birch_boat"
             }
         ],
@@ -8780,14 +8678,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -8800,14 +8696,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -8820,14 +8714,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -8840,14 +8732,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -8860,14 +8750,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -8880,14 +8768,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -8900,14 +8786,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -8920,14 +8804,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -8940,14 +8822,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -8960,14 +8840,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -8980,14 +8858,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -9000,14 +8876,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -9020,14 +8894,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -9040,14 +8912,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -9060,14 +8930,12 @@
                 "name": "minecraft:cocoa_beans"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "priority": 50
@@ -9158,14 +9026,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9178,14 +9044,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9198,14 +9062,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9218,14 +9080,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9238,14 +9098,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9258,14 +9116,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9278,14 +9134,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9298,14 +9152,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9318,14 +9170,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9338,14 +9188,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9358,14 +9206,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9378,14 +9224,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9398,14 +9242,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9418,14 +9260,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9438,14 +9278,12 @@
                 "name": "minecraft:cyan_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "priority": 50
@@ -9574,14 +9412,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9594,14 +9430,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9614,14 +9448,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9634,14 +9466,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9654,14 +9484,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9674,14 +9502,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9694,14 +9520,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9714,14 +9538,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9734,14 +9556,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9754,14 +9574,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9774,14 +9592,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9794,14 +9610,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9814,14 +9628,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9834,14 +9646,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9854,14 +9664,12 @@
                 "name": "minecraft:gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "priority": 50
@@ -9874,14 +9682,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -9894,14 +9700,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -9914,14 +9718,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -9934,14 +9736,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -9954,14 +9754,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -9974,14 +9772,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -9994,14 +9790,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -10014,14 +9808,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -10034,14 +9826,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -10054,14 +9844,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -10074,14 +9862,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -10094,14 +9880,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -10114,14 +9898,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -10134,14 +9916,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -10154,14 +9934,12 @@
                 "name": "minecraft:green_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "priority": 50
@@ -10643,14 +10421,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10663,14 +10439,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10683,14 +10457,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10703,14 +10475,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10723,14 +10493,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10743,14 +10511,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10763,14 +10529,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10783,14 +10547,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10803,14 +10565,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10823,14 +10583,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10843,14 +10601,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10863,14 +10619,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10883,14 +10637,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10903,14 +10655,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10923,14 +10673,12 @@
                 "name": "minecraft:ink_sac"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "priority": 50
@@ -10962,34 +10710,12 @@
                 "name": "minecraft:lapis_lazuli"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            }
-        ],
-        "priority": 50
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:lapis_lazuli"
-            },
-            {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -11002,34 +10728,12 @@
                 "name": "minecraft:lapis_lazuli"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            }
-        ],
-        "priority": 50
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:lapis_lazuli"
-            },
-            {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -11042,34 +10746,12 @@
                 "name": "minecraft:lapis_lazuli"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            }
-        ],
-        "priority": 50
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:lapis_lazuli"
-            },
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -11082,34 +10764,12 @@
                 "name": "minecraft:lapis_lazuli"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            }
-        ],
-        "priority": 50
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:lapis_lazuli"
-            },
-            {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -11122,34 +10782,12 @@
                 "name": "minecraft:lapis_lazuli"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            }
-        ],
-        "priority": 50
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:lapis_lazuli"
-            },
-            {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -11162,34 +10800,12 @@
                 "name": "minecraft:lapis_lazuli"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            }
-        ],
-        "priority": 50
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:lapis_lazuli"
-            },
-            {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -11202,14 +10818,12 @@
                 "name": "minecraft:lapis_lazuli"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -11222,14 +10836,12 @@
                 "name": "minecraft:lapis_lazuli"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -11242,14 +10854,120 @@
                 "name": "minecraft:lapis_lazuli"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
+            }
+        ],
+        "priority": 50
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_lazuli"
+            },
+            {
+                "name": "minecraft:orange_wool"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:blue_wool"
+            }
+        ],
+        "priority": 50
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_lazuli"
+            },
+            {
+                "name": "minecraft:pink_wool"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:blue_wool"
+            }
+        ],
+        "priority": 50
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_lazuli"
+            },
+            {
+                "name": "minecraft:purple_wool"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:blue_wool"
+            }
+        ],
+        "priority": 50
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_lazuli"
+            },
+            {
+                "name": "minecraft:red_wool"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:blue_wool"
+            }
+        ],
+        "priority": 50
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_lazuli"
+            },
+            {
+                "name": "minecraft:white_wool"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:blue_wool"
+            }
+        ],
+        "priority": 50
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_lazuli"
+            },
+            {
+                "name": "minecraft:yellow_wool"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:blue_wool"
             }
         ],
         "priority": 50
@@ -11262,14 +10980,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11282,14 +10998,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11302,14 +11016,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11322,14 +11034,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11342,14 +11052,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11362,14 +11070,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11382,14 +11088,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11402,14 +11106,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11422,14 +11124,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11442,14 +11142,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11462,14 +11160,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11482,14 +11178,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11502,14 +11196,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11522,14 +11214,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11542,14 +11232,12 @@
                 "name": "minecraft:light_blue_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "priority": 50
@@ -11562,14 +11250,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11582,14 +11268,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11602,14 +11286,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11622,14 +11304,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11642,14 +11322,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11662,14 +11340,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11682,14 +11358,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11702,14 +11376,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11722,14 +11394,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11742,14 +11412,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11762,14 +11430,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11782,14 +11448,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11802,14 +11466,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11822,14 +11484,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11842,14 +11502,12 @@
                 "name": "minecraft:light_gray_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "priority": 50
@@ -11862,14 +11520,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -11882,14 +11538,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -11902,14 +11556,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -11922,14 +11574,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -11942,14 +11592,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -11962,14 +11610,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -11982,14 +11628,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -12002,14 +11646,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -12022,14 +11664,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -12042,14 +11682,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -12062,14 +11700,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -12082,14 +11718,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -12102,14 +11736,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -12122,14 +11754,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -12142,14 +11772,12 @@
                 "name": "minecraft:lime_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "priority": 50
@@ -12162,14 +11790,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12182,14 +11808,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12202,14 +11826,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12222,14 +11844,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12242,14 +11862,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12262,14 +11880,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12282,14 +11898,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12302,14 +11916,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12322,14 +11934,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12342,14 +11952,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12362,14 +11970,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12382,14 +11988,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12402,14 +12006,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12422,14 +12024,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12442,14 +12042,12 @@
                 "name": "minecraft:magenta_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "priority": 50
@@ -12544,14 +12142,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12564,14 +12160,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12584,14 +12178,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12604,14 +12196,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12624,14 +12214,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12644,14 +12232,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12664,14 +12250,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12684,14 +12268,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12704,14 +12286,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12724,14 +12304,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12744,14 +12322,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12764,14 +12340,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12784,14 +12358,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12804,14 +12376,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -12824,14 +12394,12 @@
                 "name": "minecraft:orange_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "priority": 50
@@ -13555,14 +13123,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13575,14 +13141,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13595,14 +13159,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13615,14 +13177,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13635,14 +13195,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13655,14 +13213,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13675,14 +13231,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13695,14 +13249,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13715,14 +13267,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13735,14 +13285,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13755,14 +13303,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13775,14 +13321,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13795,14 +13339,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13815,14 +13357,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13835,14 +13375,12 @@
                 "name": "minecraft:pink_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "priority": 50
@@ -13878,14 +13416,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -13898,14 +13434,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -13918,14 +13452,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -13938,14 +13470,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -13958,14 +13488,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -13978,14 +13506,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -13998,14 +13524,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -14018,14 +13542,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -14038,14 +13560,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -14058,14 +13578,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -14078,14 +13596,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -14098,14 +13614,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -14118,14 +13632,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -14138,14 +13650,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -14158,14 +13668,12 @@
                 "name": "minecraft:purple_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "priority": 50
@@ -14178,14 +13686,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14198,14 +13704,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14218,14 +13722,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14238,14 +13740,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14258,14 +13758,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14278,14 +13776,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14298,14 +13794,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14318,14 +13812,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14338,14 +13830,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14358,14 +13848,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14378,14 +13866,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14398,14 +13884,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14418,14 +13902,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14438,14 +13920,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14458,14 +13938,12 @@
                 "name": "minecraft:red_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "priority": 50
@@ -14595,14 +14073,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14615,14 +14091,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14635,14 +14109,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14655,14 +14127,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14675,14 +14145,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14695,14 +14163,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14715,14 +14181,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14735,14 +14199,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14755,14 +14217,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14775,14 +14235,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14795,14 +14253,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14815,14 +14271,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14835,14 +14289,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14855,14 +14307,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14875,14 +14325,12 @@
                 "name": "minecraft:white_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 50
@@ -14910,14 +14358,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:black_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -14930,14 +14376,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -14950,14 +14394,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
+                "name": "minecraft:brown_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -14970,14 +14412,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
+                "name": "minecraft:cyan_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -14990,14 +14430,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -15010,14 +14448,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
+                "name": "minecraft:green_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -15030,14 +14466,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_blue_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -15050,14 +14484,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:light_gray_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -15070,14 +14502,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:lime_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -15090,14 +14520,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:magenta_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -15110,14 +14538,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:orange_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -15130,14 +14556,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:pink_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -15150,14 +14574,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:purple_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -15170,14 +14592,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
+                "name": "minecraft:red_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50
@@ -15190,14 +14610,12 @@
                 "name": "minecraft:yellow_dye"
             },
             {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
+                "name": "minecraft:yellow_wool"
             }
         ],
         "priority": 50

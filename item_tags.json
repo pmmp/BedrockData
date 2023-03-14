@@ -8,6 +8,8 @@
     "minecraft:boat": [
         "minecraft:acacia_boat",
         "minecraft:acacia_chest_boat",
+        "minecraft:bamboo_chest_raft",
+        "minecraft:bamboo_raft",
         "minecraft:birch_boat",
         "minecraft:birch_chest_boat",
         "minecraft:dark_oak_boat",
@@ -24,6 +26,8 @@
     "minecraft:boats": [
         "minecraft:acacia_boat",
         "minecraft:acacia_chest_boat",
+        "minecraft:bamboo_chest_raft",
+        "minecraft:bamboo_raft",
         "minecraft:birch_boat",
         "minecraft:birch_chest_boat",
         "minecraft:dark_oak_boat",
@@ -58,6 +62,13 @@
         "minecraft:crimson_stem",
         "minecraft:stripped_crimson_hyphae",
         "minecraft:stripped_crimson_stem"
+    ],
+    "minecraft:decorated_pot_shards": [
+        "minecraft:archer_pottery_shard",
+        "minecraft:arms_up_pottery_shard",
+        "minecraft:brick",
+        "minecraft:prize_pottery_shard",
+        "minecraft:skull_pottery_shard"
     ],
     "minecraft:diamond_tier": [
         "minecraft:diamond_axe",
@@ -98,6 +109,7 @@
     ],
     "minecraft:door": [
         "minecraft:acacia_door",
+        "minecraft:bamboo_door",
         "minecraft:birch_door",
         "minecraft:crimson_door",
         "minecraft:dark_oak_door",
@@ -308,6 +320,9 @@
         "minecraft:wooden_shovel",
         "minecraft:wooden_sword"
     ],
+    "minecraft:is_trident": [
+        "minecraft:trident"
+    ],
     "minecraft:leather_tier": [
         "minecraft:leather_boots",
         "minecraft:leather_chestplate",
@@ -391,6 +406,7 @@
         "minecraft:netherite_sword"
     ],
     "minecraft:planks": [
+        "minecraft:bamboo_planks",
         "minecraft:crimson_planks",
         "minecraft:mangrove_planks",
         "minecraft:planks",
@@ -400,14 +416,25 @@
         "minecraft:sand"
     ],
     "minecraft:sign": [
+        "minecraft:acacia_hanging_sign",
         "minecraft:acacia_sign",
+        "minecraft:bamboo_hanging_sign",
+        "minecraft:bamboo_sign",
+        "minecraft:birch_hanging_sign",
         "minecraft:birch_sign",
+        "minecraft:crimson_hanging_sign",
         "minecraft:crimson_sign",
+        "minecraft:dark_oak_hanging_sign",
         "minecraft:dark_oak_sign",
+        "minecraft:jungle_hanging_sign",
         "minecraft:jungle_sign",
+        "minecraft:mangrove_hanging_sign",
         "minecraft:mangrove_sign",
+        "minecraft:oak_hanging_sign",
         "minecraft:oak_sign",
+        "minecraft:spruce_hanging_sign",
         "minecraft:spruce_sign",
+        "minecraft:warped_hanging_sign",
         "minecraft:warped_sign"
     ],
     "minecraft:soul_fire_base_blocks": [
@@ -421,6 +448,7 @@
         "minecraft:bat_spawn_egg",
         "minecraft:bee_spawn_egg",
         "minecraft:blaze_spawn_egg",
+        "minecraft:camel_spawn_egg",
         "minecraft:cat_spawn_egg",
         "minecraft:cave_spider_spawn_egg",
         "minecraft:chicken_spawn_egg",
@@ -515,8 +543,23 @@
         "minecraft:cobblestone"
     ],
     "minecraft:vibration_damper": [
+        "minecraft:black_wool",
+        "minecraft:blue_wool",
+        "minecraft:brown_wool",
         "minecraft:carpet",
-        "minecraft:wool"
+        "minecraft:cyan_wool",
+        "minecraft:gray_wool",
+        "minecraft:green_wool",
+        "minecraft:light_blue_wool",
+        "minecraft:light_gray_wool",
+        "minecraft:lime_wool",
+        "minecraft:magenta_wool",
+        "minecraft:orange_wool",
+        "minecraft:pink_wool",
+        "minecraft:purple_wool",
+        "minecraft:red_wool",
+        "minecraft:white_wool",
+        "minecraft:yellow_wool"
     ],
     "minecraft:warped_stems": [
         "minecraft:stripped_warped_hyphae",
@@ -525,6 +568,7 @@
         "minecraft:warped_stem"
     ],
     "minecraft:wooden_slabs": [
+        "minecraft:bamboo_slab",
         "minecraft:crimson_slab",
         "minecraft:mangrove_slab",
         "minecraft:warped_slab",
@@ -538,6 +582,21 @@
         "minecraft:wooden_sword"
     ],
     "minecraft:wool": [
-        "minecraft:wool"
+        "minecraft:black_wool",
+        "minecraft:blue_wool",
+        "minecraft:brown_wool",
+        "minecraft:cyan_wool",
+        "minecraft:gray_wool",
+        "minecraft:green_wool",
+        "minecraft:light_blue_wool",
+        "minecraft:light_gray_wool",
+        "minecraft:lime_wool",
+        "minecraft:magenta_wool",
+        "minecraft:orange_wool",
+        "minecraft:pink_wool",
+        "minecraft:purple_wool",
+        "minecraft:red_wool",
+        "minecraft:white_wool",
+        "minecraft:yellow_wool"
     ]
 }

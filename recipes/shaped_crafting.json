@@ -454,98 +454,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 14,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 1,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 14,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
                 "name": "minecraft:stained_glass"
             }
@@ -561,98 +469,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 11,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 4,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 11,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
         ]
     },
     {
@@ -680,98 +496,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 9,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 6,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 9,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
                 "name": "minecraft:stained_glass"
             }
@@ -787,98 +511,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 7,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 8,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 7,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
         ]
     },
     {
@@ -906,98 +538,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 5,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 10,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 5,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
                 "name": "minecraft:stained_glass"
             }
@@ -1013,98 +553,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 6,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 9,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 6,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
         ]
     },
     {
@@ -1132,97 +580,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 15,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 15,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
                 "name": "minecraft:stained_glass"
             }
@@ -1244,98 +601,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 12,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 3,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 12,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
                 "name": "minecraft:stained_glass"
             }
@@ -1351,98 +616,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 13,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 2,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 13,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
         ]
     },
     {
@@ -1845,96 +1018,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 15,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
                 "name": "minecraft:stained_glass"
             }
@@ -1950,98 +1033,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 1,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 14,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 1,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
         ]
     },
     {
@@ -2069,98 +1060,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 10,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 5,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 10,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
                 "name": "minecraft:stained_glass"
             }
@@ -2176,98 +1075,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 8,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 7,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 8,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
         ]
     },
     {
@@ -2295,98 +1102,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 4,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 11,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 4,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
                 "name": "minecraft:stained_glass"
             }
@@ -2408,98 +1123,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 2,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 13,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 2,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
                 "name": "minecraft:stained_glass"
             }
@@ -2515,98 +1138,6 @@
         "shape": [
             "AAA",
             "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:bamboo_planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 3,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 12,
-                "name": "minecraft:banner"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
-            },
-            "B": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "meta": 3,
-                "name": "minecraft:bed"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "BBB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-                "count": 3,
-                "name": "minecraft:carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
         ]
     },
     {
@@ -5521,6 +4052,278 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:bamboo"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:bamboo_block"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_block"
+            }
+        },
+        "output": [
+            {
+                "count": 2,
+                "name": "minecraft:bamboo_planks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_mosaic"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:bamboo_mosaic_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_mosaic"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQwAdG9wX3Nsb3RfYml0AAA=",
+                "count": 6,
+                "name": "minecraft:bamboo_mosaic_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:bamboo_fence"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:bamboo_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:bamboo_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQwAdG9wX3Nsb3RfYml0AAA=",
+                "count": 6,
+                "name": "minecraft:bamboo_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:bamboo_button"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:bamboo_pressure_plate"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+                "count": 2,
+                "name": "minecraft:bamboo_trapdoor"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:bamboo_door"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA",
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:bamboo_mosaic"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "A"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:basalt"
             }
         },
@@ -5985,6 +4788,256 @@
         "shape": [
             "A",
             "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_acacia_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:acacia_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_bamboo_block"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:bamboo_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_birch_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:birch_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_crimson_stem"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:crimson_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_dark_oak_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:dark_oak_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_jungle_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:jungle_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_mangrove_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:mangrove_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_oak_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:oak_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_spruce_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:spruce_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_warped_stem"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:warped_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
         ]
     },
     {
@@ -13855,6 +12908,30 @@
             },
             "B": {
                 "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "name": "minecraft:bamboo_fence_gate"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
                 "name": "minecraft:charcoal"
             },
             "C": {
@@ -16457,6 +15534,30 @@
             },
             "B": {
                 "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:brush"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            " B ",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:string"
+            },
+            "B": {
+                "meta": 32767,
                 "name": "minecraft:warped_planks"
             }
         },
@@ -16505,8 +15606,7 @@
         },
         "output": [
             {
-                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-                "name": "minecraft:wool"
+                "name": "minecraft:white_wool"
             }
         ],
         "priority": 0,
@@ -16579,6 +15679,25 @@
         "shape": [
             "AA",
             "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_bamboo_block"
+            }
+        },
+        "output": [
+            {
+                "count": 2,
+                "name": "minecraft:bamboo_planks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
         ]
     },
     {
@@ -19224,6 +18343,203 @@
         "block": "crafting_table",
         "input": {
             "A": {
+                "name": "minecraft:bamboo_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:wooden_shovel"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:bamboo_raft"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:black_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 15,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:black_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:black_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 15,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:black_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:blue_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 11,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:blue_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 4,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:blue_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 11,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:blue_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
                 "name": "minecraft:bone_meal"
             }
         },
@@ -19257,6 +18573,94 @@
         "priority": 50,
         "shape": [
             "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:brown_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 12,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:brown_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 3,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:brown_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 12,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:brown_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
         ]
     },
     {
@@ -19383,6 +18787,94 @@
         "block": "crafting_table",
         "input": {
             "A": {
+                "name": "minecraft:cyan_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 9,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:cyan_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 6,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:cyan_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 9,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:cyan_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
                 "name": "minecraft:end_bricks"
             }
         },
@@ -19402,6 +18894,182 @@
         "block": "crafting_table",
         "input": {
             "A": {
+                "name": "minecraft:gray_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 7,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:gray_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 8,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:gray_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 7,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:gray_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:green_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 13,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:green_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 2,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:green_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 13,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:green_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
                 "name": "minecraft:lapis_lazuli"
             }
         },
@@ -19415,6 +19083,358 @@
             "AAA",
             "AAA",
             "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:light_blue_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 3,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:light_blue_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 12,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:light_blue_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 3,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:light_blue_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:light_gray_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 8,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:light_gray_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 7,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:light_gray_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 8,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:light_gray_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:lime_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 5,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:lime_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 10,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:lime_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 5,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:lime_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:magenta_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 2,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:magenta_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 13,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:magenta_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 2,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:magenta_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
         ]
     },
     {
@@ -19516,6 +19536,270 @@
         "block": "crafting_table",
         "input": {
             "A": {
+                "name": "minecraft:orange_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 1,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:orange_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 14,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:orange_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 1,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:orange_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:pink_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 6,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:pink_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 9,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:pink_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 6,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:pink_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:purple_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 10,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:purple_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 5,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:purple_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 10,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:purple_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
                 "name": "minecraft:red_nether_brick"
             }
         },
@@ -19535,6 +19819,94 @@
         "block": "crafting_table",
         "input": {
             "A": {
+                "name": "minecraft:red_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 14,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:red_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 1,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:red_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 14,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:red_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
                 "name": "minecraft:smooth_stone"
             }
         },
@@ -19548,6 +19920,180 @@
         "priority": 50,
         "shape": [
             "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:white_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:white_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 15,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:white_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:white_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:yellow_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bamboo_planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 4,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:yellow_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 11,
+                "name": "minecraft:banner"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:yellow_wool"
+            },
+            "B": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "meta": 4,
+                "name": "minecraft:bed"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "BBB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:yellow_wool"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
+                "count": 3,
+                "name": "minecraft:carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
         ]
     },
     {
@@ -19887,6 +20433,29 @@
             "A",
             "A",
             "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "tag": "minecraft:wooden_slabs"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwwAYm9va3Nfc3RvcmVkAAAAAAMJAGRpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:chiseled_bookshelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BBB",
+            "AAA"
         ]
     },
     {
