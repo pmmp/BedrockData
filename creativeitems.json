@@ -27,6 +27,9 @@
         "name": "minecraft:mangrove_planks"
     },
     {
+        "name": "minecraft:cherry_planks"
+    },
+    {
         "name": "minecraft:bamboo_planks"
     },
     {
@@ -127,31 +130,28 @@
         "name": "minecraft:mud_brick_wall"
     },
     {
-        "block_states": "CgAACAkAd29vZF90eXBlAwBvYWsA",
-        "name": "minecraft:fence"
+        "name": "minecraft:oak_fence"
     },
     {
-        "block_states": "CgAACAkAd29vZF90eXBlBgBzcHJ1Y2UA",
-        "name": "minecraft:fence"
+        "name": "minecraft:spruce_fence"
     },
     {
-        "block_states": "CgAACAkAd29vZF90eXBlBQBiaXJjaAA=",
-        "name": "minecraft:fence"
+        "name": "minecraft:birch_fence"
     },
     {
-        "block_states": "CgAACAkAd29vZF90eXBlBgBqdW5nbGUA",
-        "name": "minecraft:fence"
+        "name": "minecraft:jungle_fence"
     },
     {
-        "block_states": "CgAACAkAd29vZF90eXBlBgBhY2FjaWEA",
-        "name": "minecraft:fence"
+        "name": "minecraft:acacia_fence"
     },
     {
-        "block_states": "CgAACAkAd29vZF90eXBlCABkYXJrX29hawA=",
-        "name": "minecraft:fence"
+        "name": "minecraft:dark_oak_fence"
     },
     {
         "name": "minecraft:mangrove_fence"
+    },
+    {
+        "name": "minecraft:cherry_fence"
     },
     {
         "name": "minecraft:bamboo_fence"
@@ -192,6 +192,10 @@
     {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
         "name": "minecraft:mangrove_fence_gate"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+        "name": "minecraft:cherry_fence_gate"
     },
     {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
@@ -244,6 +248,10 @@
     {
         "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
         "name": "minecraft:mangrove_stairs"
+    },
+    {
+        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:cherry_stairs"
     },
     {
         "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
@@ -435,6 +443,9 @@
         "name": "minecraft:mangrove_door"
     },
     {
+        "name": "minecraft:cherry_door"
+    },
+    {
         "name": "minecraft:bamboo_door"
     },
     {
@@ -473,6 +484,10 @@
     {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
         "name": "minecraft:mangrove_trapdoor"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+        "name": "minecraft:cherry_trapdoor"
     },
     {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
@@ -1038,6 +1053,10 @@
     {
         "block_states": "CgAAAQwAdG9wX3Nsb3RfYml0AAA=",
         "name": "minecraft:mangrove_slab"
+    },
+    {
+        "block_states": "CgAAAQwAdG9wX3Nsb3RfYml0AAA=",
+        "name": "minecraft:cherry_slab"
     },
     {
         "block_states": "CgAAAQwAdG9wX3Nsb3RfYml0AAA=",
@@ -1856,6 +1875,9 @@
         "name": "minecraft:warped_nylium"
     },
     {
+        "name": "minecraft:netherrack"
+    },
+    {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
         "name": "minecraft:basalt"
     },
@@ -2010,48 +2032,48 @@
         "name": "minecraft:cactus"
     },
     {
-        "block_states": "CgAACAwAb2xkX2xvZ190eXBlAwBvYWsICwBwaWxsYXJfYXhpcwEAeQA=",
-        "name": "minecraft:log"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:oak_log"
     },
     {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
         "name": "minecraft:stripped_oak_log"
     },
     {
-        "block_states": "CgAACAwAb2xkX2xvZ190eXBlBgBzcHJ1Y2UICwBwaWxsYXJfYXhpcwEAeQA=",
-        "name": "minecraft:log"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:spruce_log"
     },
     {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
         "name": "minecraft:stripped_spruce_log"
     },
     {
-        "block_states": "CgAACAwAb2xkX2xvZ190eXBlBQBiaXJjaAgLAHBpbGxhcl9heGlzAQB5AA==",
-        "name": "minecraft:log"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:birch_log"
     },
     {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
         "name": "minecraft:stripped_birch_log"
     },
     {
-        "block_states": "CgAACAwAb2xkX2xvZ190eXBlBgBqdW5nbGUICwBwaWxsYXJfYXhpcwEAeQA=",
-        "name": "minecraft:log"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:jungle_log"
     },
     {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
         "name": "minecraft:stripped_jungle_log"
     },
     {
-        "block_states": "CgAACAwAbmV3X2xvZ190eXBlBgBhY2FjaWEICwBwaWxsYXJfYXhpcwEAeQA=",
-        "name": "minecraft:log2"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:acacia_log"
     },
     {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
         "name": "minecraft:stripped_acacia_log"
     },
     {
-        "block_states": "CgAACAwAbmV3X2xvZ190eXBlCABkYXJrX29hawgLAHBpbGxhcl9heGlzAQB5AA==",
-        "name": "minecraft:log2"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:dark_oak_log"
     },
     {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
@@ -2064,6 +2086,14 @@
     {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
         "name": "minecraft:stripped_mangrove_log"
+    },
+    {
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:cherry_log"
+    },
+    {
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:stripped_cherry_log"
     },
     {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
@@ -2138,6 +2168,14 @@
         "name": "minecraft:stripped_mangrove_wood"
     },
     {
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQAAA==",
+        "name": "minecraft:cherry_wood"
+    },
+    {
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:stripped_cherry_wood"
+    },
+    {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
         "name": "minecraft:crimson_hyphae"
     },
@@ -2191,6 +2229,10 @@
     },
     {
         "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
+        "name": "minecraft:cherry_leaves"
+    },
+    {
+        "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
         "name": "minecraft:azalea_leaves"
     },
     {
@@ -2226,6 +2268,10 @@
         "name": "minecraft:mangrove_propagule"
     },
     {
+        "block_states": "CgAAAQcAYWdlX2JpdAAA",
+        "name": "minecraft:cherry_sapling"
+    },
+    {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAMLAGhvbmV5X2xldmVsAAAAAAA=",
         "name": "minecraft:bee_nest"
     },
@@ -2240,6 +2286,9 @@
     },
     {
         "name": "minecraft:beetroot_seeds"
+    },
+    {
+        "name": "minecraft:torchflower_seeds"
     },
     {
         "name": "minecraft:wheat"
@@ -2467,7 +2516,14 @@
         "name": "minecraft:double_plant"
     },
     {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAMGAGdyb3d0aAAAAAAA",
+        "name": "minecraft:pink_petals"
+    },
+    {
         "name": "minecraft:wither_rose"
+    },
+    {
+        "name": "minecraft:torchflower"
     },
     {
         "name": "minecraft:white_dye"
@@ -3004,6 +3060,9 @@
         "name": "minecraft:snow_golem_spawn_egg"
     },
     {
+        "name": "minecraft:sniffer_spawn_egg"
+    },
+    {
         "name": "minecraft:obsidian"
     },
     {
@@ -3015,9 +3074,6 @@
     },
     {
         "name": "minecraft:soul_sand"
-    },
-    {
-        "name": "minecraft:netherrack"
     },
     {
         "name": "minecraft:magma"
@@ -3107,6 +3163,10 @@
     {
         "block_states": "CgAAAQsAcG93ZXJlZF9iaXQAAA==",
         "name": "minecraft:sculk_sensor"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAHBvd2VyZWRfYml0AAA=",
+        "name": "minecraft:calibrated_sculk_sensor"
     },
     {
         "name": "minecraft:reinforced_deepslate"
@@ -4279,6 +4339,10 @@
         "name": "minecraft:suspicious_sand"
     },
     {
+        "block_states": "CgAAAxAAYnJ1c2hlZF9wcm9ncmVzcwAAAAABBwBoYW5naW5nAQA=",
+        "name": "minecraft:suspicious_gravel"
+    },
+    {
         "name": "minecraft:campfire"
     },
     {
@@ -4530,6 +4594,9 @@
         "name": "minecraft:mangrove_sign"
     },
     {
+        "name": "minecraft:cherry_sign"
+    },
+    {
         "name": "minecraft:bamboo_sign"
     },
     {
@@ -4558,6 +4625,9 @@
     },
     {
         "name": "minecraft:mangrove_hanging_sign"
+    },
+    {
+        "name": "minecraft:cherry_hanging_sign"
     },
     {
         "name": "minecraft:bamboo_hanging_sign"
@@ -5281,6 +5351,9 @@
         "name": "minecraft:mangrove_boat"
     },
     {
+        "name": "minecraft:cherry_boat"
+    },
+    {
         "name": "minecraft:bamboo_raft"
     },
     {
@@ -5303,6 +5376,9 @@
     },
     {
         "name": "minecraft:mangrove_chest_boat"
+    },
+    {
+        "name": "minecraft:cherry_chest_boat"
     },
     {
         "name": "minecraft:bamboo_chest_raft"
@@ -5379,6 +5455,10 @@
     },
     {
         "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:cherry_button"
+    },
+    {
+        "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
         "name": "minecraft:bamboo_button"
     },
     {
@@ -5428,6 +5508,10 @@
     {
         "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
         "name": "minecraft:mangrove_pressure_plate"
+    },
+    {
+        "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+        "name": "minecraft:cherry_pressure_plate"
     },
     {
         "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
@@ -5594,16 +5678,115 @@
         "name": "minecraft:globe_banner_pattern"
     },
     {
+        "name": "minecraft:angler_pottery_shard"
+    },
+    {
         "name": "minecraft:archer_pottery_shard"
     },
     {
         "name": "minecraft:arms_up_pottery_shard"
     },
     {
+        "name": "minecraft:blade_pottery_shard"
+    },
+    {
+        "name": "minecraft:brewer_pottery_shard"
+    },
+    {
+        "name": "minecraft:burn_pottery_shard"
+    },
+    {
+        "name": "minecraft:danger_pottery_shard"
+    },
+    {
+        "name": "minecraft:explorer_pottery_shard"
+    },
+    {
+        "name": "minecraft:friend_pottery_shard"
+    },
+    {
+        "name": "minecraft:heart_pottery_shard"
+    },
+    {
+        "name": "minecraft:heartbreak_pottery_shard"
+    },
+    {
+        "name": "minecraft:howl_pottery_shard"
+    },
+    {
+        "name": "minecraft:miner_pottery_shard"
+    },
+    {
+        "name": "minecraft:mourner_pottery_shard"
+    },
+    {
+        "name": "minecraft:plenty_pottery_shard"
+    },
+    {
         "name": "minecraft:prize_pottery_shard"
     },
     {
+        "name": "minecraft:sheaf_pottery_shard"
+    },
+    {
+        "name": "minecraft:shelter_pottery_shard"
+    },
+    {
         "name": "minecraft:skull_pottery_shard"
+    },
+    {
+        "name": "minecraft:snort_pottery_shard"
+    },
+    {
+        "name": "minecraft:netherite_upgrade_smithing_template"
+    },
+    {
+        "name": "minecraft:sentry_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:vex_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:wild_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:coast_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:dune_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:wayfinder_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:shaper_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:raiser_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:host_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:ward_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:silence_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:tide_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:snout_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:rib_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:eye_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:spire_armor_trim_smithing_template"
     },
     {
         "name": "minecraft:firework_rocket",

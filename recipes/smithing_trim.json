@@ -1,0 +1,14 @@
+[
+    {
+        "addition": {
+            "tag": "minecraft:trim_materials"
+        },
+        "block": "smithing_table",
+        "input": {
+            "tag": "minecraft:trimmable_armors"
+        },
+        "template": {
+            "tag": "minecraft:trim_templates"
+        }
+    }
+]

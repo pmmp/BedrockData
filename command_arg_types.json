@@ -9,31 +9,31 @@
     },
     "BLOCK_STATE": {
         "description": "unknown",
-        "id": 63
+        "id": 68
     },
     "BLOCK_STATE_ARRAY": {
         "description": "block states",
-        "id": 67
+        "id": 72
     },
     "BLOCK_STATE_ARRAY_CONT": {
         "description": "unknown",
-        "id": 68
+        "id": 73
     },
     "BLOCK_STATE_KEY": {
         "description": "unknown",
-        "id": 64
+        "id": 69
     },
     "BLOCK_STATE_VALUE": {
         "description": "unknown",
-        "id": 65
+        "id": 70
     },
     "BLOCK_STATE_VALUES": {
         "description": "unknown",
-        "id": 66
+        "id": 71
     },
     "COMMAND": {
         "description": "unknown",
-        "id": 69
+        "id": 74
     },
     "COMPAREOPERATOR": {
         "description": "compare operator",
@@ -41,31 +41,31 @@
     },
     "COORD_X_FLOAT": {
         "description": "unknown",
-        "id": 44
+        "id": 49
     },
     "COORD_X_INT": {
         "description": "unknown",
-        "id": 41
+        "id": 46
     },
     "COORD_Y_FLOAT": {
         "description": "unknown",
-        "id": 45
+        "id": 50
     },
     "COORD_Y_INT": {
         "description": "unknown",
-        "id": 42
+        "id": 47
     },
     "COORD_Z_FLOAT": {
         "description": "unknown",
-        "id": 46
+        "id": 51
     },
     "COORD_Z_INT": {
         "description": "unknown",
-        "id": 43
+        "id": 48
     },
     "EQUIPMENTSLOTENUM": {
         "description": "equipment slots",
-        "id": 38
+        "id": 43
     },
     "FAMILYARG": {
         "description": "unknown",
@@ -81,31 +81,31 @@
     },
     "HASITEMARG": {
         "description": "unknown",
-        "id": 35
+        "id": 40
     },
     "HASITEMARGS": {
         "description": "unknown",
-        "id": 36
+        "id": 41
     },
     "HASITEMELEMENT": {
         "description": "unknown",
-        "id": 33
+        "id": 38
     },
     "HASITEMELEMENTS": {
         "description": "unknown",
-        "id": 34
+        "id": 39
     },
     "HASITEMSELECTOR": {
         "description": "unknown",
-        "id": 37
+        "id": 42
     },
     "ID": {
         "description": "string",
-        "id": 39
+        "id": 44
     },
     "IDCONT": {
         "description": "unknown",
-        "id": 40
+        "id": 45
     },
     "INT": {
         "description": "int",
@@ -125,35 +125,35 @@
     },
     "JSON_ARRAY": {
         "description": "unknown",
-        "id": 60
+        "id": 65
     },
     "JSON_ARRAY_CONT": {
         "description": "unknown",
-        "id": 62
+        "id": 67
     },
     "JSON_ARRAY_VALUES": {
         "description": "unknown",
-        "id": 61
+        "id": 66
     },
     "JSON_FIELD": {
         "description": "unknown",
-        "id": 56
+        "id": 61
     },
     "JSON_OBJECT": {
         "description": "json",
-        "id": 57
+        "id": 62
     },
     "JSON_OBJECT_CONT": {
         "description": "unknown",
-        "id": 59
+        "id": 64
     },
     "JSON_OBJECT_FIELDS": {
         "description": "unknown",
-        "id": 58
+        "id": 63
     },
     "JSON_VALUE": {
         "description": "unknown",
-        "id": 55
+        "id": 60
     },
     "MARG": {
         "description": "unknown",
@@ -161,15 +161,15 @@
     },
     "MESSAGE": {
         "description": "unknown",
-        "id": 50
+        "id": 55
     },
     "MESSAGEEXP": {
         "description": "unknown",
-        "id": 49
+        "id": 54
     },
     "MESSAGE_ROOT": {
         "description": "message",
-        "id": 51
+        "id": 56
     },
     "MVALUE": {
         "description": "unknown",
@@ -199,25 +199,45 @@
         "description": "unknown",
         "id": 18
     },
+    "PERMISSIONARG": {
+        "description": "unknown",
+        "id": 32
+    },
+    "PERMISSIONARGS": {
+        "description": "unknown",
+        "id": 33
+    },
+    "PERMISSIONELEMENT": {
+        "description": "unknown",
+        "id": 35
+    },
+    "PERMISSIONELEMENTS": {
+        "description": "unknown",
+        "id": 36
+    },
+    "PERMISSIONSELECTOR": {
+        "description": "unknown",
+        "id": 34
+    },
     "POSITION": {
         "description": "x y z",
-        "id": 47
+        "id": 52
     },
     "POSITION_FLOAT": {
         "description": "x y z",
-        "id": 48
+        "id": 53
     },
     "POSTSELECTOR": {
         "description": "unknown",
-        "id": 52
+        "id": 57
     },
     "RAWTEXT": {
         "description": "text",
-        "id": 53
+        "id": 58
     },
     "RAWTEXTCONT": {
         "description": "unknown",
-        "id": 54
+        "id": 59
     },
     "RVAL": {
         "description": "value",
@@ -249,7 +269,7 @@
     },
     "SLASHCOMMAND": {
         "description": "command",
-        "id": 70
+        "id": 75
     },
     "STANDALONESELECTION": {
         "description": "unknown",
@@ -257,7 +277,7 @@
     },
     "TAGARG": {
         "description": "unknown",
-        "id": 32
+        "id": 37
     },
     "TAGSELECTOR": {
         "description": "unknown",
