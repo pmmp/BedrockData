@@ -1520,68 +1520,52 @@
         "name": "minecraft:pink_wool"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-        "name": "minecraft:carpet"
+        "name": "minecraft:white_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-        "name": "minecraft:carpet"
+        "name": "minecraft:light_gray_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-        "name": "minecraft:carpet"
+        "name": "minecraft:gray_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-        "name": "minecraft:carpet"
+        "name": "minecraft:black_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-        "name": "minecraft:carpet"
+        "name": "minecraft:brown_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-        "name": "minecraft:carpet"
+        "name": "minecraft:red_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-        "name": "minecraft:carpet"
+        "name": "minecraft:orange_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-        "name": "minecraft:carpet"
+        "name": "minecraft:yellow_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-        "name": "minecraft:carpet"
+        "name": "minecraft:lime_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-        "name": "minecraft:carpet"
+        "name": "minecraft:green_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-        "name": "minecraft:carpet"
+        "name": "minecraft:cyan_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-        "name": "minecraft:carpet"
+        "name": "minecraft:light_blue_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-        "name": "minecraft:carpet"
+        "name": "minecraft:blue_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-        "name": "minecraft:carpet"
+        "name": "minecraft:purple_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-        "name": "minecraft:carpet"
+        "name": "minecraft:magenta_carpet"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-        "name": "minecraft:carpet"
+        "name": "minecraft:pink_carpet"
     },
     {
         "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
@@ -2291,6 +2275,9 @@
         "name": "minecraft:torchflower_seeds"
     },
     {
+        "name": "minecraft:pitcher_pod"
+    },
+    {
         "name": "minecraft:wheat"
     },
     {
@@ -2333,15 +2320,15 @@
         "name": "minecraft:glow_berries"
     },
     {
-        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
+        "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
         "name": "minecraft:pumpkin"
     },
     {
-        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
+        "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
         "name": "minecraft:carved_pumpkin"
     },
     {
-        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
+        "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
         "name": "minecraft:lit_pumpkin"
     },
     {
@@ -2367,44 +2354,34 @@
         "name": "minecraft:nether_sprouts"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IDAHJlZAEIAGRlYWRfYml0AAA=",
-        "name": "minecraft:coral"
+        "name": "minecraft:fire_coral"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IEAHBpbmsBCABkZWFkX2JpdAAA",
-        "name": "minecraft:coral"
+        "name": "minecraft:brain_coral"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IGAHB1cnBsZQEIAGRlYWRfYml0AAA=",
-        "name": "minecraft:coral"
+        "name": "minecraft:bubble_coral"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IEAGJsdWUBCABkZWFkX2JpdAAA",
-        "name": "minecraft:coral"
+        "name": "minecraft:tube_coral"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IGAHllbGxvdwEIAGRlYWRfYml0AAA=",
-        "name": "minecraft:coral"
+        "name": "minecraft:horn_coral"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IDAHJlZAEIAGRlYWRfYml0AQA=",
-        "name": "minecraft:coral"
+        "name": "minecraft:dead_fire_coral"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IEAHBpbmsBCABkZWFkX2JpdAEA",
-        "name": "minecraft:coral"
+        "name": "minecraft:dead_brain_coral"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IGAHB1cnBsZQEIAGRlYWRfYml0AQA=",
-        "name": "minecraft:coral"
+        "name": "minecraft:dead_bubble_coral"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IEAGJsdWUBCABkZWFkX2JpdAEA",
-        "name": "minecraft:coral"
+        "name": "minecraft:dead_tube_coral"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IGAHllbGxvdwEIAGRlYWRfYml0AQA=",
-        "name": "minecraft:coral"
+        "name": "minecraft:dead_horn_coral"
     },
     {
         "block_states": "CgAACAsAY29yYWxfY29sb3IDAHJlZAMTAGNvcmFsX2Zhbl9kaXJlY3Rpb24AAAAAAA==",
@@ -2514,6 +2491,10 @@
     {
         "block_states": "CgAACBEAZG91YmxlX3BsYW50X3R5cGUHAHBhZW9uaWEBDwB1cHBlcl9ibG9ja19iaXQAAA==",
         "name": "minecraft:double_plant"
+    },
+    {
+        "block_states": "CgAAAQ8AdXBwZXJfYmxvY2tfYml0AAA=",
+        "name": "minecraft:pitcher_plant"
     },
     {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAMGAGdyb3d0aAAAAAAA",
@@ -2821,6 +2802,10 @@
     {
         "block_states": "CgAACA0AY3JhY2tlZF9zdGF0ZQkAbm9fY3JhY2tzCBAAdHVydGxlX2VnZ19jb3VudAcAb25lX2VnZwA=",
         "name": "minecraft:turtle_egg"
+    },
+    {
+        "block_states": "CgAACA0AY3JhY2tlZF9zdGF0ZQkAbm9fY3JhY2tzAA==",
+        "name": "minecraft:sniffer_egg"
     },
     {
         "name": "minecraft:frog_spawn"
@@ -3161,11 +3146,11 @@
         "name": "minecraft:sculk_shrieker"
     },
     {
-        "block_states": "CgAAAQsAcG93ZXJlZF9iaXQAAA==",
+        "block_states": "CgAAAxIAc2N1bGtfc2Vuc29yX3BoYXNlAAAAAAA=",
         "name": "minecraft:sculk_sensor"
     },
     {
-        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAHBvd2VyZWRfYml0AAA=",
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAMSAHNjdWxrX3NlbnNvcl9waGFzZQAAAAAA",
         "name": "minecraft:calibrated_sculk_sensor"
     },
     {
@@ -4558,6 +4543,9 @@
         "name": "minecraft:music_disc_pigstep"
     },
     {
+        "name": "minecraft:music_disc_relic"
+    },
+    {
         "name": "minecraft:disc_fragment_5"
     },
     {
@@ -5678,64 +5666,64 @@
         "name": "minecraft:globe_banner_pattern"
     },
     {
-        "name": "minecraft:angler_pottery_shard"
+        "name": "minecraft:angler_pottery_sherd"
     },
     {
-        "name": "minecraft:archer_pottery_shard"
+        "name": "minecraft:archer_pottery_sherd"
     },
     {
-        "name": "minecraft:arms_up_pottery_shard"
+        "name": "minecraft:arms_up_pottery_sherd"
     },
     {
-        "name": "minecraft:blade_pottery_shard"
+        "name": "minecraft:blade_pottery_sherd"
     },
     {
-        "name": "minecraft:brewer_pottery_shard"
+        "name": "minecraft:brewer_pottery_sherd"
     },
     {
-        "name": "minecraft:burn_pottery_shard"
+        "name": "minecraft:burn_pottery_sherd"
     },
     {
-        "name": "minecraft:danger_pottery_shard"
+        "name": "minecraft:danger_pottery_sherd"
     },
     {
-        "name": "minecraft:explorer_pottery_shard"
+        "name": "minecraft:explorer_pottery_sherd"
     },
     {
-        "name": "minecraft:friend_pottery_shard"
+        "name": "minecraft:friend_pottery_sherd"
     },
     {
-        "name": "minecraft:heart_pottery_shard"
+        "name": "minecraft:heart_pottery_sherd"
     },
     {
-        "name": "minecraft:heartbreak_pottery_shard"
+        "name": "minecraft:heartbreak_pottery_sherd"
     },
     {
-        "name": "minecraft:howl_pottery_shard"
+        "name": "minecraft:howl_pottery_sherd"
     },
     {
-        "name": "minecraft:miner_pottery_shard"
+        "name": "minecraft:miner_pottery_sherd"
     },
     {
-        "name": "minecraft:mourner_pottery_shard"
+        "name": "minecraft:mourner_pottery_sherd"
     },
     {
-        "name": "minecraft:plenty_pottery_shard"
+        "name": "minecraft:plenty_pottery_sherd"
     },
     {
-        "name": "minecraft:prize_pottery_shard"
+        "name": "minecraft:prize_pottery_sherd"
     },
     {
-        "name": "minecraft:sheaf_pottery_shard"
+        "name": "minecraft:sheaf_pottery_sherd"
     },
     {
-        "name": "minecraft:shelter_pottery_shard"
+        "name": "minecraft:shelter_pottery_sherd"
     },
     {
-        "name": "minecraft:skull_pottery_shard"
+        "name": "minecraft:skull_pottery_sherd"
     },
     {
-        "name": "minecraft:snort_pottery_shard"
+        "name": "minecraft:snort_pottery_sherd"
     },
     {
         "name": "minecraft:netherite_upgrade_smithing_template"
