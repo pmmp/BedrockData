@@ -8131,6 +8131,7 @@
         ],
         "output": [
             {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
                 "name": "minecraft:blue_candle"
             }
         ],
@@ -8282,6 +8283,7 @@
         ],
         "output": [
             {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
                 "name": "minecraft:blue_candle"
             }
         ],
