@@ -1632,68 +1632,52 @@
         "name": "minecraft:concrete_powder"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-        "name": "minecraft:concrete"
+        "name": "minecraft:white_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-        "name": "minecraft:concrete"
+        "name": "minecraft:light_gray_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-        "name": "minecraft:concrete"
+        "name": "minecraft:gray_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-        "name": "minecraft:concrete"
+        "name": "minecraft:black_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-        "name": "minecraft:concrete"
+        "name": "minecraft:brown_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-        "name": "minecraft:concrete"
+        "name": "minecraft:red_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-        "name": "minecraft:concrete"
+        "name": "minecraft:orange_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-        "name": "minecraft:concrete"
+        "name": "minecraft:yellow_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-        "name": "minecraft:concrete"
+        "name": "minecraft:lime_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-        "name": "minecraft:concrete"
+        "name": "minecraft:green_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-        "name": "minecraft:concrete"
+        "name": "minecraft:cyan_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-        "name": "minecraft:concrete"
+        "name": "minecraft:light_blue_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-        "name": "minecraft:concrete"
+        "name": "minecraft:blue_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-        "name": "minecraft:concrete"
+        "name": "minecraft:purple_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-        "name": "minecraft:concrete"
+        "name": "minecraft:magenta_concrete"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-        "name": "minecraft:concrete"
+        "name": "minecraft:pink_concrete"
     },
     {
         "name": "minecraft:clay"
@@ -4426,68 +4410,52 @@
         "name": "minecraft:undyed_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAHdoaXRlAA==",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:white_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAHNpbHZlcgA=",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:light_gray_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGdyYXkA",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:gray_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAGJsYWNrAA==",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:black_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAGJyb3duAA==",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:brown_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IDAHJlZAA=",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:red_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAG9yYW5nZQA=",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:orange_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAHllbGxvdwA=",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:yellow_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGxpbWUA",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:lime_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IFAGdyZWVuAA==",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:green_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGN5YW4A",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:cyan_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IKAGxpZ2h0X2JsdWUA",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:light_blue_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAGJsdWUA",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:blue_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IGAHB1cnBsZQA=",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:purple_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IHAG1hZ2VudGEA",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:magenta_shulker_box"
     },
     {
-        "block_states": "CgAACAUAY29sb3IEAHBpbmsA",
-        "name": "minecraft:shulker_box"
+        "name": "minecraft:pink_shulker_box"
     },
     {
         "name": "minecraft:armor_stand"
@@ -5531,7 +5499,7 @@
         "name": "minecraft:polished_blackstone_pressure_plate"
     },
     {
-        "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+        "block_states": "CgAACBoAbWluZWNyYWZ0OmZhY2luZ19kaXJlY3Rpb24EAGRvd24BCwBwb3dlcmVkX2JpdAAA",
         "name": "minecraft:observer"
     },
     {
@@ -5942,5 +5910,8 @@
     },
     {
         "name": "minecraft:ender_dragon_spawn_egg"
+    },
+    {
+        "name": "minecraft:suspicious_stew"
     }
 ]
