@@ -97,6 +97,8 @@
     "boost": 20,
     "born": 223,
     "bottle.dragonbreath": 176,
+    "bottle.empty": 478,
+    "bottle.fill": 477,
     "bow": 21,
     "bow.hit": 63,
     "break": 5,

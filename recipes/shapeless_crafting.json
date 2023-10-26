@@ -5903,7 +5903,7 @@
         ],
         "output": [
             {
-                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
                 "name": "minecraft:trapped_chest"
             }
         ],
