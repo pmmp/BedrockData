@@ -20,6 +20,7 @@
     "driphoney": 29,
     "driplava": 28,
     "dripwater": 27,
+    "dustplume": 87,
     "electricspark": 81,
     "enchantingtable": 41,
     "endrod": 47,
@@ -77,5 +78,6 @@
     "watersplashmanual": 25,
     "waterwake": 26,
     "wax": 80,
+    "whitesmoke": 88,
     "witchspell": 44
 }
