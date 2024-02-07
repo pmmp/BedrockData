@@ -11503,25 +11503,6 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:scute"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:turtle_helmet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "A A"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
                 "name": "minecraft:shulker_shell"
             },
             "B": {
@@ -15381,6 +15362,25 @@
         "shape": [
             "A",
             "A"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:turtle_scute"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:turtle_helmet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "A A"
         ]
     },
     {

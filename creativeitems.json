@@ -2860,6 +2860,10 @@
         "name": "minecraft:mob_spawner"
     },
     {
+        "block_states": "CgAAAxMAdHJpYWxfc3Bhd25lcl9zdGF0ZQAAAAAA",
+        "name": "minecraft:trial_spawner"
+    },
+    {
         "block_states": "CgAACBYAbW9uc3Rlcl9lZ2dfc3RvbmVfdHlwZQUAc3RvbmUA",
         "name": "minecraft:monster_egg"
     },
@@ -3137,6 +3141,9 @@
     },
     {
         "name": "minecraft:sniffer_spawn_egg"
+    },
+    {
+        "name": "minecraft:breeze_spawn_egg"
     },
     {
         "name": "minecraft:obsidian"
@@ -4868,7 +4875,7 @@
         "name": "minecraft:heart_of_the_sea"
     },
     {
-        "name": "minecraft:scute"
+        "name": "minecraft:turtle_scute"
     },
     {
         "name": "minecraft:phantom_membrane"
@@ -4952,6 +4959,9 @@
     },
     {
         "name": "minecraft:writable_book"
+    },
+    {
+        "name": "minecraft:trial_key"
     },
     {
         "name": "minecraft:enchanted_book",
