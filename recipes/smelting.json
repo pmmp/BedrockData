@@ -573,7 +573,27 @@
         "block": "furnace",
         "input": {
             "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:acacia_wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
             "name": "minecraft:birch_log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:birch_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -593,7 +613,27 @@
         "block": "furnace",
         "input": {
             "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:dark_oak_wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
             "name": "minecraft:jungle_log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:jungle_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -613,6 +653,16 @@
         "block": "furnace",
         "input": {
             "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:oak_wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
             "name": "minecraft:spruce_log"
         },
         "output": {
@@ -622,8 +672,8 @@
     {
         "block": "furnace",
         "input": {
-            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlAwBvYWsA",
-            "name": "minecraft:wood"
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:spruce_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -632,8 +682,8 @@
     {
         "block": "furnace",
         "input": {
-            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlBQBiaXJjaAA=",
-            "name": "minecraft:wood"
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:stripped_acacia_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -642,8 +692,8 @@
     {
         "block": "furnace",
         "input": {
-            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlBgBhY2FjaWEA",
-            "name": "minecraft:wood"
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:stripped_birch_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -652,8 +702,8 @@
     {
         "block": "furnace",
         "input": {
-            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlBgBqdW5nbGUA",
-            "name": "minecraft:wood"
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:stripped_dark_oak_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -662,8 +712,8 @@
     {
         "block": "furnace",
         "input": {
-            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlBgBzcHJ1Y2UA",
-            "name": "minecraft:wood"
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:stripped_jungle_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -672,8 +722,8 @@
     {
         "block": "furnace",
         "input": {
-            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlCABkYXJrX29hawA=",
-            "name": "minecraft:wood"
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:stripped_oak_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -682,58 +732,8 @@
     {
         "block": "furnace",
         "input": {
-            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlAwBvYWsA",
-            "name": "minecraft:wood"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlBQBiaXJjaAA=",
-            "name": "minecraft:wood"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlBgBhY2FjaWEA",
-            "name": "minecraft:wood"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlBgBqdW5nbGUA",
-            "name": "minecraft:wood"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlBgBzcHJ1Y2UA",
-            "name": "minecraft:wood"
-        },
-        "output": {
-            "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlCABkYXJrX29hawA=",
-            "name": "minecraft:wood"
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:stripped_spruce_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -755,6 +755,16 @@
         "input": {
             "meta": 32767,
             "name": "minecraft:acacia_log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:acacia_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -795,6 +805,16 @@
         "input": {
             "meta": 32767,
             "name": "minecraft:birch_log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:birch_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -926,6 +946,16 @@
         "input": {
             "meta": 32767,
             "name": "minecraft:dark_oak_log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:dark_oak_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -1205,6 +1235,16 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:jungle_wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:kelp"
         },
         "output": {
@@ -1286,6 +1326,16 @@
         "input": {
             "meta": 32767,
             "name": "minecraft:oak_log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:oak_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -1447,6 +1497,16 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:spruce_wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:stripped_acacia_log"
         },
         "output": {
@@ -1457,7 +1517,27 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:stripped_acacia_wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:stripped_birch_log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:stripped_birch_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -1497,7 +1577,27 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:stripped_dark_oak_wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:stripped_jungle_log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:stripped_jungle_wood"
         },
         "output": {
             "name": "minecraft:charcoal"
@@ -1537,6 +1637,16 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:stripped_oak_wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:stripped_spruce_log"
         },
         "output": {
@@ -1547,7 +1657,7 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
-            "name": "minecraft:wood"
+            "name": "minecraft:stripped_spruce_wood"
         },
         "output": {
             "name": "minecraft:charcoal"

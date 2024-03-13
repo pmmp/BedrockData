@@ -989,28 +989,28 @@
         "name": "minecraft:stone_block_slab2"
     },
     {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgJAHdvb2RfdHlwZQMAb2FrAA==",
-        "name": "minecraft:wooden_slab"
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:oak_slab"
     },
     {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgJAHdvb2RfdHlwZQYAc3BydWNlAA==",
-        "name": "minecraft:wooden_slab"
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:spruce_slab"
     },
     {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgJAHdvb2RfdHlwZQUAYmlyY2gA",
-        "name": "minecraft:wooden_slab"
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:birch_slab"
     },
     {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgJAHdvb2RfdHlwZQYAanVuZ2xlAA==",
-        "name": "minecraft:wooden_slab"
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:jungle_slab"
     },
     {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgJAHdvb2RfdHlwZQYAYWNhY2lhAA==",
-        "name": "minecraft:wooden_slab"
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:acacia_slab"
     },
     {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgJAHdvb2RfdHlwZQgAZGFya19vYWsA",
-        "name": "minecraft:wooden_slab"
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:dark_oak_slab"
     },
     {
         "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
@@ -1938,7 +1938,7 @@
         "name": "minecraft:farmland"
     },
     {
-        "name": "minecraft:grass"
+        "name": "minecraft:grass_block"
     },
     {
         "name": "minecraft:grass_path"
@@ -2139,52 +2139,52 @@
         "name": "minecraft:stripped_warped_stem"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlAwBvYWsA",
-        "name": "minecraft:wood"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:oak_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlAwBvYWsA",
-        "name": "minecraft:wood"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:spruce_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlBgBzcHJ1Y2UA",
-        "name": "minecraft:wood"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:birch_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlBgBzcHJ1Y2UA",
-        "name": "minecraft:wood"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:jungle_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlBQBiaXJjaAA=",
-        "name": "minecraft:wood"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:acacia_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlBQBiaXJjaAA=",
-        "name": "minecraft:wood"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:dark_oak_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlBgBqdW5nbGUA",
-        "name": "minecraft:wood"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:stripped_oak_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlBgBqdW5nbGUA",
-        "name": "minecraft:wood"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:stripped_spruce_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlBgBhY2FjaWEA",
-        "name": "minecraft:wood"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:stripped_birch_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlBgBhY2FjaWEA",
-        "name": "minecraft:wood"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:stripped_jungle_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQACAkAd29vZF90eXBlCABkYXJrX29hawA=",
-        "name": "minecraft:wood"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:stripped_acacia_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQBCAkAd29vZF90eXBlCABkYXJrX29hawA=",
-        "name": "minecraft:wood"
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:stripped_dark_oak_wood"
     },
     {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQAAA==",
@@ -2227,28 +2227,28 @@
         "name": "minecraft:stripped_bamboo_block"
     },
     {
-        "block_states": "CgAACA0Ab2xkX2xlYWZfdHlwZQMAb2FrAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
-        "name": "minecraft:leaves"
+        "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
+        "name": "minecraft:oak_leaves"
     },
     {
-        "block_states": "CgAACA0Ab2xkX2xlYWZfdHlwZQYAc3BydWNlAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
-        "name": "minecraft:leaves"
+        "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
+        "name": "minecraft:spruce_leaves"
     },
     {
-        "block_states": "CgAACA0Ab2xkX2xlYWZfdHlwZQUAYmlyY2gBDgBwZXJzaXN0ZW50X2JpdAABCgB1cGRhdGVfYml0AAA=",
-        "name": "minecraft:leaves"
+        "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
+        "name": "minecraft:birch_leaves"
     },
     {
-        "block_states": "CgAACA0Ab2xkX2xlYWZfdHlwZQYAanVuZ2xlAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
-        "name": "minecraft:leaves"
+        "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
+        "name": "minecraft:jungle_leaves"
     },
     {
-        "block_states": "CgAACA0AbmV3X2xlYWZfdHlwZQYAYWNhY2lhAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
-        "name": "minecraft:leaves2"
+        "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
+        "name": "minecraft:acacia_leaves"
     },
     {
-        "block_states": "CgAACA0AbmV3X2xlYWZfdHlwZQgAZGFya19vYWsBDgBwZXJzaXN0ZW50X2JpdAABCgB1cGRhdGVfYml0AAA=",
-        "name": "minecraft:leaves2"
+        "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
+        "name": "minecraft:dark_oak_leaves"
     },
     {
         "block_states": "CgAAAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAA",
@@ -2864,6 +2864,14 @@
         "name": "minecraft:trial_spawner"
     },
     {
+        "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgICwB2YXVsdF9zdGF0ZQgAaW5hY3RpdmUA",
+        "name": "minecraft:vault"
+    },
+    {
+        "block_states": "CgAAARIAZW5kX3BvcnRhbF9leWVfYml0AAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+        "name": "minecraft:end_portal_frame"
+    },
+    {
         "block_states": "CgAACBYAbW9uc3Rlcl9lZ2dfc3RvbmVfdHlwZQUAc3RvbmUA",
         "name": "minecraft:monster_egg"
     },
@@ -3144,6 +3152,9 @@
     },
     {
         "name": "minecraft:breeze_spawn_egg"
+    },
+    {
+        "name": "minecraft:bogged_spawn_egg"
     },
     {
         "name": "minecraft:obsidian"
@@ -3639,6 +3650,9 @@
     },
     {
         "name": "minecraft:snowball"
+    },
+    {
+        "name": "minecraft:wind_charge"
     },
     {
         "name": "minecraft:shears"
@@ -4802,10 +4816,6 @@
         "name": "minecraft:stonecutter_block"
     },
     {
-        "block_states": "CgAAARIAZW5kX3BvcnRhbF9leWVfYml0AAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
-        "name": "minecraft:end_portal_frame"
-    },
-    {
         "name": "minecraft:coal"
     },
     {
@@ -5664,67 +5674,83 @@
         "name": "minecraft:loom"
     },
     {
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 8,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 7,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 15,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 12,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 14,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 1,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 4,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 5,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 13,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 9,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 3,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 11,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 10,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 2,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 6,
-        "name": "minecraft:banner"
+        "name": "minecraft:banner",
+        "nbt": "CgAAAwQAVHlwZQAAAAAA"
     },
     {
         "meta": 15,
