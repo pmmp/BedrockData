@@ -57,171 +57,6 @@
         "block": "crafting_table",
         "input": [
             {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUFAG94ZXllAA==",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:light_gray_dye"
-            }
-        ],
-        "priority": 1
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUFAHBvcHB5AA==",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:red_dye"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUGAG9yY2hpZAA=",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:light_blue_dye"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUGAGFsbGl1bQA=",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:magenta_dye"
-            }
-        ],
-        "priority": 1
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUJAGhvdXN0b25pYQA=",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:light_gray_dye"
-            }
-        ],
-        "priority": 2
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUJAHR1bGlwX3JlZAA=",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:red_dye"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUKAGNvcm5mbG93ZXIA",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:blue_dye"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUKAHR1bGlwX3BpbmsA",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:pink_dye"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGULAHR1bGlwX3doaXRlAA==",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:light_gray_dye"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUMAHR1bGlwX29yYW5nZQA=",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:orange_dye"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUSAGxpbHlfb2ZfdGhlX3ZhbGxleQA=",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:white_dye"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
                 "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAZGVmYXVsdAA=",
                 "name": "minecraft:stonebrick"
             },
@@ -3689,6 +3524,36 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:allium"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:magenta_dye"
+            }
+        ],
+        "priority": 1
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:azure_bluet"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:light_gray_dye"
+            }
+        ],
+        "priority": 2
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:beetroot"
             }
         ],
@@ -4326,6 +4191,21 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:blue_orchid"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:light_blue_dye"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:bone"
             }
         ],
@@ -4751,6 +4631,22 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:breeze_rod"
+            }
+        ],
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:wind_charge"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:brown_dye"
             },
             {
@@ -5032,91 +4928,8 @@
                 "name": "minecraft:bowl"
             },
             {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUFAG94ZXllAA==",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "meta": 8,
-                "name": "minecraft:suspicious_stew"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
                 "meta": 32767,
-                "name": "minecraft:brown_mushroom"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:red_mushroom"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:bowl"
-            },
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUFAHBvcHB5AA==",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:suspicious_stew"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:brown_mushroom"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:red_mushroom"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:bowl"
-            },
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUGAG9yY2hpZAA=",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "meta": 6,
-                "name": "minecraft:suspicious_stew"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:brown_mushroom"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:red_mushroom"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:bowl"
-            },
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUGAGFsbGl1bQA=",
-                "name": "minecraft:red_flower"
+                "name": "minecraft:allium"
             }
         ],
         "output": [
@@ -5143,8 +4956,8 @@
                 "name": "minecraft:bowl"
             },
             {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUJAGhvdXN0b25pYQA=",
-                "name": "minecraft:red_flower"
+                "meta": 32767,
+                "name": "minecraft:azure_bluet"
             }
         ],
         "output": [
@@ -5171,13 +4984,13 @@
                 "name": "minecraft:bowl"
             },
             {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUJAHR1bGlwX3JlZAA=",
-                "name": "minecraft:red_flower"
+                "meta": 32767,
+                "name": "minecraft:blue_orchid"
             }
         ],
         "output": [
             {
-                "meta": 2,
+                "meta": 6,
                 "name": "minecraft:suspicious_stew"
             }
         ],
@@ -5199,8 +5012,8 @@
                 "name": "minecraft:bowl"
             },
             {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUKAGNvcm5mbG93ZXIA",
-                "name": "minecraft:red_flower"
+                "meta": 32767,
+                "name": "minecraft:cornflower"
             }
         ],
         "output": [
@@ -5227,97 +5040,152 @@
                 "name": "minecraft:bowl"
             },
             {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUKAHR1bGlwX3BpbmsA",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "meta": 2,
-                "name": "minecraft:suspicious_stew"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
                 "meta": 32767,
-                "name": "minecraft:brown_mushroom"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:red_mushroom"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:bowl"
-            },
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGULAHR1bGlwX3doaXRlAA==",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "meta": 2,
-                "name": "minecraft:suspicious_stew"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:brown_mushroom"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:red_mushroom"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:bowl"
-            },
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUMAHR1bGlwX29yYW5nZQA=",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "meta": 2,
-                "name": "minecraft:suspicious_stew"
-            }
-        ],
-        "priority": 0
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:brown_mushroom"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:red_mushroom"
-            },
-            {
-                "meta": 32767,
-                "name": "minecraft:bowl"
-            },
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUSAGxpbHlfb2ZfdGhlX3ZhbGxleQA=",
-                "name": "minecraft:red_flower"
+                "name": "minecraft:lily_of_the_valley"
             }
         ],
         "output": [
             {
                 "meta": 4,
+                "name": "minecraft:suspicious_stew"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bowl"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:orange_tulip"
+            }
+        ],
+        "output": [
+            {
+                "meta": 2,
+                "name": "minecraft:suspicious_stew"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bowl"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:oxeye_daisy"
+            }
+        ],
+        "output": [
+            {
+                "meta": 8,
+                "name": "minecraft:suspicious_stew"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bowl"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:pink_tulip"
+            }
+        ],
+        "output": [
+            {
+                "meta": 2,
+                "name": "minecraft:suspicious_stew"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bowl"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:poppy"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:suspicious_stew"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bowl"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_tulip"
+            }
+        ],
+        "output": [
+            {
+                "meta": 2,
                 "name": "minecraft:suspicious_stew"
             }
         ],
@@ -5346,6 +5214,34 @@
         "output": [
             {
                 "meta": 10,
+                "name": "minecraft:suspicious_stew"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bowl"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:white_tulip"
+            }
+        ],
+        "output": [
+            {
+                "meta": 2,
                 "name": "minecraft:suspicious_stew"
             }
         ],
@@ -6435,6 +6331,21 @@
             }
         ],
         "priority": 1
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cornflower"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:blue_dye"
+            }
+        ],
+        "priority": 0
     },
     {
         "block": "crafting_table",
@@ -9072,6 +8983,21 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:lily_of_the_valley"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:white_dye"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:lime_dye"
             },
             {
@@ -9964,6 +9890,36 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:orange_tulip"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:orange_dye"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oxeye_daisy"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:light_gray_dye"
+            }
+        ],
+        "priority": 1
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:oxidized_copper"
             },
             {
@@ -10114,25 +10070,6 @@
             }
         ],
         "priority": 1
-    },
-    {
-        "block": "crafting_table",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:paper"
-            },
-            {
-                "block_states": "CgAACAsAZmxvd2VyX3R5cGUFAG94ZXllAA==",
-                "name": "minecraft:red_flower"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:flower_banner_pattern"
-            }
-        ],
-        "priority": 0
     },
     {
         "block": "crafting_table",
@@ -10719,6 +10656,25 @@
             },
             {
                 "meta": 32767,
+                "name": "minecraft:oxeye_daisy"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:flower_banner_pattern"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:paper"
+            },
+            {
+                "meta": 32767,
                 "name": "minecraft:vine"
             }
         ],
@@ -11038,12 +10994,42 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:pink_tulip"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:pink_dye"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:pitcher_plant"
             }
         ],
         "output": [
             {
                 "name": "minecraft:cyan_dye"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:poppy"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:red_dye"
             }
         ],
         "priority": 0
@@ -11616,6 +11602,21 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:red_tulip"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:red_dye"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:spider_eye"
             },
             {
@@ -12074,6 +12075,21 @@
             }
         ],
         "priority": 50
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_tulip"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:light_gray_dye"
+            }
+        ],
+        "priority": 0
     },
     {
         "block": "crafting_table",

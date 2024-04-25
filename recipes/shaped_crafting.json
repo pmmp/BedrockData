@@ -1226,6 +1226,26 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:armadillo_scute"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:wolf_armor"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AAA",
+            "A A"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:bamboo"
             },
             "B": {
@@ -4220,6 +4240,64 @@
             },
             "B": {
                 "meta": 32767,
+                "name": "minecraft:bolt_armor_trim_smithing_template"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:copper_block"
+            }
+        },
+        "output": [
+            {
+                "count": 2,
+                "name": "minecraft:bolt_armor_trim_smithing_template"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ACA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:diamond"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bolt_armor_trim_smithing_template"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:waxed_copper"
+            }
+        },
+        "output": [
+            {
+                "count": 2,
+                "name": "minecraft:bolt_armor_trim_smithing_template"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ACA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:diamond"
+            },
+            "B": {
+                "meta": 32767,
                 "name": "minecraft:coast_armor_trim_smithing_template"
             },
             "C": {
@@ -4289,6 +4367,35 @@
             {
                 "count": 2,
                 "name": "minecraft:eye_armor_trim_smithing_template"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ACA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:diamond"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:flow_armor_trim_smithing_template"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:breeze_rod"
+            }
+        },
+        "output": [
+            {
+                "count": 2,
+                "name": "minecraft:flow_armor_trim_smithing_template"
             }
         ],
         "priority": 0,
@@ -7587,6 +7694,29 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:heavy_core"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:breeze_rod"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:mace"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:honey_bottle"
             }
         },
@@ -9935,6 +10065,25 @@
             }
         ],
         "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:crafting_table"
+            }
+        ],
+        "priority": -1,
         "shape": [
             "AA",
             "AA"

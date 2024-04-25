@@ -2267,28 +2267,28 @@
         "name": "minecraft:azalea_leaves_flowered"
     },
     {
-        "block_states": "CgAAAQcAYWdlX2JpdAAIDABzYXBsaW5nX3R5cGUDAG9hawA=",
-        "name": "minecraft:sapling"
+        "block_states": "CgAAAQcAYWdlX2JpdAAA",
+        "name": "minecraft:oak_sapling"
     },
     {
-        "block_states": "CgAAAQcAYWdlX2JpdAAIDABzYXBsaW5nX3R5cGUGAHNwcnVjZQA=",
-        "name": "minecraft:sapling"
+        "block_states": "CgAAAQcAYWdlX2JpdAAA",
+        "name": "minecraft:spruce_sapling"
     },
     {
-        "block_states": "CgAAAQcAYWdlX2JpdAAIDABzYXBsaW5nX3R5cGUFAGJpcmNoAA==",
-        "name": "minecraft:sapling"
+        "block_states": "CgAAAQcAYWdlX2JpdAAA",
+        "name": "minecraft:birch_sapling"
     },
     {
-        "block_states": "CgAAAQcAYWdlX2JpdAAIDABzYXBsaW5nX3R5cGUGAGp1bmdsZQA=",
-        "name": "minecraft:sapling"
+        "block_states": "CgAAAQcAYWdlX2JpdAAA",
+        "name": "minecraft:jungle_sapling"
     },
     {
-        "block_states": "CgAAAQcAYWdlX2JpdAAIDABzYXBsaW5nX3R5cGUGAGFjYWNpYQA=",
-        "name": "minecraft:sapling"
+        "block_states": "CgAAAQcAYWdlX2JpdAAA",
+        "name": "minecraft:acacia_sapling"
     },
     {
-        "block_states": "CgAAAQcAYWdlX2JpdAAIDABzYXBsaW5nX3R5cGUIAGRhcmtfb2FrAA==",
-        "name": "minecraft:sapling"
+        "block_states": "CgAAAQcAYWdlX2JpdAAA",
+        "name": "minecraft:dark_oak_sapling"
     },
     {
         "block_states": "CgAAAQcAaGFuZ2luZwADDwBwcm9wYWd1bGVfc3RhZ2UAAAAAAA==",
@@ -2427,44 +2427,44 @@
         "name": "minecraft:dead_horn_coral"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IDAHJlZAMTAGNvcmFsX2Zhbl9kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:coral_fan"
+        "block_states": "CgAAAxMAY29yYWxfZmFuX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:fire_coral_fan"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IEAHBpbmsDEwBjb3JhbF9mYW5fZGlyZWN0aW9uAAAAAAA=",
-        "name": "minecraft:coral_fan"
+        "block_states": "CgAAAxMAY29yYWxfZmFuX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:brain_coral_fan"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IGAHB1cnBsZQMTAGNvcmFsX2Zhbl9kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:coral_fan"
+        "block_states": "CgAAAxMAY29yYWxfZmFuX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:bubble_coral_fan"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IEAGJsdWUDEwBjb3JhbF9mYW5fZGlyZWN0aW9uAAAAAAA=",
-        "name": "minecraft:coral_fan"
+        "block_states": "CgAAAxMAY29yYWxfZmFuX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:tube_coral_fan"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IGAHllbGxvdwMTAGNvcmFsX2Zhbl9kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:coral_fan"
+        "block_states": "CgAAAxMAY29yYWxfZmFuX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:horn_coral_fan"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IDAHJlZAMTAGNvcmFsX2Zhbl9kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:coral_fan_dead"
+        "block_states": "CgAAAxMAY29yYWxfZmFuX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:dead_fire_coral_fan"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IEAHBpbmsDEwBjb3JhbF9mYW5fZGlyZWN0aW9uAAAAAAA=",
-        "name": "minecraft:coral_fan_dead"
+        "block_states": "CgAAAxMAY29yYWxfZmFuX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:dead_brain_coral_fan"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IGAHB1cnBsZQMTAGNvcmFsX2Zhbl9kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:coral_fan_dead"
+        "block_states": "CgAAAxMAY29yYWxfZmFuX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:dead_bubble_coral_fan"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IEAGJsdWUDEwBjb3JhbF9mYW5fZGlyZWN0aW9uAAAAAAA=",
-        "name": "minecraft:coral_fan_dead"
+        "block_states": "CgAAAxMAY29yYWxfZmFuX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:dead_tube_coral_fan"
     },
     {
-        "block_states": "CgAACAsAY29yYWxfY29sb3IGAHllbGxvdwMTAGNvcmFsX2Zhbl9kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:coral_fan_dead"
+        "block_states": "CgAAAxMAY29yYWxfZmFuX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:dead_horn_coral_fan"
     },
     {
         "name": "minecraft:crimson_roots"
@@ -2476,48 +2476,37 @@
         "name": "minecraft:yellow_flower"
     },
     {
-        "block_states": "CgAACAsAZmxvd2VyX3R5cGUFAHBvcHB5AA==",
-        "name": "minecraft:red_flower"
+        "name": "minecraft:poppy"
     },
     {
-        "block_states": "CgAACAsAZmxvd2VyX3R5cGUGAG9yY2hpZAA=",
-        "name": "minecraft:red_flower"
+        "name": "minecraft:blue_orchid"
     },
     {
-        "block_states": "CgAACAsAZmxvd2VyX3R5cGUGAGFsbGl1bQA=",
-        "name": "minecraft:red_flower"
+        "name": "minecraft:allium"
     },
     {
-        "block_states": "CgAACAsAZmxvd2VyX3R5cGUJAGhvdXN0b25pYQA=",
-        "name": "minecraft:red_flower"
+        "name": "minecraft:azure_bluet"
     },
     {
-        "block_states": "CgAACAsAZmxvd2VyX3R5cGUJAHR1bGlwX3JlZAA=",
-        "name": "minecraft:red_flower"
+        "name": "minecraft:red_tulip"
     },
     {
-        "block_states": "CgAACAsAZmxvd2VyX3R5cGUMAHR1bGlwX29yYW5nZQA=",
-        "name": "minecraft:red_flower"
+        "name": "minecraft:orange_tulip"
     },
     {
-        "block_states": "CgAACAsAZmxvd2VyX3R5cGULAHR1bGlwX3doaXRlAA==",
-        "name": "minecraft:red_flower"
+        "name": "minecraft:white_tulip"
     },
     {
-        "block_states": "CgAACAsAZmxvd2VyX3R5cGUKAHR1bGlwX3BpbmsA",
-        "name": "minecraft:red_flower"
+        "name": "minecraft:pink_tulip"
     },
     {
-        "block_states": "CgAACAsAZmxvd2VyX3R5cGUFAG94ZXllAA==",
-        "name": "minecraft:red_flower"
+        "name": "minecraft:oxeye_daisy"
     },
     {
-        "block_states": "CgAACAsAZmxvd2VyX3R5cGUKAGNvcm5mbG93ZXIA",
-        "name": "minecraft:red_flower"
+        "name": "minecraft:cornflower"
     },
     {
-        "block_states": "CgAACAsAZmxvd2VyX3R5cGUSAGxpbHlfb2ZfdGhlX3ZhbGxleQA=",
-        "name": "minecraft:red_flower"
+        "name": "minecraft:lily_of_the_valley"
     },
     {
         "block_states": "CgAACBEAZG91YmxlX3BsYW50X3R5cGUJAHN1bmZsb3dlcgEPAHVwcGVyX2Jsb2NrX2JpdAAA",
@@ -3154,6 +3143,9 @@
         "name": "minecraft:breeze_spawn_egg"
     },
     {
+        "name": "minecraft:armadillo_spawn_egg"
+    },
+    {
         "name": "minecraft:bogged_spawn_egg"
     },
     {
@@ -3432,6 +3424,9 @@
     },
     {
         "name": "minecraft:crossbow"
+    },
+    {
+        "name": "minecraft:mace"
     },
     {
         "name": "minecraft:arrow"
@@ -3724,6 +3719,9 @@
     },
     {
         "name": "minecraft:diamond_horse_armor"
+    },
+    {
+        "name": "minecraft:wolf_armor"
     },
     {
         "name": "minecraft:trident"
@@ -4888,6 +4886,9 @@
         "name": "minecraft:turtle_scute"
     },
     {
+        "name": "minecraft:armadillo_scute"
+    },
+    {
         "name": "minecraft:phantom_membrane"
     },
     {
@@ -4916,6 +4917,12 @@
     },
     {
         "name": "minecraft:blaze_rod"
+    },
+    {
+        "name": "minecraft:breeze_rod"
+    },
+    {
+        "name": "minecraft:heavy_core"
     },
     {
         "name": "minecraft:blaze_powder"
@@ -5782,6 +5789,12 @@
         "name": "minecraft:globe_banner_pattern"
     },
     {
+        "name": "minecraft:flow_banner_pattern"
+    },
+    {
+        "name": "minecraft:guster_banner_pattern"
+    },
+    {
         "name": "minecraft:angler_pottery_sherd"
     },
     {
@@ -5806,7 +5819,13 @@
         "name": "minecraft:explorer_pottery_sherd"
     },
     {
+        "name": "minecraft:flow_pottery_sherd"
+    },
+    {
         "name": "minecraft:friend_pottery_sherd"
+    },
+    {
+        "name": "minecraft:guster_pottery_sherd"
     },
     {
         "name": "minecraft:heart_pottery_sherd"
@@ -5828,6 +5847,9 @@
     },
     {
         "name": "minecraft:prize_pottery_sherd"
+    },
+    {
+        "name": "minecraft:scrape_pottery_sherd"
     },
     {
         "name": "minecraft:sheaf_pottery_sherd"
@@ -5891,6 +5913,12 @@
     },
     {
         "name": "minecraft:spire_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:flow_armor_trim_smithing_template"
+    },
+    {
+        "name": "minecraft:bolt_armor_trim_smithing_template"
     },
     {
         "name": "minecraft:firework_rocket",

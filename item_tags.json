@@ -77,7 +77,9 @@
         "minecraft:burn_pottery_sherd",
         "minecraft:danger_pottery_sherd",
         "minecraft:explorer_pottery_sherd",
+        "minecraft:flow_pottery_sherd",
         "minecraft:friend_pottery_sherd",
+        "minecraft:guster_pottery_sherd",
         "minecraft:heart_pottery_sherd",
         "minecraft:heartbreak_pottery_sherd",
         "minecraft:howl_pottery_sherd",
@@ -85,6 +87,7 @@
         "minecraft:mourner_pottery_sherd",
         "minecraft:plenty_pottery_sherd",
         "minecraft:prize_pottery_sherd",
+        "minecraft:scrape_pottery_sherd",
         "minecraft:sheaf_pottery_sherd",
         "minecraft:shelter_pottery_sherd",
         "minecraft:skull_pottery_sherd",
@@ -99,7 +102,8 @@
         "minecraft:diamond_leggings",
         "minecraft:diamond_pickaxe",
         "minecraft:diamond_shovel",
-        "minecraft:diamond_sword"
+        "minecraft:diamond_sword",
+        "minecraft:mace"
     ],
     "minecraft:digger": [
         "minecraft:diamond_axe",
@@ -326,6 +330,7 @@
         "minecraft:diamond_sword",
         "minecraft:golden_sword",
         "minecraft:iron_sword",
+        "minecraft:mace",
         "minecraft:netherite_sword",
         "minecraft:stone_sword",
         "minecraft:wooden_sword"
@@ -346,6 +351,7 @@
         "minecraft:iron_pickaxe",
         "minecraft:iron_shovel",
         "minecraft:iron_sword",
+        "minecraft:mace",
         "minecraft:netherite_axe",
         "minecraft:netherite_hoe",
         "minecraft:netherite_pickaxe",
@@ -533,6 +539,7 @@
     "minecraft:spawn_egg": [
         "minecraft:agent_spawn_egg",
         "minecraft:allay_spawn_egg",
+        "minecraft:armadillo_spawn_egg",
         "minecraft:axolotl_spawn_egg",
         "minecraft:bat_spawn_egg",
         "minecraft:bee_spawn_egg",
@@ -665,9 +672,11 @@
         "minecraft:redstone"
     ],
     "minecraft:trim_templates": [
+        "minecraft:bolt_armor_trim_smithing_template",
         "minecraft:coast_armor_trim_smithing_template",
         "minecraft:dune_armor_trim_smithing_template",
         "minecraft:eye_armor_trim_smithing_template",
+        "minecraft:flow_armor_trim_smithing_template",
         "minecraft:host_armor_trim_smithing_template",
         "minecraft:raiser_armor_trim_smithing_template",
         "minecraft:rib_armor_trim_smithing_template",
