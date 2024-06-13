@@ -76,6 +76,81 @@
     },
     {
         "ingredient": {
+            "name": "minecraft:breeze_rod"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:lingering_potion"
+        },
+        "output": {
+            "meta": 43,
+            "name": "minecraft:lingering_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:breeze_rod"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:potion"
+        },
+        "output": {
+            "meta": 43,
+            "name": "minecraft:potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:breeze_rod"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:splash_potion"
+        },
+        "output": {
+            "meta": 43,
+            "name": "minecraft:splash_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:breeze_rod"
+        },
+        "input": {
+            "name": "minecraft:lingering_potion"
+        },
+        "output": {
+            "meta": 1,
+            "name": "minecraft:lingering_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:breeze_rod"
+        },
+        "input": {
+            "name": "minecraft:potion"
+        },
+        "output": {
+            "meta": 1,
+            "name": "minecraft:potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:breeze_rod"
+        },
+        "input": {
+            "name": "minecraft:splash_potion"
+        },
+        "output": {
+            "meta": 1,
+            "name": "minecraft:splash_potion"
+        }
+    },
+    {
+        "ingredient": {
             "name": "minecraft:fermented_spider_eye"
         },
         "input": {
@@ -2197,6 +2272,81 @@
     },
     {
         "ingredient": {
+            "name": "minecraft:slime"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:lingering_potion"
+        },
+        "output": {
+            "meta": 45,
+            "name": "minecraft:lingering_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:slime"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:potion"
+        },
+        "output": {
+            "meta": 45,
+            "name": "minecraft:potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:slime"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:splash_potion"
+        },
+        "output": {
+            "meta": 45,
+            "name": "minecraft:splash_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:slime"
+        },
+        "input": {
+            "name": "minecraft:lingering_potion"
+        },
+        "output": {
+            "meta": 1,
+            "name": "minecraft:lingering_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:slime"
+        },
+        "input": {
+            "name": "minecraft:potion"
+        },
+        "output": {
+            "meta": 1,
+            "name": "minecraft:potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:slime"
+        },
+        "input": {
+            "name": "minecraft:splash_potion"
+        },
+        "output": {
+            "meta": 1,
+            "name": "minecraft:splash_potion"
+        }
+    },
+    {
+        "ingredient": {
             "name": "minecraft:spider_eye"
         },
         "input": {
@@ -2261,6 +2411,81 @@
     {
         "ingredient": {
             "name": "minecraft:spider_eye"
+        },
+        "input": {
+            "name": "minecraft:splash_potion"
+        },
+        "output": {
+            "meta": 1,
+            "name": "minecraft:splash_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:stone"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:lingering_potion"
+        },
+        "output": {
+            "meta": 46,
+            "name": "minecraft:lingering_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:stone"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:potion"
+        },
+        "output": {
+            "meta": 46,
+            "name": "minecraft:potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:stone"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:splash_potion"
+        },
+        "output": {
+            "meta": 46,
+            "name": "minecraft:splash_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:stone"
+        },
+        "input": {
+            "name": "minecraft:lingering_potion"
+        },
+        "output": {
+            "meta": 1,
+            "name": "minecraft:lingering_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:stone"
+        },
+        "input": {
+            "name": "minecraft:potion"
+        },
+        "output": {
+            "meta": 1,
+            "name": "minecraft:potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:stone"
         },
         "input": {
             "name": "minecraft:splash_potion"
@@ -2381,6 +2606,81 @@
         },
         "output": {
             "meta": 37,
+            "name": "minecraft:splash_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:web"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:lingering_potion"
+        },
+        "output": {
+            "meta": 44,
+            "name": "minecraft:lingering_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:web"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:potion"
+        },
+        "output": {
+            "meta": 44,
+            "name": "minecraft:potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:web"
+        },
+        "input": {
+            "meta": 4,
+            "name": "minecraft:splash_potion"
+        },
+        "output": {
+            "meta": 44,
+            "name": "minecraft:splash_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:web"
+        },
+        "input": {
+            "name": "minecraft:lingering_potion"
+        },
+        "output": {
+            "meta": 1,
+            "name": "minecraft:lingering_potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:web"
+        },
+        "input": {
+            "name": "minecraft:potion"
+        },
+        "output": {
+            "meta": 1,
+            "name": "minecraft:potion"
+        }
+    },
+    {
+        "ingredient": {
+            "name": "minecraft:web"
+        },
+        "input": {
+            "name": "minecraft:splash_potion"
+        },
+        "output": {
+            "meta": 1,
             "name": "minecraft:splash_potion"
         }
     }

@@ -31,9 +31,25 @@
         "description": "unknown",
         "id": 83
     },
-    "COMMAND": {
+    "CODEBUILDERARG": {
         "description": "unknown",
         "id": 86
+    },
+    "CODEBUILDERARGS": {
+        "description": "command",
+        "id": 87
+    },
+    "CODEBUILDERSELECTOR": {
+        "description": "unknown",
+        "id": 89
+    },
+    "CODEBUILDERSELECTPARAM": {
+        "description": "unknown",
+        "id": 88
+    },
+    "COMMAND": {
+        "description": "unknown",
+        "id": 90
     },
     "COMPAREOPERATOR": {
         "description": "compare operator",
@@ -316,8 +332,8 @@
         "id": 8
     },
     "SLASHCOMMAND": {
-        "description": "command",
-        "id": 87
+        "description": "unknown",
+        "id": 91
     },
     "STANDALONESELECTION": {
         "description": "unknown",
