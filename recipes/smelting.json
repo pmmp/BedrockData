@@ -540,17 +540,6 @@
     {
         "block": "furnace",
         "input": {
-            "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
-            "name": "minecraft:quartz_block"
-        },
-        "output": {
-            "block_states": "CgAACAsAY2hpc2VsX3R5cGUGAHNtb290aAgLAHBpbGxhcl9heGlzAQB5AA==",
-            "name": "minecraft:quartz_block"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
             "block_states": "CgAACAsAc3BvbmdlX3R5cGUDAHdldAA=",
             "name": "minecraft:sponge"
         },
@@ -663,6 +652,17 @@
         "block": "furnace",
         "input": {
             "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:quartz_block"
+        },
+        "output": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:smooth_quartz"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
             "name": "minecraft:spruce_log"
         },
         "output": {
@@ -737,17 +737,6 @@
         },
         "output": {
             "name": "minecraft:charcoal"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAZGVmYXVsdAA=",
-            "name": "minecraft:stonebrick"
-        },
-        "output": {
-            "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAY3JhY2tlZAA=",
-            "name": "minecraft:stonebrick"
         }
     },
     {
@@ -1425,11 +1414,10 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
-            "name": "minecraft:red_sandstone"
+            "name": "minecraft:red_sand"
         },
         "output": {
-            "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBgBzbW9vdGgA",
-            "name": "minecraft:red_sandstone"
+            "name": "minecraft:glass"
         }
     },
     {
@@ -1450,27 +1438,6 @@
         },
         "output": {
             "name": "minecraft:cooked_salmon"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 32767,
-            "name": "minecraft:sand"
-        },
-        "output": {
-            "name": "minecraft:glass"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "meta": 32767,
-            "name": "minecraft:sandstone"
-        },
-        "output": {
-            "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBgBzbW9vdGgA",
-            "name": "minecraft:sandstone"
         }
     },
     {
@@ -1501,6 +1468,16 @@
         },
         "output": {
             "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:stone_bricks"
+        },
+        "output": {
+            "name": "minecraft:cracked_stone_bricks"
         }
     },
     {
@@ -1904,11 +1881,38 @@
     {
         "block": "furnace",
         "input": {
+            "name": "minecraft:red_sandstone"
+        },
+        "output": {
+            "name": "minecraft:smooth_red_sandstone"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
             "name": "minecraft:red_terracotta"
         },
         "output": {
             "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
             "name": "minecraft:red_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "name": "minecraft:sand"
+        },
+        "output": {
+            "name": "minecraft:glass"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "name": "minecraft:sandstone"
+        },
+        "output": {
+            "name": "minecraft:smooth_sandstone"
         }
     },
     {
