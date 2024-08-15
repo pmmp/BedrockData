@@ -3707,9 +3707,6 @@
         "name": "minecraft:saddle"
     },
     {
-        "name": "minecraft:bundle"
-    },
-    {
         "name": "minecraft:leather_horse_armor"
     },
     {
@@ -6622,9 +6619,6 @@
     },
     {
         "name": "minecraft:ender_dragon_spawn_egg"
-    },
-    {
-        "name": "minecraft:debug_stick"
     },
     {
         "name": "minecraft:ominous_trial_key"
