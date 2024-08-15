@@ -28,580 +28,15 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlAwBjdXQA",
-                "name": "minecraft:red_sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80EQBjdXRfcmVkX3NhbmRzdG9uZQA=",
-                "count": 6,
-                "name": "minecraft:stone_block_slab4"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlAwBjdXQA",
-                "name": "minecraft:red_sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlAwBjdXQA",
-                "name": "minecraft:sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80DQBjdXRfc2FuZHN0b25lAA==",
-                "count": 6,
-                "name": "minecraft:stone_block_slab4"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlAwBjdXQA",
-                "name": "minecraft:sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBgBzbW9vdGgA",
-                "name": "minecraft:red_sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:smooth_red_sandstone_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBgBzbW9vdGgA",
-                "name": "minecraft:red_sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBgBzbW9vdGgA",
-                "name": "minecraft:red_sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8zFABzbW9vdGhfcmVkX3NhbmRzdG9uZQA=",
-                "count": 6,
-                "name": "minecraft:stone_block_slab3"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBgBzbW9vdGgA",
-                "name": "minecraft:red_sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBgBzbW9vdGgA",
-                "name": "minecraft:sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:smooth_sandstone_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBgBzbW9vdGgA",
-                "name": "minecraft:sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBgBzbW9vdGgA",
-                "name": "minecraft:sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yEABzbW9vdGhfc2FuZHN0b25lAA==",
-                "count": 6,
-                "name": "minecraft:stone_block_slab2"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBgBzbW9vdGgA",
-                "name": "minecraft:sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:red_sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:red_sandstone_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:red_sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:red_sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlAwBjdXQA",
-                "count": 4,
-                "name": "minecraft:red_sandstone"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:red_sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:red_sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlDQByZWRfc2FuZHN0b25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-                "count": 6,
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:red_sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:red_sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yDQByZWRfc2FuZHN0b25lAA==",
-                "count": 6,
-                "name": "minecraft:stone_block_slab2"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:red_sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:sandstone_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlAwBjdXQA",
-                "count": 4,
-                "name": "minecraft:sandstone"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCQBzYW5kc3RvbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9lYXN0BABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfbm9ydGgEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9zb3V0aAQAbm9uZQgZAHdhbGxfY29ubmVjdGlvbl90eXBlX3dlc3QEAG5vbmUBDQB3YWxsX3Bvc3RfYml0AAA=",
-                "count": 6,
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 6,
-                "name": "minecraft:sandstone_slab"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlCwBoZWlyb2dseXBocwA=",
-                "name": "minecraft:red_sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yDQByZWRfc2FuZHN0b25lAA==",
-                "count": 6,
-                "name": "minecraft:stone_block_slab2"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlCwBoZWlyb2dseXBocwA=",
-                "name": "minecraft:red_sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlCwBoZWlyb2dseXBocwA=",
-                "name": "minecraft:sandstone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 6,
-                "name": "minecraft:sandstone_slab"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlCwBoZWlyb2dseXBocwA=",
-                "name": "minecraft:sandstone"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAkAZGlydF90eXBlBgBub3JtYWwA",
-                "name": "minecraft:dirt"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:gravel"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAkAZGlydF90eXBlBgBjb2Fyc2UA",
-                "count": 4,
-                "name": "minecraft:dirt"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AB",
-            "BA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:gravel"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAkAc2FuZF90eXBlAwByZWQA",
-                "name": "minecraft:sand"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:red_sandstone"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAkAc2FuZF90eXBlAwByZWQA",
-                "name": "minecraft:sand"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAkAc2FuZF90eXBlBgBub3JtYWwA",
-                "name": "minecraft:sand"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:sandstone"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAkAc2FuZF90eXBlBgBub3JtYWwA",
-                "name": "minecraft:sand"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUGAHNtb290aAgLAHBpbGxhcl9heGlzAQB5AA==",
-                "name": "minecraft:quartz_block"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:smooth_quartz_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUGAHNtb290aAgLAHBpbGxhcl9heGlzAQB5AA==",
-                "name": "minecraft:quartz_block"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUGAHNtb290aAgLAHBpbGxhcl9heGlzAQB5AA==",
-                "name": "minecraft:quartz_block"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80DQBzbW9vdGhfcXVhcnR6AA==",
-                "count": 6,
-                "name": "minecraft:stone_block_slab4"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUGAHNtb290aAgLAHBpbGxhcl9heGlzAQB5AA==",
-                "name": "minecraft:quartz_block"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
                 "name": "minecraft:purpur_block"
             }
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yBgBwdXJwdXIA",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab2"
+                "name": "minecraft:purpur_slab"
             }
         ],
         "priority": 50,
@@ -612,112 +47,6 @@
             {
                 "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
                 "name": "minecraft:purpur_block"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
-                "name": "minecraft:quartz_block"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:quartz_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
-                "name": "minecraft:quartz_block"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
-                "name": "minecraft:quartz_block"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUFAGxpbmVzCAsAcGlsbGFyX2F4aXMBAHkA",
-                "count": 2,
-                "name": "minecraft:quartz_block"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A",
-            "A"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
-                "name": "minecraft:quartz_block"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
-                "name": "minecraft:quartz_block"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 6,
-                "name": "minecraft:quartz_slab"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
-                "name": "minecraft:quartz_block"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
-                "name": "minecraft:quartz_block"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:quartz_bricks"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
-                "name": "minecraft:quartz_block"
             }
         ]
     },
@@ -851,6 +180,139 @@
         "input": {
             "A": {
                 "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:quartz_block"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:quartz_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:quartz_block"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:quartz_block"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "count": 2,
+                "name": "minecraft:quartz_pillar"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:quartz_block"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:quartz_block"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:quartz_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:quartz_block"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:quartz_block"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:quartz_bricks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:quartz_block"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:smooth_quartz"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:smooth_quartz_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:smooth_quartz"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:spruce_log"
             }
         },
@@ -875,467 +337,8 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQUAbW9zc3kA",
-                "name": "minecraft:stonebrick"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:mossy_stone_brick_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQUAbW9zc3kA",
-                "name": "minecraft:stonebrick"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQUAbW9zc3kA",
-                "name": "minecraft:stonebrick"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlEQBtb3NzeV9zdG9uZV9icmljawgZAHdhbGxfY29ubmVjdGlvbl90eXBlX2Vhc3QEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9ub3J0aAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX3NvdXRoBABub25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfd2VzdAQAbm9uZQENAHdhbGxfcG9zdF9iaXQAAA==",
-                "count": 6,
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQUAbW9zc3kA",
-                "name": "minecraft:stonebrick"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQUAbW9zc3kA",
-                "name": "minecraft:stonebrick"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80EQBtb3NzeV9zdG9uZV9icmljawA=",
-                "count": 6,
-                "name": "minecraft:stone_block_slab4"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQUAbW9zc3kA",
-                "name": "minecraft:stonebrick"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAZGVmYXVsdAA=",
-                "name": "minecraft:stonebrick"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:stone_brick_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAZGVmYXVsdAA=",
-                "name": "minecraft:stonebrick"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAZGVmYXVsdAA=",
-                "name": "minecraft:stonebrick"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCwBzdG9uZV9icmljawgZAHdhbGxfY29ubmVjdGlvbl90eXBlX2Vhc3QEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9ub3J0aAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX3NvdXRoBABub25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfd2VzdAQAbm9uZQENAHdhbGxfcG9zdF9iaXQAAA==",
-                "count": 6,
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAZGVmYXVsdAA=",
-                "name": "minecraft:stonebrick"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAZGVmYXVsdAA=",
-                "name": "minecraft:stonebrick"
-            }
-        },
-        "output": [
-            {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 6,
-                "name": "minecraft:stone_brick_slab"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAZGVmYXVsdAA=",
-                "name": "minecraft:stonebrick"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQgAY2hpc2VsZWQA",
-                "name": "minecraft:stonebrick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:netherite_ingot"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:lodestone"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:netherite_ingot"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBABkYXJrAA==",
-                "name": "minecraft:prismarine"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:dark_prismarine_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBABkYXJrAA==",
-                "name": "minecraft:prismarine"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBABkYXJrAA==",
-                "name": "minecraft:prismarine"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yDwBwcmlzbWFyaW5lX2RhcmsA",
-                "count": 6,
-                "name": "minecraft:stone_block_slab2"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBABkYXJrAA==",
-                "name": "minecraft:prismarine"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBgBicmlja3MA",
-                "name": "minecraft:prismarine"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:prismarine_bricks_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBgBicmlja3MA",
-                "name": "minecraft:prismarine"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBgBicmlja3MA",
-                "name": "minecraft:prismarine"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yEABwcmlzbWFyaW5lX2JyaWNrAA==",
-                "count": 6,
-                "name": "minecraft:stone_block_slab2"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBgBicmlja3MA",
-                "name": "minecraft:prismarine"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:prismarine"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:prismarine_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:prismarine"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:prismarine"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCgBwcmlzbWFyaW5lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-                "count": 6,
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:prismarine"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:prismarine"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yEABwcmlzbWFyaW5lX3JvdWdoAA==",
-                "count": 6,
-                "name": "minecraft:stone_block_slab2"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:prismarine"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:quartz_slab"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUIAGNoaXNlbGVkCAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:quartz_block"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "A",
-            "A"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:quartz_slab"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:sandstone_slab"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlCwBoZWlyb2dseXBocwA=",
-                "name": "minecraft:sandstone"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "A",
-            "A"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:sandstone_slab"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:stone_brick_slab"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQgAY2hpc2VsZWQA",
-                "name": "minecraft:stonebrick"
-            }
-        ],
-        "priority": 50,
-        "shape": [
-            "A",
-            "A"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "name": "minecraft:stone_brick_slab"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yBgBwdXJwdXIA",
-                "name": "minecraft:stone_block_slab2"
+                "name": "minecraft:purpur_slab"
             }
         },
         "output": [
@@ -1351,8 +354,8 @@
         ],
         "unlockingIngredients": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yBgBwdXJwdXIA",
-                "name": "minecraft:stone_block_slab2"
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:purpur_slab"
             }
         ]
     },
@@ -1360,14 +363,14 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yDQByZWRfc2FuZHN0b25lAA==",
-                "name": "minecraft:stone_block_slab2"
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:quartz_slab"
             }
         },
         "output": [
             {
-                "block_states": "CgAACA8Ac2FuZF9zdG9uZV90eXBlCwBoZWlyb2dseXBocwA=",
-                "name": "minecraft:red_sandstone"
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:chiseled_quartz_block"
             }
         ],
         "priority": 50,
@@ -1377,8 +380,83 @@
         ],
         "unlockingIngredients": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yDQByZWRfc2FuZHN0b25lAA==",
-                "name": "minecraft:stone_block_slab2"
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:quartz_slab"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:red_sandstone_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:chiseled_red_sandstone"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "A",
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:red_sandstone_slab"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:sandstone_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:chiseled_sandstone"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "A",
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:sandstone_slab"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:stone_brick_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:chiseled_stone_bricks"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "A",
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:stone_brick_slab"
             }
         ]
     },
@@ -3359,6 +2437,36 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:chiseled_stone_bricks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:netherite_ingot"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:lodestone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:netherite_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:clay_ball"
             }
         },
@@ -5304,7 +4412,6 @@
                 "name": "minecraft:dune_armor_trim_smithing_template"
             },
             "C": {
-                "meta": 32767,
                 "name": "minecraft:sandstone"
             }
         },
@@ -5874,7 +4981,6 @@
                 "name": "minecraft:tide_armor_trim_smithing_template"
             },
             "C": {
-                "meta": 32767,
                 "name": "minecraft:prismarine"
             }
         },
@@ -8848,7 +7954,6 @@
                 "name": "minecraft:gunpowder"
             },
             "B": {
-                "meta": 32767,
                 "name": "minecraft:sand"
             }
         },
@@ -9651,7 +8756,7 @@
         },
         "output": [
             {
-                "block_states": "CgAACAYAZGFtYWdlCQB1bmRhbWFnZWQIHABtaW5lY3JhZnQ6Y2FyZGluYWxfZGlyZWN0aW9uBQBzb3V0aAA=",
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
                 "name": "minecraft:anvil"
             }
         ],
@@ -12027,6 +11132,61 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:mossy_stone_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:mossy_stone_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mossy_stone_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:mossy_stone_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlEQBtb3NzeV9zdG9uZV9icmljawgZAHdhbGxfY29ubmVjdGlvbl90eXBlX2Vhc3QEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9ub3J0aAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX3NvdXRoBABub25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfd2VzdAQAbm9uZQENAHdhbGxfcG9zdF9iaXQAAA==",
+                "count": 6,
+                "name": "minecraft:cobblestone_wall"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mossy_stone_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:mud_bricks"
             }
         },
@@ -13501,8 +12661,7 @@
         },
         "output": [
             {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBABkYXJrAA==",
-                "name": "minecraft:prismarine"
+                "name": "minecraft:dark_prismarine"
             }
         ],
         "priority": 0,
@@ -13531,8 +12690,7 @@
         },
         "output": [
             {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBABkYXJrAA==",
-                "name": "minecraft:prismarine"
+                "name": "minecraft:dark_prismarine"
             }
         ],
         "priority": 1,
@@ -13558,15 +12716,13 @@
         },
         "output": [
             {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBgBicmlja3MA",
                 "name": "minecraft:prismarine"
             }
         ],
         "priority": 0,
         "shape": [
-            "AAA",
-            "AAA",
-            "AAA"
+            "AA",
+            "AA"
         ],
         "unlockingIngredients": [
             {
@@ -13585,14 +12741,14 @@
         },
         "output": [
             {
-                "block_states": "CgAACBUAcHJpc21hcmluZV9ibG9ja190eXBlBwBkZWZhdWx0AA==",
-                "name": "minecraft:prismarine"
+                "name": "minecraft:prismarine_bricks"
             }
         ],
         "priority": 0,
         "shape": [
-            "AA",
-            "AA"
+            "AAA",
+            "AAA",
+            "AAA"
         ],
         "unlockingIngredients": [
             {
@@ -13690,7 +12846,7 @@
         },
         "output": [
             {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:quartz_block"
             }
         ],
@@ -13936,6 +13092,31 @@
             {
                 "meta": 32767,
                 "name": "minecraft:red_nether_brick"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:red_sand"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:red_sandstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:red_sand"
             }
         ]
     },
@@ -14291,6 +13472,90 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:smooth_quartz"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:smooth_quartz_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:smooth_quartz"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:smooth_red_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:smooth_red_sandstone_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:smooth_red_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:smooth_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:smooth_sandstone_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:smooth_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:snow"
             }
         },
@@ -14386,123 +13651,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:spruce_wood"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80BQBzdG9uZQA=",
-                "name": "minecraft:stone_block_slab4"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80BQBzdG9uZQA=",
-                "name": "minecraft:stone_block_slab4"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80BQBzdG9uZQA=",
-                "name": "minecraft:stone_block_slab4"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80BQBzdG9uZQA=",
-                "name": "minecraft:stone_block_slab4"
-            },
-            "C": {
-                "tag": "minecraft:planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": -1,
-        "shape": [
-            "ABA",
-            "C C"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80BQBzdG9uZQA=",
-                "name": "minecraft:stone_block_slab4"
             }
         ]
     },
@@ -15090,6 +14238,123 @@
             {
                 "meta": 32767,
                 "name": "minecraft:mangrove_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:normal_stone_slab"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:crimson_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "ABA",
+            "C C"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:normal_stone_slab"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:mangrove_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "ABA",
+            "C C"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:normal_stone_slab"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:warped_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "ABA",
+            "C C"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:normal_stone_slab"
+            },
+            "C": {
+                "tag": "minecraft:planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": -1,
+        "shape": [
+            "ABA",
+            "C C"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:normal_stone_slab"
             }
         ]
     },
@@ -16881,6 +16146,61 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:stone_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:stone_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stone_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stone_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCwBzdG9uZV9icmljawgZAHdhbGxfY29ubmVjdGlvbl90eXBlX2Vhc3QEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9ub3J0aAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX3NvdXRoBABub25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfd2VzdAQAbm9uZQENAHdhbGxfcG9zdF9iaXQAAA==",
+                "count": 6,
+                "name": "minecraft:cobblestone_wall"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stone_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:string"
             },
             "B": {
@@ -16956,6 +16276,30 @@
         "shape": [
             "AA",
             "BB"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:string"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:rabbit_hide"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:bundle"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "ABA",
+            "B B",
+            "BBB"
         ]
     },
     {
@@ -20474,9 +19818,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8zCABhbmRlc2l0ZQA=",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab3"
+                "name": "minecraft:andesite_slab"
             }
         ],
         "priority": 50,
@@ -29449,6 +28793,54 @@
         "block": "crafting_table",
         "input": {
             "A": {
+                "name": "minecraft:chiseled_red_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:red_sandstone_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:chiseled_red_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:chiseled_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:sandstone_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:chiseled_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
                 "name": "minecraft:coal"
             },
             "B": {
@@ -29572,6 +28964,54 @@
         "unlockingIngredients": [
             {
                 "name": "minecraft:cobblestone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:cut_red_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:cut_red_sandstone_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:cut_red_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:cut_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:cut_sandstone_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:cut_sandstone"
             }
         ]
     },
@@ -29938,6 +29378,56 @@
         "block": "crafting_table",
         "input": {
             "A": {
+                "name": "minecraft:dark_prismarine"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:dark_prismarine_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:dark_prismarine"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:dark_prismarine"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:dark_prismarine_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:dark_prismarine"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
                 "name": "minecraft:diorite"
             }
         },
@@ -29994,9 +29484,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8zBwBkaW9yaXRlAA==",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab3"
+                "name": "minecraft:diorite_slab"
             }
         ],
         "priority": 50,
@@ -30037,14 +29527,43 @@
         "block": "crafting_table",
         "input": {
             "A": {
+                "name": "minecraft:dirt"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:gravel"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:coarse_dirt"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AB",
+            "BA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gravel"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
                 "name": "minecraft:end_bricks"
             }
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8zDwBlbmRfc3RvbmVfYnJpY2sA",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab3"
+                "name": "minecraft:end_stone_brick_slab"
             }
         ],
         "priority": 50,
@@ -30117,9 +29636,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8zBwBncmFuaXRlAA==",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab3"
+                "name": "minecraft:granite_slab"
             }
         ],
         "priority": 50,
@@ -31191,9 +30710,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yEQBtb3NzeV9jb2JibGVzdG9uZQA=",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab2"
+                "name": "minecraft:mossy_cobblestone_slab"
             }
         ],
         "priority": 50,
@@ -31203,6 +30722,30 @@
         "unlockingIngredients": [
             {
                 "name": "minecraft:mossy_cobblestone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:mossy_stone_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:mossy_stone_brick_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:mossy_stone_bricks"
             }
         ]
     },
@@ -31765,9 +31308,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8zEQBwb2xpc2hlZF9hbmRlc2l0ZQA=",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab3"
+                "name": "minecraft:polished_andesite_slab"
             }
         ],
         "priority": 50,
@@ -31815,9 +31358,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8zEABwb2xpc2hlZF9kaW9yaXRlAA==",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab3"
+                "name": "minecraft:polished_diorite_slab"
             }
         ],
         "priority": 50,
@@ -31865,9 +31408,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8zEABwb2xpc2hlZF9ncmFuaXRlAA==",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab3"
+                "name": "minecraft:polished_granite_slab"
             }
         ],
         "priority": 50,
@@ -31877,6 +31420,131 @@
         "unlockingIngredients": [
             {
                 "name": "minecraft:polished_granite"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:prismarine"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:prismarine_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:prismarine"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:prismarine"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCgBwcmlzbWFyaW5lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "count": 6,
+                "name": "minecraft:cobblestone_wall"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:prismarine"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:prismarine"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:prismarine_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:prismarine"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:prismarine_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:prismarine_bricks_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:prismarine_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:prismarine_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:prismarine_brick_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:prismarine_bricks"
             }
         ]
     },
@@ -32001,9 +31669,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV8yEAByZWRfbmV0aGVyX2JyaWNrAA==",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab2"
+                "name": "minecraft:red_nether_brick_slab"
             }
         ],
         "priority": 50,
@@ -32013,6 +31681,105 @@
         "unlockingIngredients": [
             {
                 "name": "minecraft:red_nether_brick"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:red_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:red_sandstone_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:red_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:red_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlDQByZWRfc2FuZHN0b25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "count": 6,
+                "name": "minecraft:cobblestone_wall"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:red_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:red_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:red_sandstone_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:red_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:red_sandstone"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:cut_red_sandstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:red_sandstone"
             }
         ]
     },
@@ -32125,6 +31892,176 @@
         "unlockingIngredients": [
             {
                 "name": "minecraft:red_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:sand"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:sandstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:sand"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:sandstone_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCQBzYW5kc3RvbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9lYXN0BABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfbm9ydGgEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9zb3V0aAQAbm9uZQgZAHdhbGxfY29ubmVjdGlvbl90eXBlX3dlc3QEAG5vbmUBDQB3YWxsX3Bvc3RfYml0AAA=",
+                "count": 6,
+                "name": "minecraft:cobblestone_wall"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:sandstone_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:sandstone"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:cut_sandstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:smooth_red_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:smooth_red_sandstone_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:smooth_red_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:smooth_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:smooth_sandstone_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:smooth_sandstone"
             }
         ]
     },
@@ -32480,9 +32417,32 @@
         },
         "output": [
             {
-                "block_states": "CgAACBAAc3RvbmVfYnJpY2tfdHlwZQcAZGVmYXVsdAA=",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:normal_stone_slab"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:stone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:stone"
+            }
+        },
+        "output": [
+            {
                 "count": 4,
-                "name": "minecraft:stonebrick"
+                "name": "minecraft:stone_bricks"
             }
         ],
         "priority": 0,
@@ -32500,14 +32460,14 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:stone"
+                "name": "minecraft:stone_bricks"
             }
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80BQBzdG9uZQA=",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab4"
+                "name": "minecraft:stone_brick_slab"
             }
         ],
         "priority": 50,
@@ -32516,7 +32476,7 @@
         ],
         "unlockingIngredients": [
             {
-                "name": "minecraft:stone"
+                "name": "minecraft:stone_bricks"
             }
         ]
     },

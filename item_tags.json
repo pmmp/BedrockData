@@ -509,6 +509,7 @@
         "minecraft:warped_planks"
     ],
     "minecraft:sand": [
+        "minecraft:red_sand",
         "minecraft:sand"
     ],
     "minecraft:sign": [
@@ -625,7 +626,10 @@
         "minecraft:zombie_villager_spawn_egg"
     ],
     "minecraft:stone_bricks": [
-        "minecraft:stonebrick"
+        "minecraft:chiseled_stone_bricks",
+        "minecraft:cracked_stone_bricks",
+        "minecraft:mossy_stone_bricks",
+        "minecraft:stone_bricks"
     ],
     "minecraft:stone_crafting_materials": [
         "minecraft:blackstone",
