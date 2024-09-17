@@ -50,7 +50,7 @@
         "block": "crafting_table",
         "input": [
             {
-                "block_states": "CgAAARQAYWxsb3dfdW5kZXJ3YXRlcl9iaXQAAQsAZXhwbG9kZV9iaXQAAA==",
+                "block_states": "CgAAAQsAZXhwbG9kZV9iaXQAAA==",
                 "name": "minecraft:tnt"
             },
             {
@@ -66,7 +66,7 @@
         "priority": 0,
         "unlockingIngredients": [
             {
-                "block_states": "CgAAARQAYWxsb3dfdW5kZXJ3YXRlcl9iaXQAAQsAZXhwbG9kZV9iaXQAAA==",
+                "block_states": "CgAAAQsAZXhwbG9kZV9iaXQAAA==",
                 "name": "minecraft:tnt"
             }
         ]
@@ -12860,6 +12860,7 @@
         ],
         "output": [
             {
+                "count": 2,
                 "name": "minecraft:cyan_dye"
             }
         ],
@@ -19446,7 +19447,7 @@
         "block": "stonecutter",
         "input": [
             {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:purpur_block"
             }
         ],
@@ -19459,7 +19460,7 @@
         "priority": 2,
         "unlockingIngredients": [
             {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:purpur_block"
             }
         ]
@@ -19468,20 +19469,20 @@
         "block": "stonecutter",
         "input": [
             {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:purpur_block"
             }
         ],
         "output": [
             {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUFAGxpbmVzCAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:purpur_block"
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:purpur_pillar"
             }
         ],
         "priority": 0,
         "unlockingIngredients": [
             {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:purpur_block"
             }
         ]
@@ -19490,7 +19491,7 @@
         "block": "stonecutter",
         "input": [
             {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:purpur_block"
             }
         ],
@@ -19504,7 +19505,7 @@
         "priority": 1,
         "unlockingIngredients": [
             {
-                "block_states": "CgAACAsAY2hpc2VsX3R5cGUHAGRlZmF1bHQICwBwaWxsYXJfYXhpcwEAeQA=",
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:purpur_block"
             }
         ]
@@ -19658,6 +19659,28 @@
             }
         ],
         "priority": 4,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:andesite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:andesite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:andesite_wall"
+            }
+        ],
+        "priority": 2,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -19979,6 +20002,28 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:brick_block"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:brick_wall"
+            }
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brick_block"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:cobblestone"
             }
         ],
@@ -19990,6 +20035,28 @@
             }
         ],
         "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:cobblestone_wall"
+            }
+        ],
+        "priority": 2,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -20226,6 +20293,28 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:diorite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:diorite_wall"
+            }
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:diorite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:end_bricks"
             }
         ],
@@ -20249,6 +20338,28 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:end_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:end_stone_brick_wall"
+            }
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:end_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:end_stone"
             }
         ],
@@ -20260,6 +20371,28 @@
             }
         ],
         "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:end_stone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:end_stone"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:end_stone_brick_wall"
+            }
+        ],
+        "priority": 2,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -20496,6 +20629,50 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:granite"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:granite_wall"
+            }
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:granite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mossy_cobblestone"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:mossy_cobblestone_wall"
+            }
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mossy_cobblestone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:mossy_stone_bricks"
             }
         ],
@@ -20523,11 +20700,12 @@
         ],
         "output": [
             {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlEQBtb3NzeV9zdG9uZV9icmljawgZAHdhbGxfY29ubmVjdGlvbl90eXBlX2Vhc3QEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9ub3J0aAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX3NvdXRoBABub25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfd2VzdAQAbm9uZQENAHdhbGxfcG9zdF9iaXQAAA==",
-                "name": "minecraft:cobblestone_wall"
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:mossy_stone_brick_slab"
             }
         ],
-        "priority": 2,
+        "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -20545,12 +20723,11 @@
         ],
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 2,
-                "name": "minecraft:mossy_stone_brick_slab"
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:mossy_stone_brick_wall"
             }
         ],
-        "priority": 0,
+        "priority": 2,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -20641,6 +20818,28 @@
             }
         ],
         "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:nether_brick"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:nether_brick"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:nether_brick_wall"
+            }
+        ],
+        "priority": 2,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21340,6 +21539,28 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:red_nether_brick"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:red_nether_brick_wall"
+            }
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:red_nether_brick"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:smooth_quartz"
             }
         ],
@@ -21480,11 +21701,12 @@
         ],
         "output": [
             {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCwBzdG9uZV9icmljawgZAHdhbGxfY29ubmVjdGlvbl90eXBlX2Vhc3QEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9ub3J0aAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX3NvdXRoBABub25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfd2VzdAQAbm9uZQENAHdhbGxfcG9zdF9iaXQAAA==",
-                "name": "minecraft:cobblestone_wall"
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:stone_brick_slab"
             }
         ],
-        "priority": 2,
+        "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21502,12 +21724,11 @@
         ],
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 2,
-                "name": "minecraft:stone_brick_slab"
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:stone_brick_wall"
             }
         ],
-        "priority": 0,
+        "priority": 2,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22827,26 +23048,6 @@
         ],
         "output": [
             {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCABhbmRlc2l0ZQgZAHdhbGxfY29ubmVjdGlvbl90eXBlX2Vhc3QEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9ub3J0aAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX3NvdXRoBABub25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfd2VzdAQAbm9uZQENAHdhbGxfcG9zdF9iaXQAAA==",
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:andesite"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:andesite"
-            }
-        ],
-        "output": [
-            {
                 "name": "minecraft:polished_andesite"
             }
         ],
@@ -22871,26 +23072,6 @@
             }
         ],
         "priority": 1,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:brick_block"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:brick_block"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlBQBicmljawgZAHdhbGxfY29ubmVjdGlvbl90eXBlX2Vhc3QEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9ub3J0aAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX3NvdXRoBABub25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfd2VzdAQAbm9uZQENAHdhbGxfcG9zdF9iaXQAAA==",
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 2,
         "unlockingIngredients": [
             {
                 "name": "minecraft:brick_block"
@@ -23249,26 +23430,6 @@
         "block": "stonecutter",
         "input": [
             {
-                "name": "minecraft:cobblestone"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCwBjb2JibGVzdG9uZQgZAHdhbGxfY29ubmVjdGlvbl90eXBlX2Vhc3QEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9ub3J0aAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX3NvdXRoBABub25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfd2VzdAQAbm9uZQENAHdhbGxfcG9zdF9iaXQAAA==",
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:cobblestone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
                 "name": "minecraft:dark_prismarine"
             }
         ],
@@ -23557,26 +23718,6 @@
         ],
         "output": [
             {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlBwBkaW9yaXRlCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:diorite"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:diorite"
-            }
-        ],
-        "output": [
-            {
                 "name": "minecraft:polished_diorite"
             }
         ],
@@ -23611,26 +23752,6 @@
         "block": "stonecutter",
         "input": [
             {
-                "name": "minecraft:end_bricks"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCQBlbmRfYnJpY2sIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9lYXN0BABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfbm9ydGgEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9zb3V0aAQAbm9uZQgZAHdhbGxfY29ubmVjdGlvbl90eXBlX3dlc3QEAG5vbmUBDQB3YWxsX3Bvc3RfYml0AAA=",
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:end_bricks"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
                 "name": "minecraft:end_stone"
             }
         ],
@@ -23641,26 +23762,6 @@
             }
         ],
         "priority": 1,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:end_stone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:end_stone"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCQBlbmRfYnJpY2sIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9lYXN0BABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfbm9ydGgEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9zb3V0aAQAbm9uZQgZAHdhbGxfY29ubmVjdGlvbl90eXBlX3dlc3QEAG5vbmUBDQB3YWxsX3Bvc3RfYml0AAA=",
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 2,
         "unlockingIngredients": [
             {
                 "name": "minecraft:end_stone"
@@ -23735,26 +23836,6 @@
         ],
         "output": [
             {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlBwBncmFuaXRlCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:granite"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:granite"
-            }
-        ],
-        "output": [
-            {
                 "name": "minecraft:polished_granite"
             }
         ],
@@ -23779,26 +23860,6 @@
             }
         ],
         "priority": 1,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:mossy_cobblestone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:mossy_cobblestone"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlEQBtb3NzeV9jb2JibGVzdG9uZQgZAHdhbGxfY29ubmVjdGlvbl90eXBlX2Vhc3QEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9ub3J0aAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX3NvdXRoBABub25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfd2VzdAQAbm9uZQENAHdhbGxfcG9zdF9iaXQAAA==",
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 2,
         "unlockingIngredients": [
             {
                 "name": "minecraft:mossy_cobblestone"
@@ -23843,26 +23904,6 @@
         "unlockingIngredients": [
             {
                 "meta": 32767,
-                "name": "minecraft:nether_brick"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:nether_brick"
-            }
-        ],
-        "output": [
-            {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlDABuZXRoZXJfYnJpY2sIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9lYXN0BABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfbm9ydGgEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9zb3V0aAQAbm9uZQgZAHdhbGxfY29ubmVjdGlvbl90eXBlX3dlc3QEAG5vbmUBDQB3YWxsX3Bvc3RfYml0AAA=",
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
                 "name": "minecraft:nether_brick"
             }
         ]
@@ -24180,11 +24221,12 @@
         ],
         "output": [
             {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCgBwcmlzbWFyaW5lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-                "name": "minecraft:cobblestone_wall"
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:prismarine_slab"
             }
         ],
-        "priority": 2,
+        "priority": 0,
         "unlockingIngredients": [
             {
                 "name": "minecraft:prismarine"
@@ -24200,12 +24242,11 @@
         ],
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 2,
-                "name": "minecraft:prismarine_slab"
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:prismarine_wall"
             }
         ],
-        "priority": 0,
+        "priority": 2,
         "unlockingIngredients": [
             {
                 "name": "minecraft:prismarine"
@@ -24282,26 +24323,6 @@
         ],
         "output": [
             {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlEAByZWRfbmV0aGVyX2JyaWNrCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:red_nether_brick"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:red_nether_brick"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 2,
                 "name": "minecraft:red_nether_brick_slab"
@@ -24343,11 +24364,12 @@
         ],
         "output": [
             {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlDQByZWRfc2FuZHN0b25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-                "name": "minecraft:cobblestone_wall"
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:red_sandstone_slab"
             }
         ],
-        "priority": 4,
+        "priority": 2,
         "unlockingIngredients": [
             {
                 "name": "minecraft:red_sandstone"
@@ -24363,12 +24385,11 @@
         ],
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 2,
-                "name": "minecraft:red_sandstone_slab"
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:red_sandstone_wall"
             }
         ],
-        "priority": 2,
+        "priority": 4,
         "unlockingIngredients": [
             {
                 "name": "minecraft:red_sandstone"
@@ -24442,11 +24463,12 @@
         ],
         "output": [
             {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCQBzYW5kc3RvbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9lYXN0BABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfbm9ydGgEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9zb3V0aAQAbm9uZQgZAHdhbGxfY29ubmVjdGlvbl90eXBlX3dlc3QEAG5vbmUBDQB3YWxsX3Bvc3RfYml0AAA=",
-                "name": "minecraft:cobblestone_wall"
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:sandstone_slab"
             }
         ],
-        "priority": 4,
+        "priority": 2,
         "unlockingIngredients": [
             {
                 "name": "minecraft:sandstone"
@@ -24462,12 +24484,11 @@
         ],
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 2,
-                "name": "minecraft:sandstone_slab"
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:sandstone_wall"
             }
         ],
-        "priority": 2,
+        "priority": 4,
         "unlockingIngredients": [
             {
                 "name": "minecraft:sandstone"
@@ -24602,26 +24623,6 @@
         ],
         "output": [
             {
-                "block_states": "CgAACA8Ad2FsbF9ibG9ja190eXBlCwBzdG9uZV9icmljawgZAHdhbGxfY29ubmVjdGlvbl90eXBlX2Vhc3QEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9ub3J0aAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX3NvdXRoBABub25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfd2VzdAQAbm9uZQENAHdhbGxfcG9zdF9iaXQAAA==",
-                "name": "minecraft:cobblestone_wall"
-            }
-        ],
-        "priority": 3,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:stone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:stone"
-            }
-        ],
-        "output": [
-            {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 2,
                 "name": "minecraft:normal_stone_slab"
@@ -24649,6 +24650,26 @@
             }
         ],
         "priority": 1,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:stone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:stone"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:stone_brick_wall"
+            }
+        ],
+        "priority": 3,
         "unlockingIngredients": [
             {
                 "name": "minecraft:stone"

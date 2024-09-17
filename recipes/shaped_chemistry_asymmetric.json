@@ -1651,8 +1651,8 @@
         },
         "output": [
             {
-                "block_states": "CgAAAQkAY29sb3JfYml0AQgWAHRvcmNoX2ZhY2luZ19kaXJlY3Rpb24HAHVua25vd24A",
-                "name": "minecraft:colored_torch_bp"
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:colored_torch_purple"
             }
         ],
         "priority": 0,
@@ -1703,8 +1703,8 @@
         },
         "output": [
             {
-                "block_states": "CgAAAQkAY29sb3JfYml0AAgWAHRvcmNoX2ZhY2luZ19kaXJlY3Rpb24HAHVua25vd24A",
-                "name": "minecraft:colored_torch_rg"
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:colored_torch_red"
             }
         ],
         "priority": 0,
@@ -1755,8 +1755,8 @@
         },
         "output": [
             {
-                "block_states": "CgAAAQkAY29sb3JfYml0AAgWAHRvcmNoX2ZhY2luZ19kaXJlY3Rpb24HAHVua25vd24A",
-                "name": "minecraft:colored_torch_bp"
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:colored_torch_blue"
             }
         ],
         "priority": 0,
@@ -1807,8 +1807,8 @@
         },
         "output": [
             {
-                "block_states": "CgAAAQkAY29sb3JfYml0AQgWAHRvcmNoX2ZhY2luZ19kaXJlY3Rpb24HAHVua25vd24A",
-                "name": "minecraft:colored_torch_rg"
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:colored_torch_green"
             }
         ],
         "priority": 0,
@@ -2918,14 +2918,14 @@
                 "name": "minecraft:element_11"
             },
             "B": {
-                "block_states": "CgAAARQAYWxsb3dfdW5kZXJ3YXRlcl9iaXQAAQsAZXhwbG9kZV9iaXQAAA==",
+                "block_states": "CgAAAQsAZXhwbG9kZV9iaXQAAA==",
                 "name": "minecraft:tnt"
             }
         },
         "output": [
             {
-                "block_states": "CgAAARQAYWxsb3dfdW5kZXJ3YXRlcl9iaXQBAQsAZXhwbG9kZV9iaXQAAA==",
-                "name": "minecraft:tnt"
+                "block_states": "CgAAAQsAZXhwbG9kZV9iaXQAAA==",
+                "name": "minecraft:underwater_tnt"
             }
         ],
         "priority": 0,
