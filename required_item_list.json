@@ -1220,7 +1220,7 @@
         "component_based": false
     },
     "minecraft:compound": {
-        "runtime_id": 616,
+        "runtime_id": 614,
         "component_based": false
     },
     "minecraft:compound_creator": {
@@ -3256,7 +3256,7 @@
         "component_based": false
     },
     "minecraft:honeycomb": {
-        "runtime_id": 612,
+        "runtime_id": 616,
         "component_based": false
     },
     "minecraft:honeycomb_block": {
@@ -4584,7 +4584,7 @@
         "component_based": false
     },
     "minecraft:ominous_bottle": {
-        "runtime_id": 614,
+        "runtime_id": 612,
         "component_based": false
     },
     "minecraft:ominous_trial_key": {
