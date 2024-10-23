@@ -29,131 +29,6 @@
         "input": {
             "A": {
                 "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:acacia_log"
-            }
-        },
-        "output": [
-            {
-                "count": 4,
-                "name": "minecraft:acacia_planks"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:acacia_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:birch_log"
-            }
-        },
-        "output": [
-            {
-                "count": 4,
-                "name": "minecraft:birch_planks"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:birch_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:dark_oak_log"
-            }
-        },
-        "output": [
-            {
-                "count": 4,
-                "name": "minecraft:dark_oak_planks"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:dark_oak_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:jungle_log"
-            }
-        },
-        "output": [
-            {
-                "count": 4,
-                "name": "minecraft:jungle_planks"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:jungle_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:oak_log"
-            }
-        },
-        "output": [
-            {
-                "count": 4,
-                "name": "minecraft:oak_planks"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:oak_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:purpur_block"
             }
         },
@@ -305,31 +180,6 @@
             {
                 "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:smooth_quartz"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:spruce_log"
-            }
-        },
-        "output": [
-            {
-                "count": 4,
-                "name": "minecraft:spruce_planks"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:spruce_log"
             }
         ]
     },
@@ -492,6 +342,192 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:acacia_log"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:acacia_planks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:acacia_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:acacia_fence"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:acacia_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:acacia_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:acacia_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:acacia_door"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:acacia_boat"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:acacia_wood"
             }
         },
@@ -638,6 +674,34 @@
         },
         "output": [
             {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:andesite_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:andesite"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:andesite"
+            }
+        },
+        "output": [
+            {
                 "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
                 "count": 6,
                 "name": "minecraft:andesite_wall"
@@ -647,6 +711,32 @@
         "shape": [
             "AAA",
             "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:andesite"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:andesite"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:polished_andesite"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
         ],
         "unlockingIngredients": [
             {
@@ -1122,6 +1212,192 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:birch_log"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:birch_planks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:birch_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:birch_fence"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:birch_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:birch_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:birch_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:birch_door"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:birch_boat"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:birch_wood"
             }
         },
@@ -1165,6 +1441,62 @@
             {
                 "meta": 32767,
                 "name": "minecraft:black_stained_glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:black_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:black_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:black_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:black_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:black_wool"
             }
         ]
     },
@@ -1558,6 +1890,63 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:blue_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 4,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:blue_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:blue_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:blue_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:blue_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:book"
             },
             "B": {
@@ -1745,6 +2134,63 @@
             {
                 "meta": 32767,
                 "name": "minecraft:brown_stained_glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:brown_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 3,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:brown_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:brown_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_wool"
             }
         ]
     },
@@ -2154,7 +2600,7 @@
         },
         "output": [
             {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQAAA==",
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "count": 3,
                 "name": "minecraft:cherry_wood"
             }
@@ -4087,6 +4533,63 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:cyan_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 6,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cyan_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:cyan_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:cyan_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cyan_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:dark_oak_log"
             }
         },
@@ -4114,6 +4617,192 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:dark_oak_log"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:dark_oak_planks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:dark_oak_fence"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:dark_oak_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:dark_oak_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:dark_oak_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:dark_oak_door"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:dark_oak_boat"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:dark_oak_wood"
             }
         },
@@ -4131,6 +4820,34 @@
             {
                 "meta": 32767,
                 "name": "minecraft:dark_oak_wood"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:dark_prismarine"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:dark_prismarine_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:dark_prismarine"
             }
         ]
     },
@@ -5332,6 +6049,34 @@
         },
         "output": [
             {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:diorite_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:diorite"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:diorite"
+            }
+        },
+        "output": [
+            {
                 "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
                 "count": 6,
                 "name": "minecraft:diorite_wall"
@@ -5341,6 +6086,32 @@
         "shape": [
             "AAA",
             "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:diorite"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:diorite"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:polished_diorite"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
         ],
         "unlockingIngredients": [
             {
@@ -6027,6 +6798,192 @@
             },
             "B": {
                 "meta": 32767,
+                "name": "minecraft:black_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:black_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:blue_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:blue_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bone_meal"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:white_stained_glass"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:brown_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:brown_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:cocoa_beans"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:brown_stained_glass"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:cyan_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:cyan_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
                 "name": "minecraft:ender_eye"
             },
             "C": {
@@ -6061,6 +7018,254 @@
             },
             "B": {
                 "meta": 32767,
+                "name": "minecraft:gray_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:gray_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:green_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:green_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:ink_sac"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:black_stained_glass"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:lapis_lazuli"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:blue_stained_glass"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:light_blue_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:light_blue_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:light_gray_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:light_gray_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:lime_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:lime_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:magenta_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:magenta_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
                 "name": "minecraft:nether_star"
             },
             "C": {
@@ -6083,6 +7288,99 @@
             {
                 "meta": 32767,
                 "name": "minecraft:nether_star"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:orange_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:orange_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:pink_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:pink_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:glass"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:purple_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:purple_stained_glass"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:glass"
             }
         ]
     },
@@ -6215,516 +7513,7 @@
                 "name": "minecraft:glass"
             },
             "B": {
-                "name": "minecraft:black_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:black_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
                 "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:blue_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:blue_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:bone_meal"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:white_stained_glass"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:brown_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:brown_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:cocoa_beans"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:brown_stained_glass"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:cyan_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:cyan_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:gray_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:gray_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:green_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:green_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:ink_sac"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:black_stained_glass"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:lapis_lazuli"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:blue_stained_glass"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:light_blue_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:light_blue_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:light_gray_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:light_gray_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:lime_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:lime_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:magenta_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:magenta_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:orange_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:orange_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:pink_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:pink_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
-                "name": "minecraft:purple_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:purple_stained_glass"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:glass"
-            },
-            "B": {
                 "name": "minecraft:red_dye"
             }
         },
@@ -6755,6 +7544,7 @@
                 "name": "minecraft:glass"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:white_dye"
             }
         },
@@ -6785,6 +7575,7 @@
                 "name": "minecraft:glass"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:yellow_dye"
             }
         },
@@ -6867,6 +7658,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:black_dye"
             }
         },
@@ -6888,6 +7680,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:black_dye"
             }
         ]
@@ -6900,6 +7693,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:blue_dye"
             }
         },
@@ -6921,6 +7715,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:blue_dye"
             }
         ]
@@ -6933,6 +7728,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:brown_dye"
             }
         },
@@ -6954,6 +7750,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:brown_dye"
             }
         ]
@@ -6966,6 +7763,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:cyan_dye"
             }
         },
@@ -6987,6 +7785,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:cyan_dye"
             }
         ]
@@ -6999,6 +7798,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:gray_dye"
             }
         },
@@ -7020,6 +7820,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:gray_dye"
             }
         ]
@@ -7032,6 +7833,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:green_dye"
             }
         },
@@ -7053,6 +7855,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:green_dye"
             }
         ]
@@ -7065,6 +7868,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:light_blue_dye"
             }
         },
@@ -7086,6 +7890,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:light_blue_dye"
             }
         ]
@@ -7098,6 +7903,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:light_gray_dye"
             }
         },
@@ -7119,6 +7925,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:light_gray_dye"
             }
         ]
@@ -7131,6 +7938,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:lime_dye"
             }
         },
@@ -7152,6 +7960,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:lime_dye"
             }
         ]
@@ -7164,6 +7973,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:magenta_dye"
             }
         },
@@ -7185,6 +7995,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:magenta_dye"
             }
         ]
@@ -7197,6 +8008,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:orange_dye"
             }
         },
@@ -7218,6 +8030,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:orange_dye"
             }
         ]
@@ -7230,6 +8043,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:pink_dye"
             }
         },
@@ -7251,6 +8065,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:pink_dye"
             }
         ]
@@ -7263,6 +8078,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:purple_dye"
             }
         },
@@ -7284,6 +8100,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:purple_dye"
             }
         ]
@@ -7296,6 +8113,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:red_dye"
             }
         },
@@ -7317,6 +8135,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:red_dye"
             }
         ]
@@ -7329,6 +8148,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:white_dye"
             }
         },
@@ -7350,6 +8170,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:white_dye"
             }
         ]
@@ -7362,6 +8183,7 @@
                 "name": "minecraft:glass_pane"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:yellow_dye"
             }
         },
@@ -7383,6 +8205,7 @@
                 "name": "minecraft:glass_pane"
             },
             {
+                "meta": 32767,
                 "name": "minecraft:yellow_dye"
             }
         ]
@@ -7957,6 +8780,34 @@
         },
         "output": [
             {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:granite_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:granite"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:granite"
+            }
+        },
+        "output": [
+            {
                 "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
                 "count": 6,
                 "name": "minecraft:granite_wall"
@@ -7966,6 +8817,32 @@
         "shape": [
             "AAA",
             "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:granite"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:granite"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:polished_granite"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
         ],
         "unlockingIngredients": [
             {
@@ -8005,6 +8882,63 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:gray_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 8,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gray_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:gray_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:gray_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gray_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:green_stained_glass"
             }
         },
@@ -8023,6 +8957,63 @@
             {
                 "meta": 32767,
                 "name": "minecraft:green_stained_glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:green_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 2,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:green_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:green_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:green_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:green_wool"
             }
         ]
     },
@@ -8064,6 +9055,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:black_dye"
             }
         },
@@ -8094,6 +9086,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:blue_dye"
             }
         },
@@ -8124,6 +9117,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:bone_meal"
             }
         },
@@ -8154,6 +9148,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:brown_dye"
             }
         },
@@ -8184,6 +9179,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:cocoa_beans"
             }
         },
@@ -8214,6 +9210,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:cyan_dye"
             }
         },
@@ -8244,6 +9241,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:gray_dye"
             }
         },
@@ -8274,6 +9272,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:green_dye"
             }
         },
@@ -8304,6 +9303,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:ink_sac"
             }
         },
@@ -8334,6 +9334,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:lapis_lazuli"
             }
         },
@@ -8364,6 +9365,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:light_blue_dye"
             }
         },
@@ -8394,6 +9396,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:light_gray_dye"
             }
         },
@@ -8424,6 +9427,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:lime_dye"
             }
         },
@@ -8454,6 +9458,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:magenta_dye"
             }
         },
@@ -8484,6 +9489,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:orange_dye"
             }
         },
@@ -8514,6 +9520,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:pink_dye"
             }
         },
@@ -8544,6 +9551,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:purple_dye"
             }
         },
@@ -8574,6 +9582,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:red_dye"
             }
         },
@@ -8604,6 +9613,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:white_dye"
             }
         },
@@ -8634,6 +9644,7 @@
                 "name": "minecraft:hardened_clay"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:yellow_dye"
             }
         },
@@ -10029,6 +11040,192 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:jungle_log"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:jungle_planks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:jungle_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:jungle_fence"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:jungle_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:jungle_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:jungle_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:jungle_door"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:jungle_boat"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:jungle_wood"
             }
         },
@@ -10233,6 +11430,63 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:light_blue_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 12,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:light_blue_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:light_blue_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:light_blue_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:light_blue_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:light_gray_stained_glass"
             }
         },
@@ -10251,6 +11505,63 @@
             {
                 "meta": 32767,
                 "name": "minecraft:light_gray_stained_glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:light_gray_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 7,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:light_gray_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:light_gray_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:light_gray_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:light_gray_wool"
             }
         ]
     },
@@ -10285,6 +11596,63 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:lime_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 10,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lime_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:lime_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:lime_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lime_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:magenta_stained_glass"
             }
         },
@@ -10303,6 +11671,63 @@
             {
                 "meta": 32767,
                 "name": "minecraft:magenta_stained_glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:magenta_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 13,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:magenta_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:magenta_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:magenta_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:magenta_wool"
             }
         ]
     },
@@ -10366,7 +11791,7 @@
         },
         "output": [
             {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQAAA==",
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "count": 3,
                 "name": "minecraft:mangrove_wood"
             }
@@ -11650,6 +13075,203 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:oak_log"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:oak_planks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:oak_fence"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:oak_fence"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:oak_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:oak_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:oak_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:wooden_door"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:oak_planks"
             }
         },
@@ -11662,6 +13284,25 @@
         "shape": [
             "AA",
             "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:oak_boat"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
         ]
     },
     {
@@ -11743,6 +13384,63 @@
             {
                 "meta": 32767,
                 "name": "minecraft:orange_stained_glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:orange_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 14,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:orange_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:orange_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:orange_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:orange_wool"
             }
         ]
     },
@@ -12155,6 +13853,63 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:pink_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 9,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pink_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pink_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:pink_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pink_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:pointed_dripstone"
             }
         },
@@ -12192,6 +13947,34 @@
         "shape": [
             "AA",
             "AA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:polished_andesite"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:polished_andesite_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_andesite"
+            }
         ]
     },
     {
@@ -12569,6 +14352,62 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:polished_diorite"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:polished_diorite_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_diorite"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:polished_granite"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:polished_granite_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_granite"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:polished_tuff"
             }
         },
@@ -12703,28 +14542,26 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:prismarine_shard"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:prismarine_crystals"
+                "name": "minecraft:prismarine_bricks"
             }
         },
         "output": [
             {
-                "name": "minecraft:sea_lantern"
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:prismarine_bricks_stairs"
             }
         ],
         "priority": 0,
         "shape": [
-            "ABA",
-            "BBB",
-            "ABA"
+            "A  ",
+            "AA ",
+            "AAA"
         ],
         "unlockingIngredients": [
             {
                 "meta": 32767,
-                "name": "minecraft:prismarine_crystals"
+                "name": "minecraft:prismarine_bricks"
             }
         ]
     },
@@ -12736,6 +14573,7 @@
                 "name": "minecraft:prismarine_shard"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:black_dye"
             }
         },
@@ -12765,6 +14603,7 @@
                 "name": "minecraft:prismarine_shard"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:ink_sac"
             }
         },
@@ -12783,6 +14622,36 @@
             {
                 "meta": 32767,
                 "name": "minecraft:prismarine_shard"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:prismarine_shard"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:prismarine_crystals"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:sea_lantern"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "BBB",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:prismarine_crystals"
             }
         ]
     },
@@ -12885,6 +14754,63 @@
             {
                 "meta": 32767,
                 "name": "minecraft:purple_stained_glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:purple_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 5,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:purple_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:purple_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:purple_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:purple_wool"
             }
         ]
     },
@@ -13195,6 +15121,63 @@
             {
                 "meta": 32767,
                 "name": "minecraft:red_stained_glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:red_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 1,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:red_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:red_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:red_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:red_wool"
             }
         ]
     },
@@ -13686,6 +15669,192 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:spruce_log"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:spruce_planks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:spruce_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:spruce_fence"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:spruce_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:spruce_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:spruce_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:spruce_door"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:spruce_boat"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:spruce_wood"
             }
         },
@@ -13703,6 +15872,36 @@
             {
                 "meta": 32767,
                 "name": "minecraft:spruce_wood"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "name": "minecraft:acacia_fence_gate"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:acacia_planks"
             }
         ]
     },
@@ -13733,6 +15932,36 @@
             {
                 "meta": 32767,
                 "name": "minecraft:bamboo_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "name": "minecraft:birch_fence_gate"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:birch_planks"
             }
         ]
     },
@@ -14196,6 +16425,36 @@
             },
             "B": {
                 "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "name": "minecraft:dark_oak_fence_gate"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
                 "name": "minecraft:iron_ingot"
             },
             "C": {
@@ -14230,6 +16489,36 @@
             {
                 "meta": 32767,
                 "name": "minecraft:iron_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "name": "minecraft:jungle_fence_gate"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:jungle_planks"
             }
         ]
     },
@@ -14407,6 +16696,36 @@
             {
                 "meta": 32767,
                 "name": "minecraft:normal_stone_slab"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "name": "minecraft:fence_gate"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oak_planks"
             }
         ]
     },
@@ -15395,6 +17714,36 @@
             },
             "B": {
                 "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "name": "minecraft:spruce_fence_gate"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:spruce_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
                 "name": "minecraft:string"
             }
         },
@@ -15473,62 +17822,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:warped_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:acacia_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
-                "name": "minecraft:acacia_fence_gate"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:acacia_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:birch_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
-                "name": "minecraft:birch_fence_gate"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:birch_planks"
             }
         ]
     },
@@ -15970,146 +18263,6 @@
                 "name": "minecraft:stick"
             },
             "B": {
-                "name": "minecraft:dark_oak_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
-                "name": "minecraft:dark_oak_fence_gate"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:dark_oak_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:jungle_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
-                "name": "minecraft:jungle_fence_gate"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:jungle_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:oak_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
-                "name": "minecraft:fence_gate"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:oak_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:spruce_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
-                "name": "minecraft:spruce_fence_gate"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:spruce_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:wool"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:painting"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
                 "tag": "minecraft:coals"
             },
             "C": {
@@ -16162,6 +18315,95 @@
         "unlockingIngredients": [
             {
                 "tag": "minecraft:soul_fire_base_blocks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "tag": "minecraft:wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:painting"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:orange_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:magenta_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:light_blue_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:yellow_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:lime_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:pink_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:gray_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:light_gray_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:cyan_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:purple_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:blue_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:green_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_wool"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:black_wool"
             }
         ]
     },
@@ -19525,6 +21767,531 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:black_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:black_carpet"
+            }
+        ],
+        "priority": 1,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:black_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:blue_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:blue_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:blue_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:brown_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:brown_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:cyan_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:cyan_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:cyan_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:gray_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:gray_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:gray_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:green_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:green_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:green_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:light_blue_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:light_blue_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:light_blue_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:light_gray_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:light_gray_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:light_gray_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:lime_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:lime_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:lime_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:magenta_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:magenta_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:magenta_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:orange_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:orange_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:orange_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:pink_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:pink_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:pink_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:purple_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:purple_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:purple_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:red_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:red_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:yellow_dye"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "name": "minecraft:yellow_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_carpet"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:yellow_dye"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:white_stained_glass"
             }
         },
@@ -19543,6 +22310,63 @@
             {
                 "meta": 32767,
                 "name": "minecraft:white_stained_glass"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_wool"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "meta": 15,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:white_wool"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:white_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_wool"
             }
         ]
     },
@@ -19576,7 +22400,8 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:acacia_planks"
+                "meta": 32767,
+                "name": "minecraft:yellow_wool"
             },
             "B": {
                 "meta": 32767,
@@ -19585,36 +22410,9 @@
         },
         "output": [
             {
-                "count": 3,
-                "name": "minecraft:acacia_fence"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:acacia_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:acacia_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:acacia_sign"
+                "meta": 11,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -19625,7 +22423,8 @@
         ],
         "unlockingIngredients": [
             {
-                "name": "minecraft:acacia_planks"
+                "meta": 32767,
+                "name": "minecraft:yellow_wool"
             }
         ]
     },
@@ -19633,25 +22432,24 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:acacia_planks"
+                "meta": 32767,
+                "name": "minecraft:yellow_wool"
             }
         },
         "output": [
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:acacia_stairs"
+                "count": 3,
+                "name": "minecraft:yellow_carpet"
             }
         ],
         "priority": 0,
         "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
+            "AA"
         ],
         "unlockingIngredients": [
             {
-                "name": "minecraft:acacia_planks"
+                "meta": 32767,
+                "name": "minecraft:yellow_wool"
             }
         ]
     },
@@ -19756,99 +22554,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:acacia_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 6,
-                "name": "minecraft:acacia_slab"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:acacia_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:acacia_planks"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:acacia_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:acacia_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:acacia_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:acacia_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:andesite"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:andesite_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:andesite"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:andesite"
             }
         },
@@ -19862,30 +22567,6 @@
         "priority": 50,
         "shape": [
             "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:andesite"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:andesite"
-            }
-        },
-        "output": [
-            {
-                "count": 4,
-                "name": "minecraft:polished_andesite"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA"
         ],
         "unlockingIngredients": [
             {
@@ -28106,89 +30787,6 @@
         "input": {
             "A": {
                 "name": "minecraft:birch_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:birch_fence"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:birch_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:birch_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:birch_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:birch_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:birch_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:birch_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:birch_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:birch_planks"
             }
         },
         "output": [
@@ -28285,73 +30883,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:birch_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 6,
-                "name": "minecraft:birch_slab"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:birch_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:birch_planks"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:birch_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:birch_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:birch_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:birch_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:black_wool"
             },
             "B": {
@@ -28369,35 +30900,6 @@
         "shape": [
             "AAA",
             "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:black_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:black_wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
         ],
         "unlockingIngredients": [
             {
@@ -28471,29 +30973,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:black_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:black_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:black_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:blue_wool"
             },
             "B": {
@@ -28511,36 +30990,6 @@
         "shape": [
             "AAA",
             "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:blue_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:blue_wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 4,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
         ],
         "unlockingIngredients": [
             {
@@ -28607,29 +31056,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:lapis_lazuli"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:blue_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:blue_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:blue_wool"
             }
         ]
     },
@@ -28717,36 +31143,6 @@
                 "name": "minecraft:brown_wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 3,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:brown_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:brown_wool"
-            },
-            "B": {
                 "tag": "minecraft:planks"
             }
         },
@@ -28799,29 +31195,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:cocoa_beans"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:brown_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:brown_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:brown_wool"
             }
         ]
     },
@@ -29086,36 +31459,6 @@
                 "name": "minecraft:cyan_wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 6,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:cyan_wool"
-            },
-            "B": {
                 "tag": "minecraft:planks"
             }
         },
@@ -29137,112 +31480,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:cyan_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:cyan_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:cyan_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:dark_oak_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:dark_oak_fence"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:dark_oak_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:dark_oak_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:dark_oak_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:dark_oak_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:dark_oak_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:dark_oak_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:dark_oak_planks"
             }
         ]
     },
@@ -29347,99 +31584,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:dark_oak_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 6,
-                "name": "minecraft:dark_oak_slab"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:dark_oak_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:dark_oak_planks"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:dark_oak_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:dark_oak_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:dark_oak_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:dark_oak_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:dark_prismarine"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:dark_prismarine_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:dark_prismarine"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:dark_prismarine"
             }
         },
@@ -29469,32 +31613,6 @@
         },
         "output": [
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:diorite_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:diorite"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:diorite"
-            }
-        },
-        "output": [
-            {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
                 "name": "minecraft:diorite_slab"
@@ -29503,30 +31621,6 @@
         "priority": 50,
         "shape": [
             "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:diorite"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:diorite"
-            }
-        },
-        "output": [
-            {
-                "count": 4,
-                "name": "minecraft:polished_diorite"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA"
         ],
         "unlockingIngredients": [
             {
@@ -29596,32 +31690,6 @@
         },
         "output": [
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:granite_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:granite"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:granite"
-            }
-        },
-        "output": [
-            {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
                 "name": "minecraft:granite_slab"
@@ -29630,30 +31698,6 @@
         "priority": 50,
         "shape": [
             "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:granite"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:granite"
-            }
-        },
-        "output": [
-            {
-                "count": 4,
-                "name": "minecraft:polished_granite"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA"
         ],
         "unlockingIngredients": [
             {
@@ -29682,36 +31726,6 @@
         "shape": [
             "AAA",
             "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:gray_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:gray_wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 8,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
         ],
         "unlockingIngredients": [
             {
@@ -29754,29 +31768,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:gray_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:gray_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:gray_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:green_wool"
             },
             "B": {
@@ -29794,36 +31785,6 @@
         "shape": [
             "AAA",
             "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:green_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:green_wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 2,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
         ],
         "unlockingIngredients": [
             {
@@ -29859,112 +31820,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:green_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:green_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:green_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:green_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:jungle_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:jungle_fence"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:jungle_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:jungle_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:jungle_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:jungle_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:jungle_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:jungle_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:jungle_planks"
             }
         ]
     },
@@ -30069,73 +31924,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:jungle_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 6,
-                "name": "minecraft:jungle_slab"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:jungle_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:jungle_planks"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:jungle_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:jungle_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:jungle_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:jungle_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:lapis_lazuli"
             }
         },
@@ -30191,36 +31979,6 @@
                 "name": "minecraft:light_blue_wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 12,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:light_blue_wool"
-            },
-            "B": {
                 "tag": "minecraft:planks"
             }
         },
@@ -30249,29 +32007,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:light_blue_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:light_blue_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:light_gray_wool"
             },
             "B": {
@@ -30289,36 +32024,6 @@
         "shape": [
             "AAA",
             "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:light_gray_wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 7,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
         ],
         "unlockingIngredients": [
             {
@@ -30361,29 +32066,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:light_gray_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:light_gray_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:lime_wool"
             },
             "B": {
@@ -30401,36 +32083,6 @@
         "shape": [
             "AAA",
             "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:lime_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:lime_wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 10,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
         ],
         "unlockingIngredients": [
             {
@@ -30466,29 +32118,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:lime_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:lime_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:lime_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:lime_wool"
             }
         ]
     },
@@ -30551,36 +32180,6 @@
                 "name": "minecraft:magenta_wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 13,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:magenta_wool"
-            },
-            "B": {
                 "tag": "minecraft:planks"
             }
         },
@@ -30602,29 +32201,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:magenta_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:magenta_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:magenta_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:magenta_wool"
             }
         ]
     },
@@ -30764,118 +32340,6 @@
         "input": {
             "A": {
                 "name": "minecraft:oak_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:oak_fence"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:oak_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:oak_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:oak_fence"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:oak_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:oak_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:oak_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:oak_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:oak_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:oak_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:oak_wood"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:oak_planks"
             }
         },
         "output": [
@@ -30972,73 +32436,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:oak_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 6,
-                "name": "minecraft:oak_slab"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:oak_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:oak_planks"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:wooden_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:oak_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:oak_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:oak_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:orange_wool"
             },
             "B": {
@@ -31056,36 +32453,6 @@
         "shape": [
             "AAA",
             "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:orange_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:orange_wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 14,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
         ],
         "unlockingIngredients": [
             {
@@ -31128,29 +32495,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:orange_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:orange_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:orange_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:pink_wool"
             },
             "B": {
@@ -31168,36 +32512,6 @@
         "shape": [
             "AAA",
             "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:pink_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:pink_wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 9,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
         ],
         "unlockingIngredients": [
             {
@@ -31240,55 +32554,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:pink_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:pink_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:pink_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:polished_andesite"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:polished_andesite_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:polished_andesite"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:polished_andesite"
             }
         },
@@ -31318,32 +32583,6 @@
         },
         "output": [
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:polished_diorite_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:polished_diorite"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:polished_diorite"
-            }
-        },
-        "output": [
-            {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
                 "name": "minecraft:polished_diorite_slab"
@@ -31356,32 +32595,6 @@
         "unlockingIngredients": [
             {
                 "name": "minecraft:polished_diorite"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:polished_granite"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:polished_granite_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:polished_granite"
             }
         ]
     },
@@ -31493,32 +32706,6 @@
         },
         "output": [
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:prismarine_bricks_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:prismarine_bricks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:prismarine_bricks"
-            }
-        },
-        "output": [
-            {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
                 "name": "minecraft:prismarine_brick_slab"
@@ -31569,36 +32756,6 @@
                 "name": "minecraft:purple_wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 5,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:purple_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:purple_wool"
-            },
-            "B": {
                 "tag": "minecraft:planks"
             }
         },
@@ -31620,29 +32777,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:purple_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:purple_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:purple_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:purple_wool"
             }
         ]
     },
@@ -31830,36 +32964,6 @@
                 "name": "minecraft:red_wool"
             },
             "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 1,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:red_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:red_wool"
-            },
-            "B": {
                 "tag": "minecraft:planks"
             }
         },
@@ -31881,29 +32985,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:red_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:red_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:red_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:red_wool"
             }
         ]
     },
@@ -32106,89 +33187,6 @@
         "input": {
             "A": {
                 "name": "minecraft:spruce_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:spruce_fence"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "ABA",
-            "ABA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:spruce_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:spruce_planks"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:spruce_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:spruce_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:spruce_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:spruce_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:spruce_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:spruce_planks"
             }
         },
         "output": [
@@ -32279,73 +33277,6 @@
             {
                 "name": "minecraft:spruce_planks"
             }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:spruce_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-                "count": 6,
-                "name": "minecraft:spruce_slab"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:spruce_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:spruce_planks"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:spruce_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:spruce_planks"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:spruce_planks"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:spruce_boat"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "AAA"
         ]
     },
     {
@@ -32496,471 +33427,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:black_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:black_carpet"
-            }
-        ],
-        "priority": 1,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:black_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:blue_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:blue_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:blue_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:brown_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:brown_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:brown_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:cyan_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:cyan_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:cyan_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:gray_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:gray_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:black_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:green_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:green_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:green_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:light_blue_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:light_blue_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:light_blue_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:light_gray_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:light_gray_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:light_gray_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:lime_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:lime_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:lime_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:magenta_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:magenta_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:magenta_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:orange_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:orange_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:orange_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:pink_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:pink_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:pink_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:purple_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:purple_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:purple_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:red_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:red_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:red_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_carpet"
-            },
-            "B": {
-                "name": "minecraft:yellow_dye"
-            }
-        },
-        "output": [
-            {
-                "count": 8,
-                "name": "minecraft:yellow_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "ABA",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_carpet"
-            },
-            {
-                "name": "minecraft:yellow_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:white_wool"
             },
             "B": {
@@ -32977,36 +33443,6 @@
         "shape": [
             "AAA",
             "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:white_wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 15,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
         ],
         "unlockingIngredients": [
             {
@@ -33078,29 +33514,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:white_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:white_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:white_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:yellow_wool"
             },
             "B": {
@@ -33118,36 +33531,6 @@
         "shape": [
             "AAA",
             "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:yellow_wool"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "meta": 11,
-                "name": "minecraft:banner",
-                "nbt": "CgAAAwQAVHlwZQAAAAAA"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA",
-            " B "
         ],
         "unlockingIngredients": [
             {
@@ -33183,29 +33566,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:yellow_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:yellow_wool"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:yellow_carpet"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:yellow_wool"
             }
         ]
     },

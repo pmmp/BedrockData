@@ -802,6 +802,39 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:black_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:black_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:blue_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:blue_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:brown_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:brown_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:cactus"
         },
         "output": {
@@ -917,6 +950,17 @@
         },
         "output": {
             "name": "minecraft:copper_ingot"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:cyan_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:cyan_glazed_terracotta"
         }
     },
     {
@@ -1133,6 +1177,28 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:gray_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:gray_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:green_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:green_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:iron_axe"
         },
         "output": {
@@ -1243,6 +1309,50 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:light_blue_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:light_blue_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:light_gray_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:silver_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:lime_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:lime_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:magenta_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:magenta_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:mangrove_log"
         },
         "output": {
@@ -1323,6 +1433,28 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:orange_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:orange_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:pink_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:pink_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:polished_blackstone_bricks"
         },
         "output": {
@@ -1347,6 +1479,17 @@
         },
         "output": {
             "name": "minecraft:baked_potato"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:purple_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:purple_glazed_terracotta"
         }
     },
     {
@@ -1407,6 +1550,17 @@
         },
         "output": {
             "name": "minecraft:glass"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:red_terracotta"
+        },
+        "output": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:red_glazed_terracotta"
         }
     },
     {
@@ -1642,31 +1796,23 @@
     {
         "block": "furnace",
         "input": {
-            "name": "minecraft:black_terracotta"
+            "meta": 32767,
+            "name": "minecraft:white_terracotta"
         },
         "output": {
             "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:black_glazed_terracotta"
+            "name": "minecraft:white_glazed_terracotta"
         }
     },
     {
         "block": "furnace",
         "input": {
-            "name": "minecraft:blue_terracotta"
+            "meta": 32767,
+            "name": "minecraft:yellow_terracotta"
         },
         "output": {
             "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:blue_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "name": "minecraft:brown_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:brown_glazed_terracotta"
+            "name": "minecraft:yellow_glazed_terracotta"
         }
     },
     {
@@ -1708,16 +1854,6 @@
     {
         "block": "furnace",
         "input": {
-            "name": "minecraft:cyan_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:cyan_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
             "name": "minecraft:golden_boots"
         },
         "output": {
@@ -1749,26 +1885,6 @@
         },
         "output": {
             "name": "minecraft:gold_nugget"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "name": "minecraft:gray_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:gray_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "name": "minecraft:green_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:green_glazed_terracotta"
         }
     },
     {
@@ -1810,90 +1926,10 @@
     {
         "block": "furnace",
         "input": {
-            "name": "minecraft:light_blue_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:light_blue_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "name": "minecraft:light_gray_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:silver_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "name": "minecraft:lime_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:lime_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "name": "minecraft:magenta_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:magenta_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "name": "minecraft:orange_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:orange_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "name": "minecraft:pink_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:pink_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "name": "minecraft:purple_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:purple_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
             "name": "minecraft:red_sandstone"
         },
         "output": {
             "name": "minecraft:smooth_red_sandstone"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "name": "minecraft:red_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:red_glazed_terracotta"
         }
     },
     {
@@ -1921,26 +1957,6 @@
         },
         "output": {
             "name": "minecraft:smooth_stone"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "name": "minecraft:white_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:white_glazed_terracotta"
-        }
-    },
-    {
-        "block": "furnace",
-        "input": {
-            "name": "minecraft:yellow_terracotta"
-        },
-        "output": {
-            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-            "name": "minecraft:yellow_glazed_terracotta"
         }
     },
     {

@@ -121,6 +121,18 @@
     },
     {
         "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+        "name": "minecraft:tuff_wall"
+    },
+    {
+        "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+        "name": "minecraft:tuff_brick_wall"
+    },
+    {
+        "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+        "name": "minecraft:polished_tuff_wall"
+    },
+    {
+        "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
         "name": "minecraft:mud_brick_wall"
     },
     {
@@ -365,6 +377,38 @@
     },
     {
         "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:cobbled_deepslate_stairs"
+    },
+    {
+        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:deepslate_tile_stairs"
+    },
+    {
+        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:polished_deepslate_stairs"
+    },
+    {
+        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:deepslate_brick_stairs"
+    },
+    {
+        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:tuff_stairs"
+    },
+    {
+        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:polished_tuff_stairs"
+    },
+    {
+        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:tuff_brick_stairs"
+    },
+    {
+        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+        "name": "minecraft:mud_brick_stairs"
+    },
+    {
+        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
         "name": "minecraft:cut_copper_stairs"
     },
     {
@@ -394,26 +438,6 @@
     {
         "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
         "name": "minecraft:waxed_oxidized_cut_copper_stairs"
-    },
-    {
-        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:cobbled_deepslate_stairs"
-    },
-    {
-        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:deepslate_tile_stairs"
-    },
-    {
-        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:polished_deepslate_stairs"
-    },
-    {
-        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:deepslate_brick_stairs"
-    },
-    {
-        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:mud_brick_stairs"
     },
     {
         "name": "minecraft:wooden_door"
@@ -450,6 +474,30 @@
     },
     {
         "name": "minecraft:warped_door"
+    },
+    {
+        "name": "minecraft:copper_door"
+    },
+    {
+        "name": "minecraft:exposed_copper_door"
+    },
+    {
+        "name": "minecraft:weathered_copper_door"
+    },
+    {
+        "name": "minecraft:oxidized_copper_door"
+    },
+    {
+        "name": "minecraft:waxed_copper_door"
+    },
+    {
+        "name": "minecraft:waxed_exposed_copper_door"
+    },
+    {
+        "name": "minecraft:waxed_weathered_copper_door"
+    },
+    {
+        "name": "minecraft:waxed_oxidized_copper_door"
     },
     {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
@@ -498,6 +546,38 @@
     {
         "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
         "name": "minecraft:warped_trapdoor"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+        "name": "minecraft:copper_trapdoor"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+        "name": "minecraft:exposed_copper_trapdoor"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+        "name": "minecraft:weathered_copper_trapdoor"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+        "name": "minecraft:oxidized_copper_trapdoor"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+        "name": "minecraft:waxed_copper_trapdoor"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+        "name": "minecraft:waxed_exposed_copper_trapdoor"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+        "name": "minecraft:waxed_weathered_copper_trapdoor"
+    },
+    {
+        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+        "name": "minecraft:waxed_oxidized_copper_trapdoor"
     },
     {
         "name": "minecraft:iron_bars"
@@ -973,6 +1053,9 @@
         "name": "minecraft:scaffolding"
     },
     {
+        "name": "minecraft:brick_block"
+    },
+    {
         "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
         "name": "minecraft:smooth_stone_slab"
     },
@@ -1146,6 +1229,38 @@
     },
     {
         "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:cobbled_deepslate_slab"
+    },
+    {
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:polished_deepslate_slab"
+    },
+    {
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:deepslate_tile_slab"
+    },
+    {
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:deepslate_brick_slab"
+    },
+    {
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:tuff_slab"
+    },
+    {
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:polished_tuff_slab"
+    },
+    {
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:tuff_brick_slab"
+    },
+    {
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+        "name": "minecraft:mud_brick_slab"
+    },
+    {
+        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
         "name": "minecraft:cut_copper_slab"
     },
     {
@@ -1177,38 +1292,6 @@
         "name": "minecraft:waxed_oxidized_cut_copper_slab"
     },
     {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-        "name": "minecraft:cobbled_deepslate_slab"
-    },
-    {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-        "name": "minecraft:polished_deepslate_slab"
-    },
-    {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-        "name": "minecraft:deepslate_tile_slab"
-    },
-    {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-        "name": "minecraft:deepslate_brick_slab"
-    },
-    {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-        "name": "minecraft:mud_brick_slab"
-    },
-    {
-        "name": "minecraft:brick_block"
-    },
-    {
-        "name": "minecraft:chiseled_nether_bricks"
-    },
-    {
-        "name": "minecraft:cracked_nether_bricks"
-    },
-    {
-        "name": "minecraft:quartz_bricks"
-    },
-    {
         "name": "minecraft:stone_bricks"
     },
     {
@@ -1221,10 +1304,10 @@
         "name": "minecraft:chiseled_stone_bricks"
     },
     {
-        "name": "minecraft:end_bricks"
+        "name": "minecraft:smooth_stone"
     },
     {
-        "name": "minecraft:prismarine_bricks"
+        "name": "minecraft:end_bricks"
     },
     {
         "name": "minecraft:polished_blackstone_bricks"
@@ -1248,10 +1331,19 @@
         "name": "minecraft:deepslate_bricks"
     },
     {
+        "name": "minecraft:tuff_bricks"
+    },
+    {
         "name": "minecraft:cracked_deepslate_bricks"
     },
     {
         "name": "minecraft:chiseled_deepslate"
+    },
+    {
+        "name": "minecraft:chiseled_tuff"
+    },
+    {
+        "name": "minecraft:chiseled_tuff_bricks"
     },
     {
         "name": "minecraft:cobblestone"
@@ -1261,9 +1353,6 @@
     },
     {
         "name": "minecraft:cobbled_deepslate"
-    },
-    {
-        "name": "minecraft:smooth_stone"
     },
     {
         "name": "minecraft:sandstone"
@@ -1296,111 +1385,49 @@
         "name": "minecraft:dried_kelp_block"
     },
     {
-        "name": "minecraft:gold_block"
-    },
-    {
-        "name": "minecraft:iron_block"
-    },
-    {
         "name": "minecraft:copper_block"
-    },
-    {
-        "name": "minecraft:copper_door"
-    },
-    {
-        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-        "name": "minecraft:copper_trapdoor"
-    },
-    {
-        "name": "minecraft:copper_grate"
-    },
-    {
-        "name": "minecraft:exposed_copper"
-    },
-    {
-        "name": "minecraft:exposed_copper_door"
-    },
-    {
-        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-        "name": "minecraft:exposed_copper_trapdoor"
-    },
-    {
-        "name": "minecraft:exposed_copper_grate"
     },
     {
         "name": "minecraft:weathered_copper"
     },
     {
-        "name": "minecraft:weathered_copper_door"
-    },
-    {
-        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-        "name": "minecraft:weathered_copper_trapdoor"
-    },
-    {
-        "name": "minecraft:weathered_copper_grate"
+        "name": "minecraft:exposed_copper"
     },
     {
         "name": "minecraft:oxidized_copper"
     },
     {
-        "name": "minecraft:oxidized_copper_door"
-    },
-    {
-        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-        "name": "minecraft:oxidized_copper_trapdoor"
-    },
-    {
-        "name": "minecraft:oxidized_copper_grate"
-    },
-    {
         "name": "minecraft:waxed_copper"
-    },
-    {
-        "name": "minecraft:waxed_copper_door"
-    },
-    {
-        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-        "name": "minecraft:waxed_copper_trapdoor"
-    },
-    {
-        "name": "minecraft:waxed_copper_grate"
     },
     {
         "name": "minecraft:waxed_exposed_copper"
     },
     {
-        "name": "minecraft:waxed_exposed_copper_door"
-    },
-    {
-        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-        "name": "minecraft:waxed_exposed_copper_trapdoor"
-    },
-    {
-        "name": "minecraft:waxed_exposed_copper_grate"
-    },
-    {
         "name": "minecraft:waxed_weathered_copper"
-    },
-    {
-        "name": "minecraft:waxed_weathered_copper_door"
-    },
-    {
-        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-        "name": "minecraft:waxed_weathered_copper_trapdoor"
-    },
-    {
-        "name": "minecraft:waxed_weathered_copper_grate"
     },
     {
         "name": "minecraft:waxed_oxidized_copper"
     },
     {
-        "name": "minecraft:waxed_oxidized_copper_door"
+        "name": "minecraft:copper_grate"
     },
     {
-        "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-        "name": "minecraft:waxed_oxidized_copper_trapdoor"
+        "name": "minecraft:exposed_copper_grate"
+    },
+    {
+        "name": "minecraft:weathered_copper_grate"
+    },
+    {
+        "name": "minecraft:oxidized_copper_grate"
+    },
+    {
+        "name": "minecraft:waxed_copper_grate"
+    },
+    {
+        "name": "minecraft:waxed_exposed_copper_grate"
+    },
+    {
+        "name": "minecraft:waxed_weathered_copper_grate"
     },
     {
         "name": "minecraft:waxed_oxidized_copper_grate"
@@ -1486,6 +1513,12 @@
         "name": "minecraft:waxed_oxidized_copper_bulb"
     },
     {
+        "name": "minecraft:iron_block"
+    },
+    {
+        "name": "minecraft:gold_block"
+    },
+    {
         "name": "minecraft:emerald_block"
     },
     {
@@ -1495,10 +1528,10 @@
         "name": "minecraft:lapis_block"
     },
     {
-        "name": "minecraft:raw_iron_block"
+        "name": "minecraft:raw_copper_block"
     },
     {
-        "name": "minecraft:raw_copper_block"
+        "name": "minecraft:raw_iron_block"
     },
     {
         "name": "minecraft:raw_gold_block"
@@ -1506,6 +1539,9 @@
     {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
         "name": "minecraft:quartz_block"
+    },
+    {
+        "name": "minecraft:quartz_bricks"
     },
     {
         "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
@@ -1521,6 +1557,9 @@
     },
     {
         "name": "minecraft:prismarine"
+    },
+    {
+        "name": "minecraft:prismarine_bricks"
     },
     {
         "name": "minecraft:dark_prismarine"
@@ -1547,6 +1586,12 @@
     },
     {
         "name": "minecraft:red_nether_brick"
+    },
+    {
+        "name": "minecraft:chiseled_nether_bricks"
+    },
+    {
+        "name": "minecraft:cracked_nether_bricks"
     },
     {
         "name": "minecraft:netherite_block"
@@ -1747,9 +1792,6 @@
         "name": "minecraft:pink_concrete"
     },
     {
-        "name": "minecraft:clay"
-    },
-    {
         "name": "minecraft:hardened_clay"
     },
     {
@@ -1897,34 +1939,10 @@
         "name": "minecraft:netherrack"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-        "name": "minecraft:basalt"
-    },
-    {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-        "name": "minecraft:polished_basalt"
-    },
-    {
-        "name": "minecraft:smooth_basalt"
-    },
-    {
         "name": "minecraft:soul_soil"
     },
     {
-        "name": "minecraft:dirt"
-    },
-    {
-        "name": "minecraft:coarse_dirt"
-    },
-    {
-        "block_states": "CgAAAxIAbW9pc3R1cml6ZWRfYW1vdW50AAAAAAA=",
-        "name": "minecraft:farmland"
-    },
-    {
         "name": "minecraft:grass_block"
-    },
-    {
-        "name": "minecraft:grass_path"
     },
     {
         "name": "minecraft:podzol"
@@ -1933,10 +1951,26 @@
         "name": "minecraft:mycelium"
     },
     {
+        "name": "minecraft:grass_path"
+    },
+    {
+        "name": "minecraft:dirt"
+    },
+    {
+        "name": "minecraft:coarse_dirt"
+    },
+    {
+        "name": "minecraft:dirt_with_roots"
+    },
+    {
+        "block_states": "CgAAAxIAbW9pc3R1cml6ZWRfYW1vdW50AAAAAAA=",
+        "name": "minecraft:farmland"
+    },
+    {
         "name": "minecraft:mud"
     },
     {
-        "name": "minecraft:stone"
+        "name": "minecraft:clay"
     },
     {
         "name": "minecraft:iron_ore"
@@ -1996,7 +2030,7 @@
         "name": "minecraft:deepslate_copper_ore"
     },
     {
-        "name": "minecraft:gravel"
+        "name": "minecraft:stone"
     },
     {
         "name": "minecraft:granite"
@@ -2015,6 +2049,13 @@
         "name": "minecraft:deepslate"
     },
     {
+        "name": "minecraft:tuff"
+    },
+    {
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:basalt"
+    },
+    {
         "name": "minecraft:polished_granite"
     },
     {
@@ -2028,6 +2069,19 @@
     },
     {
         "name": "minecraft:polished_deepslate"
+    },
+    {
+        "name": "minecraft:polished_tuff"
+    },
+    {
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+        "name": "minecraft:polished_basalt"
+    },
+    {
+        "name": "minecraft:smooth_basalt"
+    },
+    {
+        "name": "minecraft:gravel"
     },
     {
         "name": "minecraft:sand"
@@ -2168,7 +2222,7 @@
         "name": "minecraft:stripped_dark_oak_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQAAA==",
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
         "name": "minecraft:mangrove_wood"
     },
     {
@@ -2176,7 +2230,7 @@
         "name": "minecraft:stripped_mangrove_wood"
     },
     {
-        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkBDABzdHJpcHBlZF9iaXQAAA==",
+        "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
         "name": "minecraft:cherry_wood"
     },
     {
@@ -2639,9 +2693,6 @@
         "name": "minecraft:moss_block"
     },
     {
-        "name": "minecraft:dirt_with_roots"
-    },
-    {
         "name": "minecraft:hanging_roots"
     },
     {
@@ -2695,57 +2746,6 @@
         "name": "minecraft:small_amethyst_bud"
     },
     {
-        "name": "minecraft:tuff"
-    },
-    {
-        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:tuff_stairs"
-    },
-    {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-        "name": "minecraft:tuff_slab"
-    },
-    {
-        "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-        "name": "minecraft:tuff_wall"
-    },
-    {
-        "name": "minecraft:chiseled_tuff"
-    },
-    {
-        "name": "minecraft:polished_tuff"
-    },
-    {
-        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:polished_tuff_stairs"
-    },
-    {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-        "name": "minecraft:polished_tuff_slab"
-    },
-    {
-        "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-        "name": "minecraft:polished_tuff_wall"
-    },
-    {
-        "name": "minecraft:tuff_bricks"
-    },
-    {
-        "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-        "name": "minecraft:tuff_brick_stairs"
-    },
-    {
-        "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
-        "name": "minecraft:tuff_brick_slab"
-    },
-    {
-        "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
-        "name": "minecraft:tuff_brick_wall"
-    },
-    {
-        "name": "minecraft:chiseled_tuff_bricks"
-    },
-    {
         "name": "minecraft:calcite"
     },
     {
@@ -2797,11 +2797,7 @@
     },
     {
         "block_states": "CgAAAxIAaHVnZV9tdXNocm9vbV9iaXRzDwAAAAA=",
-        "name": "minecraft:brown_mushroom_block"
-    },
-    {
-        "block_states": "CgAAAxIAaHVnZV9tdXNocm9vbV9iaXRzAAAAAAA=",
-        "name": "minecraft:brown_mushroom_block"
+        "name": "minecraft:mushroom_stem"
     },
     {
         "name": "minecraft:egg"
@@ -3561,25 +3557,6 @@
         "name": "minecraft:arrow"
     },
     {
-        "name": "minecraft:ominous_bottle"
-    },
-    {
-        "meta": 1,
-        "name": "minecraft:ominous_bottle"
-    },
-    {
-        "meta": 2,
-        "name": "minecraft:ominous_bottle"
-    },
-    {
-        "meta": 3,
-        "name": "minecraft:ominous_bottle"
-    },
-    {
-        "meta": 4,
-        "name": "minecraft:ominous_bottle"
-    },
-    {
         "name": "minecraft:shield"
     },
     {
@@ -3703,6 +3680,57 @@
     },
     {
         "name": "minecraft:saddle"
+    },
+    {
+        "name": "minecraft:bundle"
+    },
+    {
+        "name": "minecraft:white_bundle"
+    },
+    {
+        "name": "minecraft:light_gray_bundle"
+    },
+    {
+        "name": "minecraft:gray_bundle"
+    },
+    {
+        "name": "minecraft:black_bundle"
+    },
+    {
+        "name": "minecraft:brown_bundle"
+    },
+    {
+        "name": "minecraft:red_bundle"
+    },
+    {
+        "name": "minecraft:orange_bundle"
+    },
+    {
+        "name": "minecraft:yellow_bundle"
+    },
+    {
+        "name": "minecraft:lime_bundle"
+    },
+    {
+        "name": "minecraft:green_bundle"
+    },
+    {
+        "name": "minecraft:cyan_bundle"
+    },
+    {
+        "name": "minecraft:light_blue_bundle"
+    },
+    {
+        "name": "minecraft:blue_bundle"
+    },
+    {
+        "name": "minecraft:purple_bundle"
+    },
+    {
+        "name": "minecraft:magenta_bundle"
+    },
+    {
+        "name": "minecraft:pink_bundle"
     },
     {
         "name": "minecraft:leather_horse_armor"
@@ -4299,6 +4327,25 @@
         "name": "minecraft:lingering_potion"
     },
     {
+        "name": "minecraft:ominous_bottle"
+    },
+    {
+        "meta": 1,
+        "name": "minecraft:ominous_bottle"
+    },
+    {
+        "meta": 2,
+        "name": "minecraft:ominous_bottle"
+    },
+    {
+        "meta": 3,
+        "name": "minecraft:ominous_bottle"
+    },
+    {
+        "meta": 4,
+        "name": "minecraft:ominous_bottle"
+    },
+    {
         "name": "minecraft:spyglass"
     },
     {
@@ -4826,31 +4873,32 @@
         "name": "minecraft:tadpole_bucket"
     },
     {
-        "meta": 3,
-        "name": "minecraft:skull"
+        "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:player_head"
     },
     {
-        "meta": 2,
-        "name": "minecraft:skull"
+        "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:zombie_head"
     },
     {
-        "meta": 4,
-        "name": "minecraft:skull"
+        "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:creeper_head"
     },
     {
-        "meta": 5,
-        "name": "minecraft:skull"
+        "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:dragon_head"
     },
     {
-        "name": "minecraft:skull"
+        "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:skeleton_skull"
     },
     {
-        "meta": 1,
-        "name": "minecraft:skull"
+        "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:wither_skeleton_skull"
     },
     {
-        "meta": 6,
-        "name": "minecraft:skull"
+        "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+        "name": "minecraft:piglin_head"
     },
     {
         "name": "minecraft:beacon"
@@ -5460,9 +5508,6 @@
     {
         "meta": 1,
         "name": "minecraft:sparkler"
-    },
-    {
-        "name": "minecraft:trial_key"
     },
     {
         "name": "minecraft:enchanted_book",
@@ -6610,6 +6655,12 @@
         "name": "minecraft:decorated_pot"
     },
     {
+        "name": "minecraft:trial_key"
+    },
+    {
+        "name": "minecraft:ominous_trial_key"
+    },
+    {
         "name": "minecraft:lodestone_compass"
     },
     {
@@ -6617,8 +6668,5 @@
     },
     {
         "name": "minecraft:ender_dragon_spawn_egg"
-    },
-    {
-        "name": "minecraft:ominous_trial_key"
     }
 ]
