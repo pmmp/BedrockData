@@ -62,7 +62,19 @@
             "9": "minecraft:cyan_carpet"
         },
         "minecraft:chemistry_table": {
-            "0": "minecraft:compound_creator"
+            "0": "minecraft:compound_creator",
+            "10": "minecraft:element_constructor",
+            "11": "minecraft:element_constructor",
+            "12": "minecraft:lab_table",
+            "13": "minecraft:lab_table",
+            "14": "minecraft:lab_table",
+            "15": "minecraft:lab_table",
+            "4": "minecraft:material_reducer",
+            "5": "minecraft:material_reducer",
+            "6": "minecraft:material_reducer",
+            "7": "minecraft:material_reducer",
+            "8": "minecraft:element_constructor",
+            "9": "minecraft:element_constructor"
         },
         "minecraft:chest_boat": {
             "0": "minecraft:oak_chest_boat",
@@ -631,7 +643,10 @@
             "2": "minecraft:fern",
             "3": "minecraft:fern"
         },
-        "minecraft:tnt": {},
+        "minecraft:tnt": {
+            "2": "minecraft:underwater_tnt",
+            "3": "minecraft:underwater_tnt"
+        },
         "minecraft:wood": {
             "0": "minecraft:oak_wood",
             "1": "minecraft:spruce_wood",
