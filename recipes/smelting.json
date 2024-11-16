@@ -1444,6 +1444,26 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:pale_oak_log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:pale_oak_wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:pink_terracotta"
         },
         "output": {
@@ -1571,6 +1591,16 @@
         },
         "output": {
             "name": "minecraft:redstone"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:resin_clump"
+        },
+        "output": {
+            "name": "minecraft:resin_brick"
         }
     },
     {
@@ -1758,6 +1788,26 @@
         "input": {
             "meta": 32767,
             "name": "minecraft:stripped_oak_wood"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:stripped_pale_oak_log"
+        },
+        "output": {
+            "name": "minecraft:charcoal"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:stripped_pale_oak_wood"
         },
         "output": {
             "name": "minecraft:charcoal"

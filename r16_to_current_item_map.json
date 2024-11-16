@@ -29,7 +29,8 @@
             "5": "minecraft:dark_oak_boat",
             "6": "minecraft:mangrove_boat",
             "7": "minecraft:bamboo_raft",
-            "8": "minecraft:cherry_boat"
+            "8": "minecraft:cherry_boat",
+            "9": "minecraft:pale_oak_boat"
         },
         "minecraft:bucket": {
             "1": "minecraft:milk_bucket",
@@ -85,7 +86,8 @@
             "5": "minecraft:dark_oak_chest_boat",
             "6": "minecraft:mangrove_chest_boat",
             "7": "minecraft:bamboo_chest_raft",
-            "8": "minecraft:cherry_chest_boat"
+            "8": "minecraft:cherry_chest_boat",
+            "9": "minecraft:pale_oak_chest_boat"
         },
         "minecraft:coal": {
             "1": "minecraft:charcoal"
@@ -481,6 +483,7 @@
             "140": "minecraft:breeze_spawn_egg",
             "142": "minecraft:armadillo_spawn_egg",
             "144": "minecraft:bogged_spawn_egg",
+            "146": "minecraft:creaking_spawn_egg",
             "15": "minecraft:villager_spawn_egg",
             "157": "minecraft:trader_llama_spawn_egg",
             "16": "minecraft:mooshroom_spawn_egg",
