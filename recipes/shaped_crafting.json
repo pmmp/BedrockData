@@ -2512,6 +2512,37 @@
             },
             "B": {
                 "meta": 32767,
+                "name": "minecraft:stripped_pale_oak_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:pale_oak_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_pale_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chain"
+            },
+            "B": {
+                "meta": 32767,
                 "name": "minecraft:stripped_spruce_log"
             }
         },
@@ -2902,6 +2933,62 @@
             {
                 "meta": 32767,
                 "name": "minecraft:cherry_wood"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chiseled_red_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:red_sandstone_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chiseled_red_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:chiseled_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:sandstone_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chiseled_sandstone"
             }
         ]
     },
@@ -4499,6 +4586,62 @@
             {
                 "meta": 32767,
                 "name": "minecraft:cut_copper_slab"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:cut_red_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:red_sandstone_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cut_red_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:cut_sandstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:sandstone_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cut_sandstone"
             }
         ]
     },
@@ -13669,6 +13812,382 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:pale_moss_block"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBoAcGFsZV9tb3NzX2NhcnBldF9zaWRlX2Vhc3QEAG5vbmUIGwBwYWxlX21vc3NfY2FycGV0X3NpZGVfbm9ydGgEAG5vbmUIGwBwYWxlX21vc3NfY2FycGV0X3NpZGVfc291dGgEAG5vbmUIGgBwYWxlX21vc3NfY2FycGV0X3NpZGVfd2VzdAQAbm9uZQEPAHVwcGVyX2Jsb2NrX2JpdAAA",
+                "count": 3,
+                "name": "minecraft:pale_moss_carpet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_moss_block"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_log"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:resin_block"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQYAYWN0aXZlAAEHAG5hdHVyYWwACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:creaking_heart"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "B",
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_log"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_block"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_log"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "count": 3,
+                "name": "minecraft:pale_oak_wood"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_log"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:pale_oak_planks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:pale_oak_fence"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:pale_oak_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:pale_oak_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:pale_oak_button"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:pale_oak_pressure_plate"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+                "count": 2,
+                "name": "minecraft:pale_oak_trapdoor"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:pale_oak_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:pale_oak_door"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:pale_oak_boat"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_wood"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:pale_oak_planks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_wood"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:paper"
             },
             "B": {
@@ -14819,6 +15338,32 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:purpur_pillar"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:purpur_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:purpur_pillar"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:quartz"
             }
         },
@@ -15388,6 +15933,189 @@
             {
                 "meta": 32767,
                 "name": "minecraft:redstone_torch"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:resin_block"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAxkAbXVsdGlfZmFjZV9kaXJlY3Rpb25fYml0cwAAAAAA",
+                "count": 9,
+                "name": "minecraft:resin_clump"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_block"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:resin_brick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:resin_bricks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_brick"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:resin_brick_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:chiseled_resin_bricks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_brick"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:resin_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:resin_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "count": 6,
+                "name": "minecraft:resin_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:resin_clump"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:resin_block"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_clump"
             }
         ]
     },
@@ -16726,6 +17454,36 @@
             {
                 "meta": 32767,
                 "name": "minecraft:oak_planks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "name": "minecraft:pale_oak_fence_gate"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "ABA",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_planks"
             }
         ]
     },
@@ -19552,6 +20310,83 @@
             {
                 "meta": 32767,
                 "name": "minecraft:stripped_oak_wood"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_pale_oak_log"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "count": 3,
+                "name": "minecraft:stripped_pale_oak_wood"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_pale_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_pale_oak_log"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:pale_oak_planks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_pale_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_pale_oak_wood"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:pale_oak_planks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_pale_oak_wood"
             }
         ]
     },

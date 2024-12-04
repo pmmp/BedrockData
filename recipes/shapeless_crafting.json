@@ -5529,6 +5529,34 @@
             },
             {
                 "meta": 32767,
+                "name": "minecraft:closed_eyeblossom"
+            }
+        ],
+        "output": [
+            {
+                "meta": 12,
+                "name": "minecraft:suspicious_stew"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bowl"
+            },
+            {
+                "meta": 32767,
                 "name": "minecraft:cornflower"
             }
         ],
@@ -5591,6 +5619,34 @@
         "output": [
             {
                 "meta": 4,
+                "name": "minecraft:suspicious_stew"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bowl"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:open_eyeblossom"
+            }
+        ],
+        "output": [
+            {
+                "meta": 11,
                 "name": "minecraft:suspicious_stew"
             }
         ],
@@ -6475,6 +6531,31 @@
             },
             {
                 "meta": 32767,
+                "name": "minecraft:pale_oak_boat"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:pale_oak_chest_boat"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_boat"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chest"
+            },
+            {
+                "meta": 32767,
                 "name": "minecraft:tripwire_hook"
             }
         ],
@@ -6698,6 +6779,27 @@
             {
                 "meta": 32767,
                 "name": "minecraft:chiseled_copper"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:closed_eyeblossom"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:gray_dye"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:closed_eyeblossom"
             }
         ]
     },
@@ -11940,6 +12042,27 @@
             {
                 "meta": 32767,
                 "name": "minecraft:netherite_scrap"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:open_eyeblossom"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:orange_dye"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:open_eyeblossom"
             }
         ]
     },
@@ -21981,6 +22104,94 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:resin_brick_stairs"
+            }
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:resin_brick_slab"
+            }
+        ],
+        "priority": 1,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:resin_brick_wall"
+            }
+        ],
+        "priority": 3,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:chiseled_resin_bricks"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:smooth_quartz"
             }
         ],
@@ -22126,7 +22337,7 @@
                 "name": "minecraft:stone_brick_stairs"
             }
         ],
-        "priority": 1,
+        "priority": 2,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22149,7 +22360,7 @@
                 "name": "minecraft:stone_brick_slab"
             }
         ],
-        "priority": 0,
+        "priority": 1,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22171,7 +22382,28 @@
                 "name": "minecraft:stone_brick_wall"
             }
         ],
-        "priority": 2,
+        "priority": 3,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stone_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stone_bricks"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:chiseled_stone_bricks"
+            }
+        ],
+        "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
