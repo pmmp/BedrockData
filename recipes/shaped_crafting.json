@@ -3001,7 +3001,7 @@
             },
             "B": {
                 "meta": 32767,
-                "name": "minecraft:netherite_ingot"
+                "name": "minecraft:iron_ingot"
             }
         },
         "output": [
@@ -3018,7 +3018,7 @@
         "unlockingIngredients": [
             {
                 "meta": 32767,
-                "name": "minecraft:netherite_ingot"
+                "name": "minecraft:iron_ingot"
             }
         ]
     },
@@ -13847,7 +13847,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAQYAYWN0aXZlAAEHAG5hdHVyYWwACAsAcGlsbGFyX2F4aXMBAHkA",
+                "block_states": "CgAACBQAY3JlYWtpbmdfaGVhcnRfc3RhdGUIAHVwcm9vdGVkAQcAbmF0dXJhbAAICwBwaWxsYXJfYXhpcwEAeQA=",
                 "name": "minecraft:creaking_heart"
             }
         ],
@@ -16617,7 +16617,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:acacia_fence_gate"
             }
         ],
@@ -16647,7 +16647,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:bamboo_fence_gate"
             }
         ],
@@ -16677,7 +16677,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:birch_fence_gate"
             }
         ],
@@ -17068,7 +17068,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:cherry_fence_gate"
             }
         ],
@@ -17128,7 +17128,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:crimson_fence_gate"
             }
         ],
@@ -17158,7 +17158,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:dark_oak_fence_gate"
             }
         ],
@@ -17234,7 +17234,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:jungle_fence_gate"
             }
         ],
@@ -17294,7 +17294,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:mangrove_fence_gate"
             }
         ],
@@ -17441,7 +17441,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:fence_gate"
             }
         ],
@@ -17471,7 +17471,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:pale_oak_fence_gate"
             }
         ],
@@ -18477,7 +18477,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:spruce_fence_gate"
             }
         ],
@@ -18567,7 +18567,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAA=",
+                "block_states": "CgAAAQsAaW5fd2FsbF9iaXQACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCABvcGVuX2JpdAAA",
                 "name": "minecraft:warped_fence_gate"
             }
         ],
