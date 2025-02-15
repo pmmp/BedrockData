@@ -1,0 +1,2621 @@
+[
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "name": "minecraft:stick"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:bed"
+        },
+        "group_name": "itemGroup.name.bed",
+        "items": [
+            {
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 8,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 7,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 15,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 12,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 14,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 1,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 4,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 5,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 13,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 9,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 3,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 11,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 10,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 2,
+                "name": "minecraft:bed"
+            },
+            {
+                "meta": 6,
+                "name": "minecraft:bed"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:torch"
+            },
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:soul_torch"
+            },
+            {
+                "block_states": "CgAAAw0AY2x1c3Rlcl9jb3VudAAAAAABCABkZWFkX2JpdAAA",
+                "name": "minecraft:sea_pickle"
+            },
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:lantern"
+            },
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:soul_lantern"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+            "name": "minecraft:candle"
+        },
+        "group_name": "itemGroup.name.candles",
+        "items": [
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:white_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:orange_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:magenta_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:light_blue_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:yellow_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:lime_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:pink_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:gray_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:light_gray_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:cyan_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:purple_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:blue_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:brown_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:green_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:red_candle"
+            },
+            {
+                "block_states": "CgAAAwcAY2FuZGxlcwAAAAABAwBsaXQAAA==",
+                "name": "minecraft:black_candle"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "name": "minecraft:crafting_table"
+            },
+            {
+                "name": "minecraft:cartography_table"
+            },
+            {
+                "name": "minecraft:fletching_table"
+            },
+            {
+                "name": "minecraft:smithing_table"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAMLAGhvbmV5X2xldmVsAAAAAAA=",
+                "name": "minecraft:beehive"
+            },
+            {
+                "block_states": "CgAAAxAAYnJ1c2hlZF9wcm9ncmVzcwAAAAABBwBoYW5naW5nAQA=",
+                "name": "minecraft:suspicious_sand"
+            },
+            {
+                "block_states": "CgAAAxAAYnJ1c2hlZF9wcm9ncmVzcwAAAAABBwBoYW5naW5nAQA=",
+                "name": "minecraft:suspicious_gravel"
+            },
+            {
+                "name": "minecraft:campfire"
+            },
+            {
+                "name": "minecraft:soul_campfire"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:furnace"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:blast_furnace"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:smoker"
+            },
+            {
+                "block_states": "CgAAAxUAcmVzcGF3bl9hbmNob3JfY2hhcmdlAAAAAAA=",
+                "name": "minecraft:respawn_anchor"
+            },
+            {
+                "name": "minecraft:brewing_stand"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+            "name": "minecraft:anvil"
+        },
+        "group_name": "itemGroup.name.anvil",
+        "items": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:anvil"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:chipped_anvil"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:damaged_anvil"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            },
+            {
+                "name": "minecraft:enchanting_table"
+            },
+            {
+                "name": "minecraft:bookshelf"
+            },
+            {
+                "block_states": "CgAAAwwAYm9va3Nfc3RvcmVkAAAAAAMJAGRpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:chiseled_bookshelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:lectern"
+            },
+            {
+                "name": "minecraft:cauldron"
+            },
+            {
+                "block_states": "CgAAAxQAY29tcG9zdGVyX2ZpbGxfbGV2ZWwAAAAAAA==",
+                "name": "minecraft:composter"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+            "name": "minecraft:chest"
+        },
+        "group_name": "itemGroup.name.chest",
+        "items": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:chest"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:trapped_chest"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:ender_chest"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCABvcGVuX2JpdAAA",
+                "name": "minecraft:barrel"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:undyed_shulker_box"
+        },
+        "group_name": "itemGroup.name.shulkerBox",
+        "items": [
+            {
+                "name": "minecraft:undyed_shulker_box"
+            },
+            {
+                "name": "minecraft:white_shulker_box"
+            },
+            {
+                "name": "minecraft:light_gray_shulker_box"
+            },
+            {
+                "name": "minecraft:gray_shulker_box"
+            },
+            {
+                "name": "minecraft:black_shulker_box"
+            },
+            {
+                "name": "minecraft:brown_shulker_box"
+            },
+            {
+                "name": "minecraft:red_shulker_box"
+            },
+            {
+                "name": "minecraft:orange_shulker_box"
+            },
+            {
+                "name": "minecraft:yellow_shulker_box"
+            },
+            {
+                "name": "minecraft:lime_shulker_box"
+            },
+            {
+                "name": "minecraft:green_shulker_box"
+            },
+            {
+                "name": "minecraft:cyan_shulker_box"
+            },
+            {
+                "name": "minecraft:light_blue_shulker_box"
+            },
+            {
+                "name": "minecraft:blue_shulker_box"
+            },
+            {
+                "name": "minecraft:purple_shulker_box"
+            },
+            {
+                "name": "minecraft:magenta_shulker_box"
+            },
+            {
+                "name": "minecraft:pink_shulker_box"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "name": "minecraft:armor_stand"
+            },
+            {
+                "name": "minecraft:noteblock"
+            },
+            {
+                "name": "minecraft:jukebox"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:music_disc_13"
+        },
+        "group_name": "itemGroup.name.record",
+        "items": [
+            {
+                "name": "minecraft:music_disc_13"
+            },
+            {
+                "name": "minecraft:music_disc_cat"
+            },
+            {
+                "name": "minecraft:music_disc_blocks"
+            },
+            {
+                "name": "minecraft:music_disc_chirp"
+            },
+            {
+                "name": "minecraft:music_disc_far"
+            },
+            {
+                "name": "minecraft:music_disc_mall"
+            },
+            {
+                "name": "minecraft:music_disc_mellohi"
+            },
+            {
+                "name": "minecraft:music_disc_stal"
+            },
+            {
+                "name": "minecraft:music_disc_strad"
+            },
+            {
+                "name": "minecraft:music_disc_ward"
+            },
+            {
+                "name": "minecraft:music_disc_11"
+            },
+            {
+                "name": "minecraft:music_disc_wait"
+            },
+            {
+                "name": "minecraft:music_disc_otherside"
+            },
+            {
+                "name": "minecraft:music_disc_5"
+            },
+            {
+                "name": "minecraft:music_disc_pigstep"
+            },
+            {
+                "name": "minecraft:music_disc_relic"
+            },
+            {
+                "name": "minecraft:music_disc_creator"
+            },
+            {
+                "name": "minecraft:music_disc_creator_music_box"
+            },
+            {
+                "name": "minecraft:music_disc_precipice"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "name": "minecraft:disc_fragment_5"
+            },
+            {
+                "name": "minecraft:glowstone_dust"
+            },
+            {
+                "name": "minecraft:glowstone"
+            },
+            {
+                "name": "minecraft:redstone_lamp"
+            },
+            {
+                "name": "minecraft:sea_lantern"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:oak_sign"
+        },
+        "group_name": "itemGroup.name.sign",
+        "items": [
+            {
+                "name": "minecraft:oak_sign"
+            },
+            {
+                "name": "minecraft:spruce_sign"
+            },
+            {
+                "name": "minecraft:birch_sign"
+            },
+            {
+                "name": "minecraft:jungle_sign"
+            },
+            {
+                "name": "minecraft:acacia_sign"
+            },
+            {
+                "name": "minecraft:dark_oak_sign"
+            },
+            {
+                "name": "minecraft:mangrove_sign"
+            },
+            {
+                "name": "minecraft:cherry_sign"
+            },
+            {
+                "name": "minecraft:pale_oak_sign"
+            },
+            {
+                "name": "minecraft:bamboo_sign"
+            },
+            {
+                "name": "minecraft:crimson_sign"
+            },
+            {
+                "name": "minecraft:warped_sign"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:oak_hanging_sign"
+        },
+        "group_name": "itemGroup.name.hanging_sign",
+        "items": [
+            {
+                "name": "minecraft:oak_hanging_sign"
+            },
+            {
+                "name": "minecraft:spruce_hanging_sign"
+            },
+            {
+                "name": "minecraft:birch_hanging_sign"
+            },
+            {
+                "name": "minecraft:jungle_hanging_sign"
+            },
+            {
+                "name": "minecraft:acacia_hanging_sign"
+            },
+            {
+                "name": "minecraft:dark_oak_hanging_sign"
+            },
+            {
+                "name": "minecraft:mangrove_hanging_sign"
+            },
+            {
+                "name": "minecraft:cherry_hanging_sign"
+            },
+            {
+                "name": "minecraft:pale_oak_hanging_sign"
+            },
+            {
+                "name": "minecraft:bamboo_hanging_sign"
+            },
+            {
+                "name": "minecraft:crimson_hanging_sign"
+            },
+            {
+                "name": "minecraft:warped_hanging_sign"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "name": "minecraft:painting"
+            },
+            {
+                "name": "minecraft:frame"
+            },
+            {
+                "name": "minecraft:glow_frame"
+            },
+            {
+                "name": "minecraft:honey_bottle"
+            },
+            {
+                "name": "minecraft:flower_pot"
+            },
+            {
+                "name": "minecraft:bowl"
+            },
+            {
+                "name": "minecraft:bucket"
+            },
+            {
+                "name": "minecraft:milk_bucket"
+            },
+            {
+                "name": "minecraft:water_bucket"
+            },
+            {
+                "name": "minecraft:lava_bucket"
+            },
+            {
+                "name": "minecraft:cod_bucket"
+            },
+            {
+                "name": "minecraft:salmon_bucket"
+            },
+            {
+                "name": "minecraft:tropical_fish_bucket"
+            },
+            {
+                "name": "minecraft:pufferfish_bucket"
+            },
+            {
+                "name": "minecraft:powder_snow_bucket"
+            },
+            {
+                "name": "minecraft:axolotl_bucket"
+            },
+            {
+                "name": "minecraft:tadpole_bucket"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+            "name": "minecraft:creeper_head"
+        },
+        "group_name": "itemGroup.name.skull",
+        "items": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:player_head"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:zombie_head"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:creeper_head"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:dragon_head"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:skeleton_skull"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:wither_skeleton_skull"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:piglin_head"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "name": "minecraft:beacon"
+            },
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAQoAdG9nZ2xlX2JpdAAA",
+                "name": "minecraft:bell"
+            },
+            {
+                "name": "minecraft:conduit"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:stonecutter_block"
+            },
+            {
+                "name": "minecraft:coal"
+            },
+            {
+                "name": "minecraft:charcoal"
+            },
+            {
+                "name": "minecraft:diamond"
+            },
+            {
+                "name": "minecraft:iron_nugget"
+            },
+            {
+                "name": "minecraft:raw_iron"
+            },
+            {
+                "name": "minecraft:raw_gold"
+            },
+            {
+                "name": "minecraft:raw_copper"
+            },
+            {
+                "name": "minecraft:copper_ingot"
+            },
+            {
+                "name": "minecraft:iron_ingot"
+            },
+            {
+                "name": "minecraft:netherite_scrap"
+            },
+            {
+                "name": "minecraft:netherite_ingot"
+            },
+            {
+                "name": "minecraft:gold_nugget"
+            },
+            {
+                "name": "minecraft:gold_ingot"
+            },
+            {
+                "name": "minecraft:emerald"
+            },
+            {
+                "name": "minecraft:quartz"
+            },
+            {
+                "name": "minecraft:clay_ball"
+            },
+            {
+                "name": "minecraft:brick"
+            },
+            {
+                "name": "minecraft:netherbrick"
+            },
+            {
+                "name": "minecraft:resin_brick"
+            },
+            {
+                "name": "minecraft:prismarine_shard"
+            },
+            {
+                "name": "minecraft:amethyst_shard"
+            },
+            {
+                "name": "minecraft:prismarine_crystals"
+            },
+            {
+                "name": "minecraft:nautilus_shell"
+            },
+            {
+                "name": "minecraft:heart_of_the_sea"
+            },
+            {
+                "name": "minecraft:turtle_scute"
+            },
+            {
+                "name": "minecraft:armadillo_scute"
+            },
+            {
+                "name": "minecraft:phantom_membrane"
+            },
+            {
+                "name": "minecraft:string"
+            },
+            {
+                "name": "minecraft:feather"
+            },
+            {
+                "name": "minecraft:flint"
+            },
+            {
+                "name": "minecraft:gunpowder"
+            },
+            {
+                "name": "minecraft:leather"
+            },
+            {
+                "name": "minecraft:rabbit_hide"
+            },
+            {
+                "name": "minecraft:rabbit_foot"
+            },
+            {
+                "name": "minecraft:fire_charge"
+            },
+            {
+                "name": "minecraft:blaze_rod"
+            },
+            {
+                "name": "minecraft:breeze_rod"
+            },
+            {
+                "name": "minecraft:heavy_core"
+            },
+            {
+                "name": "minecraft:blaze_powder"
+            },
+            {
+                "name": "minecraft:magma_cream"
+            },
+            {
+                "name": "minecraft:fermented_spider_eye"
+            },
+            {
+                "name": "minecraft:echo_shard"
+            },
+            {
+                "name": "minecraft:dragon_breath"
+            },
+            {
+                "name": "minecraft:shulker_shell"
+            },
+            {
+                "name": "minecraft:ghast_tear"
+            },
+            {
+                "name": "minecraft:slime_ball"
+            },
+            {
+                "name": "minecraft:ender_pearl"
+            },
+            {
+                "name": "minecraft:ender_eye"
+            },
+            {
+                "name": "minecraft:nether_star"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:end_rod"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:lightning_rod"
+            },
+            {
+                "name": "minecraft:end_crystal"
+            },
+            {
+                "name": "minecraft:paper"
+            },
+            {
+                "name": "minecraft:book"
+            },
+            {
+                "name": "minecraft:writable_book"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:enchanted_book",
+            "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQAAAIDAGx2bAEAAAA="
+        },
+        "group_name": "itemGroup.name.enchantedBook",
+        "items": [
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQAAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQAAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQAAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQAAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQBAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQBAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQBAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQBAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQCAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQCAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQCAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQCAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQDAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQDAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQDAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQDAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQEAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQEAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQEAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQEAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQFAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQFAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQFAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQGAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQGAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQGAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQHAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQHAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQHAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQIAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQJAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQJAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQJAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQJAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQJAAIDAGx2bAUAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQKAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQKAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQKAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQKAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQKAAIDAGx2bAUAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQLAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQLAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQLAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQLAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQLAAIDAGx2bAUAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQMAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQMAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQNAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQNAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQOAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQOAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQOAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQPAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQPAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQPAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQPAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQPAAIDAGx2bAUAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQQAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQRAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQRAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQRAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQSAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQSAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQSAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQTAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQTAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQTAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQTAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQTAAIDAGx2bAUAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQUAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQUAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQVAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQWAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQXAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQXAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQXAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQYAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQYAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQYAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQZAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQZAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQaAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQbAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQcAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQdAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQdAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQdAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQdAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQdAAIDAGx2bAUAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQeAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQeAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQeAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQfAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQfAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQfAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQgAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQhAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQiAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQiAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQiAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQiAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQjAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQjAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQjAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQkAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQkAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQkAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQlAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQlAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQlAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQmAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQmAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQmAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQnAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQnAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQnAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQnAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQnAAIDAGx2bAUAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQoAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQoAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQoAAIDAGx2bAMAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQoAAIDAGx2bAQAAAA="
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:oak_boat"
+        },
+        "group_name": "itemGroup.name.boat",
+        "items": [
+            {
+                "name": "minecraft:oak_boat"
+            },
+            {
+                "name": "minecraft:spruce_boat"
+            },
+            {
+                "name": "minecraft:birch_boat"
+            },
+            {
+                "name": "minecraft:jungle_boat"
+            },
+            {
+                "name": "minecraft:acacia_boat"
+            },
+            {
+                "name": "minecraft:dark_oak_boat"
+            },
+            {
+                "name": "minecraft:mangrove_boat"
+            },
+            {
+                "name": "minecraft:cherry_boat"
+            },
+            {
+                "name": "minecraft:pale_oak_boat"
+            },
+            {
+                "name": "minecraft:bamboo_raft"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:oak_chest_boat"
+        },
+        "group_name": "itemGroup.name.chestboat",
+        "items": [
+            {
+                "name": "minecraft:oak_chest_boat"
+            },
+            {
+                "name": "minecraft:spruce_chest_boat"
+            },
+            {
+                "name": "minecraft:birch_chest_boat"
+            },
+            {
+                "name": "minecraft:jungle_chest_boat"
+            },
+            {
+                "name": "minecraft:acacia_chest_boat"
+            },
+            {
+                "name": "minecraft:dark_oak_chest_boat"
+            },
+            {
+                "name": "minecraft:mangrove_chest_boat"
+            },
+            {
+                "name": "minecraft:cherry_chest_boat"
+            },
+            {
+                "name": "minecraft:pale_oak_chest_boat"
+            },
+            {
+                "name": "minecraft:bamboo_chest_raft"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "block_states": "CgAAAw4AcmFpbF9kaXJlY3Rpb24AAAAAAA==",
+            "name": "minecraft:rail"
+        },
+        "group_name": "itemGroup.name.rail",
+        "items": [
+            {
+                "block_states": "CgAAAw4AcmFpbF9kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:rail"
+            },
+            {
+                "block_states": "CgAAAQ0AcmFpbF9kYXRhX2JpdAADDgByYWlsX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:golden_rail"
+            },
+            {
+                "block_states": "CgAAAQ0AcmFpbF9kYXRhX2JpdAADDgByYWlsX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:detector_rail"
+            },
+            {
+                "block_states": "CgAAAQ0AcmFpbF9kYXRhX2JpdAADDgByYWlsX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:activator_rail"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:minecart"
+        },
+        "group_name": "itemGroup.name.minecart",
+        "items": [
+            {
+                "name": "minecraft:minecart"
+            },
+            {
+                "name": "minecraft:chest_minecart"
+            },
+            {
+                "name": "minecraft:hopper_minecart"
+            },
+            {
+                "name": "minecraft:tnt_minecart"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "name": "minecraft:redstone"
+            },
+            {
+                "name": "minecraft:redstone_block"
+            },
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:redstone_torch"
+            },
+            {
+                "block_states": "CgAACA8AbGV2ZXJfZGlyZWN0aW9uDgBkb3duX2Vhc3Rfd2VzdAEIAG9wZW5fYml0AAA=",
+                "name": "minecraft:lever"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+            "name": "minecraft:wooden_button"
+        },
+        "group_name": "itemGroup.name.buttons",
+        "items": [
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:wooden_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:spruce_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:birch_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:jungle_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:acacia_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:dark_oak_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:mangrove_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:cherry_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:pale_oak_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:bamboo_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:stone_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:crimson_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:warped_button"
+            },
+            {
+                "block_states": "CgAAARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:polished_blackstone_button"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "block_states": "CgAAAQwAYXR0YWNoZWRfYml0AAMJAGRpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:tripwire_hook"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+            "name": "minecraft:wooden_pressure_plate"
+        },
+        "group_name": "itemGroup.name.pressurePlate",
+        "items": [
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:wooden_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:spruce_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:birch_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:jungle_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:acacia_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:dark_oak_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:mangrove_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:cherry_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:pale_oak_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:bamboo_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:crimson_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:warped_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:stone_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:light_weighted_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:heavy_weighted_pressure_plate"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:polished_blackstone_pressure_plate"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "block_states": "CgAACBoAbWluZWNyYWZ0OmZhY2luZ19kaXJlY3Rpb24EAGRvd24BCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:observer"
+            },
+            {
+                "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
+                "name": "minecraft:daylight_detector"
+            },
+            {
+                "name": "minecraft:repeater"
+            },
+            {
+                "name": "minecraft:comparator"
+            },
+            {
+                "name": "minecraft:hopper"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgMAAAABDQB0cmlnZ2VyZWRfYml0AAA=",
+                "name": "minecraft:dropper"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgMAAAABDQB0cmlnZ2VyZWRfYml0AAA=",
+                "name": "minecraft:dispenser"
+            },
+            {
+                "block_states": "CgAAAQgAY3JhZnRpbmcACAsAb3JpZW50YXRpb24JAGRvd25fZWFzdAENAHRyaWdnZXJlZF9iaXQAAA==",
+                "name": "minecraft:crafter"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgEAAAAA",
+                "name": "minecraft:piston"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgEAAAAA",
+                "name": "minecraft:sticky_piston"
+            },
+            {
+                "block_states": "CgAAAQsAZXhwbG9kZV9iaXQAAA==",
+                "name": "minecraft:tnt"
+            },
+            {
+                "name": "minecraft:name_tag"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:loom"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:banner"
+        },
+        "group_name": "itemGroup.name.banner",
+        "items": [
+            {
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 8,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 7,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 15,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 12,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 14,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 1,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 4,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 5,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 13,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 9,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 3,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 11,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 10,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 2,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 6,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
+            },
+            {
+                "meta": 15,
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQEAAAAA"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:creeper_banner_pattern"
+        },
+        "group_name": "itemGroup.name.banner_pattern",
+        "items": [
+            {
+                "name": "minecraft:creeper_banner_pattern"
+            },
+            {
+                "name": "minecraft:skull_banner_pattern"
+            },
+            {
+                "name": "minecraft:flower_banner_pattern"
+            },
+            {
+                "name": "minecraft:mojang_banner_pattern"
+            },
+            {
+                "name": "minecraft:field_masoned_banner_pattern"
+            },
+            {
+                "name": "minecraft:bordure_indented_banner_pattern"
+            },
+            {
+                "name": "minecraft:piglin_banner_pattern"
+            },
+            {
+                "name": "minecraft:globe_banner_pattern"
+            },
+            {
+                "name": "minecraft:flow_banner_pattern"
+            },
+            {
+                "name": "minecraft:guster_banner_pattern"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:archer_pottery_sherd"
+        },
+        "group_name": "itemGroup.name.potterySherds",
+        "items": [
+            {
+                "name": "minecraft:angler_pottery_sherd"
+            },
+            {
+                "name": "minecraft:archer_pottery_sherd"
+            },
+            {
+                "name": "minecraft:arms_up_pottery_sherd"
+            },
+            {
+                "name": "minecraft:blade_pottery_sherd"
+            },
+            {
+                "name": "minecraft:brewer_pottery_sherd"
+            },
+            {
+                "name": "minecraft:burn_pottery_sherd"
+            },
+            {
+                "name": "minecraft:danger_pottery_sherd"
+            },
+            {
+                "name": "minecraft:explorer_pottery_sherd"
+            },
+            {
+                "name": "minecraft:flow_pottery_sherd"
+            },
+            {
+                "name": "minecraft:friend_pottery_sherd"
+            },
+            {
+                "name": "minecraft:guster_pottery_sherd"
+            },
+            {
+                "name": "minecraft:heart_pottery_sherd"
+            },
+            {
+                "name": "minecraft:heartbreak_pottery_sherd"
+            },
+            {
+                "name": "minecraft:howl_pottery_sherd"
+            },
+            {
+                "name": "minecraft:miner_pottery_sherd"
+            },
+            {
+                "name": "minecraft:mourner_pottery_sherd"
+            },
+            {
+                "name": "minecraft:plenty_pottery_sherd"
+            },
+            {
+                "name": "minecraft:prize_pottery_sherd"
+            },
+            {
+                "name": "minecraft:scrape_pottery_sherd"
+            },
+            {
+                "name": "minecraft:sheaf_pottery_sherd"
+            },
+            {
+                "name": "minecraft:shelter_pottery_sherd"
+            },
+            {
+                "name": "minecraft:skull_pottery_sherd"
+            },
+            {
+                "name": "minecraft:snort_pottery_sherd"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:netherite_upgrade_smithing_template"
+        },
+        "group_name": "itemGroup.name.smithing_templates",
+        "items": [
+            {
+                "name": "minecraft:netherite_upgrade_smithing_template"
+            },
+            {
+                "name": "minecraft:sentry_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:vex_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:wild_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:coast_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:dune_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:wayfinder_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:shaper_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:raiser_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:host_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:ward_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:silence_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:tide_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:snout_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:rib_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:spire_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:flow_armor_trim_smithing_template"
+            },
+            {
+                "name": "minecraft:bolt_armor_trim_smithing_template"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:firework_rocket"
+        },
+        "group_name": "itemGroup.name.firework",
+        "items": [
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwAAAAAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAABwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAIBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAHBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAPBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAMBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAOBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAABBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAEBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAFBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAANBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAJBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAADBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAALBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAKBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAACBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            },
+            {
+                "name": "minecraft:firework_rocket",
+                "nbt": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAGBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:firework_star"
+        },
+        "group_name": "itemGroup.name.fireworkStars",
+        "items": [
+            {
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yIR0d\/wA="
+            },
+            {
+                "meta": 8,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yUk9H\/wA="
+            },
+            {
+                "meta": 7,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yl52d\/wA="
+            },
+            {
+                "meta": 15,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9y8PDw\/wA="
+            },
+            {
+                "meta": 12,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9y2rM6\/wA="
+            },
+            {
+                "meta": 14,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yHYD5\/wA="
+            },
+            {
+                "meta": 1,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yJi6w\/wA="
+            },
+            {
+                "meta": 4,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yqkQ8\/wA="
+            },
+            {
+                "meta": 5,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yuDKJ\/wA="
+            },
+            {
+                "meta": 13,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yvU7H\/wA="
+            },
+            {
+                "meta": 9,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yqovz\/wA="
+            },
+            {
+                "meta": 3,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yMlSD\/wA="
+            },
+            {
+                "meta": 11,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yPdj+\/wA="
+            },
+            {
+                "meta": 10,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yH8eA\/wA="
+            },
+            {
+                "meta": 2,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yFnxe\/wA="
+            },
+            {
+                "meta": 6,
+                "name": "minecraft:firework_star",
+                "nbt": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9ynJwW\/wA="
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "name": "minecraft:chain"
+            },
+            {
+                "name": "minecraft:target"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:decorated_pot"
+            },
+            {
+                "name": "minecraft:trial_key"
+            },
+            {
+                "name": "minecraft:ominous_trial_key"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
+            "name": "minecraft:lab_table"
+        },
+        "group_name": "itemGroup.name.chemistrytable",
+        "items": [
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:element_constructor"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:compound_creator"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:lab_table"
+            },
+            {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
+                "name": "minecraft:material_reducer"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:compound"
+        },
+        "group_name": "itemGroup.name.compounds",
+        "items": [
+            {
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 1,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 2,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 3,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 4,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 5,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 6,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 7,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 8,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 9,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 10,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 13,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 14,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 15,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 16,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 17,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 18,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 19,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 20,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 21,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 22,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 23,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 24,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 25,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 26,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 27,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 28,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 29,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 30,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 31,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 32,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 33,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 35,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 36,
+                "name": "minecraft:compound"
+            },
+            {
+                "meta": 37,
+                "name": "minecraft:compound"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:balloon"
+        },
+        "group_name": "itemGroup.name.products",
+        "items": [
+            {
+                "name": "minecraft:rapid_fertilizer"
+            },
+            {
+                "name": "minecraft:ice_bomb"
+            },
+            {
+                "name": "minecraft:bleach"
+            },
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:underwater_torch"
+            },
+            {
+                "block_states": "CgAAAQsAZXhwbG9kZV9iaXQAAA==",
+                "name": "minecraft:underwater_tnt"
+            },
+            {
+                "name": "minecraft:chemical_heat"
+            },
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:colored_torch_blue"
+            },
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:colored_torch_purple"
+            },
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:colored_torch_red"
+            },
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:colored_torch_green"
+            },
+            {
+                "name": "minecraft:medicine"
+            },
+            {
+                "meta": 1,
+                "name": "minecraft:medicine"
+            },
+            {
+                "meta": 2,
+                "name": "minecraft:medicine"
+            },
+            {
+                "meta": 3,
+                "name": "minecraft:medicine"
+            },
+            {
+                "name": "minecraft:hard_glass"
+            },
+            {
+                "name": "minecraft:hard_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_white_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_orange_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_magenta_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_light_blue_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_yellow_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_lime_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_pink_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_gray_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_light_gray_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_cyan_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_purple_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_blue_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_brown_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_green_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_red_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_black_stained_glass"
+            },
+            {
+                "name": "minecraft:hard_white_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_orange_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_magenta_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_light_blue_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_yellow_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_lime_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_pink_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_gray_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_light_gray_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_cyan_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_purple_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_blue_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_brown_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_green_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_red_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:hard_black_stained_glass_pane"
+            },
+            {
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 1,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 2,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 3,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 4,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 5,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 6,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 7,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 8,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 9,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 10,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 11,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 12,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 13,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 14,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 15,
+                "name": "minecraft:balloon"
+            },
+            {
+                "meta": 1,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 2,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 3,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 4,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 5,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 6,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 8,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 9,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 10,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 11,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 12,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 13,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 14,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 15,
+                "name": "minecraft:glow_stick"
+            },
+            {
+                "meta": 4,
+                "name": "minecraft:sparkler"
+            },
+            {
+                "meta": 2,
+                "name": "minecraft:sparkler"
+            },
+            {
+                "meta": 14,
+                "name": "minecraft:sparkler"
+            },
+            {
+                "meta": 5,
+                "name": "minecraft:sparkler"
+            },
+            {
+                "meta": 1,
+                "name": "minecraft:sparkler"
+            }
+        ]
+    }
+]
