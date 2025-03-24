@@ -33068,8 +33068,7 @@
                 "name": "minecraft:sugar"
             },
             "C": {
-                "meta": 32767,
-                "name": "minecraft:egg"
+                "tag": "minecraft:egg"
             },
             "D": {
                 "meta": 32767,
@@ -33093,8 +33092,7 @@
         ],
         "unlockingIngredients": [
             {
-                "meta": 32767,
-                "name": "minecraft:egg"
+                "tag": "minecraft:egg"
             }
         ]
     },
