@@ -5917,6 +5917,27 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:cactus_flower"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:pink_dye"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cactus_flower"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:candle"
             },
             {
@@ -13927,8 +13948,7 @@
                 "name": "minecraft:sugar"
             },
             {
-                "meta": 32767,
-                "name": "minecraft:egg"
+                "tag": "minecraft:egg"
             }
         ],
         "output": [
@@ -15554,6 +15574,27 @@
             {
                 "meta": 32767,
                 "name": "minecraft:white_tulip"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:wildflowers"
+            }
+        ],
+        "output": [
+            {
+                "name": "minecraft:yellow_dye"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:wildflowers"
             }
         ]
     },

@@ -632,6 +632,15 @@
                 "name": "minecraft:tall_grass"
             },
             {
+                "name": "minecraft:short_dry_grass"
+            },
+            {
+                "name": "minecraft:tall_dry_grass"
+            },
+            {
+                "name": "minecraft:bush"
+            },
+            {
                 "name": "minecraft:nether_sprouts"
             }
         ]
@@ -787,10 +796,17 @@
                 "name": "minecraft:pink_petals"
             },
             {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:wildflowers"
+            },
+            {
                 "name": "minecraft:wither_rose"
             },
             {
                 "name": "minecraft:torchflower"
+            },
+            {
+                "name": "minecraft:cactus_flower"
             },
             {
                 "name": "minecraft:closed_eyeblossom"
@@ -928,6 +944,10 @@
                 "name": "minecraft:dripstone_block"
             },
             {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:leaf_litter"
+            },
+            {
                 "name": "minecraft:moss_carpet"
             },
             {
@@ -964,6 +984,9 @@
             },
             {
                 "name": "minecraft:spore_blossom"
+            },
+            {
+                "name": "minecraft:firefly_bush"
             },
             {
                 "name": "minecraft:azalea"
@@ -1075,6 +1098,12 @@
         "items": [
             {
                 "name": "minecraft:egg"
+            },
+            {
+                "name": "minecraft:brown_egg"
+            },
+            {
+                "name": "minecraft:blue_egg"
             },
             {
                 "name": "minecraft:sugar_cane"

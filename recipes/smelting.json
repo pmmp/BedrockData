@@ -732,6 +732,17 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:acacia_leaves"
+        },
+        "output": {
+            "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+            "name": "minecraft:leaf_litter"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:acacia_log"
         },
         "output": {
@@ -762,6 +773,28 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:azalea_leaves"
+        },
+        "output": {
+            "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+            "name": "minecraft:leaf_litter"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:azalea_leaves_flowered"
+        },
+        "output": {
+            "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+            "name": "minecraft:leaf_litter"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:basalt"
         },
         "output": {
@@ -776,6 +809,17 @@
         },
         "output": {
             "name": "minecraft:cooked_beef"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:birch_leaves"
+        },
+        "output": {
+            "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+            "name": "minecraft:leaf_litter"
         }
     },
     {
@@ -839,6 +883,17 @@
         },
         "output": {
             "name": "minecraft:green_dye"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:cherry_leaves"
+        },
+        "output": {
+            "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+            "name": "minecraft:leaf_litter"
         }
     },
     {
@@ -961,6 +1016,17 @@
         "output": {
             "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
             "name": "minecraft:cyan_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:dark_oak_leaves"
+        },
+        "output": {
+            "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+            "name": "minecraft:leaf_litter"
         }
     },
     {
@@ -1269,6 +1335,17 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:jungle_leaves"
+        },
+        "output": {
+            "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+            "name": "minecraft:leaf_litter"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:jungle_log"
         },
         "output": {
@@ -1353,6 +1430,17 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:mangrove_leaves"
+        },
+        "output": {
+            "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+            "name": "minecraft:leaf_litter"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:mangrove_log"
         },
         "output": {
@@ -1413,6 +1501,17 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:oak_leaves"
+        },
+        "output": {
+            "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+            "name": "minecraft:leaf_litter"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:oak_log"
         },
         "output": {
@@ -1438,6 +1537,17 @@
         "output": {
             "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
             "name": "minecraft:orange_glazed_terracotta"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:pale_oak_leaves"
+        },
+        "output": {
+            "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+            "name": "minecraft:leaf_litter"
         }
     },
     {
@@ -1621,6 +1731,17 @@
         },
         "output": {
             "name": "minecraft:lime_dye"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:spruce_leaves"
+        },
+        "output": {
+            "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+            "name": "minecraft:leaf_litter"
         }
     },
     {
