@@ -2,10 +2,10 @@
     "version": {
         "major": 1,
         "minor": 21,
-        "patch": 60,
-        "revision": 28,
+        "patch": 80,
+        "revision": 27,
         "beta": false,
-        "protocol_version": 776
+        "protocol_version": 800
     },
     "packets": {
         "LoginPacket": 1,
@@ -27,10 +27,8 @@
         "TakeItemActorPacket": 17,
         "MoveActorAbsolutePacket": 18,
         "MovePlayerPacket": 19,
-        "PassengerJumpPacket": 20,
         "UpdateBlockPacket": 21,
         "AddPaintingPacket": 22,
-        "LevelSoundEventPacketV1": 24,
         "LevelEventPacket": 25,
         "BlockEventPacket": 26,
         "ActorEventPacket": 27,
@@ -60,7 +58,6 @@
         "CraftingDataPacket": 52,
         "GuiDataPickItemPacket": 54,
         "BlockActorDataPacket": 56,
-        "PlayerInputPacket": 57,
         "LevelChunkPacket": 58,
         "SetCommandsEnabledPacket": 59,
         "SetDifficultyPacket": 60,
@@ -120,7 +117,6 @@
         "NetworkStackLatencyPacket": 115,
         "SpawnParticleEffectPacket": 118,
         "AvailableActorIdentifiersPacket": 119,
-        "LevelSoundEventPacketV2": 120,
         "NetworkChunkPublisherUpdatePacket": 121,
         "BiomeDefinitionListPacket": 122,
         "LevelSoundEventPacket": 123,
@@ -194,7 +190,6 @@
         "CameraPresetsPacket": 198,
         "UnlockedRecipesPacket": 199,
         "CameraInstructionPacket": 300,
-        "CompressedBiomeDefinitionListPacket": 301,
         "TrimDataPacket": 302,
         "OpenSignPacket": 303,
         "AgentAnimationPacket": 304,
@@ -214,6 +209,11 @@
         "SetMovementAuthorityPacket": 319,
         "CameraAimAssistPresetsPacket": 320,
         "ClientCameraAimAssistPacket": 321,
-        "ClientMovementPredictionSyncPacket": 322
+        "ClientMovementPredictionSyncPacket": 322,
+        "UpdateClientOptionsPacket": 323,
+        "PlayerVideoCapturePacket": 324,
+        "PlayerUpdateEntityOverridesPacket": 325,
+        "PlayerLocationPacket": 326,
+        "ClientboundControlSchemeSetPacket": 327
     }
 }

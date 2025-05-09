@@ -782,6 +782,10 @@
                 "name": "minecraft:potion"
             },
             {
+                "meta": 42,
+                "name": "minecraft:potion"
+            },
+            {
                 "meta": 19,
                 "name": "minecraft:potion"
             },
@@ -871,10 +875,6 @@
             },
             {
                 "meta": 41,
-                "name": "minecraft:potion"
-            },
-            {
-                "meta": 42,
                 "name": "minecraft:potion"
             },
             {
@@ -977,6 +977,10 @@
                 "name": "minecraft:splash_potion"
             },
             {
+                "meta": 42,
+                "name": "minecraft:splash_potion"
+            },
+            {
                 "meta": 19,
                 "name": "minecraft:splash_potion"
             },
@@ -1066,10 +1070,6 @@
             },
             {
                 "meta": 41,
-                "name": "minecraft:splash_potion"
-            },
-            {
-                "meta": 42,
                 "name": "minecraft:splash_potion"
             },
             {
@@ -1172,6 +1172,10 @@
                 "name": "minecraft:lingering_potion"
             },
             {
+                "meta": 42,
+                "name": "minecraft:lingering_potion"
+            },
+            {
                 "meta": 19,
                 "name": "minecraft:lingering_potion"
             },
@@ -1264,10 +1268,6 @@
                 "name": "minecraft:lingering_potion"
             },
             {
-                "meta": 42,
-                "name": "minecraft:lingering_potion"
-            },
-            {
                 "meta": 43,
                 "name": "minecraft:lingering_potion"
             },
@@ -1321,6 +1321,62 @@
             },
             {
                 "name": "minecraft:brush"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "name": "minecraft:white_harness"
+        },
+        "group_name": "itemGroup.name.harnesses",
+        "items": [
+            {
+                "name": "minecraft:white_harness"
+            },
+            {
+                "name": "minecraft:light_gray_harness"
+            },
+            {
+                "name": "minecraft:gray_harness"
+            },
+            {
+                "name": "minecraft:black_harness"
+            },
+            {
+                "name": "minecraft:brown_harness"
+            },
+            {
+                "name": "minecraft:red_harness"
+            },
+            {
+                "name": "minecraft:orange_harness"
+            },
+            {
+                "name": "minecraft:yellow_harness"
+            },
+            {
+                "name": "minecraft:lime_harness"
+            },
+            {
+                "name": "minecraft:green_harness"
+            },
+            {
+                "name": "minecraft:cyan_harness"
+            },
+            {
+                "name": "minecraft:light_blue_harness"
+            },
+            {
+                "name": "minecraft:blue_harness"
+            },
+            {
+                "name": "minecraft:purple_harness"
+            },
+            {
+                "name": "minecraft:magenta_harness"
+            },
+            {
+                "name": "minecraft:pink_harness"
             }
         ]
     }

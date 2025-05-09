@@ -1448,6 +1448,9 @@
             },
             {
                 "name": "minecraft:creaking_spawn_egg"
+            },
+            {
+                "name": "minecraft:happy_ghast_spawn_egg"
             }
         ]
     },
@@ -1573,6 +1576,16 @@
         "items": [
             {
                 "name": "minecraft:reinforced_deepslate"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
             }
         ]
     }

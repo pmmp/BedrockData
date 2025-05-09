@@ -6937,6 +6937,37 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:ghast_tear"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:bone_block"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:ghast_tear"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:glass"
             },
             "B": {
@@ -11411,6 +11442,626 @@
             {
                 "meta": 32767,
                 "name": "minecraft:lapis_block"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:black_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:black_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:black_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:black_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:blue_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:blue_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:blue_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:blue_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:brown_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:brown_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:brown_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:brown_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:cyan_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:cyan_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:gray_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:gray_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:green_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:green_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:light_blue_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:light_blue_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:light_gray_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:light_gray_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:lime_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:lime_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:magenta_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:magenta_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:orange_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:orange_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:pink_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:pink_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:purple_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:purple_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:red_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:red_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:white_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:white_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:white_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:white_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "name": "minecraft:glass"
+            },
+            "C": {
+                "name": "minecraft:yellow_wool"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:yellow_harness"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "BCB"
+        ],
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgDEQByZWh5ZHJhdGlvbl9sZXZlbAAAAAAA",
+                "name": "minecraft:dried_ghast"
             }
         ]
     },

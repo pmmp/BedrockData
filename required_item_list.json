@@ -382,7 +382,7 @@
         "version": 2
     },
     "minecraft:banner_pattern": {
-        "runtime_id": 796,
+        "runtime_id": 813,
         "component_based": false,
         "version": 2
     },
@@ -571,10 +571,10 @@
         "version": 2
     },
     "minecraft:black_bundle": {
-        "runtime_id": 265,
+        "runtime_id": 262,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAwAYnVuZGxlX2JsYWNrAAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24AAAAAAwwAdXNlX2R1cmF0aW9uAAAAAAAJCQBpdGVtX3RhZ3MAAAAAAAocAG1pbmVjcmFmdDpidW5kbGVfaW50ZXJhY3Rpb24DEgBudW1fdmlld2FibGVfc2xvdHMMAAAAAAoYAG1pbmVjcmFmdDptYXhfc3RhY2tfc2l6ZQEFAHZhbHVlAQAKFgBtaW5lY3JhZnQ6c3RvcmFnZV9pdGVtARoAYWxsb3dfbmVzdGVkX3N0b3JhZ2VfaXRlbXMBCQ0AYWxsb3dlZF9pdGVtcwAAAAAACQwAYmFubmVkX2l0ZW1zCgIAAAAIBABuYW1lFQBtaW5lY3JhZnQ6c2h1bGtlcl9ib3gACAQAbmFtZRwAbWluZWNyYWZ0OnVuZHllZF9zaHVsa2VyX2JveAADCQBtYXhfc2xvdHNAAAAAAAoeAG1pbmVjcmFmdDpzdG9yYWdlX3dlaWdodF9saW1pdAMQAG1heF93ZWlnaHRfbGltaXRAAAAAAAohAG1pbmVjcmFmdDpzdG9yYWdlX3dlaWdodF9tb2RpZmllcgMWAHdlaWdodF9pbl9zdG9yYWdlX2l0ZW0EAAAAAAAA"
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxYAYnVuZGxlX2JsYWNrX29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250FwBidW5kbGVfYmxhY2tfb3Blbl9mcm9udAgHAGRlZmF1bHQMAGJ1bmRsZV9ibGFjawAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:black_candle": {
         "runtime_id": -428,
@@ -608,6 +608,11 @@
     },
     "minecraft:black_glazed_terracotta": {
         "runtime_id": 235,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:black_harness": {
+        "runtime_id": 753,
         "component_based": false,
         "version": 2
     },
@@ -692,10 +697,10 @@
         "version": 2
     },
     "minecraft:blue_bundle": {
-        "runtime_id": 264,
+        "runtime_id": 261,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAsAYnVuZGxlX2JsdWUAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxUAYnVuZGxlX2JsdWVfb3Blbl9iYWNrCBEAYnVuZGxlX29wZW5fZnJvbnQWAGJ1bmRsZV9ibHVlX29wZW5fZnJvbnQIBwBkZWZhdWx0CwBidW5kbGVfYmx1ZQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:blue_candle": {
         "runtime_id": -424,
@@ -734,6 +739,11 @@
     },
     "minecraft:blue_glazed_terracotta": {
         "runtime_id": 231,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:blue_harness": {
+        "runtime_id": 754,
         "component_based": false,
         "version": 2
     },
@@ -778,7 +788,7 @@
         "version": 2
     },
     "minecraft:boat": {
-        "runtime_id": 794,
+        "runtime_id": 811,
         "component_based": false,
         "version": 2
     },
@@ -915,10 +925,10 @@
         "version": 2
     },
     "minecraft:brown_bundle": {
-        "runtime_id": 268,
+        "runtime_id": 259,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAwAYnVuZGxlX2Jyb3duAAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24AAAAAAwwAdXNlX2R1cmF0aW9uAAAAAAAJCQBpdGVtX3RhZ3MAAAAAAAocAG1pbmVjcmFmdDpidW5kbGVfaW50ZXJhY3Rpb24DEgBudW1fdmlld2FibGVfc2xvdHMMAAAAAAoYAG1pbmVjcmFmdDptYXhfc3RhY2tfc2l6ZQEFAHZhbHVlAQAKFgBtaW5lY3JhZnQ6c3RvcmFnZV9pdGVtARoAYWxsb3dfbmVzdGVkX3N0b3JhZ2VfaXRlbXMBCQ0AYWxsb3dlZF9pdGVtcwAAAAAACQwAYmFubmVkX2l0ZW1zCgIAAAAIBABuYW1lFQBtaW5lY3JhZnQ6c2h1bGtlcl9ib3gACAQAbmFtZRwAbWluZWNyYWZ0OnVuZHllZF9zaHVsa2VyX2JveAADCQBtYXhfc2xvdHNAAAAAAAoeAG1pbmVjcmFmdDpzdG9yYWdlX3dlaWdodF9saW1pdAMQAG1heF93ZWlnaHRfbGltaXRAAAAAAAohAG1pbmVjcmFmdDpzdG9yYWdlX3dlaWdodF9tb2RpZmllcgMWAHdlaWdodF9pbl9zdG9yYWdlX2l0ZW0EAAAAAAAA"
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxYAYnVuZGxlX2Jyb3duX29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250FwBidW5kbGVfYnJvd25fb3Blbl9mcm9udAgHAGRlZmF1bHQMAGJ1bmRsZV9icm93bgAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:brown_candle": {
         "runtime_id": -425,
@@ -957,6 +967,11 @@
     },
     "minecraft:brown_glazed_terracotta": {
         "runtime_id": 232,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:brown_harness": {
+        "runtime_id": 755,
         "component_based": false,
         "version": 2
     },
@@ -1036,10 +1051,10 @@
         "version": 2
     },
     "minecraft:bundle": {
-        "runtime_id": 262,
+        "runtime_id": 271,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAYAYnVuZGxlAAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24AAAAAAwwAdXNlX2R1cmF0aW9uAAAAAAAJCQBpdGVtX3RhZ3MAAAAAAAocAG1pbmVjcmFmdDpidW5kbGVfaW50ZXJhY3Rpb24DEgBudW1fdmlld2FibGVfc2xvdHMMAAAAAAoYAG1pbmVjcmFmdDptYXhfc3RhY2tfc2l6ZQEFAHZhbHVlAQAKFgBtaW5lY3JhZnQ6c3RvcmFnZV9pdGVtARoAYWxsb3dfbmVzdGVkX3N0b3JhZ2VfaXRlbXMBCQ0AYWxsb3dlZF9pdGVtcwAAAAAACQwAYmFubmVkX2l0ZW1zCgIAAAAIBABuYW1lFQBtaW5lY3JhZnQ6c2h1bGtlcl9ib3gACAQAbmFtZRwAbWluZWNyYWZ0OnVuZHllZF9zaHVsa2VyX2JveAADCQBtYXhfc2xvdHNAAAAAAAoeAG1pbmVjcmFmdDpzdG9yYWdlX3dlaWdodF9saW1pdAMQAG1heF93ZWlnaHRfbGltaXRAAAAAAAohAG1pbmVjcmFmdDpzdG9yYWdlX3dlaWdodF9tb2RpZmllcgMWAHdlaWdodF9pbl9zdG9yYWdlX2l0ZW0EAAAAAAAA"
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxAAYnVuZGxlX29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250EQBidW5kbGVfb3Blbl9mcm9udAgHAGRlZmF1bHQGAGJ1bmRsZQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:burn_pottery_sherd": {
         "runtime_id": 699,
@@ -1103,7 +1118,7 @@
         "version": 2
     },
     "minecraft:carpet": {
-        "runtime_id": 753,
+        "runtime_id": 770,
         "component_based": false,
         "version": 2
     },
@@ -1209,7 +1224,7 @@
         "version": 2
     },
     "minecraft:chemistry_table": {
-        "runtime_id": 788,
+        "runtime_id": 805,
         "component_based": false,
         "version": 2
     },
@@ -1547,7 +1562,7 @@
         "version": 2
     },
     "minecraft:colored_torch_bp": {
-        "runtime_id": 792,
+        "runtime_id": 809,
         "component_based": false,
         "version": 2
     },
@@ -1567,7 +1582,7 @@
         "version": 2
     },
     "minecraft:colored_torch_rg": {
-        "runtime_id": 791,
+        "runtime_id": 808,
         "component_based": false,
         "version": 2
     },
@@ -1607,12 +1622,12 @@
         "version": 2
     },
     "minecraft:concrete": {
-        "runtime_id": 779,
+        "runtime_id": 796,
         "component_based": false,
         "version": 2
     },
     "minecraft:concrete_powder": {
-        "runtime_id": 780,
+        "runtime_id": 797,
         "component_based": false,
         "version": 2
     },
@@ -1705,22 +1720,22 @@
         "version": 2
     },
     "minecraft:coral": {
-        "runtime_id": 775,
+        "runtime_id": 792,
         "component_based": false,
         "version": 2
     },
     "minecraft:coral_block": {
-        "runtime_id": 757,
+        "runtime_id": 774,
         "component_based": false,
         "version": 2
     },
     "minecraft:coral_fan": {
-        "runtime_id": 766,
+        "runtime_id": 783,
         "component_based": false,
         "version": 2
     },
     "minecraft:coral_fan_dead": {
-        "runtime_id": 767,
+        "runtime_id": 784,
         "component_based": false,
         "version": 2
     },
@@ -1945,10 +1960,10 @@
         "version": 2
     },
     "minecraft:cyan_bundle": {
-        "runtime_id": 266,
+        "runtime_id": 257,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAsAYnVuZGxlX2N5YW4AAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxUAYnVuZGxlX2N5YW5fb3Blbl9iYWNrCBEAYnVuZGxlX29wZW5fZnJvbnQWAGJ1bmRsZV9jeWFuX29wZW5fZnJvbnQIBwBkZWZhdWx0CwBidW5kbGVfY3lhbgAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:cyan_candle": {
         "runtime_id": -422,
@@ -1982,6 +1997,11 @@
     },
     "minecraft:cyan_glazed_terracotta": {
         "runtime_id": 229,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:cyan_harness": {
+        "runtime_id": 756,
         "component_based": false,
         "version": 2
     },
@@ -2516,27 +2536,27 @@
         "version": 2
     },
     "minecraft:double_plant": {
-        "runtime_id": 773,
+        "runtime_id": 790,
         "component_based": false,
         "version": 2
     },
     "minecraft:double_stone_block_slab": {
-        "runtime_id": 762,
+        "runtime_id": 779,
         "component_based": false,
         "version": 2
     },
     "minecraft:double_stone_block_slab2": {
-        "runtime_id": 763,
+        "runtime_id": 780,
         "component_based": false,
         "version": 2
     },
     "minecraft:double_stone_block_slab3": {
-        "runtime_id": 764,
+        "runtime_id": 781,
         "component_based": false,
         "version": 2
     },
     "minecraft:double_stone_block_slab4": {
-        "runtime_id": 765,
+        "runtime_id": 782,
         "component_based": false,
         "version": 2
     },
@@ -2552,6 +2572,11 @@
     },
     "minecraft:dragon_head": {
         "runtime_id": -969,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:dried_ghast": {
+        "runtime_id": -1027,
         "component_based": false,
         "version": 2
     },
@@ -2587,7 +2612,7 @@
         "version": 2
     },
     "minecraft:dye": {
-        "runtime_id": 795,
+        "runtime_id": 812,
         "component_based": false,
         "version": 2
     },
@@ -3258,7 +3283,7 @@
         "version": 2
     },
     "minecraft:end_crystal": {
-        "runtime_id": 798,
+        "runtime_id": 815,
         "component_based": false,
         "version": 2
     },
@@ -3413,7 +3438,7 @@
         "version": 2
     },
     "minecraft:fence": {
-        "runtime_id": 755,
+        "runtime_id": 772,
         "component_based": false,
         "version": 2
     },
@@ -3623,7 +3648,7 @@
         "version": 2
     },
     "minecraft:glow_berries": {
-        "runtime_id": 799,
+        "runtime_id": 816,
         "component_based": false,
         "version": 0,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoOAG1pbmVjcmFmdDpmb29kAQ4AY2FuX2Fsd2F5c19lYXQAAw0AY29vbGRvd25fdGltZQAAAAAIDQBjb29sZG93bl90eXBlAAADCQBudXRyaXRpb24CAAAAAw0Ab25fdXNlX2FjdGlvbv\/\/\/\/8JDABvbl91c2VfcmFuZ2UFAwAAAAAAAEEAAABBAAAAQQUTAHNhdHVyYXRpb25fbW9kaWZpZXKamZk+CBEAdXNpbmdfY29udmVydHNfdG8AAAAKDgBtaW5lY3JhZnQ6c2VlZAgLAGNyb3BfcmVzdWx0FABtaW5lY3JhZnQ6Y2F2ZV92aW5lcwkIAHBsYW50X2F0CAIAAAAKAGNhdmVfdmluZXMcAGNhdmVfdmluZXNfaGVhZF93aXRoX2JlcnJpZXMBGgBwbGFudF9hdF9hbnlfc29saWRfc3VyZmFjZQEIDQBwbGFudF9hdF9mYWNlBABkb3duAAMWAG1pbmVjcmFmdDp1c2VfZHVyYXRpb24gAAAAAAA="
@@ -3806,10 +3831,10 @@
         "version": 2
     },
     "minecraft:gray_bundle": {
-        "runtime_id": 271,
+        "runtime_id": 270,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAsAYnVuZGxlX2dyYXkAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxUAYnVuZGxlX2dyYXlfb3Blbl9iYWNrCBEAYnVuZGxlX29wZW5fZnJvbnQWAGJ1bmRsZV9ncmF5X29wZW5fZnJvbnQIBwBkZWZhdWx0CwBidW5kbGVfZ3JheQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:gray_candle": {
         "runtime_id": -420,
@@ -3846,6 +3871,11 @@
         "component_based": false,
         "version": 2
     },
+    "minecraft:gray_harness": {
+        "runtime_id": 757,
+        "component_based": false,
+        "version": 2
+    },
     "minecraft:gray_shulker_box": {
         "runtime_id": -619,
         "component_based": false,
@@ -3872,10 +3902,10 @@
         "version": 2
     },
     "minecraft:green_bundle": {
-        "runtime_id": 273,
+        "runtime_id": 267,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAwAYnVuZGxlX2dyZWVuAAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24AAAAAAwwAdXNlX2R1cmF0aW9uAAAAAAAJCQBpdGVtX3RhZ3MAAAAAAAocAG1pbmVjcmFmdDpidW5kbGVfaW50ZXJhY3Rpb24DEgBudW1fdmlld2FibGVfc2xvdHMMAAAAAAoYAG1pbmVjcmFmdDptYXhfc3RhY2tfc2l6ZQEFAHZhbHVlAQAKFgBtaW5lY3JhZnQ6c3RvcmFnZV9pdGVtARoAYWxsb3dfbmVzdGVkX3N0b3JhZ2VfaXRlbXMBCQ0AYWxsb3dlZF9pdGVtcwAAAAAACQwAYmFubmVkX2l0ZW1zCgIAAAAIBABuYW1lFQBtaW5lY3JhZnQ6c2h1bGtlcl9ib3gACAQAbmFtZRwAbWluZWNyYWZ0OnVuZHllZF9zaHVsa2VyX2JveAADCQBtYXhfc2xvdHNAAAAAAAoeAG1pbmVjcmFmdDpzdG9yYWdlX3dlaWdodF9saW1pdAMQAG1heF93ZWlnaHRfbGltaXRAAAAAAAohAG1pbmVjcmFmdDpzdG9yYWdlX3dlaWdodF9tb2RpZmllcgMWAHdlaWdodF9pbl9zdG9yYWdlX2l0ZW0EAAAAAAAA"
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxYAYnVuZGxlX2dyZWVuX29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250FwBidW5kbGVfZ3JlZW5fb3Blbl9mcm9udAgHAGRlZmF1bHQMAGJ1bmRsZV9ncmVlbgAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:green_candle": {
         "runtime_id": -426,
@@ -3909,6 +3939,11 @@
     },
     "minecraft:green_glazed_terracotta": {
         "runtime_id": 233,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:green_harness": {
+        "runtime_id": 758,
         "component_based": false,
         "version": 2
     },
@@ -3964,6 +3999,11 @@
     },
     "minecraft:hanging_roots": {
         "runtime_id": -319,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:happy_ghast_spawn_egg": {
+        "runtime_id": 752,
         "component_based": false,
         "version": 2
     },
@@ -4118,12 +4158,12 @@
         "version": 2
     },
     "minecraft:hard_stained_glass": {
-        "runtime_id": 789,
+        "runtime_id": 806,
         "component_based": false,
         "version": 2
     },
     "minecraft:hard_stained_glass_pane": {
-        "runtime_id": 790,
+        "runtime_id": 807,
         "component_based": false,
         "version": 2
     },
@@ -4759,12 +4799,12 @@
         "version": 2
     },
     "minecraft:leaves": {
-        "runtime_id": 769,
+        "runtime_id": 786,
         "component_based": false,
         "version": 2
     },
     "minecraft:leaves2": {
-        "runtime_id": 770,
+        "runtime_id": 787,
         "component_based": false,
         "version": 2
     },
@@ -4779,7 +4819,7 @@
         "version": 2
     },
     "minecraft:light_block": {
-        "runtime_id": 793,
+        "runtime_id": 810,
         "component_based": false,
         "version": 2
     },
@@ -4864,10 +4904,10 @@
         "version": 2
     },
     "minecraft:light_blue_bundle": {
-        "runtime_id": 267,
+        "runtime_id": 258,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdBEAYnVuZGxlX2xpZ2h0X2JsdWUAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxsAYnVuZGxlX2xpZ2h0X2JsdWVfb3Blbl9iYWNrCBEAYnVuZGxlX29wZW5fZnJvbnQcAGJ1bmRsZV9saWdodF9ibHVlX29wZW5fZnJvbnQIBwBkZWZhdWx0EQBidW5kbGVfbGlnaHRfYmx1ZQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:light_blue_candle": {
         "runtime_id": -416,
@@ -4904,6 +4944,11 @@
         "component_based": false,
         "version": 2
     },
+    "minecraft:light_blue_harness": {
+        "runtime_id": 759,
+        "component_based": false,
+        "version": 2
+    },
     "minecraft:light_blue_shulker_box": {
         "runtime_id": -615,
         "component_based": false,
@@ -4930,10 +4975,10 @@
         "version": 2
     },
     "minecraft:light_gray_bundle": {
-        "runtime_id": 270,
+        "runtime_id": 265,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdBEAYnVuZGxlX2xpZ2h0X2dyYXkAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxsAYnVuZGxlX2xpZ2h0X2dyYXlfb3Blbl9iYWNrCBEAYnVuZGxlX29wZW5fZnJvbnQcAGJ1bmRsZV9saWdodF9ncmF5X29wZW5fZnJvbnQIBwBkZWZhdWx0EQBidW5kbGVfbGlnaHRfZ3JheQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:light_gray_candle": {
         "runtime_id": -421,
@@ -4962,6 +5007,11 @@
     },
     "minecraft:light_gray_dye": {
         "runtime_id": 428,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:light_gray_harness": {
+        "runtime_id": 760,
         "component_based": false,
         "version": 2
     },
@@ -5011,10 +5061,10 @@
         "version": 2
     },
     "minecraft:lime_bundle": {
-        "runtime_id": 269,
+        "runtime_id": 268,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAsAYnVuZGxlX2xpbWUAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxUAYnVuZGxlX2xpbWVfb3Blbl9iYWNrCBEAYnVuZGxlX29wZW5fZnJvbnQWAGJ1bmRsZV9saW1lX29wZW5fZnJvbnQIBwBkZWZhdWx0CwBidW5kbGVfbGltZQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:lime_candle": {
         "runtime_id": -418,
@@ -5048,6 +5098,11 @@
     },
     "minecraft:lime_glazed_terracotta": {
         "runtime_id": 225,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:lime_harness": {
+        "runtime_id": 761,
         "component_based": false,
         "version": 2
     },
@@ -5132,12 +5187,12 @@
         "version": 2
     },
     "minecraft:log": {
-        "runtime_id": 754,
+        "runtime_id": 771,
         "component_based": false,
         "version": 2
     },
     "minecraft:log2": {
-        "runtime_id": 777,
+        "runtime_id": 794,
         "component_based": false,
         "version": 2
     },
@@ -5152,10 +5207,10 @@
         "version": 2
     },
     "minecraft:magenta_bundle": {
-        "runtime_id": 263,
+        "runtime_id": 269,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdA4AYnVuZGxlX21hZ2VudGEAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxgAYnVuZGxlX21hZ2VudGFfb3Blbl9iYWNrCBEAYnVuZGxlX29wZW5fZnJvbnQZAGJ1bmRsZV9tYWdlbnRhX29wZW5fZnJvbnQIBwBkZWZhdWx0DgBidW5kbGVfbWFnZW50YQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:magenta_candle": {
         "runtime_id": -415,
@@ -5189,6 +5244,11 @@
     },
     "minecraft:magenta_glazed_terracotta": {
         "runtime_id": 222,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:magenta_harness": {
+        "runtime_id": 762,
         "component_based": false,
         "version": 2
     },
@@ -5400,7 +5460,7 @@
         "version": 2
     },
     "minecraft:monster_egg": {
-        "runtime_id": 778,
+        "runtime_id": 795,
         "component_based": false,
         "version": 2
     },
@@ -5561,12 +5621,12 @@
         "version": 2
     },
     "minecraft:music_disc_creator": {
-        "runtime_id": 785,
+        "runtime_id": 802,
         "component_based": true,
         "version": 2
     },
     "minecraft:music_disc_creator_music_box": {
-        "runtime_id": 786,
+        "runtime_id": 803,
         "component_based": true,
         "version": 2
     },
@@ -5596,7 +5656,7 @@
         "version": 2
     },
     "minecraft:music_disc_precipice": {
-        "runtime_id": 787,
+        "runtime_id": 804,
         "component_based": true,
         "version": 2
     },
@@ -5898,7 +5958,7 @@
         "version": 2
     },
     "minecraft:ominous_trial_key": {
-        "runtime_id": 277,
+        "runtime_id": 276,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5BAAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZUAAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdBEAb21pbm91c190cmlhbF9rZXkAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChYAbWluZWNyYWZ0OmRpc3BsYXlfbmFtZQgFAHZhbHVlGwBpdGVtLm9taW5vdXNfdHJpYWxfa2V5Lm5hbWUAAAA="
@@ -5909,10 +5969,10 @@
         "version": 2
     },
     "minecraft:orange_bundle": {
-        "runtime_id": 261,
+        "runtime_id": 272,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdA0AYnVuZGxlX29yYW5nZQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxcAYnVuZGxlX29yYW5nZV9vcGVuX2JhY2sIEQBidW5kbGVfb3Blbl9mcm9udBgAYnVuZGxlX29yYW5nZV9vcGVuX2Zyb250CAcAZGVmYXVsdA0AYnVuZGxlX29yYW5nZQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:orange_candle": {
         "runtime_id": -414,
@@ -5946,6 +6006,11 @@
     },
     "minecraft:orange_glazed_terracotta": {
         "runtime_id": 221,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:orange_harness": {
+        "runtime_id": 763,
         "component_based": false,
         "version": 2
     },
@@ -6240,10 +6305,10 @@
         "version": 2
     },
     "minecraft:pink_bundle": {
-        "runtime_id": 258,
+        "runtime_id": 264,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAsAYnVuZGxlX3BpbmsAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxUAYnVuZGxlX3Bpbmtfb3Blbl9iYWNrCBEAYnVuZGxlX29wZW5fZnJvbnQWAGJ1bmRsZV9waW5rX29wZW5fZnJvbnQIBwBkZWZhdWx0CwBidW5kbGVfcGluawAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:pink_candle": {
         "runtime_id": -419,
@@ -6277,6 +6342,11 @@
     },
     "minecraft:pink_glazed_terracotta": {
         "runtime_id": 226,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:pink_harness": {
+        "runtime_id": 764,
         "component_based": false,
         "version": 2
     },
@@ -6342,7 +6412,7 @@
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoOAG1pbmVjcmFmdDpzZWVkCAsAY3JvcF9yZXN1bHQWAG1pbmVjcmFmdDpwaXRjaGVyX2Nyb3AJCABwbGFudF9hdAgBAAAAEgBtaW5lY3JhZnQ6ZmFybWxhbmQBGgBwbGFudF9hdF9hbnlfc29saWRfc3VyZmFjZQAIDQBwbGFudF9hdF9mYWNlAgB1cAAAAA=="
     },
     "minecraft:planks": {
-        "runtime_id": 774,
+        "runtime_id": 791,
         "component_based": false,
         "version": 2
     },
@@ -6708,10 +6778,10 @@
         "version": 2
     },
     "minecraft:purple_bundle": {
-        "runtime_id": 257,
+        "runtime_id": 260,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdA0AYnVuZGxlX3B1cnBsZQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxcAYnVuZGxlX3B1cnBsZV9vcGVuX2JhY2sIEQBidW5kbGVfb3Blbl9mcm9udBgAYnVuZGxlX3B1cnBsZV9vcGVuX2Zyb250CAcAZGVmYXVsdA0AYnVuZGxlX3B1cnBsZQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:purple_candle": {
         "runtime_id": -423,
@@ -6745,6 +6815,11 @@
     },
     "minecraft:purple_glazed_terracotta": {
         "runtime_id": 219,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:purple_harness": {
+        "runtime_id": 765,
         "component_based": false,
         "version": 2
     },
@@ -6921,10 +6996,10 @@
         "version": 2
     },
     "minecraft:red_bundle": {
-        "runtime_id": 259,
+        "runtime_id": 273,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAoAYnVuZGxlX3JlZAAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxQAYnVuZGxlX3JlZF9vcGVuX2JhY2sIEQBidW5kbGVfb3Blbl9mcm9udBUAYnVuZGxlX3JlZF9vcGVuX2Zyb250CAcAZGVmYXVsdAoAYnVuZGxlX3JlZAAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:red_candle": {
         "runtime_id": -427,
@@ -6957,12 +7032,17 @@
         "version": 2
     },
     "minecraft:red_flower": {
-        "runtime_id": 772,
+        "runtime_id": 789,
         "component_based": false,
         "version": 2
     },
     "minecraft:red_glazed_terracotta": {
         "runtime_id": 234,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:red_harness": {
+        "runtime_id": 766,
         "component_based": false,
         "version": 2
     },
@@ -7224,7 +7304,7 @@
         "version": 2
     },
     "minecraft:sapling": {
-        "runtime_id": 768,
+        "runtime_id": 785,
         "component_based": false,
         "version": 2
     },
@@ -7329,7 +7409,7 @@
         "version": 2
     },
     "minecraft:shulker_box": {
-        "runtime_id": 783,
+        "runtime_id": 800,
         "component_based": false,
         "version": 2
     },
@@ -7579,7 +7659,7 @@
         "version": 2
     },
     "minecraft:spawn_egg": {
-        "runtime_id": 797,
+        "runtime_id": 814,
         "component_based": false,
         "version": 2
     },
@@ -7725,12 +7805,12 @@
         "version": 2
     },
     "minecraft:stained_glass": {
-        "runtime_id": 781,
+        "runtime_id": 798,
         "component_based": false,
         "version": 2
     },
     "minecraft:stained_glass_pane": {
-        "runtime_id": 782,
+        "runtime_id": 799,
         "component_based": false,
         "version": 2
     },
@@ -7775,22 +7855,22 @@
         "version": 2
     },
     "minecraft:stone_block_slab": {
-        "runtime_id": 758,
+        "runtime_id": 775,
         "component_based": false,
         "version": 2
     },
     "minecraft:stone_block_slab2": {
-        "runtime_id": 759,
+        "runtime_id": 776,
         "component_based": false,
         "version": 2
     },
     "minecraft:stone_block_slab3": {
-        "runtime_id": 760,
+        "runtime_id": 777,
         "component_based": false,
         "version": 2
     },
     "minecraft:stone_block_slab4": {
-        "runtime_id": 761,
+        "runtime_id": 778,
         "component_based": false,
         "version": 2
     },
@@ -7855,7 +7935,7 @@
         "version": 2
     },
     "minecraft:stonebrick": {
-        "runtime_id": 756,
+        "runtime_id": 773,
         "component_based": false,
         "version": 2
     },
@@ -8072,7 +8152,7 @@
         "version": 2
     },
     "minecraft:tallgrass": {
-        "runtime_id": 776,
+        "runtime_id": 793,
         "component_based": false,
         "version": 2
     },
@@ -8143,7 +8223,7 @@
         "version": 2
     },
     "minecraft:trial_key": {
-        "runtime_id": 276,
+        "runtime_id": 275,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5BAAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZUAAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAkAdHJpYWxfa2V5AAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24AAAAAAwwAdXNlX2R1cmF0aW9uAAAAAAAJCQBpdGVtX3RhZ3MAAAAAAAoWAG1pbmVjcmFmdDpkaXNwbGF5X25hbWUIBQB2YWx1ZRMAaXRlbS50cmlhbF9rZXkubmFtZQAAAA=="
@@ -8776,10 +8856,10 @@
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoOAG1pbmVjcmFmdDpzZWVkCAsAY3JvcF9yZXN1bHQPAG1pbmVjcmFmdDp3aGVhdAkIAHBsYW50X2F0CAEAAAASAG1pbmVjcmFmdDpmYXJtbGFuZAEaAHBsYW50X2F0X2FueV9zb2xpZF9zdXJmYWNlAAgNAHBsYW50X2F0X2ZhY2UCAHVwAAAA"
     },
     "minecraft:white_bundle": {
-        "runtime_id": 260,
+        "runtime_id": 266,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAwAYnVuZGxlX3doaXRlAAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24AAAAAAwwAdXNlX2R1cmF0aW9uAAAAAAAJCQBpdGVtX3RhZ3MAAAAAAAocAG1pbmVjcmFmdDpidW5kbGVfaW50ZXJhY3Rpb24DEgBudW1fdmlld2FibGVfc2xvdHMMAAAAAAoYAG1pbmVjcmFmdDptYXhfc3RhY2tfc2l6ZQEFAHZhbHVlAQAKFgBtaW5lY3JhZnQ6c3RvcmFnZV9pdGVtARoAYWxsb3dfbmVzdGVkX3N0b3JhZ2VfaXRlbXMBCQ0AYWxsb3dlZF9pdGVtcwAAAAAACQwAYmFubmVkX2l0ZW1zCgIAAAAIBABuYW1lFQBtaW5lY3JhZnQ6c2h1bGtlcl9ib3gACAQAbmFtZRwAbWluZWNyYWZ0OnVuZHllZF9zaHVsa2VyX2JveAADCQBtYXhfc2xvdHNAAAAAAAoeAG1pbmVjcmFmdDpzdG9yYWdlX3dlaWdodF9saW1pdAMQAG1heF93ZWlnaHRfbGltaXRAAAAAAAohAG1pbmVjcmFmdDpzdG9yYWdlX3dlaWdodF9tb2RpZmllcgMWAHdlaWdodF9pbl9zdG9yYWdlX2l0ZW0EAAAAAAAA"
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxYAYnVuZGxlX3doaXRlX29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250FwBidW5kbGVfd2hpdGVfb3Blbl9mcm9udAgHAGRlZmF1bHQMAGJ1bmRsZV93aGl0ZQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:white_candle": {
         "runtime_id": -413,
@@ -8813,6 +8893,11 @@
     },
     "minecraft:white_glazed_terracotta": {
         "runtime_id": 220,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:white_harness": {
+        "runtime_id": 767,
         "component_based": false,
         "version": 2
     },
@@ -8857,7 +8942,7 @@
         "version": 2
     },
     "minecraft:wind_charge": {
-        "runtime_id": 275,
+        "runtime_id": 277,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZUAAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdAsAd2luZF9jaGFyZ2UAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChIAbWluZWNyYWZ0OmNvb2xkb3duCAgAY2F0ZWdvcnkLAHdpbmRfY2hhcmdlBQgAZHVyYXRpb24AAAA\/AAoWAG1pbmVjcmFmdDpkaXNwbGF5X25hbWUIBQB2YWx1ZRUAaXRlbS53aW5kX2NoYXJnZS5uYW1lAAoUAG1pbmVjcmFmdDpwcm9qZWN0aWxlBRYAbWluaW11bV9jcml0aWNhbF9wb3dlcgAAAAAIEQBwcm9qZWN0aWxlX2VudGl0eSIAbWluZWNyYWZ0OndpbmRfY2hhcmdlX3Byb2plY3RpbGU8PgAKEwBtaW5lY3JhZnQ6dGhyb3dhYmxlARIAZG9fc3dpbmdfYW5pbWF0aW9uAQUSAGxhdW5jaF9wb3dlcl9zY2FsZQAAwD8FEQBtYXhfZHJhd19kdXJhdGlvbgAAAAAFEABtYXhfbGF1bmNoX3Bvd2VyAADAPwURAG1pbl9kcmF3X2R1cmF0aW9uAAAAAAEcAHNjYWxlX3Bvd2VyX2J5X2RyYXdfZHVyYXRpb24AAAAA"
@@ -8898,7 +8983,7 @@
         "version": 2
     },
     "minecraft:wood": {
-        "runtime_id": 784,
+        "runtime_id": 801,
         "component_based": false,
         "version": 2
     },
@@ -8938,7 +9023,7 @@
         "version": 2
     },
     "minecraft:wooden_slab": {
-        "runtime_id": 771,
+        "runtime_id": 788,
         "component_based": false,
         "version": 2
     },
@@ -8948,7 +9033,7 @@
         "version": 2
     },
     "minecraft:wool": {
-        "runtime_id": 752,
+        "runtime_id": 769,
         "component_based": false,
         "version": 2
     },
@@ -8963,10 +9048,10 @@
         "version": 2
     },
     "minecraft:yellow_bundle": {
-        "runtime_id": 272,
+        "runtime_id": 263,
         "component_based": true,
         "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCAcAZGVmYXVsdA0AYnVuZGxlX3llbGxvdwAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
+        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABDgBsaXF1aWRfY2xpcHBlZAADDgBtYXhfc3RhY2tfc2l6ZQEAAAAKDgBtaW5lY3JhZnQ6aWNvbgoIAHRleHR1cmVzCBAAYnVuZGxlX29wZW5fYmFjaxcAYnVuZGxlX3llbGxvd19vcGVuX2JhY2sIEQBidW5kbGVfb3Blbl9mcm9udBgAYnVuZGxlX3llbGxvd19vcGVuX2Zyb250CAcAZGVmYXVsdA0AYnVuZGxlX3llbGxvdwAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKHABtaW5lY3JhZnQ6YnVuZGxlX2ludGVyYWN0aW9uAxIAbnVtX3ZpZXdhYmxlX3Nsb3RzDAAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChYAbWluZWNyYWZ0OnN0b3JhZ2VfaXRlbQEaAGFsbG93X25lc3RlZF9zdG9yYWdlX2l0ZW1zAQkNAGFsbG93ZWRfaXRlbXMAAAAAAAkMAGJhbm5lZF9pdGVtcwoCAAAACAQAbmFtZRUAbWluZWNyYWZ0OnNodWxrZXJfYm94AAgEAG5hbWUcAG1pbmVjcmFmdDp1bmR5ZWRfc2h1bGtlcl9ib3gAAwkAbWF4X3Nsb3RzQAAAAAAKHgBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbGltaXQDEABtYXhfd2VpZ2h0X2xpbWl0QAAAAAAKIQBtaW5lY3JhZnQ6c3RvcmFnZV93ZWlnaHRfbW9kaWZpZXIDFgB3ZWlnaHRfaW5fc3RvcmFnZV9pdGVtBAAAAAAAAA=="
     },
     "minecraft:yellow_candle": {
         "runtime_id": -417,
@@ -9000,6 +9085,11 @@
     },
     "minecraft:yellow_glazed_terracotta": {
         "runtime_id": 224,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:yellow_harness": {
+        "runtime_id": 768,
         "component_based": false,
         "version": 2
     },
