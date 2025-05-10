@@ -95,7 +95,7 @@ Blobs of data generated from Minecraft: Bedrock Edition used by PocketMine-MP
   </tr>
 
   <tr>
-   <td>item_tags.json</td>
+   <td><code>item_tags.json</code></td>
    <td><a href="https://github.com/pmmp/bds-mod-mapping">BDS mod</a></td>
    <td>All known item tags and the IDs they contain</td>
    <td>Parsing crafting recipes from <code>CraftingDataPacket</code></td>
