@@ -2243,8 +2243,8 @@
     "minecraft:crimson_roots": {
         "blastResistance": 0.0,
         "brightness": 0.0,
-        "flameEncouragement": 60,
-        "flammability": 100,
+        "flameEncouragement": 0,
+        "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
@@ -10505,8 +10505,8 @@
     "minecraft:warped_roots": {
         "blastResistance": 0.0,
         "brightness": 0.0,
-        "flameEncouragement": 60,
-        "flammability": 100,
+        "flameEncouragement": 0,
+        "flammability": 0,
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0

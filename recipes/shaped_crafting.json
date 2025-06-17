@@ -6941,7 +6941,7 @@
             },
             "B": {
                 "meta": 32767,
-                "name": "minecraft:bone_block"
+                "name": "minecraft:soul_sand"
             }
         },
         "output": [
@@ -11442,6 +11442,35 @@
             {
                 "meta": 32767,
                 "name": "minecraft:lapis_block"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:leather"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:saddle"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            " A ",
+            "ABA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:leather"
             }
         ]
     },
@@ -20023,37 +20052,6 @@
             },
             "B": {
                 "meta": 32767,
-                "name": "minecraft:slime_ball"
-            }
-        },
-        "output": [
-            {
-                "count": 2,
-                "name": "minecraft:lead"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA ",
-            "AB ",
-            "  A"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:slime_ball"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:string"
-            },
-            "B": {
-                "meta": 32767,
                 "name": "minecraft:warped_planks"
             }
         },
@@ -20090,6 +20088,33 @@
         "shape": [
             "AA",
             "BB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:string"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:string"
+            }
+        },
+        "output": [
+            {
+                "count": 2,
+                "name": "minecraft:lead"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA ",
+            "AA ",
+            "  A"
         ],
         "unlockingIngredients": [
             {

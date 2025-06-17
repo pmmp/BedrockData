@@ -2,10 +2,10 @@
     "version": {
         "major": 1,
         "minor": 21,
-        "patch": 80,
-        "revision": 27,
+        "patch": 90,
+        "revision": 28,
         "beta": false,
-        "protocol_version": 800
+        "protocol_version": 818
     },
     "packets": {
         "LoginPacket": 1,
@@ -206,7 +206,6 @@
         "CameraAimAssistPacket": 316,
         "ContainerRegistryCleanupPacket": 317,
         "MovementEffectPacket": 318,
-        "SetMovementAuthorityPacket": 319,
         "CameraAimAssistPresetsPacket": 320,
         "ClientCameraAimAssistPacket": 321,
         "ClientMovementPredictionSyncPacket": 322,
@@ -214,6 +213,7 @@
         "PlayerVideoCapturePacket": 324,
         "PlayerUpdateEntityOverridesPacket": 325,
         "PlayerLocationPacket": 326,
-        "ClientboundControlSchemeSetPacket": 327
+        "ClientboundControlSchemeSetPacket": 327,
+        "ScriptModuleDebugUtilities::ServerScriptDebugDrawerPacket": 328
     }
 }
