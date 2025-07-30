@@ -23,10 +23,60 @@
         "block": "blast_furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:copper_axe"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:copper_hoe"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:copper_ore"
         },
         "output": {
             "name": "minecraft:copper_ingot"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:copper_pickaxe"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:copper_shovel"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:copper_sword"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
         }
     },
     {
@@ -373,6 +423,42 @@
         },
         "output": {
             "name": "minecraft:iron_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:copper_boots"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:copper_chestplate"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:copper_helmet"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "name": "minecraft:copper_leggings"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
         }
     },
     {
@@ -1001,10 +1087,60 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:copper_axe"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:copper_hoe"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:copper_ore"
         },
         "output": {
             "name": "minecraft:copper_ingot"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:copper_pickaxe"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:copper_shovel"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:copper_sword"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
         }
     },
     {
@@ -2020,6 +2156,42 @@
         },
         "output": {
             "name": "minecraft:iron_nugget"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "name": "minecraft:copper_boots"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "name": "minecraft:copper_chestplate"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "name": "minecraft:copper_helmet"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
+        }
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "name": "minecraft:copper_leggings"
+        },
+        "output": {
+            "name": "minecraft:copper_nugget"
         }
     },
     {

@@ -1455,6 +1455,9 @@
             },
             {
                 "name": "minecraft:happy_ghast_spawn_egg"
+            },
+            {
+                "name": "minecraft:copper_golem_spawn_egg"
             }
         ]
     },

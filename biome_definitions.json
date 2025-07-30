@@ -1,10 +1,10 @@
 {
-    "bamboo_jungle": {
+    "minecraft:bamboo_jungle": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.9,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 197,
@@ -26,12 +26,12 @@
         "temperature": 0.95,
         "whiteAshDensity": 0
     },
-    "bamboo_jungle_hills": {
+    "minecraft:bamboo_jungle_hills": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.9,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 216,
@@ -54,12 +54,12 @@
         "temperature": 0.95,
         "whiteAshDensity": 0
     },
-    "basalt_deltas": {
+    "minecraft:basalt_deltas": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 228,
@@ -79,12 +79,12 @@
         "temperature": 2,
         "whiteAshDensity": 2
     },
-    "beach": {
+    "minecraft:beach": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0,
         "downfall": 0.4,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 171,
@@ -103,12 +103,12 @@
         "temperature": 0.8,
         "whiteAshDensity": 0
     },
-    "birch_forest": {
+    "minecraft:birch_forest": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.6,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 206,
@@ -129,12 +129,12 @@
         "temperature": 0.6,
         "whiteAshDensity": 0
     },
-    "birch_forest_hills": {
+    "minecraft:birch_forest_hills": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.6,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 196,
@@ -156,12 +156,12 @@
         "temperature": 0.6,
         "whiteAshDensity": 0
     },
-    "birch_forest_hills_mutated": {
+    "minecraft:birch_forest_hills_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.55,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 196,
@@ -183,12 +183,12 @@
         "temperature": 0.7,
         "whiteAshDensity": 0
     },
-    "birch_forest_mutated": {
+    "minecraft:birch_forest_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.6,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 206,
@@ -211,12 +211,12 @@
         "temperature": 0.6,
         "whiteAshDensity": 0
     },
-    "cherry_grove": {
+    "minecraft:cherry_grove": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -236,12 +236,12 @@
         "temperature": 0.3,
         "whiteAshDensity": 0
     },
-    "cold_beach": {
+    "minecraft:cold_beach": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0,
         "downfall": 0.3,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 165,
@@ -264,12 +264,12 @@
         "temperature": 0.05,
         "whiteAshDensity": 0
     },
-    "cold_ocean": {
+    "minecraft:cold_ocean": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -1,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 201,
@@ -289,12 +289,12 @@
         "temperature": 0.5,
         "whiteAshDensity": 0
     },
-    "cold_taiga": {
+    "minecraft:cold_taiga": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.4,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 131,
@@ -317,12 +317,12 @@
         "temperature": -0.5,
         "whiteAshDensity": 0
     },
-    "cold_taiga_hills": {
+    "minecraft:cold_taiga_hills": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.4,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 120,
@@ -347,12 +347,12 @@
         "temperature": -0.5,
         "whiteAshDensity": 0
     },
-    "cold_taiga_mutated": {
+    "minecraft:cold_taiga_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.3,
         "downfall": 0.4,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 131,
@@ -375,12 +375,12 @@
         "temperature": -0.5,
         "whiteAshDensity": 0
     },
-    "crimson_forest": {
+    "minecraft:crimson_forest": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 87,
@@ -401,12 +401,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "deep_cold_ocean": {
+    "minecraft:deep_cold_ocean": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -1.8,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 201,
@@ -427,12 +427,12 @@
         "temperature": 0.5,
         "whiteAshDensity": 0
     },
-    "deep_dark": {
+    "minecraft:deep_dark": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.4,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -452,12 +452,12 @@
         "temperature": 0.8,
         "whiteAshDensity": 0
     },
-    "deep_frozen_ocean": {
+    "minecraft:deep_frozen_ocean": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -1.8,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 181,
@@ -477,15 +477,15 @@
             "spawns_cold_variant_frogs",
             "spawns_polar_bears_on_alternate_blocks"
         ],
-        "temperature": 0,
+        "temperature": 0.5,
         "whiteAshDensity": 0
     },
-    "deep_lukewarm_ocean": {
+    "minecraft:deep_lukewarm_ocean": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -1.8,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 219,
@@ -506,12 +506,12 @@
         "temperature": 0.5,
         "whiteAshDensity": 0
     },
-    "deep_ocean": {
+    "minecraft:deep_ocean": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -1.8,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 212,
@@ -531,12 +531,12 @@
         "temperature": 0.5,
         "whiteAshDensity": 0
     },
-    "deep_warm_ocean": {
+    "minecraft:deep_warm_ocean": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -1.8,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 229,
@@ -557,12 +557,12 @@
         "temperature": 0.5,
         "whiteAshDensity": 0
     },
-    "desert": {
+    "minecraft:desert": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.125,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 152,
@@ -583,12 +583,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "desert_hills": {
+    "minecraft:desert_hills": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 161,
@@ -609,12 +609,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "desert_mutated": {
+    "minecraft:desert_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.225,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 152,
@@ -635,12 +635,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "dripstone_caves": {
+    "minecraft:dripstone_caves": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -659,12 +659,12 @@
         "temperature": 0.2,
         "whiteAshDensity": 0
     },
-    "extreme_hills": {
+    "minecraft:extreme_hills": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 1,
         "downfall": 0.3,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 247,
@@ -684,12 +684,12 @@
         "temperature": 0.2,
         "whiteAshDensity": 0
     },
-    "extreme_hills_edge": {
+    "minecraft:extreme_hills_edge": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.8,
         "downfall": 0.3,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 213,
@@ -711,12 +711,12 @@
         "temperature": 0.2,
         "whiteAshDensity": 0
     },
-    "extreme_hills_mutated": {
+    "minecraft:extreme_hills_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 1,
         "downfall": 0.3,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 171,
@@ -737,12 +737,12 @@
         "temperature": 0.2,
         "whiteAshDensity": 0
     },
-    "extreme_hills_plus_trees": {
+    "minecraft:extreme_hills_plus_trees": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 1,
         "downfall": 0.3,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 171,
@@ -764,12 +764,12 @@
         "temperature": 0.2,
         "whiteAshDensity": 0
     },
-    "extreme_hills_plus_trees_mutated": {
+    "minecraft:extreme_hills_plus_trees_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 1,
         "downfall": 0.3,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 171,
@@ -791,12 +791,12 @@
         "temperature": 0.2,
         "whiteAshDensity": 0
     },
-    "flower_forest": {
+    "minecraft:flower_forest": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 204,
@@ -817,12 +817,12 @@
         "temperature": 0.7,
         "whiteAshDensity": 0
     },
-    "forest": {
+    "minecraft:forest": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 242,
@@ -842,12 +842,12 @@
         "temperature": 0.7,
         "whiteAshDensity": 0
     },
-    "forest_hills": {
+    "minecraft:forest_hills": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 209,
@@ -868,12 +868,12 @@
         "temperature": 0.7,
         "whiteAshDensity": 0
     },
-    "frozen_ocean": {
+    "minecraft:frozen_ocean": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -1,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 181,
@@ -897,12 +897,12 @@
         "temperature": 0,
         "whiteAshDensity": 0
     },
-    "frozen_peaks": {
+    "minecraft:frozen_peaks": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.9,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -926,12 +926,12 @@
         "temperature": -0.7,
         "whiteAshDensity": 0
     },
-    "frozen_river": {
+    "minecraft:frozen_river": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -0.5,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 144,
@@ -954,12 +954,12 @@
         "temperature": 0,
         "whiteAshDensity": 0
     },
-    "grove": {
+    "minecraft:grove": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -983,12 +983,12 @@
         "temperature": -0.2,
         "whiteAshDensity": 0
     },
-    "hell": {
+    "minecraft:hell": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 87,
@@ -1012,12 +1012,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "ice_mountains": {
+    "minecraft:ice_mountains": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 167,
@@ -1040,12 +1040,12 @@
         "temperature": 0,
         "whiteAshDensity": 0
     },
-    "ice_plains": {
+    "minecraft:ice_plains": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.125,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 155,
@@ -1068,12 +1068,12 @@
         "temperature": 0,
         "whiteAshDensity": 0
     },
-    "ice_plains_spikes": {
+    "minecraft:ice_plains_spikes": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.425,
         "downfall": 1,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -1096,12 +1096,12 @@
         "temperature": 0,
         "whiteAshDensity": 0
     },
-    "jagged_peaks": {
+    "minecraft:jagged_peaks": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.9,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -1125,12 +1125,12 @@
         "temperature": -0.7,
         "whiteAshDensity": 0
     },
-    "jungle": {
+    "minecraft:jungle": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.9,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 197,
@@ -1153,12 +1153,12 @@
         "temperature": 0.95,
         "whiteAshDensity": 0
     },
-    "jungle_edge": {
+    "minecraft:jungle_edge": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 227,
@@ -1180,12 +1180,12 @@
         "temperature": 0.95,
         "whiteAshDensity": 0
     },
-    "jungle_edge_mutated": {
+    "minecraft:jungle_edge_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 227,
@@ -1208,12 +1208,12 @@
         "temperature": 0.95,
         "whiteAshDensity": 0
     },
-    "jungle_hills": {
+    "minecraft:jungle_hills": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.9,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 216,
@@ -1235,12 +1235,12 @@
         "temperature": 0.95,
         "whiteAshDensity": 0
     },
-    "jungle_mutated": {
+    "minecraft:jungle_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.9,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 216,
@@ -1261,12 +1261,12 @@
         "temperature": 0.95,
         "whiteAshDensity": 0
     },
-    "legacy_frozen_ocean": {
+    "minecraft:legacy_frozen_ocean": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -1,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -1287,12 +1287,12 @@
         "temperature": 0,
         "whiteAshDensity": 0
     },
-    "lukewarm_ocean": {
+    "minecraft:lukewarm_ocean": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -1,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 219,
@@ -1312,12 +1312,12 @@
         "temperature": 0.5,
         "whiteAshDensity": 0
     },
-    "lush_caves": {
+    "minecraft:lush_caves": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -1337,12 +1337,12 @@
         "temperature": 0.9,
         "whiteAshDensity": 0
     },
-    "mangrove_swamp": {
+    "minecraft:mangrove_swamp": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -0.2,
         "downfall": 0.9,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -1363,12 +1363,12 @@
         "temperature": 0.8,
         "whiteAshDensity": 0
     },
-    "meadow": {
+    "minecraft:meadow": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -1388,12 +1388,12 @@
         "temperature": 0.3,
         "whiteAshDensity": 0
     },
-    "mega_taiga": {
+    "minecraft:mega_taiga": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 119,
@@ -1417,12 +1417,12 @@
         "temperature": 0.3,
         "whiteAshDensity": 0
     },
-    "mega_taiga_hills": {
+    "minecraft:mega_taiga_hills": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 120,
@@ -1445,12 +1445,12 @@
         "temperature": 0.3,
         "whiteAshDensity": 0
     },
-    "mesa": {
+    "minecraft:mesa": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 129,
@@ -1471,12 +1471,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "mesa_bryce": {
+    "minecraft:mesa_bryce": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 197,
@@ -1498,12 +1498,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "mesa_plateau": {
+    "minecraft:mesa_plateau": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 1.5,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 158,
@@ -1526,12 +1526,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "mesa_plateau_mutated": {
+    "minecraft:mesa_plateau_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 158,
@@ -1555,12 +1555,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "mesa_plateau_stone": {
+    "minecraft:mesa_plateau_stone": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 1.5,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 158,
@@ -1584,12 +1584,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "mesa_plateau_stone_mutated": {
+    "minecraft:mesa_plateau_stone_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 158,
@@ -1612,12 +1612,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "mushroom_island": {
+    "minecraft:mushroom_island": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 1,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 151,
@@ -1635,12 +1635,12 @@
         "temperature": 0.9,
         "whiteAshDensity": 0
     },
-    "mushroom_island_shore": {
+    "minecraft:mushroom_island_shore": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0,
         "downfall": 1,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 147,
@@ -1659,12 +1659,12 @@
         "temperature": 0.9,
         "whiteAshDensity": 0
     },
-    "ocean": {
+    "minecraft:ocean": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -1,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 212,
@@ -1682,12 +1682,12 @@
         "temperature": 0.5,
         "whiteAshDensity": 0
     },
-    "pale_garden": {
+    "minecraft:pale_garden": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -1705,12 +1705,12 @@
         "temperature": 0.7,
         "whiteAshDensity": 0
     },
-    "plains": {
+    "minecraft:plains": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.125,
         "downfall": 0.4,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 245,
@@ -1730,12 +1730,12 @@
         "temperature": 0.8,
         "whiteAshDensity": 0
     },
-    "redwood_taiga_hills_mutated": {
+    "minecraft:redwood_taiga_hills_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.55,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 120,
@@ -1759,12 +1759,12 @@
         "temperature": 0.3,
         "whiteAshDensity": 0
     },
-    "redwood_taiga_mutated": {
+    "minecraft:redwood_taiga_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 119,
@@ -1788,12 +1788,12 @@
         "temperature": 0.25,
         "whiteAshDensity": 0
     },
-    "river": {
+    "minecraft:river": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -0.5,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 255,
@@ -1813,12 +1813,12 @@
         "temperature": 0.5,
         "whiteAshDensity": 0
     },
-    "roofed_forest": {
+    "minecraft:roofed_forest": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 209,
@@ -1839,12 +1839,12 @@
         "temperature": 0.7,
         "whiteAshDensity": 0
     },
-    "roofed_forest_mutated": {
+    "minecraft:roofed_forest_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 209,
@@ -1865,12 +1865,12 @@
         "temperature": 0.7,
         "whiteAshDensity": 0
     },
-    "savanna": {
+    "minecraft:savanna": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.125,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 156,
@@ -1891,12 +1891,12 @@
         "temperature": 1.2,
         "whiteAshDensity": 0
     },
-    "savanna_mutated": {
+    "minecraft:savanna_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.363,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -1918,12 +1918,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "savanna_plateau": {
+    "minecraft:savanna_plateau": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 1.5,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 168,
@@ -1945,12 +1945,12 @@
         "temperature": 1,
         "whiteAshDensity": 0
     },
-    "savanna_plateau_mutated": {
+    "minecraft:savanna_plateau_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 1.05,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -1973,12 +1973,12 @@
         "temperature": 1,
         "whiteAshDensity": 0
     },
-    "snowy_slopes": {
+    "minecraft:snowy_slopes": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.9,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -2002,12 +2002,12 @@
         "temperature": -0.3,
         "whiteAshDensity": 0
     },
-    "soulsand_valley": {
+    "minecraft:soulsand_valley": {
         "ashDensity": 0.05,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 87,
@@ -2027,12 +2027,12 @@
         "temperature": 2,
         "whiteAshDensity": 0
     },
-    "stone_beach": {
+    "minecraft:stone_beach": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.3,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 187,
@@ -2051,12 +2051,12 @@
         "temperature": 0.2,
         "whiteAshDensity": 0
     },
-    "stony_peaks": {
+    "minecraft:stony_peaks": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.3,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -2075,12 +2075,12 @@
         "temperature": 1,
         "whiteAshDensity": 0
     },
-    "sunflower_plains": {
+    "minecraft:sunflower_plains": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.125,
         "downfall": 0.4,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 166,
             "b": 255,
@@ -2101,17 +2101,17 @@
         "temperature": 0.8,
         "whiteAshDensity": 0
     },
-    "swampland": {
+    "minecraft:swampland": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -0.2,
         "downfall": 0.9,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
-            "b": 89,
-            "g": 101,
-            "r": 76
+            "b": 100,
+            "g": 123,
+            "r": 97
         },
         "rain": true,
         "redSporeDensity": 0,
@@ -2126,17 +2126,17 @@
         "temperature": 0.8,
         "whiteAshDensity": 0
     },
-    "swampland_mutated": {
+    "minecraft:swampland_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -0.1,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
-            "b": 89,
-            "g": 101,
-            "r": 76
+            "b": 100,
+            "g": 123,
+            "r": 97
         },
         "rain": true,
         "redSporeDensity": 0,
@@ -2152,12 +2152,12 @@
         "temperature": 0.8,
         "whiteAshDensity": 0
     },
-    "taiga": {
+    "minecraft:taiga": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 130,
@@ -2179,12 +2179,12 @@
         "temperature": 0.25,
         "whiteAshDensity": 0
     },
-    "taiga_hills": {
+    "minecraft:taiga_hills": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 131,
@@ -2206,12 +2206,12 @@
         "temperature": 0.25,
         "whiteAshDensity": 0
     },
-    "taiga_mutated": {
+    "minecraft:taiga_mutated": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.8,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 130,
@@ -2233,12 +2233,12 @@
         "temperature": 0.25,
         "whiteAshDensity": 0
     },
-    "the_end": {
+    "minecraft:the_end": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 158,
@@ -2256,12 +2256,12 @@
         "temperature": 0.5,
         "whiteAshDensity": 0
     },
-    "warm_ocean": {
+    "minecraft:warm_ocean": {
         "ashDensity": 0,
         "blueSporeDensity": 0,
         "depth": -1,
         "downfall": 0.5,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 229,
@@ -2282,12 +2282,12 @@
         "temperature": 0.5,
         "whiteAshDensity": 0
     },
-    "warped_forest": {
+    "minecraft:warped_forest": {
         "ashDensity": 0,
         "blueSporeDensity": 0.25,
         "depth": 0.1,
         "downfall": 0,
-        "id": null,
+        "id": 65535,
         "mapWaterColour": {
             "a": 165,
             "b": 87,
