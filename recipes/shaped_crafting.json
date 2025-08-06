@@ -3657,6 +3657,215 @@
             "A": {
                 "meta": 32767,
                 "name": "minecraft:copper_ingot"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:chest"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:copper_chest"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:exposed_copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:weathered_copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:oxidized_copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:waxed_copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:waxed_exposed_copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:waxed_weathered_copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:waxed_oxidized_copper_chest"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:copper_axe"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AB",
+            " B"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:copper_hoe"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            " B",
+            " B"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:copper_pickaxe"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            " B ",
+            " B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:copper_shovel"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "B",
+            "B"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:copper_sword"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "A",
+            "B"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
             }
         },
         "output": [
@@ -3742,6 +3951,31 @@
         },
         "output": [
             {
+                "count": 9,
+                "name": "minecraft:copper_nugget"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        },
+        "output": [
+            {
                 "name": "minecraft:copper_block"
             }
         ],
@@ -3755,6 +3989,134 @@
             {
                 "meta": 32767,
                 "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:copper_boots"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "A A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:copper_chestplate"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:copper_helmet"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "A A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:copper_leggings"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "A A",
+            "A A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_nugget"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:copper_ingot"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_nugget"
             }
         ]
     },

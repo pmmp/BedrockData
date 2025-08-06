@@ -307,6 +307,38 @@
             {
                 "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
                 "name": "minecraft:ender_chest"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:copper_chest"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:exposed_copper_chest"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:weathered_copper_chest"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:oxidized_copper_chest"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:waxed_copper_chest"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:waxed_exposed_copper_chest"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:waxed_weathered_copper_chest"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:waxed_oxidized_copper_chest"
             }
         ]
     },
@@ -2149,6 +2181,15 @@
             },
             {
                 "name": "minecraft:ominous_trial_key"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            {
+                "name": "minecraft:copper_nugget"
             }
         ]
     },

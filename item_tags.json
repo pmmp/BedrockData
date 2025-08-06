@@ -65,6 +65,17 @@
         "minecraft:charcoal",
         "minecraft:coal"
     ],
+    "minecraft:copper_tier": [
+        "minecraft:copper_axe",
+        "minecraft:copper_boots",
+        "minecraft:copper_chestplate",
+        "minecraft:copper_helmet",
+        "minecraft:copper_hoe",
+        "minecraft:copper_leggings",
+        "minecraft:copper_pickaxe",
+        "minecraft:copper_shovel",
+        "minecraft:copper_sword"
+    ],
     "minecraft:crimson_stems": [
         "minecraft:crimson_hyphae",
         "minecraft:crimson_stem",
@@ -110,6 +121,10 @@
         "minecraft:mace"
     ],
     "minecraft:digger": [
+        "minecraft:copper_axe",
+        "minecraft:copper_hoe",
+        "minecraft:copper_pickaxe",
+        "minecraft:copper_shovel",
         "minecraft:diamond_axe",
         "minecraft:diamond_hoe",
         "minecraft:diamond_pickaxe",
@@ -231,6 +246,10 @@
         "minecraft:chainmail_chestplate",
         "minecraft:chainmail_helmet",
         "minecraft:chainmail_leggings",
+        "minecraft:copper_boots",
+        "minecraft:copper_chestplate",
+        "minecraft:copper_helmet",
+        "minecraft:copper_leggings",
         "minecraft:diamond_boots",
         "minecraft:diamond_chestplate",
         "minecraft:diamond_helmet",
@@ -255,6 +274,7 @@
         "minecraft:turtle_helmet"
     ],
     "minecraft:is_axe": [
+        "minecraft:copper_axe",
         "minecraft:diamond_axe",
         "minecraft:golden_axe",
         "minecraft:iron_axe",
@@ -311,6 +331,7 @@
         "minecraft:sweet_berries"
     ],
     "minecraft:is_hoe": [
+        "minecraft:copper_hoe",
         "minecraft:diamond_hoe",
         "minecraft:golden_hoe",
         "minecraft:iron_hoe",
@@ -340,6 +361,7 @@
         "minecraft:tnt_minecart"
     ],
     "minecraft:is_pickaxe": [
+        "minecraft:copper_pickaxe",
         "minecraft:diamond_pickaxe",
         "minecraft:golden_pickaxe",
         "minecraft:iron_pickaxe",
@@ -351,6 +373,7 @@
         "minecraft:shears"
     ],
     "minecraft:is_shovel": [
+        "minecraft:copper_shovel",
         "minecraft:diamond_shovel",
         "minecraft:golden_shovel",
         "minecraft:iron_shovel",
@@ -359,6 +382,7 @@
         "minecraft:wooden_shovel"
     ],
     "minecraft:is_sword": [
+        "minecraft:copper_sword",
         "minecraft:diamond_sword",
         "minecraft:golden_sword",
         "minecraft:iron_sword",
@@ -368,6 +392,11 @@
         "minecraft:wooden_sword"
     ],
     "minecraft:is_tool": [
+        "minecraft:copper_axe",
+        "minecraft:copper_hoe",
+        "minecraft:copper_pickaxe",
+        "minecraft:copper_shovel",
+        "minecraft:copper_sword",
         "minecraft:diamond_axe",
         "minecraft:diamond_hoe",
         "minecraft:diamond_pickaxe",
@@ -513,6 +542,7 @@
         "minecraft:music_disc_creator",
         "minecraft:music_disc_creator_music_box",
         "minecraft:music_disc_far",
+        "minecraft:music_disc_lava_chicken",
         "minecraft:music_disc_mall",
         "minecraft:music_disc_mellohi",
         "minecraft:music_disc_otherside",
@@ -599,6 +629,7 @@
         "minecraft:cave_spider_spawn_egg",
         "minecraft:chicken_spawn_egg",
         "minecraft:cod_spawn_egg",
+        "minecraft:copper_golem_spawn_egg",
         "minecraft:cow_spawn_egg",
         "minecraft:creaking_spawn_egg",
         "minecraft:creeper_spawn_egg",
@@ -750,6 +781,10 @@
         "minecraft:chainmail_chestplate",
         "minecraft:chainmail_helmet",
         "minecraft:chainmail_leggings",
+        "minecraft:copper_boots",
+        "minecraft:copper_chestplate",
+        "minecraft:copper_helmet",
+        "minecraft:copper_leggings",
         "minecraft:diamond_boots",
         "minecraft:diamond_chestplate",
         "minecraft:diamond_helmet",

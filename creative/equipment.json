@@ -22,6 +22,9 @@
             },
             {
                 "name": "minecraft:netherite_helmet"
+            },
+            {
+                "name": "minecraft:copper_helmet"
             }
         ]
     },
@@ -48,6 +51,9 @@
             },
             {
                 "name": "minecraft:netherite_chestplate"
+            },
+            {
+                "name": "minecraft:copper_chestplate"
             }
         ]
     },
@@ -74,6 +80,9 @@
             },
             {
                 "name": "minecraft:netherite_leggings"
+            },
+            {
+                "name": "minecraft:copper_leggings"
             }
         ]
     },
@@ -100,6 +109,9 @@
             },
             {
                 "name": "minecraft:netherite_boots"
+            },
+            {
+                "name": "minecraft:copper_boots"
             }
         ]
     },
@@ -126,6 +138,9 @@
             },
             {
                 "name": "minecraft:netherite_sword"
+            },
+            {
+                "name": "minecraft:copper_sword"
             }
         ]
     },
@@ -152,6 +167,9 @@
             },
             {
                 "name": "minecraft:netherite_axe"
+            },
+            {
+                "name": "minecraft:copper_axe"
             }
         ]
     },
@@ -178,6 +196,9 @@
             },
             {
                 "name": "minecraft:netherite_pickaxe"
+            },
+            {
+                "name": "minecraft:copper_pickaxe"
             }
         ]
     },
@@ -204,6 +225,9 @@
             },
             {
                 "name": "minecraft:netherite_shovel"
+            },
+            {
+                "name": "minecraft:copper_shovel"
             }
         ]
     },
@@ -230,6 +254,9 @@
             },
             {
                 "name": "minecraft:netherite_hoe"
+            },
+            {
+                "name": "minecraft:copper_hoe"
             }
         ]
     },

@@ -2,10 +2,10 @@
     "version": {
         "major": 1,
         "minor": 21,
-        "patch": 93,
-        "revision": 1,
+        "patch": 100,
+        "revision": 23,
         "beta": false,
-        "protocol_version": 819
+        "protocol_version": 827
     },
     "packets": {
         "LoginPacket": 1,

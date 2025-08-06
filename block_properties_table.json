@@ -2015,6 +2015,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:copper_chest": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.5
+    },
     "minecraft:copper_door": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -4516,6 +4525,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:exposed_copper_chest": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.5
     },
     "minecraft:exposed_copper_door": {
         "blastResistance": 6.0,
@@ -7432,6 +7450,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:oxidized_copper_chest": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.5
     },
     "minecraft:oxidized_copper_door": {
         "blastResistance": 6.0,
@@ -10619,6 +10646,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:waxed_copper_chest": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.5
+    },
     "minecraft:waxed_copper_door": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10708,6 +10744,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:waxed_exposed_copper_chest": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.5
     },
     "minecraft:waxed_exposed_copper_door": {
         "blastResistance": 6.0,
@@ -10799,6 +10844,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:waxed_oxidized_copper_chest": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.5
+    },
     "minecraft:waxed_oxidized_copper_door": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10889,6 +10943,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:waxed_weathered_copper_chest": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.5
+    },
     "minecraft:waxed_weathered_copper_door": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10978,6 +11041,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:weathered_copper_chest": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.5
     },
     "minecraft:weathered_copper_door": {
         "blastResistance": 6.0,
