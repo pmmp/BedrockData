@@ -1957,9 +1957,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:balloon"
-            }
+            "minecraft:balloon"
         ],
         "priority": 0,
         "shape": [
@@ -2468,9 +2466,7 @@
             }
         },
         "output": [
-            {
-                "name": "minecraft:balloon"
-            }
+            "minecraft:balloon"
         ],
         "priority": 0,
         "shape": [

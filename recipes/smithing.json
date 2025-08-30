@@ -9,9 +9,7 @@
             "meta": 32767,
             "name": "minecraft:diamond_axe"
         },
-        "output": {
-            "name": "minecraft:netherite_axe"
-        },
+        "output": "minecraft:netherite_axe",
         "template": {
             "meta": 32767,
             "name": "minecraft:netherite_upgrade_smithing_template"
@@ -27,9 +25,7 @@
             "meta": 32767,
             "name": "minecraft:diamond_boots"
         },
-        "output": {
-            "name": "minecraft:netherite_boots"
-        },
+        "output": "minecraft:netherite_boots",
         "template": {
             "meta": 32767,
             "name": "minecraft:netherite_upgrade_smithing_template"
@@ -45,9 +41,7 @@
             "meta": 32767,
             "name": "minecraft:diamond_chestplate"
         },
-        "output": {
-            "name": "minecraft:netherite_chestplate"
-        },
+        "output": "minecraft:netherite_chestplate",
         "template": {
             "meta": 32767,
             "name": "minecraft:netherite_upgrade_smithing_template"
@@ -63,9 +57,7 @@
             "meta": 32767,
             "name": "minecraft:diamond_helmet"
         },
-        "output": {
-            "name": "minecraft:netherite_helmet"
-        },
+        "output": "minecraft:netherite_helmet",
         "template": {
             "meta": 32767,
             "name": "minecraft:netherite_upgrade_smithing_template"
@@ -81,9 +73,7 @@
             "meta": 32767,
             "name": "minecraft:diamond_hoe"
         },
-        "output": {
-            "name": "minecraft:netherite_hoe"
-        },
+        "output": "minecraft:netherite_hoe",
         "template": {
             "meta": 32767,
             "name": "minecraft:netherite_upgrade_smithing_template"
@@ -99,9 +89,7 @@
             "meta": 32767,
             "name": "minecraft:diamond_leggings"
         },
-        "output": {
-            "name": "minecraft:netherite_leggings"
-        },
+        "output": "minecraft:netherite_leggings",
         "template": {
             "meta": 32767,
             "name": "minecraft:netherite_upgrade_smithing_template"
@@ -117,9 +105,7 @@
             "meta": 32767,
             "name": "minecraft:diamond_pickaxe"
         },
-        "output": {
-            "name": "minecraft:netherite_pickaxe"
-        },
+        "output": "minecraft:netherite_pickaxe",
         "template": {
             "meta": 32767,
             "name": "minecraft:netherite_upgrade_smithing_template"
@@ -135,9 +121,7 @@
             "meta": 32767,
             "name": "minecraft:diamond_shovel"
         },
-        "output": {
-            "name": "minecraft:netherite_shovel"
-        },
+        "output": "minecraft:netherite_shovel",
         "template": {
             "meta": 32767,
             "name": "minecraft:netherite_upgrade_smithing_template"
@@ -153,9 +137,7 @@
             "meta": 32767,
             "name": "minecraft:diamond_sword"
         },
-        "output": {
-            "name": "minecraft:netherite_sword"
-        },
+        "output": "minecraft:netherite_sword",
         "template": {
             "meta": 32767,
             "name": "minecraft:netherite_upgrade_smithing_template"

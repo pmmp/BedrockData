@@ -3,20 +3,14 @@
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:stick"
-            }
+            "minecraft:stick"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:bed"
-        },
+        "group_icon": "minecraft:bed",
         "group_name": "itemGroup.name.bed",
         "items": [
-            {
-                "name": "minecraft:bed"
-            },
+            "minecraft:bed",
             {
                 "meta": 8,
                 "name": "minecraft:bed"
@@ -186,18 +180,10 @@
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:crafting_table"
-            },
-            {
-                "name": "minecraft:cartography_table"
-            },
-            {
-                "name": "minecraft:fletching_table"
-            },
-            {
-                "name": "minecraft:smithing_table"
-            },
+            "minecraft:crafting_table",
+            "minecraft:cartography_table",
+            "minecraft:fletching_table",
+            "minecraft:smithing_table",
             {
                 "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAMLAGhvbmV5X2xldmVsAAAAAAA=",
                 "name": "minecraft:beehive"
@@ -210,12 +196,8 @@
                 "block_states": "CgAAAxAAYnJ1c2hlZF9wcm9ncmVzcwAAAAABBwBoYW5naW5nAQA=",
                 "name": "minecraft:suspicious_gravel"
             },
-            {
-                "name": "minecraft:campfire"
-            },
-            {
-                "name": "minecraft:soul_campfire"
-            },
+            "minecraft:campfire",
+            "minecraft:soul_campfire",
             {
                 "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
                 "name": "minecraft:furnace"
@@ -232,9 +214,7 @@
                 "block_states": "CgAAAxUAcmVzcGF3bl9hbmNob3JfY2hhcmdlAAAAAAA=",
                 "name": "minecraft:respawn_anchor"
             },
-            {
-                "name": "minecraft:brewing_stand"
-            }
+            "minecraft:brewing_stand"
         ]
     },
     {
@@ -266,12 +246,8 @@
                 "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:grindstone"
             },
-            {
-                "name": "minecraft:enchanting_table"
-            },
-            {
-                "name": "minecraft:bookshelf"
-            },
+            "minecraft:enchanting_table",
+            "minecraft:bookshelf",
             {
                 "block_states": "CgAAAwwAYm9va3Nfc3RvcmVkAAAAAAMJAGRpcmVjdGlvbgAAAAAA",
                 "name": "minecraft:chiseled_bookshelf"
@@ -280,9 +256,7 @@
                 "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAAA",
                 "name": "minecraft:lectern"
             },
-            {
-                "name": "minecraft:cauldron"
-            },
+            "minecraft:cauldron",
             {
                 "block_states": "CgAAAxQAY29tcG9zdGVyX2ZpbGxfbGV2ZWwAAAAAAA==",
                 "name": "minecraft:composter"
@@ -353,314 +327,132 @@
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:undyed_shulker_box"
-        },
+        "group_icon": "minecraft:undyed_shulker_box",
         "group_name": "itemGroup.name.shulkerBox",
         "items": [
-            {
-                "name": "minecraft:undyed_shulker_box"
-            },
-            {
-                "name": "minecraft:white_shulker_box"
-            },
-            {
-                "name": "minecraft:light_gray_shulker_box"
-            },
-            {
-                "name": "minecraft:gray_shulker_box"
-            },
-            {
-                "name": "minecraft:black_shulker_box"
-            },
-            {
-                "name": "minecraft:brown_shulker_box"
-            },
-            {
-                "name": "minecraft:red_shulker_box"
-            },
-            {
-                "name": "minecraft:orange_shulker_box"
-            },
-            {
-                "name": "minecraft:yellow_shulker_box"
-            },
-            {
-                "name": "minecraft:lime_shulker_box"
-            },
-            {
-                "name": "minecraft:green_shulker_box"
-            },
-            {
-                "name": "minecraft:cyan_shulker_box"
-            },
-            {
-                "name": "minecraft:light_blue_shulker_box"
-            },
-            {
-                "name": "minecraft:blue_shulker_box"
-            },
-            {
-                "name": "minecraft:purple_shulker_box"
-            },
-            {
-                "name": "minecraft:magenta_shulker_box"
-            },
-            {
-                "name": "minecraft:pink_shulker_box"
-            }
+            "minecraft:undyed_shulker_box",
+            "minecraft:white_shulker_box",
+            "minecraft:light_gray_shulker_box",
+            "minecraft:gray_shulker_box",
+            "minecraft:black_shulker_box",
+            "minecraft:brown_shulker_box",
+            "minecraft:red_shulker_box",
+            "minecraft:orange_shulker_box",
+            "minecraft:yellow_shulker_box",
+            "minecraft:lime_shulker_box",
+            "minecraft:green_shulker_box",
+            "minecraft:cyan_shulker_box",
+            "minecraft:light_blue_shulker_box",
+            "minecraft:blue_shulker_box",
+            "minecraft:purple_shulker_box",
+            "minecraft:magenta_shulker_box",
+            "minecraft:pink_shulker_box"
         ]
     },
     {
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:armor_stand"
-            },
-            {
-                "name": "minecraft:noteblock"
-            },
-            {
-                "name": "minecraft:jukebox"
-            }
+            "minecraft:armor_stand",
+            "minecraft:noteblock",
+            "minecraft:jukebox"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:music_disc_13"
-        },
+        "group_icon": "minecraft:music_disc_13",
         "group_name": "itemGroup.name.record",
         "items": [
-            {
-                "name": "minecraft:music_disc_13"
-            },
-            {
-                "name": "minecraft:music_disc_cat"
-            },
-            {
-                "name": "minecraft:music_disc_blocks"
-            },
-            {
-                "name": "minecraft:music_disc_chirp"
-            },
-            {
-                "name": "minecraft:music_disc_far"
-            },
-            {
-                "name": "minecraft:music_disc_mall"
-            },
-            {
-                "name": "minecraft:music_disc_mellohi"
-            },
-            {
-                "name": "minecraft:music_disc_stal"
-            },
-            {
-                "name": "minecraft:music_disc_strad"
-            },
-            {
-                "name": "minecraft:music_disc_ward"
-            },
-            {
-                "name": "minecraft:music_disc_11"
-            },
-            {
-                "name": "minecraft:music_disc_wait"
-            },
-            {
-                "name": "minecraft:music_disc_otherside"
-            },
-            {
-                "name": "minecraft:music_disc_5"
-            },
-            {
-                "name": "minecraft:music_disc_pigstep"
-            },
-            {
-                "name": "minecraft:music_disc_relic"
-            },
-            {
-                "name": "minecraft:music_disc_creator"
-            },
-            {
-                "name": "minecraft:music_disc_creator_music_box"
-            },
-            {
-                "name": "minecraft:music_disc_precipice"
-            },
-            {
-                "name": "minecraft:music_disc_tears"
-            },
-            {
-                "name": "minecraft:music_disc_lava_chicken"
-            }
+            "minecraft:music_disc_13",
+            "minecraft:music_disc_cat",
+            "minecraft:music_disc_blocks",
+            "minecraft:music_disc_chirp",
+            "minecraft:music_disc_far",
+            "minecraft:music_disc_mall",
+            "minecraft:music_disc_mellohi",
+            "minecraft:music_disc_stal",
+            "minecraft:music_disc_strad",
+            "minecraft:music_disc_ward",
+            "minecraft:music_disc_11",
+            "minecraft:music_disc_wait",
+            "minecraft:music_disc_otherside",
+            "minecraft:music_disc_5",
+            "minecraft:music_disc_pigstep",
+            "minecraft:music_disc_relic",
+            "minecraft:music_disc_creator",
+            "minecraft:music_disc_creator_music_box",
+            "minecraft:music_disc_precipice",
+            "minecraft:music_disc_tears",
+            "minecraft:music_disc_lava_chicken"
         ]
     },
     {
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:disc_fragment_5"
-            },
-            {
-                "name": "minecraft:glowstone_dust"
-            },
-            {
-                "name": "minecraft:glowstone"
-            },
-            {
-                "name": "minecraft:redstone_lamp"
-            },
-            {
-                "name": "minecraft:sea_lantern"
-            }
+            "minecraft:disc_fragment_5",
+            "minecraft:glowstone_dust",
+            "minecraft:glowstone",
+            "minecraft:redstone_lamp",
+            "minecraft:sea_lantern"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:oak_sign"
-        },
+        "group_icon": "minecraft:oak_sign",
         "group_name": "itemGroup.name.sign",
         "items": [
-            {
-                "name": "minecraft:oak_sign"
-            },
-            {
-                "name": "minecraft:spruce_sign"
-            },
-            {
-                "name": "minecraft:birch_sign"
-            },
-            {
-                "name": "minecraft:jungle_sign"
-            },
-            {
-                "name": "minecraft:acacia_sign"
-            },
-            {
-                "name": "minecraft:dark_oak_sign"
-            },
-            {
-                "name": "minecraft:mangrove_sign"
-            },
-            {
-                "name": "minecraft:cherry_sign"
-            },
-            {
-                "name": "minecraft:pale_oak_sign"
-            },
-            {
-                "name": "minecraft:bamboo_sign"
-            },
-            {
-                "name": "minecraft:crimson_sign"
-            },
-            {
-                "name": "minecraft:warped_sign"
-            }
+            "minecraft:oak_sign",
+            "minecraft:spruce_sign",
+            "minecraft:birch_sign",
+            "minecraft:jungle_sign",
+            "minecraft:acacia_sign",
+            "minecraft:dark_oak_sign",
+            "minecraft:mangrove_sign",
+            "minecraft:cherry_sign",
+            "minecraft:pale_oak_sign",
+            "minecraft:bamboo_sign",
+            "minecraft:crimson_sign",
+            "minecraft:warped_sign"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:oak_hanging_sign"
-        },
+        "group_icon": "minecraft:oak_hanging_sign",
         "group_name": "itemGroup.name.hanging_sign",
         "items": [
-            {
-                "name": "minecraft:oak_hanging_sign"
-            },
-            {
-                "name": "minecraft:spruce_hanging_sign"
-            },
-            {
-                "name": "minecraft:birch_hanging_sign"
-            },
-            {
-                "name": "minecraft:jungle_hanging_sign"
-            },
-            {
-                "name": "minecraft:acacia_hanging_sign"
-            },
-            {
-                "name": "minecraft:dark_oak_hanging_sign"
-            },
-            {
-                "name": "minecraft:mangrove_hanging_sign"
-            },
-            {
-                "name": "minecraft:cherry_hanging_sign"
-            },
-            {
-                "name": "minecraft:pale_oak_hanging_sign"
-            },
-            {
-                "name": "minecraft:bamboo_hanging_sign"
-            },
-            {
-                "name": "minecraft:crimson_hanging_sign"
-            },
-            {
-                "name": "minecraft:warped_hanging_sign"
-            }
+            "minecraft:oak_hanging_sign",
+            "minecraft:spruce_hanging_sign",
+            "minecraft:birch_hanging_sign",
+            "minecraft:jungle_hanging_sign",
+            "minecraft:acacia_hanging_sign",
+            "minecraft:dark_oak_hanging_sign",
+            "minecraft:mangrove_hanging_sign",
+            "minecraft:cherry_hanging_sign",
+            "minecraft:pale_oak_hanging_sign",
+            "minecraft:bamboo_hanging_sign",
+            "minecraft:crimson_hanging_sign",
+            "minecraft:warped_hanging_sign"
         ]
     },
     {
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:painting"
-            },
-            {
-                "name": "minecraft:frame"
-            },
-            {
-                "name": "minecraft:glow_frame"
-            },
-            {
-                "name": "minecraft:honey_bottle"
-            },
-            {
-                "name": "minecraft:flower_pot"
-            },
-            {
-                "name": "minecraft:bowl"
-            },
-            {
-                "name": "minecraft:bucket"
-            },
-            {
-                "name": "minecraft:milk_bucket"
-            },
-            {
-                "name": "minecraft:water_bucket"
-            },
-            {
-                "name": "minecraft:lava_bucket"
-            },
-            {
-                "name": "minecraft:cod_bucket"
-            },
-            {
-                "name": "minecraft:salmon_bucket"
-            },
-            {
-                "name": "minecraft:tropical_fish_bucket"
-            },
-            {
-                "name": "minecraft:pufferfish_bucket"
-            },
-            {
-                "name": "minecraft:powder_snow_bucket"
-            },
-            {
-                "name": "minecraft:axolotl_bucket"
-            },
-            {
-                "name": "minecraft:tadpole_bucket"
-            }
+            "minecraft:painting",
+            "minecraft:frame",
+            "minecraft:glow_frame",
+            "minecraft:honey_bottle",
+            "minecraft:flower_pot",
+            "minecraft:bowl",
+            "minecraft:bucket",
+            "minecraft:milk_bucket",
+            "minecraft:water_bucket",
+            "minecraft:lava_bucket",
+            "minecraft:cod_bucket",
+            "minecraft:salmon_bucket",
+            "minecraft:tropical_fish_bucket",
+            "minecraft:pufferfish_bucket",
+            "minecraft:powder_snow_bucket",
+            "minecraft:axolotl_bucket",
+            "minecraft:tadpole_bucket"
         ]
     },
     {
@@ -704,167 +496,65 @@
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:beacon"
-            },
+            "minecraft:beacon",
             {
                 "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAQoAdG9nZ2xlX2JpdAAA",
                 "name": "minecraft:bell"
             },
-            {
-                "name": "minecraft:conduit"
-            },
+            "minecraft:conduit",
             {
                 "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
                 "name": "minecraft:stonecutter_block"
             },
-            {
-                "name": "minecraft:coal"
-            },
-            {
-                "name": "minecraft:charcoal"
-            },
-            {
-                "name": "minecraft:diamond"
-            },
-            {
-                "name": "minecraft:iron_nugget"
-            },
-            {
-                "name": "minecraft:raw_iron"
-            },
-            {
-                "name": "minecraft:raw_gold"
-            },
-            {
-                "name": "minecraft:raw_copper"
-            },
-            {
-                "name": "minecraft:copper_ingot"
-            },
-            {
-                "name": "minecraft:iron_ingot"
-            },
-            {
-                "name": "minecraft:netherite_scrap"
-            },
-            {
-                "name": "minecraft:netherite_ingot"
-            },
-            {
-                "name": "minecraft:gold_nugget"
-            },
-            {
-                "name": "minecraft:gold_ingot"
-            },
-            {
-                "name": "minecraft:emerald"
-            },
-            {
-                "name": "minecraft:quartz"
-            },
-            {
-                "name": "minecraft:clay_ball"
-            },
-            {
-                "name": "minecraft:brick"
-            },
-            {
-                "name": "minecraft:netherbrick"
-            },
-            {
-                "name": "minecraft:resin_brick"
-            },
-            {
-                "name": "minecraft:prismarine_shard"
-            },
-            {
-                "name": "minecraft:amethyst_shard"
-            },
-            {
-                "name": "minecraft:prismarine_crystals"
-            },
-            {
-                "name": "minecraft:nautilus_shell"
-            },
-            {
-                "name": "minecraft:heart_of_the_sea"
-            },
-            {
-                "name": "minecraft:turtle_scute"
-            },
-            {
-                "name": "minecraft:armadillo_scute"
-            },
-            {
-                "name": "minecraft:phantom_membrane"
-            },
-            {
-                "name": "minecraft:string"
-            },
-            {
-                "name": "minecraft:feather"
-            },
-            {
-                "name": "minecraft:flint"
-            },
-            {
-                "name": "minecraft:gunpowder"
-            },
-            {
-                "name": "minecraft:leather"
-            },
-            {
-                "name": "minecraft:rabbit_hide"
-            },
-            {
-                "name": "minecraft:rabbit_foot"
-            },
-            {
-                "name": "minecraft:fire_charge"
-            },
-            {
-                "name": "minecraft:blaze_rod"
-            },
-            {
-                "name": "minecraft:breeze_rod"
-            },
-            {
-                "name": "minecraft:heavy_core"
-            },
-            {
-                "name": "minecraft:blaze_powder"
-            },
-            {
-                "name": "minecraft:magma_cream"
-            },
-            {
-                "name": "minecraft:fermented_spider_eye"
-            },
-            {
-                "name": "minecraft:echo_shard"
-            },
-            {
-                "name": "minecraft:dragon_breath"
-            },
-            {
-                "name": "minecraft:shulker_shell"
-            },
-            {
-                "name": "minecraft:ghast_tear"
-            },
-            {
-                "name": "minecraft:slime_ball"
-            },
-            {
-                "name": "minecraft:ender_pearl"
-            },
-            {
-                "name": "minecraft:ender_eye"
-            },
-            {
-                "name": "minecraft:nether_star"
-            },
+            "minecraft:coal",
+            "minecraft:charcoal",
+            "minecraft:diamond",
+            "minecraft:iron_nugget",
+            "minecraft:raw_iron",
+            "minecraft:raw_gold",
+            "minecraft:raw_copper",
+            "minecraft:copper_ingot",
+            "minecraft:iron_ingot",
+            "minecraft:netherite_scrap",
+            "minecraft:netherite_ingot",
+            "minecraft:gold_nugget",
+            "minecraft:gold_ingot",
+            "minecraft:emerald",
+            "minecraft:quartz",
+            "minecraft:clay_ball",
+            "minecraft:brick",
+            "minecraft:netherbrick",
+            "minecraft:resin_brick",
+            "minecraft:prismarine_shard",
+            "minecraft:amethyst_shard",
+            "minecraft:prismarine_crystals",
+            "minecraft:nautilus_shell",
+            "minecraft:heart_of_the_sea",
+            "minecraft:turtle_scute",
+            "minecraft:armadillo_scute",
+            "minecraft:phantom_membrane",
+            "minecraft:string",
+            "minecraft:feather",
+            "minecraft:flint",
+            "minecraft:gunpowder",
+            "minecraft:leather",
+            "minecraft:rabbit_hide",
+            "minecraft:rabbit_foot",
+            "minecraft:fire_charge",
+            "minecraft:blaze_rod",
+            "minecraft:breeze_rod",
+            "minecraft:heavy_core",
+            "minecraft:blaze_powder",
+            "minecraft:magma_cream",
+            "minecraft:fermented_spider_eye",
+            "minecraft:echo_shard",
+            "minecraft:dragon_breath",
+            "minecraft:shulker_shell",
+            "minecraft:ghast_tear",
+            "minecraft:slime_ball",
+            "minecraft:ender_pearl",
+            "minecraft:ender_eye",
+            "minecraft:nether_star",
             {
                 "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
                 "name": "minecraft:end_rod"
@@ -873,18 +563,10 @@
                 "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
                 "name": "minecraft:lightning_rod"
             },
-            {
-                "name": "minecraft:end_crystal"
-            },
-            {
-                "name": "minecraft:paper"
-            },
-            {
-                "name": "minecraft:book"
-            },
-            {
-                "name": "minecraft:writable_book"
-            }
+            "minecraft:end_crystal",
+            "minecraft:paper",
+            "minecraft:book",
+            "minecraft:writable_book"
         ]
     },
     {
@@ -1385,79 +1067,35 @@
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:oak_boat"
-        },
+        "group_icon": "minecraft:oak_boat",
         "group_name": "itemGroup.name.boat",
         "items": [
-            {
-                "name": "minecraft:oak_boat"
-            },
-            {
-                "name": "minecraft:spruce_boat"
-            },
-            {
-                "name": "minecraft:birch_boat"
-            },
-            {
-                "name": "minecraft:jungle_boat"
-            },
-            {
-                "name": "minecraft:acacia_boat"
-            },
-            {
-                "name": "minecraft:dark_oak_boat"
-            },
-            {
-                "name": "minecraft:mangrove_boat"
-            },
-            {
-                "name": "minecraft:cherry_boat"
-            },
-            {
-                "name": "minecraft:pale_oak_boat"
-            },
-            {
-                "name": "minecraft:bamboo_raft"
-            }
+            "minecraft:oak_boat",
+            "minecraft:spruce_boat",
+            "minecraft:birch_boat",
+            "minecraft:jungle_boat",
+            "minecraft:acacia_boat",
+            "minecraft:dark_oak_boat",
+            "minecraft:mangrove_boat",
+            "minecraft:cherry_boat",
+            "minecraft:pale_oak_boat",
+            "minecraft:bamboo_raft"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:oak_chest_boat"
-        },
+        "group_icon": "minecraft:oak_chest_boat",
         "group_name": "itemGroup.name.chestboat",
         "items": [
-            {
-                "name": "minecraft:oak_chest_boat"
-            },
-            {
-                "name": "minecraft:spruce_chest_boat"
-            },
-            {
-                "name": "minecraft:birch_chest_boat"
-            },
-            {
-                "name": "minecraft:jungle_chest_boat"
-            },
-            {
-                "name": "minecraft:acacia_chest_boat"
-            },
-            {
-                "name": "minecraft:dark_oak_chest_boat"
-            },
-            {
-                "name": "minecraft:mangrove_chest_boat"
-            },
-            {
-                "name": "minecraft:cherry_chest_boat"
-            },
-            {
-                "name": "minecraft:pale_oak_chest_boat"
-            },
-            {
-                "name": "minecraft:bamboo_chest_raft"
-            }
+            "minecraft:oak_chest_boat",
+            "minecraft:spruce_chest_boat",
+            "minecraft:birch_chest_boat",
+            "minecraft:jungle_chest_boat",
+            "minecraft:acacia_chest_boat",
+            "minecraft:dark_oak_chest_boat",
+            "minecraft:mangrove_chest_boat",
+            "minecraft:cherry_chest_boat",
+            "minecraft:pale_oak_chest_boat",
+            "minecraft:bamboo_chest_raft"
         ]
     },
     {
@@ -1486,35 +1124,21 @@
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:minecart"
-        },
+        "group_icon": "minecraft:minecart",
         "group_name": "itemGroup.name.minecart",
         "items": [
-            {
-                "name": "minecraft:minecart"
-            },
-            {
-                "name": "minecraft:chest_minecart"
-            },
-            {
-                "name": "minecraft:hopper_minecart"
-            },
-            {
-                "name": "minecraft:tnt_minecart"
-            }
+            "minecraft:minecart",
+            "minecraft:chest_minecart",
+            "minecraft:hopper_minecart",
+            "minecraft:tnt_minecart"
         ]
     },
     {
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:redstone"
-            },
-            {
-                "name": "minecraft:redstone_block"
-            },
+            "minecraft:redstone",
+            "minecraft:redstone_block",
             {
                 "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
                 "name": "minecraft:redstone_torch"
@@ -1685,15 +1309,9 @@
                 "block_states": "CgAAAw8AcmVkc3RvbmVfc2lnbmFsAAAAAAA=",
                 "name": "minecraft:daylight_detector"
             },
-            {
-                "name": "minecraft:repeater"
-            },
-            {
-                "name": "minecraft:comparator"
-            },
-            {
-                "name": "minecraft:hopper"
-            },
+            "minecraft:repeater",
+            "minecraft:comparator",
+            "minecraft:hopper",
             {
                 "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgMAAAABDQB0cmlnZ2VyZWRfYml0AAA=",
                 "name": "minecraft:dropper"
@@ -1718,9 +1336,7 @@
                 "block_states": "CgAAAQsAZXhwbG9kZV9iaXQAAA==",
                 "name": "minecraft:tnt"
             },
-            {
-                "name": "minecraft:name_tag"
-            },
+            "minecraft:name_tag",
             {
                 "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:loom"
@@ -1728,9 +1344,7 @@
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:banner"
-        },
+        "group_icon": "minecraft:banner",
         "group_name": "itemGroup.name.banner",
         "items": [
             {
@@ -1820,189 +1434,77 @@
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:creeper_banner_pattern"
-        },
+        "group_icon": "minecraft:creeper_banner_pattern",
         "group_name": "itemGroup.name.banner_pattern",
         "items": [
-            {
-                "name": "minecraft:creeper_banner_pattern"
-            },
-            {
-                "name": "minecraft:skull_banner_pattern"
-            },
-            {
-                "name": "minecraft:flower_banner_pattern"
-            },
-            {
-                "name": "minecraft:mojang_banner_pattern"
-            },
-            {
-                "name": "minecraft:field_masoned_banner_pattern"
-            },
-            {
-                "name": "minecraft:bordure_indented_banner_pattern"
-            },
-            {
-                "name": "minecraft:piglin_banner_pattern"
-            },
-            {
-                "name": "minecraft:globe_banner_pattern"
-            },
-            {
-                "name": "minecraft:flow_banner_pattern"
-            },
-            {
-                "name": "minecraft:guster_banner_pattern"
-            }
+            "minecraft:creeper_banner_pattern",
+            "minecraft:skull_banner_pattern",
+            "minecraft:flower_banner_pattern",
+            "minecraft:mojang_banner_pattern",
+            "minecraft:field_masoned_banner_pattern",
+            "minecraft:bordure_indented_banner_pattern",
+            "minecraft:piglin_banner_pattern",
+            "minecraft:globe_banner_pattern",
+            "minecraft:flow_banner_pattern",
+            "minecraft:guster_banner_pattern"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:archer_pottery_sherd"
-        },
+        "group_icon": "minecraft:archer_pottery_sherd",
         "group_name": "itemGroup.name.potterySherds",
         "items": [
-            {
-                "name": "minecraft:angler_pottery_sherd"
-            },
-            {
-                "name": "minecraft:archer_pottery_sherd"
-            },
-            {
-                "name": "minecraft:arms_up_pottery_sherd"
-            },
-            {
-                "name": "minecraft:blade_pottery_sherd"
-            },
-            {
-                "name": "minecraft:brewer_pottery_sherd"
-            },
-            {
-                "name": "minecraft:burn_pottery_sherd"
-            },
-            {
-                "name": "minecraft:danger_pottery_sherd"
-            },
-            {
-                "name": "minecraft:explorer_pottery_sherd"
-            },
-            {
-                "name": "minecraft:flow_pottery_sherd"
-            },
-            {
-                "name": "minecraft:friend_pottery_sherd"
-            },
-            {
-                "name": "minecraft:guster_pottery_sherd"
-            },
-            {
-                "name": "minecraft:heart_pottery_sherd"
-            },
-            {
-                "name": "minecraft:heartbreak_pottery_sherd"
-            },
-            {
-                "name": "minecraft:howl_pottery_sherd"
-            },
-            {
-                "name": "minecraft:miner_pottery_sherd"
-            },
-            {
-                "name": "minecraft:mourner_pottery_sherd"
-            },
-            {
-                "name": "minecraft:plenty_pottery_sherd"
-            },
-            {
-                "name": "minecraft:prize_pottery_sherd"
-            },
-            {
-                "name": "minecraft:scrape_pottery_sherd"
-            },
-            {
-                "name": "minecraft:sheaf_pottery_sherd"
-            },
-            {
-                "name": "minecraft:shelter_pottery_sherd"
-            },
-            {
-                "name": "minecraft:skull_pottery_sherd"
-            },
-            {
-                "name": "minecraft:snort_pottery_sherd"
-            }
+            "minecraft:angler_pottery_sherd",
+            "minecraft:archer_pottery_sherd",
+            "minecraft:arms_up_pottery_sherd",
+            "minecraft:blade_pottery_sherd",
+            "minecraft:brewer_pottery_sherd",
+            "minecraft:burn_pottery_sherd",
+            "minecraft:danger_pottery_sherd",
+            "minecraft:explorer_pottery_sherd",
+            "minecraft:flow_pottery_sherd",
+            "minecraft:friend_pottery_sherd",
+            "minecraft:guster_pottery_sherd",
+            "minecraft:heart_pottery_sherd",
+            "minecraft:heartbreak_pottery_sherd",
+            "minecraft:howl_pottery_sherd",
+            "minecraft:miner_pottery_sherd",
+            "minecraft:mourner_pottery_sherd",
+            "minecraft:plenty_pottery_sherd",
+            "minecraft:prize_pottery_sherd",
+            "minecraft:scrape_pottery_sherd",
+            "minecraft:sheaf_pottery_sherd",
+            "minecraft:shelter_pottery_sherd",
+            "minecraft:skull_pottery_sherd",
+            "minecraft:snort_pottery_sherd"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:netherite_upgrade_smithing_template"
-        },
+        "group_icon": "minecraft:netherite_upgrade_smithing_template",
         "group_name": "itemGroup.name.smithing_templates",
         "items": [
-            {
-                "name": "minecraft:netherite_upgrade_smithing_template"
-            },
-            {
-                "name": "minecraft:sentry_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:vex_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:wild_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:coast_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:dune_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:wayfinder_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:shaper_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:raiser_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:host_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:ward_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:silence_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:tide_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:snout_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:rib_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:eye_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:spire_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:flow_armor_trim_smithing_template"
-            },
-            {
-                "name": "minecraft:bolt_armor_trim_smithing_template"
-            }
+            "minecraft:netherite_upgrade_smithing_template",
+            "minecraft:sentry_armor_trim_smithing_template",
+            "minecraft:vex_armor_trim_smithing_template",
+            "minecraft:wild_armor_trim_smithing_template",
+            "minecraft:coast_armor_trim_smithing_template",
+            "minecraft:dune_armor_trim_smithing_template",
+            "minecraft:wayfinder_armor_trim_smithing_template",
+            "minecraft:shaper_armor_trim_smithing_template",
+            "minecraft:raiser_armor_trim_smithing_template",
+            "minecraft:host_armor_trim_smithing_template",
+            "minecraft:ward_armor_trim_smithing_template",
+            "minecraft:silence_armor_trim_smithing_template",
+            "minecraft:tide_armor_trim_smithing_template",
+            "minecraft:snout_armor_trim_smithing_template",
+            "minecraft:rib_armor_trim_smithing_template",
+            "minecraft:eye_armor_trim_smithing_template",
+            "minecraft:spire_armor_trim_smithing_template",
+            "minecraft:flow_armor_trim_smithing_template",
+            "minecraft:bolt_armor_trim_smithing_template"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:firework_rocket"
-        },
+        "group_icon": "minecraft:firework_rocket",
         "group_name": "itemGroup.name.firework",
         "items": [
             {
@@ -2076,9 +1578,7 @@
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:firework_star"
-        },
+        "group_icon": "minecraft:firework_star",
         "group_name": "itemGroup.name.fireworkStars",
         "items": [
             {
@@ -2166,31 +1666,21 @@
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:chain"
-            },
-            {
-                "name": "minecraft:target"
-            },
+            "minecraft:chain",
+            "minecraft:target",
             {
                 "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
                 "name": "minecraft:decorated_pot"
             },
-            {
-                "name": "minecraft:trial_key"
-            },
-            {
-                "name": "minecraft:ominous_trial_key"
-            }
+            "minecraft:trial_key",
+            "minecraft:ominous_trial_key"
         ]
     },
     {
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:copper_nugget"
-            }
+            "minecraft:copper_nugget"
         ]
     },
     {
@@ -2219,14 +1709,10 @@
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:compound"
-        },
+        "group_icon": "minecraft:compound",
         "group_name": "itemGroup.name.compounds",
         "items": [
-            {
-                "name": "minecraft:compound"
-            },
+            "minecraft:compound",
             {
                 "meta": 1,
                 "name": "minecraft:compound"
@@ -2366,20 +1852,12 @@
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:balloon"
-        },
+        "group_icon": "minecraft:balloon",
         "group_name": "itemGroup.name.products",
         "items": [
-            {
-                "name": "minecraft:rapid_fertilizer"
-            },
-            {
-                "name": "minecraft:ice_bomb"
-            },
-            {
-                "name": "minecraft:bleach"
-            },
+            "minecraft:rapid_fertilizer",
+            "minecraft:ice_bomb",
+            "minecraft:bleach",
             {
                 "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
                 "name": "minecraft:underwater_torch"
@@ -2388,9 +1866,7 @@
                 "block_states": "CgAAAQsAZXhwbG9kZV9iaXQAAA==",
                 "name": "minecraft:underwater_tnt"
             },
-            {
-                "name": "minecraft:chemical_heat"
-            },
+            "minecraft:chemical_heat",
             {
                 "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
                 "name": "minecraft:colored_torch_blue"
@@ -2407,9 +1883,7 @@
                 "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
                 "name": "minecraft:colored_torch_green"
             },
-            {
-                "name": "minecraft:medicine"
-            },
+            "minecraft:medicine",
             {
                 "meta": 1,
                 "name": "minecraft:medicine"
@@ -2422,111 +1896,41 @@
                 "meta": 3,
                 "name": "minecraft:medicine"
             },
-            {
-                "name": "minecraft:hard_glass"
-            },
-            {
-                "name": "minecraft:hard_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_white_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_orange_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_magenta_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_light_blue_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_yellow_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_lime_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_pink_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_gray_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_light_gray_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_cyan_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_purple_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_blue_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_brown_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_green_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_red_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_black_stained_glass"
-            },
-            {
-                "name": "minecraft:hard_white_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_orange_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_magenta_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_light_blue_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_yellow_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_lime_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_pink_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_gray_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_light_gray_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_cyan_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_purple_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_blue_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_brown_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_green_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_red_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:hard_black_stained_glass_pane"
-            },
-            {
-                "name": "minecraft:balloon"
-            },
+            "minecraft:hard_glass",
+            "minecraft:hard_glass_pane",
+            "minecraft:hard_white_stained_glass",
+            "minecraft:hard_orange_stained_glass",
+            "minecraft:hard_magenta_stained_glass",
+            "minecraft:hard_light_blue_stained_glass",
+            "minecraft:hard_yellow_stained_glass",
+            "minecraft:hard_lime_stained_glass",
+            "minecraft:hard_pink_stained_glass",
+            "minecraft:hard_gray_stained_glass",
+            "minecraft:hard_light_gray_stained_glass",
+            "minecraft:hard_cyan_stained_glass",
+            "minecraft:hard_purple_stained_glass",
+            "minecraft:hard_blue_stained_glass",
+            "minecraft:hard_brown_stained_glass",
+            "minecraft:hard_green_stained_glass",
+            "minecraft:hard_red_stained_glass",
+            "minecraft:hard_black_stained_glass",
+            "minecraft:hard_white_stained_glass_pane",
+            "minecraft:hard_orange_stained_glass_pane",
+            "minecraft:hard_magenta_stained_glass_pane",
+            "minecraft:hard_light_blue_stained_glass_pane",
+            "minecraft:hard_yellow_stained_glass_pane",
+            "minecraft:hard_lime_stained_glass_pane",
+            "minecraft:hard_pink_stained_glass_pane",
+            "minecraft:hard_gray_stained_glass_pane",
+            "minecraft:hard_light_gray_stained_glass_pane",
+            "minecraft:hard_cyan_stained_glass_pane",
+            "minecraft:hard_purple_stained_glass_pane",
+            "minecraft:hard_blue_stained_glass_pane",
+            "minecraft:hard_brown_stained_glass_pane",
+            "minecraft:hard_green_stained_glass_pane",
+            "minecraft:hard_red_stained_glass_pane",
+            "minecraft:hard_black_stained_glass_pane",
+            "minecraft:balloon",
             {
                 "meta": 1,
                 "name": "minecraft:balloon"

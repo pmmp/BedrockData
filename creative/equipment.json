@@ -1,292 +1,136 @@
 [
     {
-        "group_icon": {
-            "name": "minecraft:leather_helmet"
-        },
+        "group_icon": "minecraft:leather_helmet",
         "group_name": "itemGroup.name.helmet",
         "items": [
-            {
-                "name": "minecraft:leather_helmet"
-            },
-            {
-                "name": "minecraft:chainmail_helmet"
-            },
-            {
-                "name": "minecraft:iron_helmet"
-            },
-            {
-                "name": "minecraft:golden_helmet"
-            },
-            {
-                "name": "minecraft:diamond_helmet"
-            },
-            {
-                "name": "minecraft:netherite_helmet"
-            },
-            {
-                "name": "minecraft:copper_helmet"
-            }
+            "minecraft:leather_helmet",
+            "minecraft:chainmail_helmet",
+            "minecraft:iron_helmet",
+            "minecraft:golden_helmet",
+            "minecraft:diamond_helmet",
+            "minecraft:netherite_helmet",
+            "minecraft:copper_helmet"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:leather_chestplate"
-        },
+        "group_icon": "minecraft:leather_chestplate",
         "group_name": "itemGroup.name.chestplate",
         "items": [
-            {
-                "name": "minecraft:leather_chestplate"
-            },
-            {
-                "name": "minecraft:chainmail_chestplate"
-            },
-            {
-                "name": "minecraft:iron_chestplate"
-            },
-            {
-                "name": "minecraft:golden_chestplate"
-            },
-            {
-                "name": "minecraft:diamond_chestplate"
-            },
-            {
-                "name": "minecraft:netherite_chestplate"
-            },
-            {
-                "name": "minecraft:copper_chestplate"
-            }
+            "minecraft:leather_chestplate",
+            "minecraft:chainmail_chestplate",
+            "minecraft:iron_chestplate",
+            "minecraft:golden_chestplate",
+            "minecraft:diamond_chestplate",
+            "minecraft:netherite_chestplate",
+            "minecraft:copper_chestplate"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:leather_leggings"
-        },
+        "group_icon": "minecraft:leather_leggings",
         "group_name": "itemGroup.name.leggings",
         "items": [
-            {
-                "name": "minecraft:leather_leggings"
-            },
-            {
-                "name": "minecraft:chainmail_leggings"
-            },
-            {
-                "name": "minecraft:iron_leggings"
-            },
-            {
-                "name": "minecraft:golden_leggings"
-            },
-            {
-                "name": "minecraft:diamond_leggings"
-            },
-            {
-                "name": "minecraft:netherite_leggings"
-            },
-            {
-                "name": "minecraft:copper_leggings"
-            }
+            "minecraft:leather_leggings",
+            "minecraft:chainmail_leggings",
+            "minecraft:iron_leggings",
+            "minecraft:golden_leggings",
+            "minecraft:diamond_leggings",
+            "minecraft:netherite_leggings",
+            "minecraft:copper_leggings"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:leather_boots"
-        },
+        "group_icon": "minecraft:leather_boots",
         "group_name": "itemGroup.name.boots",
         "items": [
-            {
-                "name": "minecraft:leather_boots"
-            },
-            {
-                "name": "minecraft:chainmail_boots"
-            },
-            {
-                "name": "minecraft:iron_boots"
-            },
-            {
-                "name": "minecraft:golden_boots"
-            },
-            {
-                "name": "minecraft:diamond_boots"
-            },
-            {
-                "name": "minecraft:netherite_boots"
-            },
-            {
-                "name": "minecraft:copper_boots"
-            }
+            "minecraft:leather_boots",
+            "minecraft:chainmail_boots",
+            "minecraft:iron_boots",
+            "minecraft:golden_boots",
+            "minecraft:diamond_boots",
+            "minecraft:netherite_boots",
+            "minecraft:copper_boots"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:wooden_sword"
-        },
+        "group_icon": "minecraft:wooden_sword",
         "group_name": "itemGroup.name.sword",
         "items": [
-            {
-                "name": "minecraft:wooden_sword"
-            },
-            {
-                "name": "minecraft:stone_sword"
-            },
-            {
-                "name": "minecraft:iron_sword"
-            },
-            {
-                "name": "minecraft:golden_sword"
-            },
-            {
-                "name": "minecraft:diamond_sword"
-            },
-            {
-                "name": "minecraft:netherite_sword"
-            },
-            {
-                "name": "minecraft:copper_sword"
-            }
+            "minecraft:wooden_sword",
+            "minecraft:stone_sword",
+            "minecraft:iron_sword",
+            "minecraft:golden_sword",
+            "minecraft:diamond_sword",
+            "minecraft:netherite_sword",
+            "minecraft:copper_sword"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:wooden_axe"
-        },
+        "group_icon": "minecraft:wooden_axe",
         "group_name": "itemGroup.name.axe",
         "items": [
-            {
-                "name": "minecraft:wooden_axe"
-            },
-            {
-                "name": "minecraft:stone_axe"
-            },
-            {
-                "name": "minecraft:iron_axe"
-            },
-            {
-                "name": "minecraft:golden_axe"
-            },
-            {
-                "name": "minecraft:diamond_axe"
-            },
-            {
-                "name": "minecraft:netherite_axe"
-            },
-            {
-                "name": "minecraft:copper_axe"
-            }
+            "minecraft:wooden_axe",
+            "minecraft:stone_axe",
+            "minecraft:iron_axe",
+            "minecraft:golden_axe",
+            "minecraft:diamond_axe",
+            "minecraft:netherite_axe",
+            "minecraft:copper_axe"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:wooden_pickaxe"
-        },
+        "group_icon": "minecraft:wooden_pickaxe",
         "group_name": "itemGroup.name.pickaxe",
         "items": [
-            {
-                "name": "minecraft:wooden_pickaxe"
-            },
-            {
-                "name": "minecraft:stone_pickaxe"
-            },
-            {
-                "name": "minecraft:iron_pickaxe"
-            },
-            {
-                "name": "minecraft:golden_pickaxe"
-            },
-            {
-                "name": "minecraft:diamond_pickaxe"
-            },
-            {
-                "name": "minecraft:netherite_pickaxe"
-            },
-            {
-                "name": "minecraft:copper_pickaxe"
-            }
+            "minecraft:wooden_pickaxe",
+            "minecraft:stone_pickaxe",
+            "minecraft:iron_pickaxe",
+            "minecraft:golden_pickaxe",
+            "minecraft:diamond_pickaxe",
+            "minecraft:netherite_pickaxe",
+            "minecraft:copper_pickaxe"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:wooden_shovel"
-        },
+        "group_icon": "minecraft:wooden_shovel",
         "group_name": "itemGroup.name.shovel",
         "items": [
-            {
-                "name": "minecraft:wooden_shovel"
-            },
-            {
-                "name": "minecraft:stone_shovel"
-            },
-            {
-                "name": "minecraft:iron_shovel"
-            },
-            {
-                "name": "minecraft:golden_shovel"
-            },
-            {
-                "name": "minecraft:diamond_shovel"
-            },
-            {
-                "name": "minecraft:netherite_shovel"
-            },
-            {
-                "name": "minecraft:copper_shovel"
-            }
+            "minecraft:wooden_shovel",
+            "minecraft:stone_shovel",
+            "minecraft:iron_shovel",
+            "minecraft:golden_shovel",
+            "minecraft:diamond_shovel",
+            "minecraft:netherite_shovel",
+            "minecraft:copper_shovel"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:wooden_hoe"
-        },
+        "group_icon": "minecraft:wooden_hoe",
         "group_name": "itemGroup.name.hoe",
         "items": [
-            {
-                "name": "minecraft:wooden_hoe"
-            },
-            {
-                "name": "minecraft:stone_hoe"
-            },
-            {
-                "name": "minecraft:iron_hoe"
-            },
-            {
-                "name": "minecraft:golden_hoe"
-            },
-            {
-                "name": "minecraft:diamond_hoe"
-            },
-            {
-                "name": "minecraft:netherite_hoe"
-            },
-            {
-                "name": "minecraft:copper_hoe"
-            }
+            "minecraft:wooden_hoe",
+            "minecraft:stone_hoe",
+            "minecraft:iron_hoe",
+            "minecraft:golden_hoe",
+            "minecraft:diamond_hoe",
+            "minecraft:netherite_hoe",
+            "minecraft:copper_hoe"
         ]
     },
     {
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:bow"
-            },
-            {
-                "name": "minecraft:crossbow"
-            },
-            {
-                "name": "minecraft:mace"
-            },
-            {
-                "name": "minecraft:trident"
-            }
+            "minecraft:bow",
+            "minecraft:crossbow",
+            "minecraft:mace",
+            "minecraft:trident"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:arrow"
-        },
+        "group_icon": "minecraft:arrow",
         "group_name": "itemGroup.name.arrow",
         "items": [
-            {
-                "name": "minecraft:arrow"
-            },
+            "minecraft:arrow",
             {
                 "meta": 6,
                 "name": "minecraft:arrow"
@@ -461,123 +305,59 @@
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:shield"
-            }
+            "minecraft:shield"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:cooked_chicken"
-        },
+        "group_icon": "minecraft:cooked_chicken",
         "group_name": "itemGroup.name.cookedFood",
         "items": [
-            {
-                "name": "minecraft:cooked_chicken"
-            },
-            {
-                "name": "minecraft:cooked_porkchop"
-            },
-            {
-                "name": "minecraft:cooked_beef"
-            },
-            {
-                "name": "minecraft:cooked_mutton"
-            },
-            {
-                "name": "minecraft:cooked_rabbit"
-            },
-            {
-                "name": "minecraft:cooked_cod"
-            },
-            {
-                "name": "minecraft:cooked_salmon"
-            }
+            "minecraft:cooked_chicken",
+            "minecraft:cooked_porkchop",
+            "minecraft:cooked_beef",
+            "minecraft:cooked_mutton",
+            "minecraft:cooked_rabbit",
+            "minecraft:cooked_cod",
+            "minecraft:cooked_salmon"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:bread"
-        },
+        "group_icon": "minecraft:bread",
         "group_name": "itemGroup.name.miscFood",
         "items": [
-            {
-                "name": "minecraft:bread"
-            },
-            {
-                "name": "minecraft:mushroom_stew"
-            },
-            {
-                "name": "minecraft:beetroot_soup"
-            },
-            {
-                "name": "minecraft:rabbit_stew"
-            },
-            {
-                "name": "minecraft:baked_potato"
-            },
-            {
-                "name": "minecraft:cookie"
-            },
-            {
-                "name": "minecraft:pumpkin_pie"
-            },
-            {
-                "name": "minecraft:cake"
-            },
-            {
-                "name": "minecraft:dried_kelp"
-            }
+            "minecraft:bread",
+            "minecraft:mushroom_stew",
+            "minecraft:beetroot_soup",
+            "minecraft:rabbit_stew",
+            "minecraft:baked_potato",
+            "minecraft:cookie",
+            "minecraft:pumpkin_pie",
+            "minecraft:cake",
+            "minecraft:dried_kelp"
         ]
     },
     {
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:fishing_rod"
-            },
-            {
-                "name": "minecraft:carrot_on_a_stick"
-            },
-            {
-                "name": "minecraft:warped_fungus_on_a_stick"
-            },
-            {
-                "name": "minecraft:snowball"
-            },
-            {
-                "name": "minecraft:wind_charge"
-            },
-            {
-                "name": "minecraft:shears"
-            },
-            {
-                "name": "minecraft:flint_and_steel"
-            },
-            {
-                "name": "minecraft:lead"
-            },
-            {
-                "name": "minecraft:clock"
-            },
-            {
-                "name": "minecraft:compass"
-            },
-            {
-                "name": "minecraft:recovery_compass"
-            }
+            "minecraft:fishing_rod",
+            "minecraft:carrot_on_a_stick",
+            "minecraft:warped_fungus_on_a_stick",
+            "minecraft:snowball",
+            "minecraft:wind_charge",
+            "minecraft:shears",
+            "minecraft:flint_and_steel",
+            "minecraft:lead",
+            "minecraft:clock",
+            "minecraft:compass",
+            "minecraft:recovery_compass"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:goat_horn"
-        },
+        "group_icon": "minecraft:goat_horn",
         "group_name": "itemGroup.name.goatHorn",
         "items": [
-            {
-                "name": "minecraft:goat_horn"
-            },
+            "minecraft:goat_horn",
             {
                 "meta": 1,
                 "name": "minecraft:goat_horn"
@@ -612,186 +392,86 @@
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:empty_map"
-            },
+            "minecraft:empty_map",
             {
                 "meta": 2,
                 "name": "minecraft:empty_map"
             },
-            {
-                "name": "minecraft:saddle"
-            }
+            "minecraft:saddle"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:white_harness"
-        },
+        "group_icon": "minecraft:white_harness",
         "group_name": "itemGroup.name.harnesses",
         "items": [
-            {
-                "name": "minecraft:white_harness"
-            },
-            {
-                "name": "minecraft:light_gray_harness"
-            },
-            {
-                "name": "minecraft:gray_harness"
-            },
-            {
-                "name": "minecraft:black_harness"
-            },
-            {
-                "name": "minecraft:brown_harness"
-            },
-            {
-                "name": "minecraft:red_harness"
-            },
-            {
-                "name": "minecraft:orange_harness"
-            },
-            {
-                "name": "minecraft:yellow_harness"
-            },
-            {
-                "name": "minecraft:lime_harness"
-            },
-            {
-                "name": "minecraft:green_harness"
-            },
-            {
-                "name": "minecraft:cyan_harness"
-            },
-            {
-                "name": "minecraft:light_blue_harness"
-            },
-            {
-                "name": "minecraft:blue_harness"
-            },
-            {
-                "name": "minecraft:purple_harness"
-            },
-            {
-                "name": "minecraft:magenta_harness"
-            },
-            {
-                "name": "minecraft:pink_harness"
-            }
+            "minecraft:white_harness",
+            "minecraft:light_gray_harness",
+            "minecraft:gray_harness",
+            "minecraft:black_harness",
+            "minecraft:brown_harness",
+            "minecraft:red_harness",
+            "minecraft:orange_harness",
+            "minecraft:yellow_harness",
+            "minecraft:lime_harness",
+            "minecraft:green_harness",
+            "minecraft:cyan_harness",
+            "minecraft:light_blue_harness",
+            "minecraft:blue_harness",
+            "minecraft:purple_harness",
+            "minecraft:magenta_harness",
+            "minecraft:pink_harness"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:bundle"
-        },
+        "group_icon": "minecraft:bundle",
         "group_name": "itemGroup.name.bundles",
         "items": [
-            {
-                "name": "minecraft:bundle"
-            },
-            {
-                "name": "minecraft:white_bundle"
-            },
-            {
-                "name": "minecraft:light_gray_bundle"
-            },
-            {
-                "name": "minecraft:gray_bundle"
-            },
-            {
-                "name": "minecraft:black_bundle"
-            },
-            {
-                "name": "minecraft:brown_bundle"
-            },
-            {
-                "name": "minecraft:red_bundle"
-            },
-            {
-                "name": "minecraft:orange_bundle"
-            },
-            {
-                "name": "minecraft:yellow_bundle"
-            },
-            {
-                "name": "minecraft:lime_bundle"
-            },
-            {
-                "name": "minecraft:green_bundle"
-            },
-            {
-                "name": "minecraft:cyan_bundle"
-            },
-            {
-                "name": "minecraft:light_blue_bundle"
-            },
-            {
-                "name": "minecraft:blue_bundle"
-            },
-            {
-                "name": "minecraft:purple_bundle"
-            },
-            {
-                "name": "minecraft:magenta_bundle"
-            },
-            {
-                "name": "minecraft:pink_bundle"
-            }
+            "minecraft:bundle",
+            "minecraft:white_bundle",
+            "minecraft:light_gray_bundle",
+            "minecraft:gray_bundle",
+            "minecraft:black_bundle",
+            "minecraft:brown_bundle",
+            "minecraft:red_bundle",
+            "minecraft:orange_bundle",
+            "minecraft:yellow_bundle",
+            "minecraft:lime_bundle",
+            "minecraft:green_bundle",
+            "minecraft:cyan_bundle",
+            "minecraft:light_blue_bundle",
+            "minecraft:blue_bundle",
+            "minecraft:purple_bundle",
+            "minecraft:magenta_bundle",
+            "minecraft:pink_bundle"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:leather_horse_armor"
-        },
+        "group_icon": "minecraft:leather_horse_armor",
         "group_name": "itemGroup.name.horseArmor",
         "items": [
-            {
-                "name": "minecraft:leather_horse_armor"
-            },
-            {
-                "name": "minecraft:iron_horse_armor"
-            },
-            {
-                "name": "minecraft:golden_horse_armor"
-            },
-            {
-                "name": "minecraft:diamond_horse_armor"
-            }
+            "minecraft:leather_horse_armor",
+            "minecraft:iron_horse_armor",
+            "minecraft:golden_horse_armor",
+            "minecraft:diamond_horse_armor"
         ]
     },
     {
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:wolf_armor"
-            },
-            {
-                "name": "minecraft:turtle_helmet"
-            },
-            {
-                "name": "minecraft:elytra"
-            },
-            {
-                "name": "minecraft:totem_of_undying"
-            },
-            {
-                "name": "minecraft:glass_bottle"
-            },
-            {
-                "name": "minecraft:experience_bottle"
-            }
+            "minecraft:wolf_armor",
+            "minecraft:turtle_helmet",
+            "minecraft:elytra",
+            "minecraft:totem_of_undying",
+            "minecraft:glass_bottle",
+            "minecraft:experience_bottle"
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:potion"
-        },
+        "group_icon": "minecraft:potion",
         "group_name": "itemGroup.name.potion",
         "items": [
-            {
-                "name": "minecraft:potion"
-            },
+            "minecraft:potion",
             {
                 "meta": 1,
                 "name": "minecraft:potion"
@@ -979,14 +659,10 @@
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:splash_potion"
-        },
+        "group_icon": "minecraft:splash_potion",
         "group_name": "itemGroup.name.splashPotion",
         "items": [
-            {
-                "name": "minecraft:splash_potion"
-            },
+            "minecraft:splash_potion",
             {
                 "meta": 1,
                 "name": "minecraft:splash_potion"
@@ -1174,14 +850,10 @@
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:lingering_potion"
-        },
+        "group_icon": "minecraft:lingering_potion",
         "group_name": "itemGroup.name.lingeringPotion",
         "items": [
-            {
-                "name": "minecraft:lingering_potion"
-            },
+            "minecraft:lingering_potion",
             {
                 "meta": 1,
                 "name": "minecraft:lingering_potion"
@@ -1369,14 +1041,10 @@
         ]
     },
     {
-        "group_icon": {
-            "name": "minecraft:ominous_bottle"
-        },
+        "group_icon": "minecraft:ominous_bottle",
         "group_name": "itemGroup.name.ominousBottle",
         "items": [
-            {
-                "name": "minecraft:ominous_bottle"
-            },
+            "minecraft:ominous_bottle",
             {
                 "meta": 1,
                 "name": "minecraft:ominous_bottle"
@@ -1399,12 +1067,8 @@
         "group_icon": null,
         "group_name": "",
         "items": [
-            {
-                "name": "minecraft:spyglass"
-            },
-            {
-                "name": "minecraft:brush"
-            }
+            "minecraft:spyglass",
+            "minecraft:brush"
         ]
     }
 ]

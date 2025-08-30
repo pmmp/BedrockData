@@ -32,9 +32,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -71,9 +69,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -110,9 +106,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -149,9 +143,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -188,9 +180,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -227,9 +217,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -246,9 +234,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -285,9 +271,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -324,9 +308,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -363,9 +345,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -402,9 +382,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -441,9 +419,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -480,9 +456,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -519,9 +493,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -558,9 +530,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 0
     },
@@ -595,9 +565,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -613,9 +581,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -631,9 +597,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -649,9 +613,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -667,9 +629,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -685,9 +645,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -703,9 +661,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -721,9 +677,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -739,9 +693,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -757,9 +709,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -775,9 +725,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -793,9 +741,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -811,9 +757,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -829,9 +773,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -847,9 +789,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -865,9 +805,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -883,9 +821,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -901,9 +837,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -919,9 +853,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -937,9 +869,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -955,9 +885,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -973,9 +901,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -991,9 +917,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -1009,9 +933,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -1027,9 +949,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -1045,9 +965,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -1063,9 +981,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -1081,9 +997,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     },
@@ -1099,9 +1013,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_carpet"
-            }
+            "minecraft:white_carpet"
         ],
         "priority": 0
     },
@@ -1117,9 +1029,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 0
     }
