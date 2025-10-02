@@ -569,10 +569,18 @@
         ]
     },
     {
-        "group_icon": null,
-        "group_name": "",
+        "group_icon": "minecraft:iron_bars",
+        "group_name": "itemGroup.name.bars",
         "items": [
-            "minecraft:iron_bars"
+            "minecraft:iron_bars",
+            "minecraft:copper_bars",
+            "minecraft:exposed_copper_bars",
+            "minecraft:weathered_copper_bars",
+            "minecraft:oxidized_copper_bars",
+            "minecraft:waxed_copper_bars",
+            "minecraft:waxed_exposed_copper_bars",
+            "minecraft:waxed_weathered_copper_bars",
+            "minecraft:waxed_oxidized_copper_bars"
         ]
     },
     {
@@ -950,8 +958,8 @@
         "group_name": "itemGroup.name.copper",
         "items": [
             "minecraft:copper_block",
-            "minecraft:weathered_copper",
             "minecraft:exposed_copper",
+            "minecraft:weathered_copper",
             "minecraft:oxidized_copper",
             "minecraft:waxed_copper",
             "minecraft:waxed_exposed_copper",

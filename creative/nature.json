@@ -907,14 +907,14 @@
             "minecraft:pillager_spawn_egg",
             "minecraft:ravager_spawn_egg",
             "minecraft:iron_golem_spawn_egg",
+            "minecraft:copper_golem_spawn_egg",
             "minecraft:snow_golem_spawn_egg",
             "minecraft:sniffer_spawn_egg",
             "minecraft:breeze_spawn_egg",
             "minecraft:armadillo_spawn_egg",
             "minecraft:bogged_spawn_egg",
             "minecraft:creaking_spawn_egg",
-            "minecraft:happy_ghast_spawn_egg",
-            "minecraft:copper_golem_spawn_egg"
+            "minecraft:happy_ghast_spawn_egg"
         ]
     },
     {
