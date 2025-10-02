@@ -2,10 +2,10 @@
     "version": {
         "major": 1,
         "minor": 21,
-        "patch": 100,
-        "revision": 23,
+        "patch": 111,
+        "revision": 1,
         "beta": false,
-        "protocol_version": 827
+        "protocol_version": 844
     },
     "packets": {
         "LoginPacket": 1,
@@ -214,6 +214,7 @@
         "PlayerUpdateEntityOverridesPacket": 325,
         "PlayerLocationPacket": 326,
         "ClientboundControlSchemeSetPacket": 327,
-        "ScriptModuleDebugUtilities::ServerScriptDebugDrawerPacket": 328
+        "ScriptModuleDebugUtilities::ServerScriptDebugDrawerPacket": 328,
+        "ServerboundPackSettingChangePacket": 329
     }
 }
