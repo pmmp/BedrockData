@@ -86,9 +86,22 @@
                 "name": "minecraft:soul_torch"
             },
             {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "name": "minecraft:copper_torch"
+            },
+            {
                 "block_states": "CgAAAw0AY2x1c3Rlcl9jb3VudAAAAAABCABkZWFkX2JpdAAA",
                 "name": "minecraft:sea_pickle"
-            },
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "block_states": "CgAAAQcAaGFuZ2luZwAA",
+            "name": "minecraft:lantern"
+        },
+        "group_name": "itemGroup.name.lanterns",
+        "items": [
             {
                 "block_states": "CgAAAQcAaGFuZ2luZwAA",
                 "name": "minecraft:lantern"
@@ -96,6 +109,38 @@
             {
                 "block_states": "CgAAAQcAaGFuZ2luZwAA",
                 "name": "minecraft:soul_lantern"
+            },
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:copper_lantern"
+            },
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:exposed_copper_lantern"
+            },
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:weathered_copper_lantern"
+            },
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:oxidized_copper_lantern"
+            },
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:waxed_copper_lantern"
+            },
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:waxed_exposed_copper_lantern"
+            },
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:waxed_weathered_copper_lantern"
+            },
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:waxed_oxidized_copper_lantern"
             }
         ]
     },
@@ -251,7 +296,70 @@
             {
                 "block_states": "CgAAAwwAYm9va3Nfc3RvcmVkAAAAAAMJAGRpcmVjdGlvbgAAAAAA",
                 "name": "minecraft:chiseled_bookshelf"
+            }
+        ]
+    },
+    {
+        "group_icon": {
+            "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+            "name": "minecraft:oak_shelf"
+        },
+        "group_name": "itemGroup.name.shelf",
+        "items": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:oak_shelf"
             },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:spruce_shelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:birch_shelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:jungle_shelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:acacia_shelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:dark_oak_shelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:mangrove_shelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:cherry_shelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:pale_oak_shelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:bamboo_shelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:crimson_shelf"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "name": "minecraft:warped_shelf"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
             {
                 "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAAA",
                 "name": "minecraft:lectern"
@@ -353,7 +461,54 @@
         "group_icon": null,
         "group_name": "",
         "items": [
-            "minecraft:armor_stand",
+            "minecraft:armor_stand"
+        ]
+    },
+    {
+        "group_icon": {
+            "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+            "name": "minecraft:copper_golem_statue"
+        },
+        "group_name": "itemGroup.name.copper_golem_statue",
+        "items": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:copper_golem_statue"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:exposed_copper_golem_statue"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:weathered_copper_golem_statue"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:oxidized_copper_golem_statue"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:waxed_copper_golem_statue"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:waxed_exposed_copper_golem_statue"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:waxed_weathered_copper_golem_statue"
+            },
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:waxed_oxidized_copper_golem_statue"
+            }
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
             "minecraft:noteblock",
             "minecraft:jukebox"
         ]
@@ -493,6 +648,47 @@
         ]
     },
     {
+        "group_icon": {
+            "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+            "name": "minecraft:lightning_rod"
+        },
+        "group_name": "itemGroup.name.lightning_rod",
+        "items": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:lightning_rod"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:exposed_lightning_rod"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:weathered_lightning_rod"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:oxidized_lightning_rod"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:waxed_lightning_rod"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:waxed_exposed_lightning_rod"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:waxed_weathered_lightning_rod"
+            },
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:waxed_oxidized_lightning_rod"
+            }
+        ]
+    },
+    {
         "group_icon": null,
         "group_name": "",
         "items": [
@@ -512,6 +708,7 @@
             "minecraft:iron_nugget",
             "minecraft:raw_iron",
             "minecraft:raw_gold",
+            "minecraft:copper_nugget",
             "minecraft:raw_copper",
             "minecraft:copper_ingot",
             "minecraft:iron_ingot",
@@ -558,10 +755,6 @@
             {
                 "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
                 "name": "minecraft:end_rod"
-            },
-            {
-                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
-                "name": "minecraft:lightning_rod"
             },
             "minecraft:end_crystal",
             "minecraft:paper",
@@ -1663,10 +1856,54 @@
         ]
     },
     {
+        "group_icon": {
+            "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+            "name": "minecraft:iron_chain"
+        },
+        "group_name": "itemGroup.name.chains",
+        "items": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:iron_chain"
+            },
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:copper_chain"
+            },
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:exposed_copper_chain"
+            },
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:weathered_copper_chain"
+            },
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:oxidized_copper_chain"
+            },
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:waxed_copper_chain"
+            },
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:waxed_exposed_copper_chain"
+            },
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:waxed_weathered_copper_chain"
+            },
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:waxed_oxidized_copper_chain"
+            }
+        ]
+    },
+    {
         "group_icon": null,
         "group_name": "",
         "items": [
-            "minecraft:chain",
             "minecraft:target",
             {
                 "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAA=",
@@ -1674,13 +1911,6 @@
             },
             "minecraft:trial_key",
             "minecraft:ominous_trial_key"
-        ]
-    },
-    {
-        "group_icon": null,
-        "group_name": "",
-        "items": [
-            "minecraft:copper_nugget"
         ]
     },
     {

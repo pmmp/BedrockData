@@ -98,6 +98,15 @@
         "hardness": 0.0,
         "opacity": 0.0
     },
+    "minecraft:acacia_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:acacia_slab": {
         "blastResistance": 3.0,
         "brightness": 0.0,
@@ -440,6 +449,15 @@
         "hardness": 1.0,
         "opacity": 0.0
     },
+    "minecraft:bamboo_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:bamboo_slab": {
         "blastResistance": 3.0,
         "brightness": 0.0,
@@ -682,6 +700,15 @@
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
+    },
+    "minecraft:birch_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:birch_slab": {
         "blastResistance": 3.0,
@@ -1448,15 +1475,6 @@
         "hardness": 0.0,
         "opacity": 0.0
     },
-    "minecraft:chain": {
-        "blastResistance": 6.0,
-        "brightness": 0.0,
-        "flameEncouragement": 0,
-        "flammability": 0,
-        "friction": 0.6000000238418579,
-        "hardness": 5.0,
-        "opacity": 0.19999998807907104
-    },
     "minecraft:chain_command_block": {
         "blastResistance": 3600000.0,
         "brightness": 0.0,
@@ -1582,6 +1600,15 @@
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
+    },
+    "minecraft:cherry_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:cherry_slab": {
         "blastResistance": 3.0,
@@ -1997,6 +2024,15 @@
         "hardness": 3.0,
         "opacity": 0.0
     },
+    "minecraft:copper_bars": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:copper_block": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -2014,6 +2050,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:copper_chain": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:copper_chest": {
         "blastResistance": 6.0,
@@ -2033,6 +2078,15 @@
         "hardness": 3.0,
         "opacity": 0.19999998807907104
     },
+    "minecraft:copper_golem_statue": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 1.0
+    },
     "minecraft:copper_grate": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -2042,6 +2096,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:copper_lantern": {
+        "blastResistance": 3.5,
+        "brightness": 15.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.5,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:copper_ore": {
         "blastResistance": 3.0,
         "brightness": 0.0,
@@ -2050,6 +2113,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:copper_torch": {
+        "blastResistance": 0.0,
+        "brightness": 14.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.0,
+        "opacity": 0.0
     },
     "minecraft:copper_trapdoor": {
         "blastResistance": 6.0,
@@ -2257,6 +2329,15 @@
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
+    },
+    "minecraft:crimson_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:crimson_slab": {
         "blastResistance": 3.0,
@@ -2617,6 +2698,15 @@
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
+    },
+    "minecraft:dark_oak_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:dark_oak_slab": {
         "blastResistance": 3.0,
@@ -4517,6 +4607,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:exposed_copper_bars": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:exposed_copper_bulb": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -4525,6 +4624,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:exposed_copper_chain": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:exposed_copper_chest": {
         "blastResistance": 6.0,
@@ -4544,6 +4652,15 @@
         "hardness": 3.0,
         "opacity": 0.19999998807907104
     },
+    "minecraft:exposed_copper_golem_statue": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 1.0
+    },
     "minecraft:exposed_copper_grate": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -4552,6 +4669,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:exposed_copper_lantern": {
+        "blastResistance": 3.5,
+        "brightness": 15.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.5,
+        "opacity": 0.19999998807907104
     },
     "minecraft:exposed_copper_trapdoor": {
         "blastResistance": 6.0,
@@ -4597,6 +4723,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:exposed_lightning_rod": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:farmland": {
         "blastResistance": 0.6000000238418579,
@@ -5660,6 +5795,15 @@
         "hardness": 5.0,
         "opacity": 1.0
     },
+    "minecraft:iron_chain": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:iron_door": {
         "blastResistance": 5.0,
         "brightness": 0.0,
@@ -5803,6 +5947,15 @@
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
+    },
+    "minecraft:jungle_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:jungle_slab": {
         "blastResistance": 3.0,
@@ -6731,6 +6884,15 @@
         "hardness": 0.699999988079071,
         "opacity": 1.0
     },
+    "minecraft:mangrove_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:mangrove_slab": {
         "blastResistance": 3.0,
         "brightness": 0.0,
@@ -7244,6 +7406,15 @@
         "hardness": 0.0,
         "opacity": 0.0
     },
+    "minecraft:oak_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:oak_slab": {
         "blastResistance": 3.0,
         "brightness": 0.0,
@@ -7442,6 +7613,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:oxidized_copper_bars": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:oxidized_copper_bulb": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -7450,6 +7630,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:oxidized_copper_chain": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:oxidized_copper_chest": {
         "blastResistance": 6.0,
@@ -7469,6 +7658,15 @@
         "hardness": 3.0,
         "opacity": 0.19999998807907104
     },
+    "minecraft:oxidized_copper_golem_statue": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 1.0
+    },
     "minecraft:oxidized_copper_grate": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -7477,6 +7675,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:oxidized_copper_lantern": {
+        "blastResistance": 3.5,
+        "brightness": 15.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.5,
+        "opacity": 0.19999998807907104
     },
     "minecraft:oxidized_copper_trapdoor": {
         "blastResistance": 6.0,
@@ -7522,6 +7729,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:oxidized_lightning_rod": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:packed_ice": {
         "blastResistance": 0.5,
@@ -7666,6 +7882,15 @@
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
+    },
+    "minecraft:pale_oak_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:pale_oak_slab": {
         "blastResistance": 3.0,
@@ -9611,6 +9836,15 @@
         "hardness": 0.0,
         "opacity": 0.0
     },
+    "minecraft:spruce_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:spruce_slab": {
         "blastResistance": 3.0,
         "brightness": 0.0,
@@ -10538,6 +10772,15 @@
         "hardness": 0.0,
         "opacity": 0.0
     },
+    "minecraft:warped_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:warped_slab": {
         "blastResistance": 3.0,
         "brightness": 0.0,
@@ -10637,6 +10880,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:waxed_copper_bars": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:waxed_copper_bulb": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10645,6 +10897,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:waxed_copper_chain": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:waxed_copper_chest": {
         "blastResistance": 6.0,
@@ -10664,6 +10925,15 @@
         "hardness": 3.0,
         "opacity": 0.19999998807907104
     },
+    "minecraft:waxed_copper_golem_statue": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 1.0
+    },
     "minecraft:waxed_copper_grate": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10672,6 +10942,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:waxed_copper_lantern": {
+        "blastResistance": 3.5,
+        "brightness": 15.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.5,
+        "opacity": 0.19999998807907104
     },
     "minecraft:waxed_copper_trapdoor": {
         "blastResistance": 6.0,
@@ -10736,6 +11015,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:waxed_exposed_copper_bars": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:waxed_exposed_copper_bulb": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10744,6 +11032,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:waxed_exposed_copper_chain": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:waxed_exposed_copper_chest": {
         "blastResistance": 6.0,
@@ -10763,6 +11060,15 @@
         "hardness": 3.0,
         "opacity": 0.19999998807907104
     },
+    "minecraft:waxed_exposed_copper_golem_statue": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 1.0
+    },
     "minecraft:waxed_exposed_copper_grate": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10771,6 +11077,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:waxed_exposed_copper_lantern": {
+        "blastResistance": 3.5,
+        "brightness": 15.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.5,
+        "opacity": 0.19999998807907104
     },
     "minecraft:waxed_exposed_copper_trapdoor": {
         "blastResistance": 6.0,
@@ -10817,6 +11132,24 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:waxed_exposed_lightning_rod": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:waxed_lightning_rod": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:waxed_oxidized_chiseled_copper": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10835,6 +11168,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:waxed_oxidized_copper_bars": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:waxed_oxidized_copper_bulb": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10843,6 +11185,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:waxed_oxidized_copper_chain": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:waxed_oxidized_copper_chest": {
         "blastResistance": 6.0,
@@ -10862,6 +11213,15 @@
         "hardness": 3.0,
         "opacity": 0.19999998807907104
     },
+    "minecraft:waxed_oxidized_copper_golem_statue": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 1.0
+    },
     "minecraft:waxed_oxidized_copper_grate": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10870,6 +11230,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:waxed_oxidized_copper_lantern": {
+        "blastResistance": 3.5,
+        "brightness": 15.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.5,
+        "opacity": 0.19999998807907104
     },
     "minecraft:waxed_oxidized_copper_trapdoor": {
         "blastResistance": 6.0,
@@ -10916,6 +11285,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:waxed_oxidized_lightning_rod": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:waxed_weathered_chiseled_copper": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10934,6 +11312,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:waxed_weathered_copper_bars": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:waxed_weathered_copper_bulb": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10942,6 +11329,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:waxed_weathered_copper_chain": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:waxed_weathered_copper_chest": {
         "blastResistance": 6.0,
@@ -10961,6 +11357,15 @@
         "hardness": 3.0,
         "opacity": 0.19999998807907104
     },
+    "minecraft:waxed_weathered_copper_golem_statue": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 1.0
+    },
     "minecraft:waxed_weathered_copper_grate": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -10969,6 +11374,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:waxed_weathered_copper_lantern": {
+        "blastResistance": 3.5,
+        "brightness": 15.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.5,
+        "opacity": 0.19999998807907104
     },
     "minecraft:waxed_weathered_copper_trapdoor": {
         "blastResistance": 6.0,
@@ -11015,6 +11429,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:waxed_weathered_lightning_rod": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:weathered_chiseled_copper": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -11033,6 +11456,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:weathered_copper_bars": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:weathered_copper_bulb": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -11041,6 +11473,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:weathered_copper_chain": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 5.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:weathered_copper_chest": {
         "blastResistance": 6.0,
@@ -11060,6 +11501,15 @@
         "hardness": 3.0,
         "opacity": 0.19999998807907104
     },
+    "minecraft:weathered_copper_golem_statue": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 1.0
+    },
     "minecraft:weathered_copper_grate": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -11068,6 +11518,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:weathered_copper_lantern": {
+        "blastResistance": 3.5,
+        "brightness": 15.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.5,
+        "opacity": 0.19999998807907104
     },
     "minecraft:weathered_copper_trapdoor": {
         "blastResistance": 6.0,
@@ -11113,6 +11572,15 @@
         "friction": 0.6000000238418579,
         "hardness": 3.0,
         "opacity": 1.0
+    },
+    "minecraft:weathered_lightning_rod": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.19999998807907104
     },
     "minecraft:web": {
         "blastResistance": 4.0,

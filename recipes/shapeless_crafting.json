@@ -7033,6 +7033,29 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:copper_bars"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            "minecraft:waxed_copper_bars"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_bars"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:copper_block"
             },
             {
@@ -7082,6 +7105,58 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:copper_chain"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:waxed_copper_chain"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chain"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:waxed_copper_chest"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chest"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:copper_door"
             },
             {
@@ -7105,6 +7180,32 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:copper_golem_statue"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:waxed_copper_golem_statue"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_golem_statue"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:copper_grate"
             },
             {
@@ -7120,6 +7221,32 @@
             {
                 "meta": 32767,
                 "name": "minecraft:copper_grate"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_lantern"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:waxed_copper_lantern"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_lantern"
             }
         ]
     },
@@ -7734,6 +7861,29 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:exposed_copper_bars"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            "minecraft:waxed_exposed_copper_bars"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_bars"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:exposed_copper_bulb"
             },
             {
@@ -7752,6 +7902,58 @@
             {
                 "meta": 32767,
                 "name": "minecraft:exposed_copper_bulb"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:exposed_copper_chain"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:waxed_exposed_copper_chain"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chain"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:exposed_copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:waxed_exposed_copper_chest"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chest"
             }
         ]
     },
@@ -7783,6 +7985,32 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:exposed_copper_golem_statue"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:waxed_exposed_copper_golem_statue"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_golem_statue"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:exposed_copper_grate"
             },
             {
@@ -7798,6 +8026,32 @@
             {
                 "meta": 32767,
                 "name": "minecraft:exposed_copper_grate"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:exposed_copper_lantern"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:waxed_exposed_copper_lantern"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_lantern"
             }
         ]
     },
@@ -7899,6 +8153,32 @@
             {
                 "meta": 32767,
                 "name": "minecraft:exposed_cut_copper_stairs"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:exposed_lightning_rod"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:waxed_exposed_lightning_rod"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lightning_rod"
             }
         ]
     },
@@ -10648,6 +10928,32 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:lightning_rod"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:waxed_lightning_rod"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lightning_rod"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:lilac"
             }
         ],
@@ -11992,6 +12298,29 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:oxidized_copper_bars"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            "minecraft:waxed_oxidized_copper_bars"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_bars"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:oxidized_copper_bulb"
             },
             {
@@ -12010,6 +12339,58 @@
             {
                 "meta": 32767,
                 "name": "minecraft:oxidized_copper_bulb"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oxidized_copper_chain"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:waxed_oxidized_copper_chain"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chain"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oxidized_copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:waxed_oxidized_copper_chest"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chest"
             }
         ]
     },
@@ -12041,6 +12422,32 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:oxidized_copper_golem_statue"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:waxed_oxidized_copper_golem_statue"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_golem_statue"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:oxidized_copper_grate"
             },
             {
@@ -12056,6 +12463,32 @@
             {
                 "meta": 32767,
                 "name": "minecraft:oxidized_copper_grate"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oxidized_copper_lantern"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:waxed_oxidized_copper_lantern"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_lantern"
             }
         ]
     },
@@ -12157,6 +12590,32 @@
             {
                 "meta": 32767,
                 "name": "minecraft:oxidized_cut_copper_stairs"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oxidized_lightning_rod"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:waxed_oxidized_lightning_rod"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lightning_rod"
             }
         ]
     },
@@ -14264,6 +14723,29 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:weathered_copper_bars"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            "minecraft:waxed_weathered_copper_bars"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_bars"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:weathered_copper_bulb"
             },
             {
@@ -14282,6 +14764,58 @@
             {
                 "meta": 32767,
                 "name": "minecraft:weathered_copper_bulb"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:weathered_copper_chain"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:waxed_weathered_copper_chain"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chain"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:weathered_copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:waxed_weathered_copper_chest"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chest"
             }
         ]
     },
@@ -14313,6 +14847,32 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:weathered_copper_golem_statue"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:waxed_weathered_copper_golem_statue"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_golem_statue"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:weathered_copper_grate"
             },
             {
@@ -14328,6 +14888,32 @@
             {
                 "meta": 32767,
                 "name": "minecraft:weathered_copper_grate"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:weathered_copper_lantern"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:waxed_weathered_copper_lantern"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_lantern"
             }
         ]
     },
@@ -14429,6 +15015,32 @@
             {
                 "meta": 32767,
                 "name": "minecraft:weathered_cut_copper_stairs"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:weathered_lightning_rod"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:waxed_weathered_lightning_rod"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lightning_rod"
             }
         ]
     },

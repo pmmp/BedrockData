@@ -4,12 +4,12 @@
         "group_name": "itemGroup.name.helmet",
         "items": [
             "minecraft:leather_helmet",
+            "minecraft:copper_helmet",
             "minecraft:chainmail_helmet",
             "minecraft:iron_helmet",
             "minecraft:golden_helmet",
             "minecraft:diamond_helmet",
-            "minecraft:netherite_helmet",
-            "minecraft:copper_helmet"
+            "minecraft:netherite_helmet"
         ]
     },
     {
@@ -17,12 +17,12 @@
         "group_name": "itemGroup.name.chestplate",
         "items": [
             "minecraft:leather_chestplate",
+            "minecraft:copper_chestplate",
             "minecraft:chainmail_chestplate",
             "minecraft:iron_chestplate",
             "minecraft:golden_chestplate",
             "minecraft:diamond_chestplate",
-            "minecraft:netherite_chestplate",
-            "minecraft:copper_chestplate"
+            "minecraft:netherite_chestplate"
         ]
     },
     {
@@ -30,12 +30,12 @@
         "group_name": "itemGroup.name.leggings",
         "items": [
             "minecraft:leather_leggings",
+            "minecraft:copper_leggings",
             "minecraft:chainmail_leggings",
             "minecraft:iron_leggings",
             "minecraft:golden_leggings",
             "minecraft:diamond_leggings",
-            "minecraft:netherite_leggings",
-            "minecraft:copper_leggings"
+            "minecraft:netherite_leggings"
         ]
     },
     {
@@ -43,12 +43,12 @@
         "group_name": "itemGroup.name.boots",
         "items": [
             "minecraft:leather_boots",
+            "minecraft:copper_boots",
             "minecraft:chainmail_boots",
             "minecraft:iron_boots",
             "minecraft:golden_boots",
             "minecraft:diamond_boots",
-            "minecraft:netherite_boots",
-            "minecraft:copper_boots"
+            "minecraft:netherite_boots"
         ]
     },
     {
@@ -57,11 +57,11 @@
         "items": [
             "minecraft:wooden_sword",
             "minecraft:stone_sword",
+            "minecraft:copper_sword",
             "minecraft:iron_sword",
             "minecraft:golden_sword",
             "minecraft:diamond_sword",
-            "minecraft:netherite_sword",
-            "minecraft:copper_sword"
+            "minecraft:netherite_sword"
         ]
     },
     {
@@ -70,11 +70,11 @@
         "items": [
             "minecraft:wooden_axe",
             "minecraft:stone_axe",
+            "minecraft:copper_axe",
             "minecraft:iron_axe",
             "minecraft:golden_axe",
             "minecraft:diamond_axe",
-            "minecraft:netherite_axe",
-            "minecraft:copper_axe"
+            "minecraft:netherite_axe"
         ]
     },
     {
@@ -83,11 +83,11 @@
         "items": [
             "minecraft:wooden_pickaxe",
             "minecraft:stone_pickaxe",
+            "minecraft:copper_pickaxe",
             "minecraft:iron_pickaxe",
             "minecraft:golden_pickaxe",
             "minecraft:diamond_pickaxe",
-            "minecraft:netherite_pickaxe",
-            "minecraft:copper_pickaxe"
+            "minecraft:netherite_pickaxe"
         ]
     },
     {
@@ -96,11 +96,11 @@
         "items": [
             "minecraft:wooden_shovel",
             "minecraft:stone_shovel",
+            "minecraft:copper_shovel",
             "minecraft:iron_shovel",
             "minecraft:golden_shovel",
             "minecraft:diamond_shovel",
-            "minecraft:netherite_shovel",
-            "minecraft:copper_shovel"
+            "minecraft:netherite_shovel"
         ]
     },
     {
@@ -109,11 +109,11 @@
         "items": [
             "minecraft:wooden_hoe",
             "minecraft:stone_hoe",
+            "minecraft:copper_hoe",
             "minecraft:iron_hoe",
             "minecraft:golden_hoe",
             "minecraft:diamond_hoe",
-            "minecraft:netherite_hoe",
-            "minecraft:copper_hoe"
+            "minecraft:netherite_hoe"
         ]
     },
     {
@@ -450,6 +450,7 @@
         "group_name": "itemGroup.name.horseArmor",
         "items": [
             "minecraft:leather_horse_armor",
+            "minecraft:copper_horse_armor",
             "minecraft:iron_horse_armor",
             "minecraft:golden_horse_armor",
             "minecraft:diamond_horse_armor"

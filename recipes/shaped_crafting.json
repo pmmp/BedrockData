@@ -2187,378 +2187,6 @@
         "input": {
             "A": {
                 "meta": 32767,
-                "name": "minecraft:chain"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stripped_acacia_log"
-            }
-        },
-        "output": [
-            {
-                "count": 6,
-                "name": "minecraft:acacia_hanging_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "BBB",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:stripped_acacia_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:chain"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stripped_bamboo_block"
-            }
-        },
-        "output": [
-            {
-                "count": 6,
-                "name": "minecraft:bamboo_hanging_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "BBB",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:stripped_bamboo_block"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:chain"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stripped_birch_log"
-            }
-        },
-        "output": [
-            {
-                "count": 6,
-                "name": "minecraft:birch_hanging_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "BBB",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:stripped_birch_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:chain"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stripped_cherry_log"
-            }
-        },
-        "output": [
-            {
-                "count": 6,
-                "name": "minecraft:cherry_hanging_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "BBB",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:stripped_cherry_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:chain"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stripped_crimson_stem"
-            }
-        },
-        "output": [
-            {
-                "count": 6,
-                "name": "minecraft:crimson_hanging_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "BBB",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:stripped_crimson_stem"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:chain"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stripped_dark_oak_log"
-            }
-        },
-        "output": [
-            {
-                "count": 6,
-                "name": "minecraft:dark_oak_hanging_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "BBB",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:stripped_dark_oak_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:chain"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stripped_jungle_log"
-            }
-        },
-        "output": [
-            {
-                "count": 6,
-                "name": "minecraft:jungle_hanging_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "BBB",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:stripped_jungle_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:chain"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stripped_mangrove_log"
-            }
-        },
-        "output": [
-            {
-                "count": 6,
-                "name": "minecraft:mangrove_hanging_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "BBB",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:stripped_mangrove_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:chain"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stripped_oak_log"
-            }
-        },
-        "output": [
-            {
-                "count": 6,
-                "name": "minecraft:oak_hanging_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "BBB",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:stripped_oak_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:chain"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stripped_pale_oak_log"
-            }
-        },
-        "output": [
-            {
-                "count": 6,
-                "name": "minecraft:pale_oak_hanging_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "BBB",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:stripped_pale_oak_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:chain"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stripped_spruce_log"
-            }
-        },
-        "output": [
-            {
-                "count": 6,
-                "name": "minecraft:spruce_hanging_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "BBB",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:stripped_spruce_log"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:chain"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stripped_warped_stem"
-            }
-        },
-        "output": [
-            {
-                "count": 6,
-                "name": "minecraft:warped_hanging_sign"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A A",
-            "BBB",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:stripped_warped_stem"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
                 "name": "minecraft:charcoal"
             },
             "B": {
@@ -3925,8 +3553,8 @@
         ],
         "priority": 0,
         "shape": [
-            "AAA",
-            "AAA"
+            "AA",
+            "AA"
         ],
         "unlockingIngredients": [
             {
@@ -3945,7 +3573,7 @@
         },
         "output": [
             {
-                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
                 "name": "minecraft:lightning_rod"
             }
         ],
@@ -3954,6 +3582,32 @@
             "A",
             "A",
             "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        },
+        "output": [
+            {
+                "count": 16,
+                "name": "minecraft:copper_bars"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
         ],
         "unlockingIngredients": [
             {
@@ -4011,6 +3665,111 @@
             {
                 "meta": 32767,
                 "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_nugget"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:copper_chain"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "B",
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_nugget"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_nugget"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:copper_torch"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:copper_lantern"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_nugget"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_nugget"
+            },
+            "B": {
+                "tag": "minecraft:coals"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "count": 4,
+                "name": "minecraft:copper_torch"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "B",
+            "C"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_nugget"
             }
         ]
     },
@@ -10232,6 +9991,378 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:iron_chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_acacia_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:acacia_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_acacia_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_bamboo_block"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:bamboo_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_bamboo_block"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_birch_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:birch_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_birch_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_cherry_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:cherry_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_cherry_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_crimson_stem"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:crimson_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_crimson_stem"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_dark_oak_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:dark_oak_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_dark_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_jungle_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:jungle_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_jungle_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_mangrove_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:mangrove_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_mangrove_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_oak_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:oak_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_pale_oak_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:pale_oak_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_pale_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_spruce_log"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:spruce_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_spruce_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_chain"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stripped_warped_stem"
+            }
+        },
+        "output": [
+            {
+                "count": 6,
+                "name": "minecraft:warped_hanging_sign"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A A",
+            "BBB",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_warped_stem"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:iron_ingot"
             },
             "B": {
@@ -11197,7 +11328,10 @@
             }
         },
         "output": [
-            "minecraft:chain"
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:iron_chain"
+            }
         ],
         "priority": 0,
         "shape": [
@@ -20022,6 +20156,34 @@
         },
         "output": [
             {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "count": 6,
+                "name": "minecraft:acacia_shelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "   ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_acacia_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_acacia_log"
+            }
+        },
+        "output": [
+            {
                 "count": 4,
                 "name": "minecraft:acacia_planks"
             }
@@ -20059,6 +20221,34 @@
             {
                 "meta": 32767,
                 "name": "minecraft:stripped_acacia_wood"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_bamboo_block"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "count": 6,
+                "name": "minecraft:bamboo_shelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "   ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_bamboo_block"
             }
         ]
     },
@@ -20149,6 +20339,34 @@
         },
         "output": [
             {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "count": 6,
+                "name": "minecraft:birch_shelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "   ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_birch_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_birch_log"
+            }
+        },
+        "output": [
+            {
                 "count": 4,
                 "name": "minecraft:birch_planks"
             }
@@ -20208,6 +20426,34 @@
         "shape": [
             "AA",
             "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_cherry_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_cherry_log"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "count": 6,
+                "name": "minecraft:cherry_shelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "   ",
+            "AAA"
         ],
         "unlockingIngredients": [
             {
@@ -20353,6 +20599,34 @@
         },
         "output": [
             {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "count": 6,
+                "name": "minecraft:crimson_shelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "   ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_crimson_stem"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_crimson_stem"
+            }
+        },
+        "output": [
+            {
                 "count": 4,
                 "name": "minecraft:crimson_planks"
             }
@@ -20412,6 +20686,34 @@
         "shape": [
             "AA",
             "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_dark_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_dark_oak_log"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "count": 6,
+                "name": "minecraft:dark_oak_shelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "   ",
+            "AAA"
         ],
         "unlockingIngredients": [
             {
@@ -20514,6 +20816,34 @@
         "shape": [
             "AA",
             "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_jungle_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_jungle_log"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "count": 6,
+                "name": "minecraft:jungle_shelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "   ",
+            "AAA"
         ],
         "unlockingIngredients": [
             {
@@ -20616,6 +20946,34 @@
         "shape": [
             "AA",
             "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_mangrove_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_mangrove_log"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "count": 6,
+                "name": "minecraft:mangrove_shelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "   ",
+            "AAA"
         ],
         "unlockingIngredients": [
             {
@@ -20761,6 +21119,34 @@
         },
         "output": [
             {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "count": 6,
+                "name": "minecraft:oak_shelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "   ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_oak_log"
+            }
+        },
+        "output": [
+            {
                 "count": 4,
                 "name": "minecraft:oak_planks"
             }
@@ -20820,6 +21206,34 @@
         "shape": [
             "AA",
             "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_pale_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_pale_oak_log"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "count": 6,
+                "name": "minecraft:pale_oak_shelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "   ",
+            "AAA"
         ],
         "unlockingIngredients": [
             {
@@ -20922,6 +21336,34 @@
         "shape": [
             "AA",
             "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_spruce_log"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_spruce_log"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "count": 6,
+                "name": "minecraft:spruce_shelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "   ",
+            "AAA"
         ],
         "unlockingIngredients": [
             {
@@ -21049,6 +21491,34 @@
         "shape": [
             "AA",
             "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_warped_stem"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stripped_warped_stem"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgBCwBwb3dlcmVkX2JpdAADEgBwb3dlcmVkX3NoZWxmX3R5cGUAAAAAAA==",
+                "count": 6,
+                "name": "minecraft:warped_shelf"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "   ",
+            "AAA"
         ],
         "unlockingIngredients": [
             {
