@@ -329,6 +329,55 @@
             "minecraft:mushroom_stew",
             "minecraft:beetroot_soup",
             "minecraft:rabbit_stew",
+            "minecraft:suspicious_stew",
+            {
+                "meta": 1,
+                "name": "minecraft:suspicious_stew"
+            },
+            {
+                "meta": 2,
+                "name": "minecraft:suspicious_stew"
+            },
+            {
+                "meta": 3,
+                "name": "minecraft:suspicious_stew"
+            },
+            {
+                "meta": 4,
+                "name": "minecraft:suspicious_stew"
+            },
+            {
+                "meta": 5,
+                "name": "minecraft:suspicious_stew"
+            },
+            {
+                "meta": 6,
+                "name": "minecraft:suspicious_stew"
+            },
+            {
+                "meta": 7,
+                "name": "minecraft:suspicious_stew"
+            },
+            {
+                "meta": 8,
+                "name": "minecraft:suspicious_stew"
+            },
+            {
+                "meta": 9,
+                "name": "minecraft:suspicious_stew"
+            },
+            {
+                "meta": 10,
+                "name": "minecraft:suspicious_stew"
+            },
+            {
+                "meta": 11,
+                "name": "minecraft:suspicious_stew"
+            },
+            {
+                "meta": 12,
+                "name": "minecraft:suspicious_stew"
+            },
             "minecraft:baked_potato",
             "minecraft:cookie",
             "minecraft:pumpkin_pie",
