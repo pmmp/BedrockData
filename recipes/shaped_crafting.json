@@ -3547,7 +3547,6 @@
         "output": [
             {
                 "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-                "count": 2,
                 "name": "minecraft:copper_trapdoor"
             }
         ],
