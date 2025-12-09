@@ -74,6 +74,7 @@
         "minecraft:copper_leggings",
         "minecraft:copper_pickaxe",
         "minecraft:copper_shovel",
+        "minecraft:copper_spear",
         "minecraft:copper_sword"
     ],
     "minecraft:crimson_stems": [
@@ -117,6 +118,7 @@
         "minecraft:diamond_leggings",
         "minecraft:diamond_pickaxe",
         "minecraft:diamond_shovel",
+        "minecraft:diamond_spear",
         "minecraft:diamond_sword",
         "minecraft:mace"
     ],
@@ -187,6 +189,7 @@
         "minecraft:golden_leggings",
         "minecraft:golden_pickaxe",
         "minecraft:golden_shovel",
+        "minecraft:golden_spear",
         "minecraft:golden_sword"
     ],
     "minecraft:hanging_actor": [
@@ -229,7 +232,8 @@
         "minecraft:diamond_horse_armor",
         "minecraft:golden_horse_armor",
         "minecraft:iron_horse_armor",
-        "minecraft:leather_horse_armor"
+        "minecraft:leather_horse_armor",
+        "minecraft:netherite_horse_armor"
     ],
     "minecraft:iron_tier": [
         "minecraft:iron_axe",
@@ -240,6 +244,7 @@
         "minecraft:iron_leggings",
         "minecraft:iron_pickaxe",
         "minecraft:iron_shovel",
+        "minecraft:iron_spear",
         "minecraft:iron_sword"
     ],
     "minecraft:is_armor": [
@@ -392,6 +397,15 @@
         "minecraft:netherite_shovel",
         "minecraft:stone_shovel",
         "minecraft:wooden_shovel"
+    ],
+    "minecraft:is_spear": [
+        "minecraft:copper_spear",
+        "minecraft:diamond_spear",
+        "minecraft:golden_spear",
+        "minecraft:iron_spear",
+        "minecraft:netherite_spear",
+        "minecraft:stone_spear",
+        "minecraft:wooden_spear"
     ],
     "minecraft:is_sword": [
         "minecraft:copper_sword",
@@ -567,15 +581,25 @@
         "minecraft:music_disc_wait",
         "minecraft:music_disc_ward"
     ],
+    "minecraft:nautilus_armor": [
+        "minecraft:copper_nautilus_armor",
+        "minecraft:diamond_nautilus_armor",
+        "minecraft:golden_nautilus_armor",
+        "minecraft:iron_nautilus_armor",
+        "minecraft:netherite_nautilus_armor"
+    ],
     "minecraft:netherite_tier": [
         "minecraft:netherite_axe",
         "minecraft:netherite_boots",
         "minecraft:netherite_chestplate",
         "minecraft:netherite_helmet",
         "minecraft:netherite_hoe",
+        "minecraft:netherite_horse_armor",
         "minecraft:netherite_leggings",
+        "minecraft:netherite_nautilus_armor",
         "minecraft:netherite_pickaxe",
         "minecraft:netherite_shovel",
+        "minecraft:netherite_spear",
         "minecraft:netherite_sword"
     ],
     "minecraft:planks": [
@@ -636,6 +660,7 @@
         "minecraft:blaze_spawn_egg",
         "minecraft:bogged_spawn_egg",
         "minecraft:breeze_spawn_egg",
+        "minecraft:camel_husk_spawn_egg",
         "minecraft:camel_spawn_egg",
         "minecraft:cat_spawn_egg",
         "minecraft:cave_spider_spawn_egg",
@@ -668,9 +693,11 @@
         "minecraft:magma_cube_spawn_egg",
         "minecraft:mooshroom_spawn_egg",
         "minecraft:mule_spawn_egg",
+        "minecraft:nautilus_spawn_egg",
         "minecraft:npc_spawn_egg",
         "minecraft:ocelot_spawn_egg",
         "minecraft:panda_spawn_egg",
+        "minecraft:parched_spawn_egg",
         "minecraft:parrot_spawn_egg",
         "minecraft:phantom_spawn_egg",
         "minecraft:pig_spawn_egg",
@@ -710,6 +737,7 @@
         "minecraft:wolf_spawn_egg",
         "minecraft:zoglin_spawn_egg",
         "minecraft:zombie_horse_spawn_egg",
+        "minecraft:zombie_nautilus_spawn_egg",
         "minecraft:zombie_pigman_spawn_egg",
         "minecraft:zombie_spawn_egg",
         "minecraft:zombie_villager_spawn_egg"
@@ -730,6 +758,7 @@
         "minecraft:stone_hoe",
         "minecraft:stone_pickaxe",
         "minecraft:stone_shovel",
+        "minecraft:stone_spear",
         "minecraft:stone_sword"
     ],
     "minecraft:stone_tool_materials": [
@@ -749,9 +778,12 @@
         "minecraft:diamond_chestplate",
         "minecraft:diamond_helmet",
         "minecraft:diamond_hoe",
+        "minecraft:diamond_horse_armor",
         "minecraft:diamond_leggings",
+        "minecraft:diamond_nautilus_armor",
         "minecraft:diamond_pickaxe",
         "minecraft:diamond_shovel",
+        "minecraft:diamond_spear",
         "minecraft:diamond_sword",
         "minecraft:golden_boots"
     ],
@@ -878,6 +910,7 @@
         "minecraft:wooden_hoe",
         "minecraft:wooden_pickaxe",
         "minecraft:wooden_shovel",
+        "minecraft:wooden_spear",
         "minecraft:wooden_sword"
     ],
     "minecraft:wool": [

@@ -3403,6 +3403,34 @@
             }
         },
         "output": [
+            "minecraft:copper_spear"
+        ],
+        "priority": 0,
+        "shape": [
+            "  A",
+            " B ",
+            "B  "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
             "minecraft:copper_sword"
         ],
         "priority": 0,
@@ -5823,6 +5851,34 @@
             "A",
             "B",
             "B"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:diamond"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:diamond"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:diamond_spear"
+        ],
+        "priority": 0,
+        "shape": [
+            "  A",
+            " B ",
+            "B  "
         ],
         "unlockingIngredients": [
             {
@@ -8613,6 +8669,34 @@
             }
         },
         "output": [
+            "minecraft:golden_spear"
+        ],
+        "priority": 0,
+        "shape": [
+            "  A",
+            " B ",
+            "B  "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gold_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:gold_ingot"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
             "minecraft:golden_sword"
         ],
         "priority": 0,
@@ -10793,6 +10877,34 @@
             "A",
             "B",
             "B"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:iron_spear"
+        ],
+        "priority": 0,
+        "shape": [
+            "  A",
+            " B ",
+            "B  "
         ],
         "unlockingIngredients": [
             {
@@ -35690,6 +35802,33 @@
             }
         },
         "output": [
+            "minecraft:wooden_spear"
+        ],
+        "priority": 0,
+        "shape": [
+            "  A",
+            " B ",
+            "B  "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:planks"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
             "minecraft:wooden_sword"
         ],
         "priority": 0,
@@ -35980,6 +36119,32 @@
             "A",
             "B",
             "B"
+        ],
+        "unlockingIngredients": [
+            {
+                "tag": "minecraft:stone_tool_materials"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:stone_tool_materials"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            "minecraft:stone_spear"
+        ],
+        "priority": -1,
+        "shape": [
+            "  A",
+            " B ",
+            "B  "
         ],
         "unlockingIngredients": [
             {
