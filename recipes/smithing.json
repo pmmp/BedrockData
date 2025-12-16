@@ -87,9 +87,41 @@
         "block": "smithing_table",
         "input": {
             "meta": 32767,
+            "name": "minecraft:diamond_horse_armor"
+        },
+        "output": "minecraft:netherite_horse_armor",
+        "template": {
+            "meta": 32767,
+            "name": "minecraft:netherite_upgrade_smithing_template"
+        }
+    },
+    {
+        "addition": {
+            "meta": 32767,
+            "name": "minecraft:netherite_ingot"
+        },
+        "block": "smithing_table",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:diamond_leggings"
         },
         "output": "minecraft:netherite_leggings",
+        "template": {
+            "meta": 32767,
+            "name": "minecraft:netherite_upgrade_smithing_template"
+        }
+    },
+    {
+        "addition": {
+            "meta": 32767,
+            "name": "minecraft:netherite_ingot"
+        },
+        "block": "smithing_table",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:diamond_nautilus_armor"
+        },
+        "output": "minecraft:netherite_nautilus_armor",
         "template": {
             "meta": 32767,
             "name": "minecraft:netherite_upgrade_smithing_template"
@@ -122,6 +154,22 @@
             "name": "minecraft:diamond_shovel"
         },
         "output": "minecraft:netherite_shovel",
+        "template": {
+            "meta": 32767,
+            "name": "minecraft:netherite_upgrade_smithing_template"
+        }
+    },
+    {
+        "addition": {
+            "meta": 32767,
+            "name": "minecraft:netherite_ingot"
+        },
+        "block": "smithing_table",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:diamond_spear"
+        },
+        "output": "minecraft:netherite_spear",
         "template": {
             "meta": 32767,
             "name": "minecraft:netherite_upgrade_smithing_template"

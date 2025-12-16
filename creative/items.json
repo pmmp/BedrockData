@@ -1256,6 +1256,18 @@
             {
                 "name": "minecraft:enchanted_book",
                 "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQoAAIDAGx2bAQAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQpAAIDAGx2bAEAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQpAAIDAGx2bAIAAAA="
+            },
+            {
+                "name": "minecraft:enchanted_book",
+                "nbt": "CgAACQQAZW5jaAoBAAAAAgIAaWQpAAIDAGx2bAMAAAA="
             }
         ]
     },

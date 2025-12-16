@@ -43,6 +43,14 @@
         "block": "blast_furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:copper_nautilus_armor"
+        },
+        "output": "minecraft:copper_nugget"
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:copper_ore"
         },
         "output": "minecraft:copper_ingot"
@@ -60,6 +68,14 @@
         "input": {
             "meta": 32767,
             "name": "minecraft:copper_shovel"
+        },
+        "output": "minecraft:copper_nugget"
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:copper_spear"
         },
         "output": "minecraft:copper_nugget"
     },
@@ -187,6 +203,14 @@
         "block": "blast_furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:golden_nautilus_armor"
+        },
+        "output": "minecraft:gold_nugget"
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:golden_pickaxe"
         },
         "output": "minecraft:gold_nugget"
@@ -196,6 +220,14 @@
         "input": {
             "meta": 32767,
             "name": "minecraft:golden_shovel"
+        },
+        "output": "minecraft:gold_nugget"
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:golden_spear"
         },
         "output": "minecraft:gold_nugget"
     },
@@ -235,6 +267,14 @@
         "block": "blast_furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:iron_nautilus_armor"
+        },
+        "output": "minecraft:iron_nugget"
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:iron_ore"
         },
         "output": "minecraft:iron_ingot"
@@ -252,6 +292,14 @@
         "input": {
             "meta": 32767,
             "name": "minecraft:iron_shovel"
+        },
+        "output": "minecraft:iron_nugget"
+    },
+    {
+        "block": "blast_furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:iron_spear"
         },
         "output": "minecraft:iron_nugget"
     },
@@ -921,6 +969,14 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:copper_nautilus_armor"
+        },
+        "output": "minecraft:copper_nugget"
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:copper_ore"
         },
         "output": "minecraft:copper_ingot"
@@ -938,6 +994,14 @@
         "input": {
             "meta": 32767,
             "name": "minecraft:copper_shovel"
+        },
+        "output": "minecraft:copper_nugget"
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:copper_spear"
         },
         "output": "minecraft:copper_nugget"
     },
@@ -1119,6 +1183,14 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:golden_nautilus_armor"
+        },
+        "output": "minecraft:gold_nugget"
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:golden_pickaxe"
         },
         "output": "minecraft:gold_nugget"
@@ -1128,6 +1200,14 @@
         "input": {
             "meta": 32767,
             "name": "minecraft:golden_shovel"
+        },
+        "output": "minecraft:gold_nugget"
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:golden_spear"
         },
         "output": "minecraft:gold_nugget"
     },
@@ -1189,6 +1269,14 @@
         "block": "furnace",
         "input": {
             "meta": 32767,
+            "name": "minecraft:iron_nautilus_armor"
+        },
+        "output": "minecraft:iron_nugget"
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
             "name": "minecraft:iron_ore"
         },
         "output": "minecraft:iron_ingot"
@@ -1206,6 +1294,14 @@
         "input": {
             "meta": 32767,
             "name": "minecraft:iron_shovel"
+        },
+        "output": "minecraft:iron_nugget"
+    },
+    {
+        "block": "furnace",
+        "input": {
+            "meta": 32767,
+            "name": "minecraft:iron_spear"
         },
         "output": "minecraft:iron_nugget"
     },

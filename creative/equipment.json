@@ -65,6 +65,19 @@
         ]
     },
     {
+        "group_icon": "minecraft:wooden_spear",
+        "group_name": "itemGroup.name.spear",
+        "items": [
+            "minecraft:wooden_spear",
+            "minecraft:stone_spear",
+            "minecraft:copper_spear",
+            "minecraft:iron_spear",
+            "minecraft:golden_spear",
+            "minecraft:diamond_spear",
+            "minecraft:netherite_spear"
+        ]
+    },
+    {
         "group_icon": "minecraft:wooden_axe",
         "group_name": "itemGroup.name.axe",
         "items": [
@@ -502,14 +515,32 @@
             "minecraft:copper_horse_armor",
             "minecraft:iron_horse_armor",
             "minecraft:golden_horse_armor",
-            "minecraft:diamond_horse_armor"
+            "minecraft:diamond_horse_armor",
+            "minecraft:netherite_horse_armor"
         ]
     },
     {
         "group_icon": null,
         "group_name": "",
         "items": [
-            "minecraft:wolf_armor",
+            "minecraft:wolf_armor"
+        ]
+    },
+    {
+        "group_icon": "minecraft:copper_nautilus_armor",
+        "group_name": "itemGroup.name.nautilus_armor",
+        "items": [
+            "minecraft:copper_nautilus_armor",
+            "minecraft:iron_nautilus_armor",
+            "minecraft:golden_nautilus_armor",
+            "minecraft:diamond_nautilus_armor",
+            "minecraft:netherite_nautilus_armor"
+        ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
             "minecraft:turtle_helmet",
             "minecraft:elytra",
             "minecraft:totem_of_undying",
