@@ -1691,6 +1691,15 @@
         "hardness": 1.5,
         "opacity": 1.0
     },
+    "minecraft:chiseled_cinnabar": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
     "minecraft:chiseled_copper": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -1772,6 +1781,15 @@
         "hardness": 1.5,
         "opacity": 1.0
     },
+    "minecraft:chiseled_sulfur": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
     "minecraft:chiseled_tuff": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -1807,6 +1825,96 @@
         "friction": 0.6000000238418579,
         "hardness": 0.4000000059604645,
         "opacity": 1.0
+    },
+    "minecraft:cinnabar": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:cinnabar_brick_double_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:cinnabar_brick_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:cinnabar_brick_stairs": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:cinnabar_brick_wall": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:cinnabar_bricks": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:cinnabar_double_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:cinnabar_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:cinnabar_stairs": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:cinnabar_wall": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 0.19999998807907104
     },
     "minecraft:clay": {
         "blastResistance": 0.6000000238418579,
@@ -8333,6 +8441,51 @@
         "hardness": 2.0,
         "opacity": 0.19999998807907104
     },
+    "minecraft:polished_cinnabar": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:polished_cinnabar_double_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:polished_cinnabar_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:polished_cinnabar_stairs": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:polished_cinnabar_wall": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:polished_deepslate": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -8450,6 +8603,51 @@
         "hardness": 1.5,
         "opacity": 0.19999998807907104
     },
+    "minecraft:polished_sulfur": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:polished_sulfur_double_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:polished_sulfur_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:polished_sulfur_stairs": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:polished_sulfur_wall": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 0.19999998807907104
+    },
     "minecraft:polished_tuff": {
         "blastResistance": 6.0,
         "brightness": 0.0,
@@ -8521,6 +8719,15 @@
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
+    },
+    "minecraft:potent_sulfur": {
+        "blastResistance": 6.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
     },
     "minecraft:powder_snow": {
         "blastResistance": 0.25,
@@ -10267,6 +10474,96 @@
         "friction": 0.6000000238418579,
         "hardness": 0.0,
         "opacity": 0.0
+    },
+    "minecraft:sulfur": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:sulfur_brick_double_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:sulfur_brick_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:sulfur_brick_stairs": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:sulfur_brick_wall": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:sulfur_bricks": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:sulfur_double_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:sulfur_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 1.0
+    },
+    "minecraft:sulfur_stairs": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:sulfur_wall": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.5,
+        "opacity": 0.19999998807907104
     },
     "minecraft:sunflower": {
         "blastResistance": 0.0,
