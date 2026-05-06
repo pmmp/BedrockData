@@ -2310,5 +2310,12 @@
                 "name": "minecraft:sparkler"
             }
         ]
+    },
+    {
+        "group_icon": null,
+        "group_name": "",
+        "items": [
+            "minecraft:sulfur_cube_bucket"
+        ]
     }
 ]

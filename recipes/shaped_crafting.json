@@ -2609,6 +2609,194 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:cinnabar_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:cinnabar_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "count": 6,
+                "name": "minecraft:cinnabar_wall"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:cinnabar_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:cinnabar_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "count": 6,
+                "name": "minecraft:cinnabar_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:clay_ball"
             }
         },
@@ -15723,6 +15911,113 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:polished_cinnabar_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:polished_cinnabar_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "count": 6,
+                "name": "minecraft:polished_cinnabar_wall"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:polished_deepslate"
             }
         },
@@ -15878,6 +16173,113 @@
             {
                 "meta": 32767,
                 "name": "minecraft:polished_granite"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:polished_sulfur_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:polished_sulfur_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "count": 6,
+                "name": "minecraft:polished_sulfur_wall"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:sulfur_bricks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
             }
         ]
     },
@@ -21739,6 +22141,218 @@
             {
                 "meta": 32767,
                 "name": "minecraft:sugar_cane"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        },
+        "output": [
+            "minecraft:potent_sulfur"
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:sulfur_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:sulfur_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "count": 6,
+                "name": "minecraft:sulfur_wall"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        },
+        "output": [
+            {
+                "count": 4,
+                "name": "minecraft:polished_sulfur"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:sulfur_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 6,
+                "name": "minecraft:sulfur_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "count": 6,
+                "name": "minecraft:sulfur_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
             }
         ]
     },
@@ -35503,8 +36117,14 @@
         ],
         "unlockingIngredients": [
             {
+                "tag": "minecraft:coals"
+            },
+            {
                 "meta": 32767,
-                "name": "minecraft:stone_pickaxe"
+                "name": "minecraft:stick"
+            },
+            {
+                "tag": "minecraft:is_pickaxe"
             }
         ]
     },
