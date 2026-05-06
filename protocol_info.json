@@ -2,10 +2,10 @@
     "version": {
         "major": 1,
         "minor": 26,
-        "patch": 10,
-        "revision": 4,
+        "patch": 20,
+        "revision": 28,
         "beta": false,
-        "protocol_version": 944
+        "protocol_version": 975
     },
     "packets": {
         "LoginPacket": 1,
@@ -214,7 +214,7 @@
         "PlayerUpdateEntityOverridesPacket": 325,
         "PlayerLocationPacket": 326,
         "ClientboundControlSchemeSetPacket": 327,
-        "DebugDrawerPacket": 328,
+        "PrimitiveShapesPacket": 328,
         "ServerboundPackSettingChangePacket": 329,
         "ClientboundDataStorePacket": 330,
         "GraphicsOverrideParameterPacket": 331,
@@ -231,6 +231,8 @@
         "PartyChangedPacket": 342,
         "ServerboundDataDrivenScreenClosedPacket": 343,
         "SyncWorldClocksPacket": 344,
-        "ClientboundAttributeLayerSyncPacket": 345
+        "ClientboundAttributeLayerSyncPacket": 345,
+        "ServerStoreInfoPacket": 346,
+        "ServerPresenceInfoPacket": 347
     }
 }
