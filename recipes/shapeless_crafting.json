@@ -1,5 +1,1354 @@
 [
     {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:ancient_debris"
+            }
+        ],
+        "output": [
+            "minecraft:netherite_scrap"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:ancient_debris"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_boots"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_boots"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_chestplate"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_chestplate"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_helmet"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_helmet"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_leggings"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_leggings"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:coal_ore"
+            }
+        ],
+        "output": [
+            "minecraft:coal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:coal_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_axe"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_axe"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_boots"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_boots"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chestplate"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chestplate"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_helmet"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_helmet"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_hoe"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_hoe"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_horse_armor"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_horse_armor"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_leggings"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_leggings"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_nautilus_armor"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_nautilus_armor"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ore"
+            }
+        ],
+        "output": [
+            "minecraft:copper_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_pickaxe"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_pickaxe"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_shovel"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_shovel"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_spear"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_spear"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_sword"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_sword"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_coal_ore"
+            }
+        ],
+        "output": [
+            "minecraft:coal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_coal_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_copper_ore"
+            }
+        ],
+        "output": [
+            "minecraft:copper_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_copper_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_diamond_ore"
+            }
+        ],
+        "output": [
+            "minecraft:diamond"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_diamond_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_emerald_ore"
+            }
+        ],
+        "output": [
+            "minecraft:emerald"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_emerald_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_gold_ore"
+            }
+        ],
+        "output": [
+            "minecraft:gold_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_gold_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_iron_ore"
+            }
+        ],
+        "output": [
+            "minecraft:iron_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_iron_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_lapis_ore"
+            }
+        ],
+        "output": [
+            "minecraft:lapis_lazuli"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_lapis_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_redstone_ore"
+            }
+        ],
+        "output": [
+            "minecraft:redstone"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_redstone_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:diamond_ore"
+            }
+        ],
+        "output": [
+            "minecraft:diamond"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:diamond_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:emerald_ore"
+            }
+        ],
+        "output": [
+            "minecraft:emerald"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:emerald_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gold_ore"
+            }
+        ],
+        "output": [
+            "minecraft:gold_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gold_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_axe"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_axe"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_boots"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_boots"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_chestplate"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_chestplate"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_helmet"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_helmet"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_hoe"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_hoe"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_horse_armor"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_horse_armor"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_leggings"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_leggings"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_nautilus_armor"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_nautilus_armor"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_pickaxe"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_pickaxe"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_shovel"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_shovel"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_spear"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_spear"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_sword"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_sword"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_axe"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_axe"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_boots"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_boots"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_chestplate"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_chestplate"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_helmet"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_helmet"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_hoe"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_hoe"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_horse_armor"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_horse_armor"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_leggings"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_leggings"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_nautilus_armor"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_nautilus_armor"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ore"
+            }
+        ],
+        "output": [
+            "minecraft:iron_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_pickaxe"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_pickaxe"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_shovel"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_shovel"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_spear"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_spear"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_sword"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_sword"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_ore"
+            }
+        ],
+        "output": [
+            "minecraft:lapis_lazuli"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:nether_gold_ore"
+            }
+        ],
+        "output": [
+            "minecraft:gold_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:nether_gold_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:quartz_ore"
+            }
+        ],
+        "output": [
+            "minecraft:quartz"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:quartz_ore"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:raw_copper"
+            }
+        ],
+        "output": [
+            "minecraft:copper_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:raw_copper"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:raw_gold"
+            }
+        ],
+        "output": [
+            "minecraft:gold_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:raw_gold"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:raw_iron"
+            }
+        ],
+        "output": [
+            "minecraft:iron_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:raw_iron"
+            }
+        ]
+    },
+    {
+        "block": "blast_furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:redstone_ore"
+            }
+        ],
+        "output": [
+            "minecraft:redstone"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:redstone_ore"
+            }
+        ]
+    },
+    {
+        "block": "campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:beef"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_beef"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:beef"
+            }
+        ]
+    },
+    {
+        "block": "campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chicken"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_chicken"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chicken"
+            }
+        ]
+    },
+    {
+        "block": "campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cod"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_cod"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cod"
+            }
+        ]
+    },
+    {
+        "block": "campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:kelp"
+            }
+        ],
+        "output": [
+            "minecraft:dried_kelp"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:kelp"
+            }
+        ]
+    },
+    {
+        "block": "campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mutton"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_mutton"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mutton"
+            }
+        ]
+    },
+    {
+        "block": "campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:porkchop"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_porkchop"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:porkchop"
+            }
+        ]
+    },
+    {
+        "block": "campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:potato"
+            }
+        ],
+        "output": [
+            "minecraft:baked_potato"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:potato"
+            }
+        ]
+    },
+    {
+        "block": "campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:rabbit"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_rabbit"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:rabbit"
+            }
+        ]
+    },
+    {
+        "block": "campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:salmon"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_salmon"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:salmon"
+            }
+        ]
+    },
+    {
         "block": "cartography_table",
         "input": [
             {
@@ -19448,6 +20797,240 @@
         "block": "deprecated",
         "input": [
             {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:acacia_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:acacia_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:birch_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:birch_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:dark_oak_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:dark_oak_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:jungle_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:jungle_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:oak_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:oak_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:spruce_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:spruce_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:stripped_acacia_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:stripped_birch_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:stripped_dark_oak_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:stripped_jungle_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:stripped_oak_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:stripped_spruce_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0
+    },
+    {
+        "block": "deprecated",
+        "input": [
+            {
                 "meta": 32767,
                 "name": "minecraft:string"
             }
@@ -19456,6 +21039,2912 @@
             "minecraft:string"
         ],
         "priority": 0
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:quartz_block"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:smooth_quartz"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:quartz_block"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:acacia_leaves"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:leaf_litter"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:acacia_leaves"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:ancient_debris"
+            }
+        ],
+        "output": [
+            "minecraft:netherite_scrap"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:ancient_debris"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:azalea_leaves"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:leaf_litter"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:azalea_leaves"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:azalea_leaves_flowered"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:leaf_litter"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:azalea_leaves_flowered"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:basalt"
+            }
+        ],
+        "output": [
+            "minecraft:smooth_basalt"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:basalt"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:beef"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_beef"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:beef"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:birch_leaves"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:leaf_litter"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:birch_leaves"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:black_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:black_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:black_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:blue_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:blue_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:blue_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:brown_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cactus"
+            }
+        ],
+        "output": [
+            "minecraft:green_dye"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cactus"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_boots"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_boots"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_chestplate"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_chestplate"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_helmet"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_helmet"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_leggings"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chainmail_leggings"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cherry_leaves"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:leaf_litter"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cherry_leaves"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chicken"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_chicken"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chicken"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chorus_fruit"
+            }
+        ],
+        "output": [
+            "minecraft:popped_chorus_fruit"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chorus_fruit"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:clay"
+            }
+        ],
+        "output": [
+            "minecraft:hardened_clay"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:clay"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:clay_ball"
+            }
+        ],
+        "output": [
+            "minecraft:brick"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:clay_ball"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:coal_ore"
+            }
+        ],
+        "output": [
+            "minecraft:coal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:coal_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobbled_deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:cobbled_deepslate"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ],
+        "output": [
+            "minecraft:stone"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cod"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_cod"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cod"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_axe"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_axe"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_boots"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_boots"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chestplate"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chestplate"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_helmet"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_helmet"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_hoe"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_hoe"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_horse_armor"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_horse_armor"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_leggings"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_leggings"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_nautilus_armor"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_nautilus_armor"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ore"
+            }
+        ],
+        "output": [
+            "minecraft:copper_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_pickaxe"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_pickaxe"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_shovel"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_shovel"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_spear"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_spear"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_sword"
+            }
+        ],
+        "output": [
+            "minecraft:copper_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_sword"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cyan_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:cyan_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cyan_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_leaves"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:leaf_litter"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:dark_oak_leaves"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_bricks"
+            }
+        ],
+        "output": [
+            "minecraft:cracked_deepslate_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_bricks"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_coal_ore"
+            }
+        ],
+        "output": [
+            "minecraft:coal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_coal_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_copper_ore"
+            }
+        ],
+        "output": [
+            "minecraft:copper_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_copper_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_diamond_ore"
+            }
+        ],
+        "output": [
+            "minecraft:diamond"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_diamond_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_emerald_ore"
+            }
+        ],
+        "output": [
+            "minecraft:emerald"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_emerald_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_gold_ore"
+            }
+        ],
+        "output": [
+            "minecraft:gold_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_gold_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_iron_ore"
+            }
+        ],
+        "output": [
+            "minecraft:iron_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_iron_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_lapis_ore"
+            }
+        ],
+        "output": [
+            "minecraft:lapis_lazuli"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_lapis_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_redstone_ore"
+            }
+        ],
+        "output": [
+            "minecraft:redstone"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_redstone_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_tiles"
+            }
+        ],
+        "output": [
+            "minecraft:cracked_deepslate_tiles"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate_tiles"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:diamond_ore"
+            }
+        ],
+        "output": [
+            "minecraft:diamond"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:diamond_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:emerald_ore"
+            }
+        ],
+        "output": [
+            "minecraft:emerald"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:emerald_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gold_ore"
+            }
+        ],
+        "output": [
+            "minecraft:gold_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gold_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_axe"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_axe"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_boots"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_boots"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_chestplate"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_chestplate"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_helmet"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_helmet"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_hoe"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_hoe"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_horse_armor"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_horse_armor"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_leggings"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_leggings"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_nautilus_armor"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_nautilus_armor"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_pickaxe"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_pickaxe"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_shovel"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_shovel"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_spear"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_spear"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_sword"
+            }
+        ],
+        "output": [
+            "minecraft:gold_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:golden_sword"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gray_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:gray_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gray_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:green_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:green_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:green_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_axe"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_axe"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_boots"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_boots"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_chestplate"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_chestplate"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_helmet"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_helmet"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_hoe"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_hoe"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_horse_armor"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_horse_armor"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_leggings"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_leggings"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_nautilus_armor"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_nautilus_armor"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ore"
+            }
+        ],
+        "output": [
+            "minecraft:iron_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_pickaxe"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_pickaxe"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_shovel"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_shovel"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_spear"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_spear"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_sword"
+            }
+        ],
+        "output": [
+            "minecraft:iron_nugget"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:iron_sword"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:jungle_leaves"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:leaf_litter"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:jungle_leaves"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:kelp"
+            }
+        ],
+        "output": [
+            "minecraft:dried_kelp"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:kelp"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_ore"
+            }
+        ],
+        "output": [
+            "minecraft:lapis_lazuli"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lapis_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:light_blue_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:light_blue_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:light_blue_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:light_gray_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:silver_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:light_gray_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lime_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:lime_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lime_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:magenta_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:magenta_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:magenta_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mangrove_leaves"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:leaf_litter"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mangrove_leaves"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mangrove_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mangrove_log"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mangrove_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mangrove_wood"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mutton"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_mutton"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mutton"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:nether_brick"
+            }
+        ],
+        "output": [
+            "minecraft:cracked_nether_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:nether_brick"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:nether_gold_ore"
+            }
+        ],
+        "output": [
+            "minecraft:gold_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:nether_gold_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:netherrack"
+            }
+        ],
+        "output": [
+            "minecraft:netherbrick"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:netherrack"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oak_leaves"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:leaf_litter"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oak_leaves"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:orange_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:orange_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:orange_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_leaves"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:leaf_litter"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pale_oak_leaves"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pink_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:pink_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:pink_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_blackstone_bricks"
+            }
+        ],
+        "output": [
+            "minecraft:cracked_polished_blackstone_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_blackstone_bricks"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:porkchop"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_porkchop"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:porkchop"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:potato"
+            }
+        ],
+        "output": [
+            "minecraft:baked_potato"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:potato"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:purple_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:purple_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:purple_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:quartz_ore"
+            }
+        ],
+        "output": [
+            "minecraft:quartz"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:quartz_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:rabbit"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_rabbit"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:rabbit"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:raw_copper"
+            }
+        ],
+        "output": [
+            "minecraft:copper_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:raw_copper"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:raw_gold"
+            }
+        ],
+        "output": [
+            "minecraft:gold_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:raw_gold"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:raw_iron"
+            }
+        ],
+        "output": [
+            "minecraft:iron_ingot"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:raw_iron"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:red_sand"
+            }
+        ],
+        "output": [
+            "minecraft:glass"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:red_sand"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:red_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:red_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:red_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:redstone_ore"
+            }
+        ],
+        "output": [
+            "minecraft:redstone"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:redstone_ore"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_clump"
+            }
+        ],
+        "output": [
+            "minecraft:resin_brick"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_clump"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:salmon"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_salmon"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:salmon"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sea_pickle"
+            }
+        ],
+        "output": [
+            "minecraft:lime_dye"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sea_pickle"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:spruce_leaves"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAwYAZ3Jvd3RoAAAAAAgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAA==",
+                "name": "minecraft:leaf_litter"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:spruce_leaves"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stone_bricks"
+            }
+        ],
+        "output": [
+            "minecraft:cracked_stone_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stone_bricks"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_acacia_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_acacia_log"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_birch_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_birch_log"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_dark_oak_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_dark_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_jungle_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_jungle_log"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_mangrove_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_mangrove_log"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_mangrove_wood"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_mangrove_wood"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_oak_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_oak_log"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_spruce_log"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stripped_spruce_log"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:wet_sponge"
+            }
+        ],
+        "output": [
+            "minecraft:sponge"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:sponge"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:white_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:white_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:yellow_terracotta"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
+                "name": "minecraft:yellow_glazed_terracotta"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:yellow_terracotta"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "name": "minecraft:red_sandstone"
+            }
+        ],
+        "output": [
+            "minecraft:smooth_red_sandstone"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:red_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "name": "minecraft:sand"
+            }
+        ],
+        "output": [
+            "minecraft:glass"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:sand"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "name": "minecraft:sandstone"
+            }
+        ],
+        "output": [
+            "minecraft:smooth_sandstone"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:sandstone"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "name": "minecraft:stone"
+            }
+        ],
+        "output": [
+            "minecraft:smooth_stone"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:stone"
+            }
+        ]
+    },
+    {
+        "block": "furnace",
+        "input": [
+            {
+                "tag": "minecraft:logs_that_burn"
+            }
+        ],
+        "output": [
+            "minecraft:charcoal"
+        ],
+        "priority": -1,
+        "unlockingIngredients": [
+            {
+                "tag": "minecraft:logs_that_burn"
+            }
+        ]
+    },
+    {
+        "block": "smoker",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:beef"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_beef"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:beef"
+            }
+        ]
+    },
+    {
+        "block": "smoker",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chicken"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_chicken"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chicken"
+            }
+        ]
+    },
+    {
+        "block": "smoker",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cod"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_cod"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cod"
+            }
+        ]
+    },
+    {
+        "block": "smoker",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:kelp"
+            }
+        ],
+        "output": [
+            "minecraft:dried_kelp"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:kelp"
+            }
+        ]
+    },
+    {
+        "block": "smoker",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mutton"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_mutton"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mutton"
+            }
+        ]
+    },
+    {
+        "block": "smoker",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:porkchop"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_porkchop"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:porkchop"
+            }
+        ]
+    },
+    {
+        "block": "smoker",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:potato"
+            }
+        ],
+        "output": [
+            "minecraft:baked_potato"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:potato"
+            }
+        ]
+    },
+    {
+        "block": "smoker",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:rabbit"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_rabbit"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:rabbit"
+            }
+        ]
+    },
+    {
+        "block": "smoker",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:salmon"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_salmon"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:salmon"
+            }
+        ]
+    },
+    {
+        "block": "soul_campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:beef"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_beef"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:beef"
+            }
+        ]
+    },
+    {
+        "block": "soul_campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chicken"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_chicken"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:chicken"
+            }
+        ]
+    },
+    {
+        "block": "soul_campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cod"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_cod"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cod"
+            }
+        ]
+    },
+    {
+        "block": "soul_campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:kelp"
+            }
+        ],
+        "output": [
+            "minecraft:dried_kelp"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:kelp"
+            }
+        ]
+    },
+    {
+        "block": "soul_campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mutton"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_mutton"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:mutton"
+            }
+        ]
+    },
+    {
+        "block": "soul_campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:porkchop"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_porkchop"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:porkchop"
+            }
+        ]
+    },
+    {
+        "block": "soul_campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:potato"
+            }
+        ],
+        "output": [
+            "minecraft:baked_potato"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:potato"
+            }
+        ]
+    },
+    {
+        "block": "soul_campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:rabbit"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_rabbit"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:rabbit"
+            }
+        ]
+    },
+    {
+        "block": "soul_campfire",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:salmon"
+            }
+        ],
+        "output": [
+            "minecraft:cooked_salmon"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:salmon"
+            }
+        ]
     },
     {
         "block": "stonecutter",
@@ -20085,6 +24574,350 @@
             {
                 "meta": 32767,
                 "name": "minecraft:brick_block"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_cinnabar"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ],
+        "output": [
+            "minecraft:cinnabar_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ],
+        "output": [
+            "minecraft:polished_cinnabar"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:cinnabar_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:cinnabar_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:polished_cinnabar_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:cinnabar_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:cinnabar_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:polished_cinnabar_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:cinnabar_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:cinnabar_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:polished_cinnabar_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_cinnabar"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:cinnabar_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:cinnabar_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:cinnabar_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_bricks"
             }
         ]
     },
@@ -22104,6 +26937,178 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_cinnabar"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ],
+        "output": [
+            "minecraft:cinnabar_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:cinnabar_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:polished_cinnabar_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:cinnabar_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:polished_cinnabar_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:cinnabar_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:polished_cinnabar_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_cinnabar"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:polished_diorite"
             }
         ],
@@ -22186,6 +27191,178 @@
             {
                 "meta": 32767,
                 "name": "minecraft:polished_granite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_sulfur"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ],
+        "output": [
+            "minecraft:sulfur_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:polished_sulfur_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:sulfur_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:polished_sulfur_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:sulfur_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:polished_sulfur_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:sulfur_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_sulfur"
             }
         ]
     },
@@ -22756,6 +27933,350 @@
             {
                 "meta": 32767,
                 "name": "minecraft:stone_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_sulfur"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ],
+        "output": [
+            "minecraft:polished_sulfur"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ],
+        "output": [
+            "minecraft:sulfur_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:polished_sulfur_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:sulfur_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:sulfur_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:polished_sulfur_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:sulfur_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:sulfur_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:polished_sulfur_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:sulfur_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:sulfur_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_sulfur"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:sulfur_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:sulfur_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:sulfur_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_bricks"
             }
         ]
     },

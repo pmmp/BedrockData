@@ -1868,6 +1868,27 @@
         ],
         "temperature": 1
     },
+    "minecraft:sulfur_caves": {
+        "depth": 0.1,
+        "downfall": 0.4,
+        "foliageSnow": 0,
+        "id": 65535,
+        "mapWaterColour": {
+            "a": 166,
+            "b": 255,
+            "g": 183,
+            "r": 96
+        },
+        "rain": true,
+        "scale": 0.2,
+        "tags": [
+            "caves",
+            "sulfur_caves",
+            "overworld",
+            "monster"
+        ],
+        "temperature": 0.8
+    },
     "minecraft:sunflower_plains": {
         "depth": 0.125,
         "downfall": 0.4,
