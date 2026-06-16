@@ -24844,25 +24844,6 @@
             }
         ],
         "output": [
-            "minecraft:chiseled_cinnabar"
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:cinnabar_bricks"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:cinnabar_bricks"
-            }
-        ],
-        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:cinnabar_brick_stairs"
@@ -26941,25 +26922,6 @@
             }
         ],
         "output": [
-            "minecraft:chiseled_cinnabar"
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:polished_cinnabar"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:polished_cinnabar"
-            }
-        ],
-        "output": [
             "minecraft:cinnabar_bricks"
         ],
         "priority": 0,
@@ -27191,25 +27153,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:polished_granite"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:polished_sulfur"
-            }
-        ],
-        "output": [
-            "minecraft:chiseled_sulfur"
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:polished_sulfur"
             }
         ]
     },
@@ -28191,25 +28134,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:sulfur"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:sulfur_bricks"
-            }
-        ],
-        "output": [
-            "minecraft:chiseled_sulfur"
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:sulfur_bricks"
             }
         ]
     },

@@ -537,7 +537,8 @@
             "minecraft:music_disc_creator_music_box",
             "minecraft:music_disc_precipice",
             "minecraft:music_disc_tears",
-            "minecraft:music_disc_lava_chicken"
+            "minecraft:music_disc_lava_chicken",
+            "minecraft:music_disc_bounce"
         ]
     },
     {
@@ -607,7 +608,8 @@
             "minecraft:pufferfish_bucket",
             "minecraft:powder_snow_bucket",
             "minecraft:axolotl_bucket",
-            "minecraft:tadpole_bucket"
+            "minecraft:tadpole_bucket",
+            "minecraft:sulfur_cube_bucket"
         ]
     },
     {
@@ -2309,13 +2311,6 @@
                 "meta": 1,
                 "name": "minecraft:sparkler"
             }
-        ]
-    },
-    {
-        "group_icon": null,
-        "group_name": "",
-        "items": [
-            "minecraft:sulfur_cube_bucket"
         ]
     }
 ]

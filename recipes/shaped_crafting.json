@@ -2797,6 +2797,29 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:cinnabar_slab"
+            }
+        },
+        "output": [
+            "minecraft:chiseled_cinnabar"
+        ],
+        "priority": 1,
+        "shape": [
+            "A",
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cinnabar_slab"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:clay_ball"
             }
         },
@@ -14513,7 +14536,7 @@
         "output": [
             "minecraft:crafting_table"
         ],
-        "priority": -1,
+        "priority": 1,
         "shape": [
             "AA",
             "AA"
@@ -22153,12 +22176,16 @@
             }
         },
         "output": [
-            "minecraft:potent_sulfur"
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:sulfur_stairs"
+            }
         ],
         "priority": 0,
         "shape": [
-            "AAA",
-            "AAA",
+            "A  ",
+            "AA ",
             "AAA"
         ],
         "unlockingIngredients": [
@@ -22178,15 +22205,14 @@
         },
         "output": [
             {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:sulfur_stairs"
+                "block_states": "CgAACBMAcG90ZW50X3N1bGZ1cl9zdGF0ZQMAZHJ5AA==",
+                "name": "minecraft:potent_sulfur"
             }
         ],
         "priority": 0,
         "shape": [
-            "A  ",
-            "AA ",
+            "AAA",
+            "AAA",
             "AAA"
         ],
         "unlockingIngredients": [
@@ -22353,6 +22379,52 @@
             {
                 "meta": 32767,
                 "name": "minecraft:sulfur_bricks"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:sulfur_slab"
+            }
+        },
+        "output": [
+            "minecraft:chiseled_sulfur"
+        ],
+        "priority": 1,
+        "shape": [
+            "A",
+            "A"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_slab"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:sulfur_spike"
+            }
+        },
+        "output": [
+            "minecraft:sulfur"
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:sulfur_spike"
             }
         ]
     },
