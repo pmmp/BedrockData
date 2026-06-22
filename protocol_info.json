@@ -2,10 +2,10 @@
     "version": {
         "major": 1,
         "minor": 26,
-        "patch": 20,
-        "revision": 28,
+        "patch": 30,
+        "revision": 31,
         "beta": false,
-        "protocol_version": 975
+        "protocol_version": 1001
     },
     "packets": {
         "LoginPacket": 1,
@@ -233,6 +233,9 @@
         "SyncWorldClocksPacket": 344,
         "ClientboundAttributeLayerSyncPacket": 345,
         "ServerStoreInfoPacket": 346,
-        "ServerPresenceInfoPacket": 347
+        "ServerPresenceInfoPacket": 347,
+        "ClientboundUpdateSoundDataPacket": 348,
+        "SendPartyDestinationCookiePacket": 349,
+        "PartyDestinationCookieResponsePacket": 350
     }
 }

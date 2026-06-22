@@ -78,7 +78,15 @@
                 "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:polished_basalt"
             },
-            "minecraft:smooth_basalt"
+            "minecraft:smooth_basalt",
+            "minecraft:cinnabar",
+            "minecraft:polished_cinnabar",
+            "minecraft:sulfur",
+            "minecraft:polished_sulfur",
+            {
+                "block_states": "CgAACBMAcG90ZW50X3N1bGZ1cl9zdGF0ZQMAZHJ5AA==",
+                "name": "minecraft:potent_sulfur"
+            }
         ]
     },
     {
@@ -711,7 +719,11 @@
                 "block_states": "CgAACBQAbWluZWNyYWZ0OmJsb2NrX2ZhY2UCAHVwAA==",
                 "name": "minecraft:small_amethyst_bud"
             },
-            "minecraft:calcite"
+            "minecraft:calcite",
+            {
+                "block_states": "CgAACBMAZHJpcHN0b25lX3RoaWNrbmVzcwMAdGlwAQcAaGFuZ2luZwEA",
+                "name": "minecraft:sulfur_spike"
+            }
         ]
     },
     {
@@ -899,6 +911,7 @@
             "minecraft:phantom_spawn_egg",
             "minecraft:silverfish_spawn_egg",
             "minecraft:slime_spawn_egg",
+            "minecraft:sulfur_cube_spawn_egg",
             "minecraft:warden_spawn_egg",
             "minecraft:witch_spawn_egg",
             "minecraft:evoker_spawn_egg",
@@ -919,8 +932,7 @@
             "minecraft:zombie_pigman_spawn_egg",
             "minecraft:enderman_spawn_egg",
             "minecraft:endermite_spawn_egg",
-            "minecraft:shulker_spawn_egg",
-            "minecraft:sulfur_cube_spawn_egg"
+            "minecraft:shulker_spawn_egg"
         ]
     },
     {
@@ -996,21 +1008,6 @@
         "group_name": "",
         "items": [
             "minecraft:reinforced_deepslate"
-        ]
-    },
-    {
-        "group_icon": null,
-        "group_name": "",
-        "items": [
-            "minecraft:sulfur",
-            "minecraft:polished_sulfur",
-            "minecraft:chiseled_sulfur",
-            "minecraft:sulfur_bricks",
-            "minecraft:potent_sulfur",
-            "minecraft:cinnabar",
-            "minecraft:polished_cinnabar",
-            "minecraft:chiseled_cinnabar",
-            "minecraft:cinnabar_bricks"
         ]
     }
 ]
